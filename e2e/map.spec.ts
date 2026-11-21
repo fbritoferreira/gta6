@@ -103,3 +103,15 @@ test("keyboard users can reach on-screen locations through the In view list", as
   // Focus moved into the popup, onto its first action.
   await expect(page.locator(".leaflet-popup-content .pop-actions :focus")).toHaveCount(1);
 });
+
+test("each location has a static page for search engines, listed in the sitemap", async ({ page, request }) => {
+  const sitemap = await (await request.get("./sitemap.xml")).text();
+  expect(sitemap).toContain("/l/hidden-package-001/</loc>");
+  expect(await (await request.get("./robots.txt")).text()).toContain("Sitemap: ");
+
+  await page.goto("./l/hidden-package-001/");
+  await expect(page).toHaveTitle(/Marquise Bernard, Key Lento/);
+  await expect(page.locator('link[rel="canonical"]')).toHaveAttribute("href", /\/l\/hidden-package-001\/$/);
+  await page.getByRole("link", { name: "Open on the map" }).click();
+  await expect(page.locator(".leaflet-popup-content h3")).toContainText("Marquise Bernard");
+});
