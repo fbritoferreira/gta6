@@ -66,6 +66,16 @@ export function validateData(root: string): string[] {
     locations.flatMap((l) => (l.screenshot && !existsSync(join(root, l.screenshot)) ? [l.screenshot] : [])),
   );
 
+  // Files nothing points at are dead weight on every clone and in assets.json.
+  const shown = new Set(locations.map((l) => l.screenshot));
+  report(
+    "Screenshot files no location uses",
+    readdirSync(join(root, "screenshots"))
+      .filter((f) => !f.startsWith("."))
+      .map((f) => `screenshots/${f}`)
+      .filter((f) => !shown.has(f)),
+  );
+
   // A leading "/" resolves from the domain root, so the image breaks on GitHub Pages (served under /<repo>/).
   report(
     "Screenshots not written as screenshots/<file> (no leading /)",
