@@ -18,7 +18,8 @@
     "districts": "node scripts/build-districts.ts",
     "test": "vitest run",
     "test:watch": "vitest",
-    "export:wiki": "node scripts/export-wiki.ts"
+    "export:wiki": "node scripts/export-wiki.ts",
+    "test:e2e": "playwright test"
   },
   "dependencies": {
     "@solidjs/web": "2.0.3",
@@ -28,6 +29,7 @@
   "devDependencies": {
     "@babel/core": "8.1.2",
     "@eslint/js": "10.0.1",
+    "@playwright/test": "1.64.1",
     "@solidjs/babel-plugin": "2.0.2",
     "@solidjs/vite-plugin": "3.0.1",
     "@types/d3-delaunay": "6.0.4",

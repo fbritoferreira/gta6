@@ -20,7 +20,9 @@ export function MapView() {
       openPanel: () => app.setPanelOpen(true),
     }).then((map) => {
       app.setMap(() => map);
-      if (app.init.id) app.focus(app.init.id);
+      el.dataset.ready = ""; // lets tests (and anything else) wait until pins and handlers exist
+      const pending = app.takePendingFocus();
+      if (pending) app.focus(pending, map);
     });
   });
 
