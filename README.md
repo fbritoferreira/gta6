@@ -27,7 +27,8 @@ map" link. Only locations with a description or screenshot, and places with a re
 
 The map keeps working with no signal. After one visit, `public/sw.js` (a service worker) answers from the browser's
 cache when the network doesn't: the page and data are fetched fresh when online, and tiles, pins and screenshots are
-kept once viewed. Areas you have never zoomed into stay blank offline. It only runs in the built site, not in
+kept once viewed (shown from the cache, then refreshed in the background, so a replaced screenshot shows
+on the next visit). Areas you have never zoomed into stay blank offline. It only runs in the built site, not in
 `pnpm dev`.
 
 "Found" progress is kept in the browser. **Share progress** copies a link (`?progress=...`, about 300 characters) that
