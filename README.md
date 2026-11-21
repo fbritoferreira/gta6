@@ -51,7 +51,20 @@ reading `Location: [[District]]`, and one shared map image.
   `File:Leonida-GTAVI-Map.jpg`
 
 `scripts/export-wiki.ts` builds them; Places (shops, food, transport) are left out, as the wiki maps only collectibles
-and activities.
+and activities. `Map:GTA VI: 100% Completion` combines the completion items into one map with a layer each.
+
+After every deploy to `main`, `scripts/sync-wiki.ts` (`pnpm sync:wiki`) logs in to the
+[MediaWiki API](https://www.mediawiki.org/wiki/API:Main_page) with a bot password and edits only the map pages and
+image that changed. To enable it:
+
+1. On gta.wiki, open [Special:BotPasswords](https://gta.wiki/w/Special:BotPasswords), create a bot (for example
+   `map-sync`) with the grants "Edit existing pages", "Create, edit, and move pages", "Upload new files" and "Upload,
+   replace, and move files".
+2. Save the login and password as repository secrets: `gh secret set WIKI_BOT_USER` (for example
+   `Fbritoferreira@map-sync`) and `gh secret set WIKI_BOT_PASSWORD`.
+
+Without the secrets the step skips. `WIKI_DRY_RUN=1 pnpm sync:wiki` (after `pnpm build`) shows what it would change
+without logging in.
 
 ## Embed the map
 

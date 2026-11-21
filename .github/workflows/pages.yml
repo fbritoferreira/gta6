@@ -54,6 +54,15 @@ jobs:
           clean-exclude: pr-preview/
           force: false
 
+      # Push changed Map:GTA VI pages and the map image to gta.wiki (scripts/sync-wiki.ts).
+      # Skips itself until the WIKI_BOT_USER / WIKI_BOT_PASSWORD secrets exist.
+      - name: Sync gta.wiki maps
+        if: github.event_name == 'push'
+        run: pnpm sync:wiki
+        env:
+          WIKI_BOT_USER: ${{ secrets.WIKI_BOT_USER }}
+          WIKI_BOT_PASSWORD: ${{ secrets.WIKI_BOT_PASSWORD }}
+
       # GitHub only reads .nojekyll at the site root (deployed from main). The preview action
       # removes a closed PR's folder but skips dotfiles, so a copy here would be left behind.
       - name: Drop .nojekyll from the preview
