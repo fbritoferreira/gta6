@@ -196,7 +196,9 @@ Corrections and new locations are welcome as pull requests.
   You only sign once.
 - Add or fix entries in the JSON under `public/data/`. Keep `id` unique across `locations.json` and `places.json`, use
   map units for `x`/`y`, and use a `kind` listed in `categories.json`.
-- To add a screenshot, put it in `public/screenshots/` named after the location's `id` (`.webp` preferred) and set
+- No Git needed for screenshots: on the map, open the pin and choose **Add a screenshot** (or **Replace screenshot**).
+  It opens an issue with the location filled in; drag your image into it.
+- To add a screenshot yourself, put it in `public/screenshots/` named after the location's `id` (`.webp` preferred) and set
   `screenshot` to its path.
 - To add a pin, put a 56×64 `.webp` in `public/icons/pins/` named after the location type and add the name to
   `index.json`.

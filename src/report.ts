@@ -25,3 +25,14 @@ export function missingLocationUrl(x: number, y: number, district?: string) {
 export function wrongLocationUrl(it: Pick<Item, "id" | "name">) {
   return issueUrl({ template: "wrong-location.yml", title: `Wrong: ${it.name}`, "location-id": it.id, name: it.name });
 }
+
+/** Opens the screenshot form, set to add one or replace the current one. */
+export function screenshotUrl(it: Pick<Item, "id" | "name" | "screenshot">) {
+  return issueUrl({
+    template: "screenshot.yml",
+    title: `Screenshot: ${it.name}`,
+    "location-id": it.id,
+    name: it.name,
+    action: it.screenshot ? "Replace the current one" : "Add (it has no screenshot)",
+  });
+}
