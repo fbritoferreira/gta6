@@ -1,3 +1,4 @@
+import { districtAt } from "./geo";
 export type Kind = { key: string; name: string; colour: string; icon: string; group: string; pinnable: boolean };
 export type Item = {
   id: string;
@@ -13,6 +14,8 @@ export type Item = {
   screenshot?: string | null;
   /** Pin image slug in icons/pins/, or null to draw the category badge. */
   pin: string | null;
+  /** The district whose outline contains it (data/districts.json), if any. */
+  district?: string;
 };
 export type District = { name: string; x: number; y: number; rings: [number, number][][] };
 
@@ -88,7 +91,11 @@ export async function loadData() {
   const pinNames = new Set(pinList);
   const known = [...locations, ...places].filter((it) => catBy[it.kind]);
   const usual = usualKinds(known);
-  const items: Item[] = known.map((it) => ({ ...it, pin: pinFor(it, pinNames, usual) }));
+  const items: Item[] = known.map((it) => ({
+    ...it,
+    pin: pinFor(it, pinNames, usual),
+    district: districtAt(it.x, it.y, districts),
+  }));
 
   const counts: Record<string, number> = {};
   const tally: Record<string, Record<string, number>> = {};

@@ -1,4 +1,4 @@
-import { For } from "solid-js";
+import { For, Show } from "solid-js";
 import type { Style } from "../url";
 import { useApp } from "../state";
 import { copy } from "../copy";
@@ -29,6 +29,18 @@ export function MapOptions() {
           )}
         </For>
       </div>
+      <Show when={app.district()}>
+        {(name) => (
+          <button
+            class="chip chip-on"
+            type="button"
+            aria-label={`Showing only ${name()}. Show all districts`}
+            onClick={app.allDistricts}
+          >
+            Only {name()} <span aria-hidden="true">×</span>
+          </button>
+        )}
+      </Show>
       <Chip label="Districts" checked={app.labels()} onChange={app.setLabels} />
       <Chip label="Hide found" checked={app.hideFound()} onChange={app.setHideFound} />
       <button

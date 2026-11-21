@@ -2,7 +2,7 @@
 // README has the parameter table; keep the two in step.
 
 export type Style = "night" | "day";
-export type Filters = { style: Style; kinds: Set<string>; labels: boolean; hideFound: boolean };
+export type Filters = { style: Style; kinds: Set<string>; labels: boolean; hideFound: boolean; district?: string };
 export type View = { zoom: number; x: number; y: number };
 
 export function readUrl(search: string, knownKinds: Set<string>, defaultKinds: string[]) {
@@ -20,6 +20,7 @@ export function readUrl(search: string, knownKinds: Set<string>, defaultKinds: s
     ),
     labels: p.get("labels") !== "0",
     hideFound: p.get("hidefound") === "1",
+    district: p.get("district") ?? undefined,
   };
   return {
     filters,
@@ -38,6 +39,7 @@ export function writeUrl(f: Filters, defaultKinds: string[], view?: View) {
   if (kinds !== [...defaultKinds].sort().join(",")) p.set("kinds", kinds);
   if (!f.labels) p.set("labels", "0");
   if (f.hideFound) p.set("hidefound", "1");
+  if (f.district) p.set("district", f.district);
   if (view) p.set("view", `${view.zoom}/${view.x.toFixed(1)}/${view.y.toFixed(1)}`);
   return p;
 }
