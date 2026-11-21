@@ -22,7 +22,8 @@ the centre first. With a keyboard or screen reader, open it, pick a location, an
 
 Locations also have their own pages for search engines, at `https://fbritoferreira.github.io/gta6/l/<id>/` (for example
 [`/l/hidden-package-001/`](https://fbritoferreira.github.io/gta6/l/hidden-package-001/)), listed in
-[`sitemap.xml`](https://fbritoferreira.github.io/gta6/sitemap.xml). `scripts/export-pages.ts` writes them during the
+[`sitemap.xml`](https://fbritoferreira.github.io/gta6/sitemap.xml). A missing `/l/<id>/` page forwards to the map at that id; any other
+missing page shows a short "not on the map" page (`404.html`). `scripts/export-pages.ts` writes them during the
 build: plain HTML with the name, district, screenshot, real-life counterpart, nearby locations and an "Open on the
 map" link. Only locations with a description or screenshot, and places with a real-world address, get a page.
 
