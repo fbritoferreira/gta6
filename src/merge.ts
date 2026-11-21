@@ -38,5 +38,7 @@ export function mergePlaces<T extends Spot>(locations: T[], places: T[]) {
     l.service ||= p.service;
     merged.set(p.id, twin.id);
   }
-  return { items: [...out.values(), ...kept], merged };
+  // Places first: places.json changes only by hand, while the sync appends to locations.json, so the
+  // list grows at the end and progress links (src/progress.ts) keep reading after a sync.
+  return { items: [...kept, ...out.values()], merged };
 }

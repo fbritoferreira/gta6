@@ -14,7 +14,7 @@ describe("mergePlaces", () => {
   it("keeps places that are elsewhere or named differently", () => {
     const far = { ...place, id: "L2", x: 520 };
     const other = { ...place, id: "L3", name: "SubUrban" };
-    expect(mergePlaces([shop], [far, other]).items.map((i) => i.id)).toEqual(["clothing-001", "L2", "L3"]);
+    expect(mergePlaces([shop], [far, other]).items.map((i) => i.id)).toEqual(["L2", "L3", "clothing-001"]);
   });
 
   it("picks the nearest of two same-named locations", () => {
