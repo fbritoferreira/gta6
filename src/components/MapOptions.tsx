@@ -1,6 +1,7 @@
 import { For } from "solid-js";
 import type { Style } from "../url";
 import { useApp } from "../state";
+import { copy } from "../copy";
 
 const STYLES: { value: Style; label: string }[] = [
   { value: "night", label: "Night" },
@@ -30,6 +31,14 @@ export function MapOptions() {
       </div>
       <Chip label="Districts" checked={app.labels()} onChange={app.setLabels} />
       <Chip label="Hide found" checked={app.hideFound()} onChange={app.setHideFound} />
+      <button
+        class="chip share-progress"
+        type="button"
+        title="Copy a link that carries your found list to another device"
+        onClick={(e) => void copy(app.progressLink(), e.currentTarget)}
+      >
+        Share progress
+      </button>
     </div>
   );
 }

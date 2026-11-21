@@ -25,6 +25,7 @@ export function readUrl(search: string, knownKinds: Set<string>, defaultKinds: s
     filters,
     view: view?.length === 3 && view.every(Number.isFinite) ? { zoom: view[0], x: view[1], y: view[2] } : undefined,
     id: p.get("id") ?? undefined,
+    progress: p.get("progress") ?? undefined,
     embed: p.has("embed"),
   };
 }
