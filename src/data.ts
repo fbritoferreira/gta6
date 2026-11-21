@@ -36,17 +36,42 @@ const PIN_ALIASES: Record<string, string> = {
 };
 const KIND_PINS: Record<string, string> = {
   card: "collectible-card",
+  magazine: "magazine",
+  bookswap: "book-swap",
+  waink: "waink-curiosity",
   food: "bar",
   transport: "bus-stop",
   safehouse: "safehouse",
   fence: "fence",
 };
 
-/** The pin slug for a location: its own type's pin, a close stand-in, its category's pin, or null. */
-export function pinFor(it: { id: string; kind: string }, pinNames: Set<string>): string | null {
-  const type = it.id.replace(/-\d+$/, "");
+const typeOf = (id: string) => id.replace(/-\d+$/, "");
+
+/** For each id type, the category most of its locations are in (hidden-package-* is mostly "package"). */
+export function usualKinds(items: { id: string; kind: string }[]): Map<string, string> {
+  const tally = new Map<string, Map<string, number>>();
+  for (const it of items) {
+    const t = tally.get(typeOf(it.id)) ?? new Map<string, number>();
+    t.set(it.kind, (t.get(it.kind) ?? 0) + 1);
+    tally.set(typeOf(it.id), t);
+  }
+  return new Map([...tally].map(([type, t]) => [type, [...t].sort((a, b) => b[1] - a[1])[0][0]]));
+}
+
+/**
+ * The pin slug for a location: its own type's pin, a close stand-in, its category's pin, or null.
+ * A location filed under another category than its type usually is (a card with a hidden-package id)
+ * gets its category's pin, so the pin matches what it is rather than how it was numbered.
+ */
+export function pinFor(
+  it: { id: string; kind: string },
+  pinNames: Set<string>,
+  usual?: Map<string, string>,
+): string | null {
+  const type = typeOf(it.id);
   const want = PIN_ALIASES[type] ?? (type.startsWith("card-") ? "collectible-card" : type);
-  if (pinNames.has(want)) return want;
+  const typeFits = !usual || usual.get(type) === undefined || usual.get(type) === it.kind;
+  if (typeFits && pinNames.has(want)) return want;
   const fallback = KIND_PINS[it.kind];
   return fallback && pinNames.has(fallback) ? fallback : null;
 }
@@ -61,9 +86,9 @@ export async function loadData() {
   ]);
   const catBy: Record<string, Kind> = Object.fromEntries(cats.kinds.map((k) => [k.key, k]));
   const pinNames = new Set(pinList);
-  const items: Item[] = [...locations, ...places]
-    .filter((it) => catBy[it.kind])
-    .map((it) => ({ ...it, pin: pinFor(it, pinNames) }));
+  const known = [...locations, ...places].filter((it) => catBy[it.kind]);
+  const usual = usualKinds(known);
+  const items: Item[] = known.map((it) => ({ ...it, pin: pinFor(it, pinNames, usual) }));
 
   const counts: Record<string, number> = {};
   const tally: Record<string, Record<string, number>> = {};
