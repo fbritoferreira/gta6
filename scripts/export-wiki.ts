@@ -73,46 +73,113 @@ export const toImage = (x: number, y: number): [number, number] => [
 /** Keeps contributor text from being read as wiki markup. */
 const plain = (s: string) => s.replace(/[[\]{}<>|]/g, "");
 
+/** One GloopMaps page: shared image and settings, one category per entry in `layers`. */
+function mapPage(
+  layers: { kind: string; name: string; colour: string }[],
+  locations: Location[],
+  districts: Outline[],
+  repoUrl: string,
+  progress: boolean,
+) {
+  let id = 0;
+  return {
+    mapImage: MAP_IMAGE,
+    pageCategories: [],
+    defaultSort: "",
+    description: `Marker data from [${repoUrl} Open GTA 6 Map] (CC BY 4.0).`,
+    coordinateOrder: "xy",
+    mapBounds: [
+      [0, 0],
+      [SIZE, SIZE],
+    ],
+    origin: "bottom-left",
+    useMarkerClustering: true,
+    categories: layers.map((l, i) => ({
+      id: String(i + 1),
+      listId: i + 1,
+      name: l.name,
+      color: l.colour,
+      symbol: "",
+      symbolColor: "",
+    })),
+    markers: layers.flatMap((l, i) =>
+      locations
+        .filter((it) => it.kind === l.kind)
+        .map((it) => {
+          const district = districtAt(it.x, it.y, districts);
+          const where = `Location: ${district ? `[[${district}]]` : "[[State of Leonida|Leonida]]"}`;
+          return {
+            categoryId: String(i + 1),
+            id: String(++id),
+            position: toImage(it.x, it.y),
+            popup: {
+              title: plain(it.name),
+              description: it.description ? `${where}<br/>${plain(it.description)}` : where,
+              link: { url: "", label: "" },
+            },
+          };
+        }),
+    ),
+    markerProgress: progress,
+  };
+}
+
 export function buildWikiMaps(kinds: Kind[], locations: Location[], districts: Outline[], repoUrl: string) {
   return kinds
     .filter((k) => WIKI_NAMES[k.key])
-    .map((k) => {
-      const [plural, singular] = WIKI_NAMES[k.key];
-      const items = locations.filter((l) => l.kind === k.key);
-      return {
-        kind: k.key,
-        title: `Map:GTA VI: ${plural}`,
-        json: {
-          mapImage: MAP_IMAGE,
-          pageCategories: [],
-          defaultSort: "",
-          description: `Marker data from [${repoUrl} Open GTA 6 Map] (CC BY 4.0).`,
-          coordinateOrder: "xy",
-          mapBounds: [
-            [0, 0],
-            [SIZE, SIZE],
-          ],
-          origin: "bottom-left",
-          useMarkerClustering: true,
-          categories: [{ id: "1", listId: 1, name: singular, color: k.colour, symbol: "", symbolColor: "" }],
-          markers: items.map((it, i) => {
-            const district = districtAt(it.x, it.y, districts);
-            const where = `Location: ${district ? `[[${district}]]` : "[[State of Leonida|Leonida]]"}`;
-            return {
-              categoryId: "1",
-              id: String(i + 1),
-              position: toImage(it.x, it.y),
-              popup: {
-                title: plain(it.name),
-                description: it.description ? `${where}<br/>${plain(it.description)}` : where,
-                link: { url: "", label: "" },
-              },
-            };
-          }),
-          markerProgress: k.pinnable,
-        },
-      };
-    });
+    .map((k) => ({
+      kind: k.key,
+      title: `Map:GTA VI: ${WIKI_NAMES[k.key][0]}`,
+      json: mapPage(
+        [{ kind: k.key, name: WIKI_NAMES[k.key][1], colour: k.colour }],
+        locations,
+        districts,
+        repoUrl,
+        k.pinnable,
+      ),
+    }));
+}
+
+/**
+ * The items on "100% Completion in GTA VI" that we have locations for, named as that article names
+ * them. One map with a layer per item: maps inside tabs draw blank (they size themselves while hidden),
+ * so the article shows this single map instead of a tab per category.
+ */
+export const COMPLETION_LAYERS: [kind: string, name: string][] = [
+  ["gang", "Gang Operations"],
+  ["bank", "Bank Jobs"],
+  ["smash", "Smash 'N' Grabs"],
+  ["store", "Stick Ups"],
+  ["fence", "Fences"],
+  ["waink", "WAiNK Scans"],
+  ["card", "Collectible Cards"],
+  ["magazine", "Magazines, Books & Comics"],
+  ["bookswap", "Book Swaps"],
+  ["playlist", "Unique Playlists"],
+  ["race", "Unique Races"],
+  ["range", "Shooting Ranges"],
+  ["arcade", "Video Games, Pool & Mini Golf"],
+  ["hoop", "Basketball Hoops"],
+  ["drone", "Drone Time Trials"],
+  ["stunt", "Stunt Jumps"],
+  ["bridge", "Under the Bridge"],
+  ["knife", "Knife Flights"],
+  ["basejump", "BASE Jumps"],
+  ["weapon", "Weapons"],
+];
+
+export function buildCompletionMap(kinds: Kind[], locations: Location[], districts: Outline[], repoUrl: string) {
+  const colour = new Map(kinds.map((k) => [k.key, k.colour]));
+  const layers = COMPLETION_LAYERS.filter(([kind]) => colour.has(kind)).map(([kind, name]) => ({
+    kind,
+    name,
+    colour: colour.get(kind)!,
+  }));
+  return {
+    kind: "completion",
+    title: "Map:GTA VI: 100% Completion",
+    json: mapPage(layers, locations, districts, repoUrl, true),
+  };
 }
 
 /** Stitches the day tiles into the single map image the wiki pages use. */
@@ -135,12 +202,13 @@ async function stitchMapImage(tilesDir: string, out: string) {
 if (import.meta.main) {
   const read = <T>(path: string) => JSON.parse(readFileSync(path, "utf8")) as T;
   const repoUrl = `https://github.com/${process.env.GITHUB_REPOSITORY ?? "fbritoferreira/gta6"}`;
-  const maps = buildWikiMaps(
-    read<{ kinds: Kind[] }>("public/data/categories.json").kinds,
-    read<Location[]>("public/data/locations.json"),
-    read<Outline[]>("public/data/districts.json"),
-    repoUrl,
-  );
+  const kinds = read<{ kinds: Kind[] }>("public/data/categories.json").kinds;
+  const locations = read<Location[]>("public/data/locations.json");
+  const districts = read<Outline[]>("public/data/districts.json");
+  const maps = [
+    ...buildWikiMaps(kinds, locations, districts, repoUrl),
+    buildCompletionMap(kinds, locations, districts, repoUrl),
+  ];
   mkdirSync("dist/wiki/maps", { recursive: true });
   for (const m of maps) writeFileSync(`dist/wiki/maps/${m.kind}.json`, JSON.stringify(m.json, null, "\t") + "\n");
   await stitchMapImage("public/tiles/day", `dist/wiki/${MAP_IMAGE}`);

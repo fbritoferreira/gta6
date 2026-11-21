@@ -1,6 +1,6 @@
 import type { Outline } from "../src/geo.ts";
 import { describe, expect, it } from "vitest";
-import { buildWikiMaps, MAP_IMAGE, toImage, WIKI_NAMES } from "./export-wiki.ts";
+import { buildCompletionMap, buildWikiMaps, MAP_IMAGE, toImage, WIKI_NAMES } from "./export-wiki.ts";
 
 const square: Outline = {
   name: "Vice City",
@@ -57,5 +57,28 @@ describe("buildWikiMaps", () => {
 
   it("has wiki names for every kind outside Places", () => {
     expect(Object.keys(WIKI_NAMES)).toHaveLength(32);
+  });
+});
+
+describe("buildCompletionMap", () => {
+  const completionKinds = [
+    { key: "gang", colour: "#d62828", pinnable: true },
+    { key: "weapon", colour: "#8d99ae", pinnable: true },
+  ];
+  const items = [
+    { id: "gang-operation-001", kind: "gang", x: 510, y: 510, name: "Gang op" },
+    { id: "weapon-spawn-001", kind: "weapon", x: 300, y: 300, name: "Pistol" },
+    { id: "weapon-spawn-002", kind: "weapon", x: 301, y: 300, name: "Shotgun" },
+  ];
+  const map = buildCompletionMap(completionKinds, items, [square], "https://github.com/o/r");
+
+  it("is one page with a layer per completion item, named as the article names them", () => {
+    expect(map.title).toBe("Map:GTA VI: 100% Completion");
+    expect(map.json.categories.map((c) => c.name)).toEqual(["Gang Operations", "Weapons"]);
+  });
+
+  it("puts each marker in its layer, with ids unique across layers", () => {
+    expect(map.json.markers.map((m) => m.categoryId)).toEqual(["1", "2", "2"]);
+    expect(new Set(map.json.markers.map((m) => m.id)).size).toBe(3);
   });
 });
