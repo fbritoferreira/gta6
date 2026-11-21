@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { buildIndex, normalize, search, type Searchable } from "./search";
+import { buildIndex, distance, normalize, search, type Searchable } from "./search";
 
 const items: Searchable[] = [
   {
@@ -65,5 +65,26 @@ describe("search", () => {
     expect(find("k").items).toEqual([]);
     expect(search(index, "e", [], []).items).toEqual([]);
     expect(search(index, "key lento", [], [], 1)).toMatchObject({ more: 2 });
+  });
+
+  it("allows a typo or two when nothing matches as typed, and says so", () => {
+    expect(find("ritz").fuzzy).toBe(false);
+    expect(find("keystnoe").items.map((i) => i.id)).toEqual(["bank-009"]);
+    expect(find("keystnoe").fuzzy).toBe(true);
+    expect(find("tresure").categories.map((c) => c.kind)).toEqual(["treasure"]);
+    expect(find("key lneto").districts.map((d) => d.name)).toEqual(["Key Lento"]);
+  });
+
+  it("does not guess on short words", () => {
+    expect(find("kez").items).toEqual([]);
+  });
+});
+
+describe("distance", () => {
+  it("counts edits and stops early past the limit", () => {
+    expect(distance("hiden", "hidden", 2)).toBe(1);
+    expect(distance("waink", "wank", 2)).toBe(1);
+    expect(distance("lneto", "lento", 2)).toBe(1);
+    expect(distance("abcdef", "uvwxyz", 1)).toBe(2);
   });
 });
