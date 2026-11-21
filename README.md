@@ -152,7 +152,7 @@ Everything here lives in `public/` and is served as is.
   `pnpm build`). There is no official boundary data; outlines sharpen as more places get an `area`.
 - `icons/pins/<type>.webp`: the map pins, one per location type, where the type is the location's `id` without its
   number (`bank-001` uses `bank.webp`). A location filed under another category than its id type usually is (a card numbered `hidden-package-001`) uses its category's pin instead. Pins are 56×64 with the tail tip at the bottom centre. List every pin in
-  `icons/pins/index.json`. Most are hand-drawn; the ones listed in `scripts/make-pins.ts` (meteorite, random event,
+  `icons/pins/index.json`. Most are hand-drawn; the ones listed in `scripts/make-pins.ts` (meteorite, Ahol street art, random event,
   landmark, police, fire station, hospital, public transport, message in a bottle, cinema) are drawn in the same style
   by `pnpm pins` with [Lucide](https://lucide.dev) glyphs. To add a type, add a line there and run `pnpm pins`.
 - `icons/<kind>.svg`: fallback icons for categories without a pin, from [Lucide](https://lucide.dev) (ISC, see

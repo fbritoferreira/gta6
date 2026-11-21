@@ -42304,7 +42304,7 @@
         "x": 372.90625,
         "y": 629.5,
         "name": "Los Santos Panic card: Marquise Bernard",
-        "type": "card-los-santos-panic",
+        "type": "Los Santos Panic card",
         "description": "Found in a box on the second floor",
         "screenshot": null,
         "area": "Watson Bay",
@@ -42360,7 +42360,7 @@
         "x": 436.78125,
         "y": 686.875,
         "name": "America's Next Top Hooker card: Chastity",
-        "type": "card-americas-next-top-hooker",
+        "type": "Americas Next Top Hooker card",
         "description": "In a yellow toolbox on some crates beside the jet ski.",
         "screenshot": null,
         "area": "Key Lento",
@@ -42494,7 +42494,7 @@
         "x": 298.125,
         "y": 495.09375,
         "name": "Legends of Ratface card: Ratster (Blue)",
-        "type": "card-legends-of-ratface",
+        "type": "Legends Of Ratface card",
         "description": "In the staff-only area of the LTD Food Mart - Capri, on top of a microwave.",
         "screenshot": "screenshots/gta6-card-legends-of-ratface-006.webp",
         "area": "Capri",
@@ -42535,7 +42535,7 @@
         "x": 530.125,
         "y": 569.4375,
         "name": "Backyard Wrestling card: Judas Sterling",
-        "type": "card-backyard-wrestling",
+        "type": "Backyard Wrestling card",
         "description": "From the rusty walkway at the top of the stadium, go up the ladder next to the vagrants. The card sits next to a hammer and some lawn gnomes.",
         "screenshot": null,
         "area": "Gloriana Key",
@@ -42576,7 +42576,7 @@
         "x": 531.65625,
         "y": 569.0625,
         "name": "Legends of Ratface card: The Diddler",
-        "type": "card-legends-of-ratface",
+        "type": "Legends Of Ratface card",
         "description": "On the bottom level, behind the seating, there is a small dark alley. On the east side, the card is under a half-open metal garage door.",
         "screenshot": null,
         "area": "Gloriana Key",
@@ -42630,7 +42630,7 @@
         "x": 480.1875,
         "y": 487.28125,
         "name": "Los Santos Corkers card: Carlos Larios (Gold)",
-        "type": "card-los-santos-corkers",
+        "type": "Los Santos Corkers card",
         "description": "On the roof of the building, next to a chair.",
         "screenshot": null,
         "area": "Vice City",
@@ -42686,7 +42686,7 @@
         "x": 312.34375,
         "y": 373.65625,
         "name": "Backyard Wrestling card: Katie K",
-        "type": "card-backyard-wrestling",
+        "type": "Backyard Wrestling card",
         "description": "In a yellow box inside the garage.",
         "screenshot": null,
         "area": "Port Gellhorn",
@@ -42714,7 +42714,7 @@
         "x": 476.65625,
         "y": 535.75,
         "name": "Vice City Narcos card: Antoine Bell",
-        "type": "card-vice-city-narcos",
+        "type": "Vice City Narcos card",
         "description": "On the basketball court, next to a white backpack and a green bench.",
         "screenshot": null,
         "area": "Vice City",
@@ -42742,7 +42742,7 @@
         "x": 473.1875,
         "y": 528.25,
         "name": "Car Meet",
-        "type": "car-meet",
+        "type": "Car Meet",
         "description": "",
         "screenshot": null,
         "area": "Vice City",
@@ -42811,7 +42811,7 @@
         "x": 399.5,
         "y": 261.4375,
         "name": "Delights card: Perla",
-        "type": "card-delights",
+        "type": "Delights card",
         "description": "In a lockbox beside the vagrant on the porch.",
         "screenshot": null,
         "confidence": "community",
@@ -42944,7 +42944,7 @@
         "x": 475.09375,
         "y": 474.875,
         "name": "Ed Comics Universe card: Dr. Placebo",
-        "type": "card-ed-comics",
+        "type": "Ed Comics card",
         "description": "On the shelf inside the building, through the back entrance.",
         "screenshot": "screenshots/gta6-card-ed-comics-006.webp",
         "area": "Vice City",
@@ -43064,7 +43064,7 @@
         "x": 336.1875,
         "y": 407.9375,
         "name": "Liberty City Penetrators card: Wenyen Deng",
-        "type": "card-liberty-city-penetrators",
+        "type": "Liberty City Penetrators card",
         "description": "In a yellow box next to the wrecked white pickup.",
         "screenshot": "screenshots/gta6-card-liberty-city-penetrators-005.webp"
     },
@@ -43074,7 +43074,7 @@
         "x": 448.15625,
         "y": 393.25,
         "name": "Vice City Manatees card: Delord Nathan Alford",
-        "type": "card-vice-city-manatees",
+        "type": "Vice City Manatees card",
         "description": "Enter from the roof (there is a barking dog).",
         "screenshot": null
     },
@@ -43104,17 +43104,17 @@
         "x": 471.0625,
         "y": 295.53125,
         "name": "Legends of Ratface card: Ratster",
-        "type": "card-legends-of-ratface",
+        "type": "Legends Of Ratface card",
         "description": "",
         "screenshot": "screenshots/gta6-card-legends-of-ratface-008.webp"
     },
     {
         "id": "ahol-street-art-004",
-        "kind": "other",
+        "kind": "streetart",
         "x": 485.28125,
         "y": 468.9375,
         "name": "Ahol Street Art",
-        "type": "ahol-street-art",
+        "type": "Ahol Street Art",
         "description": "A piece of Ahol street art.",
         "screenshot": null
     },
@@ -43124,7 +43124,7 @@
         "x": 329.96875,
         "y": 347.59375,
         "name": "Los Santos Pounders card: Randolph Topolski",
-        "type": "card-los-santos-pounders",
+        "type": "Los Santos Pounders card",
         "description": "In the room at the top of the barn: climb the tractor to get in. Same room as the magazine.",
         "screenshot": null
     },
@@ -43154,7 +43154,7 @@
         "x": 348,
         "y": 337.8125,
         "name": "Delights card: Mario",
-        "type": "card-delights",
+        "type": "Delights card",
         "description": "In the phone box.",
         "screenshot": null
     },
@@ -43164,7 +43164,7 @@
         "x": 521.09375,
         "y": 337.15625,
         "name": "Los Santos Panic card: Jackson Belton",
-        "type": "card-los-santos-panic",
+        "type": "Los Santos Panic card",
         "description": "",
         "screenshot": "screenshots/gta6-card-los-santos-panic-005.webp"
     },
@@ -43174,17 +43174,17 @@
         "x": 444.84375,
         "y": 673.8125,
         "name": "Los Santos Corkers card: Miguel Ayala",
-        "type": "card-los-santos-corkers",
+        "type": "Los Santos Corkers card",
         "description": "At the top of the tower, inside the yellow box.",
         "screenshot": null
     },
     {
         "id": "ahol-street-art-005",
-        "kind": "other",
+        "kind": "streetart",
         "x": 493.28125,
         "y": 452.375,
         "name": "Ahol Street Art: Wheel",
-        "type": "ahol-street-art",
+        "type": "Ahol Street Art",
         "description": "A piece of Ahol street art showing a wheel.",
         "screenshot": null
     },
@@ -43194,7 +43194,7 @@
         "x": 453.4375,
         "y": 681.5,
         "name": "Vice City Flamingos card: Jude Flores",
-        "type": "card-vice-city-flamingos",
+        "type": "Vice City Flamingos card",
         "description": "On top of the building, inside a yellow box.",
         "screenshot": null
     },
@@ -43214,7 +43214,7 @@
         "x": 308.71875,
         "y": 389.84375,
         "name": "Liberty City Swingers card: Garth Buxton",
-        "type": "card-liberty-city-swingers",
+        "type": "Liberty City Swingers card",
         "description": "Up on the tower.",
         "screenshot": null
     },
@@ -43224,7 +43224,7 @@
         "x": 449.15625,
         "y": 689.125,
         "name": "Backyard Wrestling card: Katie K",
-        "type": "card-backyard-wrestling",
+        "type": "Backyard Wrestling card",
         "description": "Behind the purple house, inside a yellow box.",
         "screenshot": "screenshots/gta6-card-backyard-wrestling-010.webp"
     },
@@ -43284,7 +43284,7 @@
         "x": 437.40625,
         "y": 500.59375,
         "name": "Vice City Narcos card: Andre Stevenson",
-        "type": "card-vice-city-narcos",
+        "type": "Vice City Narcos card",
         "description": "",
         "screenshot": "screenshots/gta6-card-vice-city-narcos-008.webp"
     },
@@ -43294,7 +43294,7 @@
         "x": 366.875,
         "y": 405.5,
         "name": "Vice City Narcos card: Christoph Schulz",
-        "type": "card-vice-city-narcos",
+        "type": "Vice City Narcos card",
         "description": "On top of the large chimney.",
         "screenshot": null
     },
@@ -43304,7 +43304,7 @@
         "x": 290.59375,
         "y": 496.25,
         "name": "Los Santos Corkers card: Si Woo Chod",
-        "type": "card-los-santos-corkers",
+        "type": "Los Santos Corkers card",
         "description": "In the yellow case in the garage.",
         "screenshot": null
     },
@@ -43374,7 +43374,7 @@
         "x": 415.4375,
         "y": 612.71875,
         "name": "Los Santos Corkers card: Xavier Gomez",
-        "type": "card-los-santos-corkers",
+        "type": "Los Santos Corkers card",
         "description": "",
         "screenshot": "screenshots/gta6-card-los-santos-corkers-008.webp"
     },
@@ -43384,7 +43384,7 @@
         "x": 335.25,
         "y": 301,
         "name": "Vice City Flamingos card: Harold Toye (Silver)",
-        "type": "card-vice-city-flamingos",
+        "type": "Vice City Flamingos card",
         "description": "In front of the house, close to the radio.",
         "screenshot": null
     },
@@ -43404,7 +43404,7 @@
         "x": 425.28125,
         "y": 706.59375,
         "name": "Vice City Narcos card: Antoine Bello",
-        "type": "card-vice-city-narcos",
+        "type": "Vice City Narcos card",
         "description": "On the rooftop, in a yellow box.",
         "screenshot": null
     },
@@ -43424,7 +43424,7 @@
         "x": 300.34375,
         "y": 390.25,
         "name": "Los Santos Pounders card: Bingo Johnson",
-        "type": "card-los-santos-pounders",
+        "type": "Los Santos Pounders card",
         "description": "In the kitchen.",
         "screenshot": "screenshots/gta6-card-los-santos-pounders-006.webp"
     },
@@ -43434,7 +43434,7 @@
         "x": 353.4375,
         "y": 291.25,
         "name": "Liberty City Penetrators card: Taylor Blanc (Standard)",
-        "type": "card-liberty-city-penetrators",
+        "type": "Liberty City Penetrators card",
         "description": "In a yellow case behind the car in the garage. The garage code is on signs inside the house next to it (2727 for one member).",
         "screenshot": null
     },
@@ -43544,7 +43544,7 @@
         "x": 316.78125,
         "y": 375.8125,
         "name": "America's Next Top Hooker card: Chastity",
-        "type": "card-americas-next-top-hooker",
+        "type": "Americas Next Top Hooker card",
         "description": "In the garage, in a yellow box.",
         "screenshot": null
     },
@@ -43554,7 +43554,7 @@
         "x": 298.4375,
         "y": 398.96875,
         "name": "Vice City Club De Fútbol card",
-        "type": "card-vice-city-club-de-futbol",
+        "type": "Vice City Club De Futbol card",
         "description": "In the stands, next to a bag at the top right.",
         "screenshot": null
     },
@@ -43584,7 +43584,7 @@
         "x": 474.1875,
         "y": 487.15625,
         "name": "Los Santos Panic card: Oluwa Mohammed",
-        "type": "card-los-santos-panic",
+        "type": "Los Santos Panic card",
         "description": "",
         "screenshot": null
     },
@@ -43594,7 +43594,7 @@
         "x": 286.78125,
         "y": 498.9375,
         "name": "Liberty City Penetrators card: Taylor Blanc",
-        "type": "card-liberty-city-penetrators",
+        "type": "Liberty City Penetrators card",
         "description": "In a case.",
         "screenshot": null
     },
@@ -43654,7 +43654,7 @@
         "x": 316.3125,
         "y": 534.0625,
         "name": "Ed Comics Universe card: Vaccerine",
-        "type": "card-ed-comics",
+        "type": "Ed Comics card",
         "description": "In the shed.",
         "screenshot": null
     },
@@ -43684,7 +43684,7 @@
         "x": 453.75,
         "y": 678.875,
         "name": "Los Santos Pounders card: Lionel Taber",
-        "type": "card-los-santos-pounders",
+        "type": "Los Santos Pounders card",
         "description": "On the toilet.",
         "screenshot": null
     },
@@ -43764,7 +43764,7 @@
         "x": 425.9375,
         "y": 701.75,
         "name": "Liberty City Wrath card: Bruce Goosen",
-        "type": "card-liberty-city-wrath",
+        "type": "Liberty City Wrath card",
         "description": "Inside the garage, in a yellow box.",
         "screenshot": null
     },
@@ -43774,7 +43774,7 @@
         "x": 506,
         "y": 448.65625,
         "name": "Chastity",
-        "type": "card-americas-next-top-hooker",
+        "type": "Americas Next Top Hooker card",
         "description": "In a warehouse, follow the robotic voice saying Daddy inside, and it will be next to a laptop.",
         "screenshot": "screenshots/gta6-card-americas-next-top-hooker-011.webp"
     },
@@ -43844,7 +43844,7 @@
         "x": 390.75,
         "y": 437.4375,
         "name": "Los Santos Corkers card: Miguel Ayala",
-        "type": "card-los-santos-corkers",
+        "type": "Los Santos Corkers card",
         "description": "In the yellow box inside the barn.",
         "screenshot": null
     },
@@ -43854,7 +43854,7 @@
         "x": 459.6875,
         "y": 580.1875,
         "name": "Liberty City Penetrators card: Taylor Blanc",
-        "type": "card-liberty-city-penetrators",
+        "type": "Liberty City Penetrators card",
         "description": "In the gas station office.",
         "screenshot": null
     },
@@ -43864,7 +43864,7 @@
         "x": 296.59375,
         "y": 502.96875,
         "name": "Vice City Flamingos card: Ulysses Whitlock (Bronze)",
-        "type": "card-vice-city-flamingos",
+        "type": "Vice City Flamingos card",
         "description": "",
         "screenshot": null
     },
@@ -43884,7 +43884,7 @@
         "x": 472.875,
         "y": 279.0625,
         "name": "Delights card",
-        "type": "card-delights",
+        "type": "Delights card",
         "description": "On the roof of the cabaret.",
         "screenshot": null
     },
@@ -43894,7 +43894,7 @@
         "x": 440.90625,
         "y": 696.96875,
         "name": "Delights card: Nevaeh",
-        "type": "card-delights",
+        "type": "Delights card",
         "description": "Open the garage: yellow box on top of the cabinet on the right.",
         "screenshot": "screenshots/gta6-card-delights-014.webp"
     },
@@ -43924,7 +43924,7 @@
         "x": 442.8125,
         "y": 675.28125,
         "name": "Vice City Flamingos card: Julian Hall",
-        "type": "card-vice-city-flamingos",
+        "type": "Vice City Flamingos card",
         "description": "In a yellow box beside the house.",
         "screenshot": null
     },
@@ -43944,7 +43944,7 @@
         "x": 372.8125,
         "y": 390,
         "name": "Vice City Flamingos card: Mateo Caballero (Bronze)",
-        "type": "card-vice-city-flamingos",
+        "type": "Vice City Flamingos card",
         "description": "Right next to the baseball bat.",
         "screenshot": null
     },
@@ -43960,11 +43960,11 @@
     },
     {
         "id": "ahol-street-art-001",
-        "kind": "other",
+        "kind": "streetart",
         "x": 493.5,
         "y": 514.1875,
         "name": "Ahol Street Art: Wheel 379",
-        "type": "ahol-street-art",
+        "type": "Ahol Street Art",
         "description": "A wheel cap at the entrance to the alleyway, between a yellow bollard and the wall.",
         "screenshot": null
     },
@@ -43974,17 +43974,17 @@
         "x": 475.6875,
         "y": 518.625,
         "name": "Vice City Club De Fútbol card: Ellie Burke",
-        "type": "card-vice-city-club-de-futbol",
+        "type": "Vice City Club De Futbol card",
         "description": "Inside the unlocked flat on the upper terrace, on the fridge.",
         "screenshot": null
     },
     {
         "id": "ahol-street-art-002",
-        "kind": "other",
+        "kind": "streetart",
         "x": 496.6875,
         "y": 517.34375,
         "name": "Ahol Street Art: Chair 135",
-        "type": "ahol-street-art",
+        "type": "Ahol Street Art",
         "description": "A chair painted with black and white stripes, next to the dumpster in the alley.",
         "screenshot": "screenshots/gta6-ahol-street-art-002.webp"
     },
@@ -43994,7 +43994,7 @@
         "x": 436.1875,
         "y": 703.78125,
         "name": "Delights card: Tracy",
-        "type": "card-delights",
+        "type": "Delights card",
         "description": "",
         "screenshot": "screenshots/gta6-card-delights-015.webp"
     },
@@ -44054,7 +44054,7 @@
         "x": 480.9375,
         "y": 478.3125,
         "name": "Los Santos Pounders card: Sione Apa",
-        "type": "card-los-santos-pounders",
+        "type": "Los Santos Pounders card",
         "description": "",
         "screenshot": null
     },
@@ -44070,11 +44070,11 @@
     },
     {
         "id": "ahol-street-art-003",
-        "kind": "other",
+        "kind": "streetart",
         "x": 490.15625,
         "y": 520.75,
         "name": "Ahol Street Art: Pallet 353",
-        "type": "ahol-street-art",
+        "type": "Ahol Street Art",
         "description": "A pallet with painted eyes, just at the start of the alleyway on the right.",
         "screenshot": "screenshots/gta6-ahol-street-art-003.webp"
     },
@@ -44084,7 +44084,7 @@
         "x": 447.5,
         "y": 408.59375,
         "name": "America's Next Top Hooker card: Beverly",
-        "type": "card-americas-next-top-hooker",
+        "type": "Americas Next Top Hooker card",
         "description": "At the top of the tower.",
         "screenshot": "screenshots/gta6-card-americas-next-top-hooker-013.webp"
     },
@@ -44094,7 +44094,7 @@
         "x": 441.75,
         "y": 688.40625,
         "name": "Liberty City Wrath card: Armando Ibarra Jr.",
-        "type": "card-liberty-city-wrath",
+        "type": "Liberty City Wrath card",
         "description": "Inside a yellow toolbox.",
         "screenshot": null
     },
@@ -44144,7 +44144,7 @@
         "x": 410.25,
         "y": 384.4375,
         "name": "Los Santos Pounders card: Laki Maivia",
-        "type": "card-los-santos-pounders",
+        "type": "Los Santos Pounders card",
         "description": "Inside the blue house.",
         "screenshot": null
     },
@@ -44154,7 +44154,7 @@
         "x": 501.25,
         "y": 441.1875,
         "name": "Liberty City Wrath card: Atonga Alaatatoa (Standard)",
-        "type": "card-liberty-city-wrath",
+        "type": "Liberty City Wrath card",
         "description": "Star Rookie card.",
         "screenshot": null
     },
@@ -44184,7 +44184,7 @@
         "x": 312.34375,
         "y": 711.375,
         "name": "Los Santos Corkers card: Xavier Gomez",
-        "type": "card-los-santos-corkers",
+        "type": "Los Santos Corkers card",
         "description": "Yellow box in the wooden auto repair building.",
         "screenshot": null
     },
@@ -44204,7 +44204,7 @@
         "x": 311.09375,
         "y": 513.34375,
         "name": "Vice City Manatees card: Gouwan Marcus",
-        "type": "card-vice-city-manatees",
+        "type": "Vice City Manatees card",
         "description": "On top of the round roof, by the chairs.",
         "screenshot": null
     },
@@ -44234,7 +44234,7 @@
         "x": 501.375,
         "y": 464.875,
         "name": "Vice City Narcos card: Kyle Lewicki",
-        "type": "card-vice-city-narcos",
+        "type": "Vice City Narcos card",
         "description": "On the bench in front of the showers.",
         "screenshot": "screenshots/gta6-card-vice-city-narcos-011.webp"
     },
@@ -44274,7 +44274,7 @@
         "x": 306.78125,
         "y": 387.65625,
         "name": "Delights card: Mario",
-        "type": "card-delights",
+        "type": "Delights card",
         "description": "Upstairs, outdoors.",
         "screenshot": null
     },
@@ -44324,7 +44324,7 @@
         "x": 507.15625,
         "y": 448.375,
         "name": "Ed Comics Universe card: Mr. I",
-        "type": "card-ed-comics",
+        "type": "Ed Comics card",
         "description": "On top of the wooden scaffolding/staircase.",
         "screenshot": null
     },
@@ -44344,7 +44344,7 @@
         "x": 429.8125,
         "y": 700.21875,
         "name": "Backyard Wrestling card: Blood Smith",
-        "type": "card-backyard-wrestling",
+        "type": "Backyard Wrestling card",
         "description": "On the top level of the roof of the Badger building.",
         "screenshot": null
     },
@@ -44364,7 +44364,7 @@
         "x": 531.25,
         "y": 473.84375,
         "name": "Liberty City Penetrators card: Noah Marcus",
-        "type": "card-liberty-city-penetrators",
+        "type": "Liberty City Penetrators card",
         "description": "In the garage.",
         "screenshot": "screenshots/gta6-card-liberty-city-penetrators-009.webp"
     },
@@ -44374,7 +44374,7 @@
         "x": 285.8125,
         "y": 405.25,
         "name": "Los Santos Corkers card: Si-Woo Choo",
-        "type": "card-los-santos-corkers",
+        "type": "Los Santos Corkers card",
         "description": "In the building.",
         "screenshot": null
     },
@@ -44384,7 +44384,7 @@
         "x": 287.125,
         "y": 402.34375,
         "name": "Backyard Wrestling card: Judas Sterling",
-        "type": "card-backyard-wrestling",
+        "type": "Backyard Wrestling card",
         "description": "In the yellow box.",
         "screenshot": null
     },
@@ -44394,7 +44394,7 @@
         "x": 282.5625,
         "y": 412.25,
         "name": "Vice City Flamingos card: Bill Norton",
-        "type": "card-vice-city-flamingos",
+        "type": "Vice City Flamingos card",
         "description": "On the roof, in the yellow box.",
         "screenshot": null
     },
@@ -44404,7 +44404,7 @@
         "x": 414.96875,
         "y": 389.96875,
         "name": "Los Santos Panic card: Chibuike Bello",
-        "type": "card-los-santos-panic",
+        "type": "Los Santos Panic card",
         "description": "In the middle trailer, on the fridge.",
         "screenshot": "screenshots/gta6-card-los-santos-panic-007.webp"
     },
@@ -44414,7 +44414,7 @@
         "x": 416.3125,
         "y": 391.28125,
         "name": "Ed Comics Universe card: Capsule",
-        "type": "card-ed-comics",
+        "type": "Ed Comics card",
         "description": "On top of the toilet tank.",
         "screenshot": "screenshots/gta6-card-ed-comics-009.webp"
     },
@@ -44444,7 +44444,7 @@
         "x": 412.625,
         "y": 394.875,
         "name": "Vice City Manatees card: Georgie Macklerath (Gold)",
-        "type": "card-vice-city-manatees",
+        "type": "Vice City Manatees card",
         "description": "In the garage, by the wall.",
         "screenshot": "screenshots/gta6-card-vice-city-manatees-008.webp"
     },
@@ -44474,7 +44474,7 @@
         "x": 290.40625,
         "y": 497.8125,
         "name": "Liberty City Penetrators card: Remy Herbert (Standard)",
-        "type": "card-liberty-city-penetrators",
+        "type": "Liberty City Penetrators card",
         "description": "In the garage with the gym, on the countertop in the back right corner.",
         "screenshot": "screenshots/gta6-card-liberty-city-penetrators-010.webp"
     },

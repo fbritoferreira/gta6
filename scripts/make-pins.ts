@@ -22,6 +22,7 @@ export const PINS: Record<string, [body: string, glyph: string, glyphColour: str
   "public-transport": ["#8ecae6", "train-front", INK],
   "message-bottle": ["#48cae4", "scroll-text", "#ffffff"],
   cinema: ["#3c096c", "clapperboard", "#ffd166"],
+  "ahol-street-art": ["#06d6a0", "spray-can", INK],
 };
 
 // 56 x 64: rounded body from (3,3) to (53,51), tail tip at (28,61).
