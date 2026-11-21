@@ -314,7 +314,6 @@
         "description": "A shopping mall in Waning Sands, Leonard County.",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -1204,7 +1203,6 @@
         "description": "A gas station in Waning Sands.",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -1704,7 +1702,6 @@
         "description": "An airfield in Sundown, Waning Sands.",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -1857,7 +1854,6 @@
         "description": "A train station in Waning Sands. Its position is estimated from the trailers and screenshots.",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -2047,7 +2043,6 @@
         "description": "A gas station in Waning Sands.",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -2061,7 +2056,6 @@
         "description": "A police station in Waning Sands.",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -2255,7 +2249,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -3242,7 +3235,6 @@
         "description": "Boutique retailer selling everyday attire, footwear, and accessories.; Style: Casual",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -3256,7 +3248,6 @@
         "description": "Clothing and lifestyle store selling everyday attire, footwear, and accessories.; Style: Casual",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -3410,7 +3401,6 @@
         "description": "Retail chain selling athletic clothing, footwear, and accessories.; Style: Sportswear",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -3550,7 +3540,6 @@
         "description": "Fashion retailer selling high-end clothes, footwear, and accessories.; Style: Formal",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -4302,7 +4291,6 @@
         "description": "Fast-food chain popular for its Mexican-inspired culinary creations, with dine-in and drive-thru options.; Security: Low; Take value: $500 - $2,000",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -4316,7 +4304,6 @@
         "description": "South Leonida's favorite fast food chain for Latin-Caribbean inspired dishes, with dine-in and drive-thru options.; Security: Low; Take value: $500 - $2,000",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -4621,7 +4608,6 @@
         "description": "Shoe store specializing in sneakers and accessories.",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -4635,7 +4621,6 @@
         "description": "High-end shoe store specializing in dress shoes, boots, and sandals.",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -6009,7 +5994,6 @@
         "description": "Garage offering repairs and resprays to lower recognition. They also buy and register vehicles with standard trackers.",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -6594,7 +6578,6 @@
         "description": "Large, low-end jewelry store with a range of merchandise.; Security: Medium; Take value: $14,000 - $25,000",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -6608,7 +6591,6 @@
         "description": "Large, high-end jewelry store with luxury pieces for wealthy clientele.; Security: Medium; Take value: $14,000 - $25,000",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -8171,7 +8153,6 @@
         "description": "",
         "screenshot": null,
         "area": "Gloriana Key",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -8185,7 +8166,6 @@
         "description": "",
         "screenshot": null,
         "area": "Gloriana Key",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -8199,7 +8179,6 @@
         "description": "",
         "screenshot": null,
         "area": "Gloriana Key",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -8325,7 +8304,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -9382,7 +9360,6 @@
         "description": "",
         "screenshot": null,
         "area": "Gloriana Key",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -9424,7 +9401,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -9438,7 +9414,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -10089,7 +10064,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -11912,7 +11886,6 @@
         "description": "",
         "screenshot": null,
         "area": "Gloriana Key",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -12186,7 +12159,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -12200,7 +12172,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -12214,7 +12185,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -13530,6 +13500,16 @@
         "source_urls": []
     },
     {
+        "id": "atm-006",
+        "kind": "shop",
+        "x": 312.9,
+        "y": 400.6,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
         "id": "atm-007",
         "kind": "shop",
         "x": 313,
@@ -13558,6 +13538,16 @@
         "source_urls": []
     },
     {
+        "id": "atm-009",
+        "kind": "shop",
+        "x": 314.3,
+        "y": 409.5,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
         "id": "atm-010",
         "kind": "shop",
         "x": 506.5,
@@ -13567,7 +13557,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -13581,9 +13570,18 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
+    },
+    {
+        "id": "atm-012",
+        "kind": "shop",
+        "x": 506.3,
+        "y": 416.1,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
     },
     {
         "id": "atm-013",
@@ -13595,9 +13593,18 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
+    },
+    {
+        "id": "atm-014",
+        "kind": "shop",
+        "x": 507.9,
+        "y": 416.7,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
     },
     {
         "id": "atm-015",
@@ -13609,9 +13616,18 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
+    },
+    {
+        "id": "atm-016",
+        "kind": "shop",
+        "x": 509.1,
+        "y": 417.2,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
     },
     {
         "id": "atm-017",
@@ -13763,6 +13779,16 @@
         "region": "vice",
         "confidence": "community",
         "source_urls": []
+    },
+    {
+        "id": "atm-028",
+        "kind": "shop",
+        "x": 510,
+        "y": 452,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
     },
     {
         "id": "atm-029",
@@ -13933,6 +13959,16 @@
         "source_urls": []
     },
     {
+        "id": "atm-041",
+        "kind": "shop",
+        "x": 499.8,
+        "y": 472.6,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
         "id": "atm-042",
         "kind": "shop",
         "x": 490.9,
@@ -13945,6 +13981,16 @@
         "region": "vice",
         "confidence": "community",
         "source_urls": []
+    },
+    {
+        "id": "atm-043",
+        "kind": "shop",
+        "x": 491.6,
+        "y": 474.2,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
     },
     {
         "id": "atm-044",
@@ -13973,6 +14019,16 @@
         "region": "vice",
         "confidence": "community",
         "source_urls": []
+    },
+    {
+        "id": "atm-046",
+        "kind": "shop",
+        "x": 492.2,
+        "y": 474.9,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
     },
     {
         "id": "atm-047",
@@ -14045,6 +14101,16 @@
         "source_urls": []
     },
     {
+        "id": "atm-052",
+        "kind": "shop",
+        "x": 567.8,
+        "y": 476.3,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
         "id": "atm-053",
         "kind": "shop",
         "x": 346,
@@ -14056,6 +14122,16 @@
         "region": "keys",
         "confidence": "community",
         "source_urls": []
+    },
+    {
+        "id": "atm-054",
+        "kind": "shop",
+        "x": 345.6,
+        "y": 478.3,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
     },
     {
         "id": "atm-055",
@@ -14351,6 +14427,56 @@
         "source_urls": []
     },
     {
+        "id": "atm-076",
+        "kind": "shop",
+        "x": 488.1,
+        "y": 496.9,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-077",
+        "kind": "shop",
+        "x": 488.5,
+        "y": 497.1,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-078",
+        "kind": "shop",
+        "x": 487.6,
+        "y": 497.3,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-079",
+        "kind": "shop",
+        "x": 491.1,
+        "y": 497.4,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-080",
+        "kind": "shop",
+        "x": 487.3,
+        "y": 497.7,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
         "id": "atm-081",
         "kind": "shop",
         "x": 471.5,
@@ -14589,6 +14715,16 @@
         "source_urls": []
     },
     {
+        "id": "atm-098",
+        "kind": "shop",
+        "x": 562.4,
+        "y": 505.6,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
         "id": "atm-099",
         "kind": "shop",
         "x": 450.3,
@@ -14645,6 +14781,26 @@
         "source_urls": []
     },
     {
+        "id": "atm-103",
+        "kind": "shop",
+        "x": 484.1,
+        "y": 508.8,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-104",
+        "kind": "shop",
+        "x": 483.6,
+        "y": 509.3,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
         "id": "atm-105",
         "kind": "shop",
         "x": 485.8,
@@ -14657,6 +14813,16 @@
         "region": "vice",
         "confidence": "community",
         "source_urls": []
+    },
+    {
+        "id": "atm-106",
+        "kind": "shop",
+        "x": 485.9,
+        "y": 510,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
     },
     {
         "id": "atm-107",
@@ -14841,6 +15007,36 @@
         "source_urls": []
     },
     {
+        "id": "atm-120",
+        "kind": "shop",
+        "x": 493.9,
+        "y": 521.3,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-121",
+        "kind": "shop",
+        "x": 493.9,
+        "y": 521.6,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-122",
+        "kind": "shop",
+        "x": 493.6,
+        "y": 521.8,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
         "id": "atm-123",
         "kind": "shop",
         "x": 522.8,
@@ -14881,6 +15077,16 @@
         "region": "vice",
         "confidence": "community",
         "source_urls": []
+    },
+    {
+        "id": "atm-126",
+        "kind": "shop",
+        "x": 486.9,
+        "y": 525.9,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
     },
     {
         "id": "atm-127",
@@ -14980,6 +15186,36 @@
         "source_urls": []
     },
     {
+        "id": "atm-134",
+        "kind": "shop",
+        "x": 439.8,
+        "y": 534.8,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-135",
+        "kind": "shop",
+        "x": 439.7,
+        "y": 535.5,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-136",
+        "kind": "shop",
+        "x": 439.7,
+        "y": 535.7,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
         "id": "atm-137",
         "kind": "shop",
         "x": 443.1,
@@ -14992,6 +15228,16 @@
         "region": "vice",
         "confidence": "community",
         "source_urls": []
+    },
+    {
+        "id": "atm-138",
+        "kind": "shop",
+        "x": 439.3,
+        "y": 535.8,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
     },
     {
         "id": "atm-139",
@@ -15019,6 +15265,46 @@
         "region": "vice",
         "confidence": "community",
         "source_urls": []
+    },
+    {
+        "id": "atm-141",
+        "kind": "shop",
+        "x": 434.8,
+        "y": 536.4,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-142",
+        "kind": "shop",
+        "x": 439.3,
+        "y": 536.4,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-143",
+        "kind": "shop",
+        "x": 439.6,
+        "y": 536.6,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-144",
+        "kind": "shop",
+        "x": 443,
+        "y": 536.6,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
     },
     {
         "id": "atm-145",
@@ -15074,6 +15360,16 @@
         "region": "vice",
         "confidence": "community",
         "source_urls": []
+    },
+    {
+        "id": "atm-149",
+        "kind": "shop",
+        "x": 439.3,
+        "y": 537.9,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
     },
     {
         "id": "atm-150",
@@ -15324,6 +15620,26 @@
         "region": "vice",
         "confidence": "community",
         "source_urls": []
+    },
+    {
+        "id": "atm-168",
+        "kind": "shop",
+        "x": 472.5,
+        "y": 565.1,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-169",
+        "kind": "shop",
+        "x": 473.3,
+        "y": 565.6,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
     },
     {
         "id": "atm-170",
@@ -16386,7 +16702,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -16442,7 +16757,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -16554,7 +16868,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -16568,7 +16881,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -16596,7 +16908,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -16637,7 +16948,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -17352,7 +17662,6 @@
         "description": "",
         "screenshot": null,
         "area": "Gloriana Key",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -17699,7 +18008,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -21307,7 +21615,6 @@
         "description": "",
         "screenshot": null,
         "area": "Gloriana Key",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -21362,7 +21669,6 @@
         "description": "",
         "screenshot": null,
         "area": "Gloriana Key",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -21390,7 +21696,6 @@
         "description": "",
         "screenshot": null,
         "area": "Gloriana Key",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -21641,7 +21946,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -21655,7 +21959,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -21669,7 +21972,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -23375,7 +23677,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -23389,7 +23690,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -23403,7 +23703,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -23816,7 +24115,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -24181,6 +24479,16 @@
         "source_urls": []
     },
     {
+        "id": "ev-charger-030",
+        "kind": "shop",
+        "x": 468.3,
+        "y": 477.3,
+        "name": "Electric Vehicle Charger",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
         "id": "ev-charger-031",
         "kind": "shop",
         "x": 556.3,
@@ -24474,6 +24782,16 @@
         "source_urls": []
     },
     {
+        "id": "ev-charger-052",
+        "kind": "shop",
+        "x": 446,
+        "y": 533.4,
+        "name": "Electric Vehicle Charger",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
         "id": "ev-charger-053",
         "kind": "shop",
         "x": 446,
@@ -24688,7 +25006,6 @@
         "description": "",
         "screenshot": null,
         "area": "Gloriana Key",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -25320,7 +25637,6 @@
         "description": "",
         "screenshot": null,
         "area": "Gloriana Key",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -26473,7 +26789,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -26805,7 +27120,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -27013,7 +27327,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -27843,7 +28156,6 @@
         "description": "",
         "screenshot": null,
         "area": "Gloriana Key",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -27857,7 +28169,6 @@
         "description": "",
         "screenshot": null,
         "area": "Gloriana Key",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -28971,7 +29282,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -28999,7 +29309,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -30830,7 +31139,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -30970,7 +31278,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -31011,7 +31318,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -32349,6 +32655,16 @@
         "source_urls": []
     },
     {
+        "id": "towable-atm-015",
+        "kind": "towatm",
+        "x": 559.6,
+        "y": 455.5,
+        "name": "Towable ATM",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
         "id": "towable-atm-016",
         "kind": "towatm",
         "x": 558.1,
@@ -32403,6 +32719,16 @@
         "region": "vice",
         "confidence": "community",
         "source_urls": []
+    },
+    {
+        "id": "towable-atm-020",
+        "kind": "towatm",
+        "x": 501.3,
+        "y": 461.7,
+        "name": "Towable ATM",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
     },
     {
         "id": "towable-atm-021",
@@ -32712,6 +33038,16 @@
         "source_urls": []
     },
     {
+        "id": "towable-atm-043",
+        "kind": "towatm",
+        "x": 556.1,
+        "y": 501,
+        "name": "Towable ATM",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
         "id": "towable-atm-044",
         "kind": "towatm",
         "x": 496.3,
@@ -32850,6 +33186,16 @@
         "region": "vice",
         "confidence": "community",
         "source_urls": []
+    },
+    {
+        "id": "towable-atm-054",
+        "kind": "towatm",
+        "x": 566.1,
+        "y": 510.4,
+        "name": "Towable ATM",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
     },
     {
         "id": "towable-atm-055",
@@ -33200,6 +33546,16 @@
         "source_urls": []
     },
     {
+        "id": "towable-atm-080",
+        "kind": "towatm",
+        "x": 485.5,
+        "y": 543,
+        "name": "Towable ATM",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
         "id": "towable-atm-081",
         "kind": "towatm",
         "x": 502.4,
@@ -33268,6 +33624,16 @@
         "region": "vice",
         "confidence": "community",
         "source_urls": []
+    },
+    {
+        "id": "towable-atm-086",
+        "kind": "towatm",
+        "x": 478.9,
+        "y": 558.4,
+        "name": "Towable ATM",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
     },
     {
         "id": "towable-atm-087",
@@ -33990,7 +34356,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -34004,7 +34369,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -34085,7 +34449,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -34099,7 +34462,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -34113,7 +34475,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -34127,7 +34488,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -34182,7 +34542,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -34238,7 +34597,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -34252,7 +34610,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -34293,7 +34650,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -34307,7 +34663,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -34321,7 +34676,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -35617,7 +35971,6 @@
         "description": "",
         "screenshot": null,
         "area": "Gloriana Key",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -35684,7 +36037,6 @@
         "description": "",
         "screenshot": null,
         "area": "Gloriana Key",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -35793,7 +36145,6 @@
         "description": "",
         "screenshot": null,
         "area": "Gloriana Key",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -36312,7 +36663,6 @@
         "description": "",
         "screenshot": null,
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -36754,7 +37104,6 @@
         "description": "",
         "screenshot": null,
         "area": "Gloriana Key",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -37235,7 +37584,6 @@
         "description": "",
         "screenshot": null,
         "area": "Gloriana Key",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -39407,7 +39755,6 @@
         "description": "",
         "screenshot": null,
         "area": "Gloriana Key",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -41223,7 +41570,6 @@
         "description": "Drugs to sell: a secret weed grow on the bottom level behind a shutter, and more on a rusted walkway at the top of the seating.",
         "screenshot": null,
         "area": "Gloriana Key",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -41851,7 +42197,6 @@
         "description": "A small island in Vice-Dale County. It appears to be based on Virginia Key in Miami.",
         "screenshot": "screenshots/gta6-city-town-003.webp",
         "area": "Gloriana Key",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -41895,6 +42240,7 @@
         "area": "Key Lento",
         "region": "keys",
         "confidence": "community",
+        "real_life": "Seven Mile Bridge, Florida Keys, FL",
         "source_urls": []
     },
     {
@@ -41949,7 +42295,6 @@
         "description": "A town in Leonard County, in the north east of Leonida. It appears to be based on the Florida cities of Pembroke Pines and Fort Lauderdale.",
         "screenshot": "screenshots/gta6-city-town-010.webp",
         "area": "Waning Sands",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -42194,7 +42539,6 @@
         "description": "From the rusty walkway at the top of the stadium, go up the ladder next to the vagrants. The card sits next to a hammer and some lawn gnomes.",
         "screenshot": null,
         "area": "Gloriana Key",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -42236,7 +42580,6 @@
         "description": "On the bottom level, behind the seating, there is a small dark alley. On the east side, the card is under a half-open metal garage door.",
         "screenshot": null,
         "area": "Gloriana Key",
-        "region": null,
         "confidence": "community",
         "source_urls": []
     },
@@ -42305,9 +42648,9 @@
         "description": "Three \"ecologists\" are shooting pumpkins. They challenge you to a $250 contest: shoot the most iguanas after they release them from a cage.",
         "screenshot": null,
         "area": "Port Gellhorn",
-        "region": "gellhorn",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "gellhorn"
     },
     {
         "id": "magazine-047",
@@ -42319,9 +42662,9 @@
         "description": "Magazine on the table. Unlocks the unique Tee'd Off Dino tattoo.",
         "screenshot": "screenshots/gta6-magazine-047.webp",
         "area": "Ambrosia",
-        "region": "ambrosia",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "ambrosia"
     },
     {
         "id": "weapon-spawn-033",
@@ -42333,9 +42676,9 @@
         "description": "Unique bat. Pick it up next to the red mesh cage near Dino Golf.",
         "screenshot": "screenshots/gta6-weapon-spawn-033.webp",
         "area": "Ambrosia",
-        "region": "ambrosia",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "ambrosia"
     },
     {
         "id": "card-backyard-wrestling-009",
@@ -42347,9 +42690,9 @@
         "description": "In a yellow box inside the garage.",
         "screenshot": null,
         "area": "Port Gellhorn",
-        "region": "gellhorn",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "gellhorn"
     },
     {
         "id": "weapon-spawn-034",
@@ -42361,9 +42704,9 @@
         "description": "Assault rifle pickup.",
         "screenshot": null,
         "area": "Port Gellhorn",
-        "region": "gellhorn",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "gellhorn"
     },
     {
         "id": "card-vice-city-narcos-007",
@@ -42375,9 +42718,9 @@
         "description": "On the basketball court, next to a white backpack and a green bench.",
         "screenshot": null,
         "area": "Vice City",
-        "region": "vice",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "vice"
     },
     {
         "id": "random-event-063",
@@ -42389,9 +42732,9 @@
         "description": "A car sits on the road with all doors open, headlights flashing and a glitching radio. Further along, a bright light in a field: a naked middle-aged woman being beamed up by a tractor beam.",
         "screenshot": null,
         "area": "Port Gellhorn",
-        "region": "gellhorn",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "gellhorn"
     },
     {
         "id": "car-meet-001",
@@ -42403,9 +42746,9 @@
         "description": "",
         "screenshot": null,
         "area": "Vice City",
-        "region": "vice",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "vice"
     },
     {
         "id": "helipad-001",
@@ -42417,9 +42760,9 @@
         "description": "Helipad of the medical center in Ambrosia.",
         "screenshot": null,
         "area": "Ambrosia",
-        "region": "ambrosia",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "ambrosia"
     },
     {
         "id": "random-event-064",
@@ -42431,9 +42774,9 @@
         "description": "A mechanic fixing his car for the mudslide race asks you to sit in the driver's seat and rev the engine a few times until it is fixed.",
         "screenshot": "screenshots/gta6-random-event-064.webp",
         "area": "Port Gellhorn",
-        "region": "gellhorn",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "gellhorn"
     },
     {
         "id": "weapon-spawn-035",
@@ -42444,9 +42787,9 @@
         "type": "Weapon pickup",
         "description": "Inside the derailed train.",
         "screenshot": null,
-        "region": "keys",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "keys"
     },
     {
         "id": "safe-051",
@@ -42458,9 +42801,9 @@
         "description": "In the house, next to the bedroom.",
         "screenshot": null,
         "area": "Key Lento",
-        "region": "keys",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "keys"
     },
     {
         "id": "card-delights-011",
@@ -42471,9 +42814,9 @@
         "type": "card-delights",
         "description": "In a lockbox beside the vagrant on the porch.",
         "screenshot": null,
-        "region": "keys",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "keys"
     },
     {
         "id": "random-event-065",
@@ -42485,9 +42828,9 @@
         "description": "A man in a fox costume cornered by the police.",
         "screenshot": null,
         "area": "Vice City",
-        "region": "vice",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "vice"
     },
     {
         "id": "meteorite-019",
@@ -42498,9 +42841,9 @@
         "type": "Meteorite",
         "description": "Climb up to the bell.",
         "screenshot": null,
-        "region": "vice",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "vice"
     },
     {
         "id": "meteorite-020",
@@ -42512,9 +42855,9 @@
         "description": "At the abandoned campsite by the river: the meteorite is under the upside-down boat, next to the fire. Easy to see from the river.",
         "screenshot": null,
         "area": "Capri",
-        "region": "capri",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "capri"
     },
     {
         "id": "standout-vehicle-105",
@@ -42526,9 +42869,9 @@
         "description": "A racing-style Rebel found in the barn.",
         "screenshot": "screenshots/gta6-standout-vehicle-105.webp",
         "area": "Port Gellhorn",
-        "region": "gellhorn",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "gellhorn"
     },
     {
         "id": "vehicle-spawn-013",
@@ -42540,9 +42883,9 @@
         "description": "Classic convertible just outside the barn with the Karin Cheshire Rebel.",
         "screenshot": "screenshots/gta6-vehicle-spawn-013.webp",
         "area": "Port Gellhorn",
-        "region": "gellhorn",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "gellhorn"
     },
     {
         "id": "meteorite-021",
@@ -42553,9 +42896,9 @@
         "type": "Meteorite",
         "description": "Follow the underwater diving route through the cave: one meteorite is at the cave entrance and the other at the exit, just before the lake.",
         "screenshot": null,
-        "region": "keys",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "keys"
     },
     {
         "id": "weapon-spawn-036",
@@ -42567,9 +42910,9 @@
         "description": "On top of the hay bales.",
         "screenshot": "screenshots/gta6-weapon-spawn-036.webp",
         "area": "Port Gellhorn",
-        "region": "gellhorn",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "gellhorn"
     },
     {
         "id": "meteorite-022",
@@ -42581,9 +42924,19 @@
         "description": "Near the boat party, where the grass meets the sand.",
         "screenshot": null,
         "area": "Capri",
-        "region": "capri",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "capri"
+    },
+    {
+        "id": "meteorite-023",
+        "kind": "meteorite",
+        "x": 287.875,
+        "y": 478.25,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "Right of the boat party, on the sand where the tide comes in.",
+        "screenshot": null
     },
     {
         "id": "card-ed-comics-006",
@@ -42595,9 +42948,9 @@
         "description": "On the shelf inside the building, through the back entrance.",
         "screenshot": "screenshots/gta6-card-ed-comics-006.webp",
         "area": "Vice City",
-        "region": "vice",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "vice"
     },
     {
         "id": "meteorite-024",
@@ -42608,9 +42961,9 @@
         "type": "Meteorite",
         "description": "Inside the beached whale. Careful: when you approach it bursts, spilling a wheelchair, cocaine packages and the meteorite onto the beach.",
         "screenshot": null,
-        "region": "hamlet",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "hamlet"
     },
     {
         "id": "meteorite-025",
@@ -42621,9 +42974,9 @@
         "type": "Meteorite",
         "description": "Between the two trees on the grass by the beach. Easier to spot from a boat.",
         "screenshot": null,
-        "region": "hamlet",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "hamlet"
     },
     {
         "id": "collectible-card-115",
@@ -42635,9 +42988,9 @@
         "description": "On the roof of the gas station.",
         "screenshot": null,
         "area": "Port Gellhorn",
-        "region": "gellhorn",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "gellhorn"
     },
     {
         "id": "weapon-spawn-037",
@@ -42649,9 +43002,9 @@
         "description": "Unique weapon at the back of the garage.",
         "screenshot": "screenshots/gta6-weapon-spawn-037.webp",
         "area": "Vice City",
-        "region": "vice",
         "confidence": "community",
-        "source_urls": []
+        "source_urls": [],
+        "region": "vice"
     },
     {
         "id": "meteorite-026",

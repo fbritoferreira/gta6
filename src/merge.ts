@@ -14,7 +14,7 @@ const norm = (s: string) =>
 /**
  * Locations plus the places that aren't already one. A duplicated place folds into the nearest location
  * of the same name: the location keeps its pin, category, screenshot and description and gains the
- * place's area, real-world counterpart and service. `merged` maps each folded place id to its location,
+ * place's area (over its own district-level one), real-world counterpart and service. `merged` maps each folded place id to its location,
  * so old ?id= links and location pages still lead somewhere.
  */
 export function mergePlaces<T extends Spot>(locations: T[], places: T[]) {
@@ -33,10 +33,12 @@ export function mergePlaces<T extends Spot>(locations: T[], places: T[]) {
       continue;
     }
     const l = out.get(twin.id)!;
-    l.area ||= p.area;
+    l.area = p.area || l.area; // the place's area is finer ("Washington Beach, Vice Beach") than a district
     l.real_life ||= p.real_life;
     l.service ||= p.service;
     merged.set(p.id, twin.id);
   }
-  return { items: [...out.values(), ...kept], merged };
+  // Places first: places.json changes only by hand, while the sync appends to locations.json, so the
+  // list grows at the end and progress links (src/progress.ts) keep reading after a sync.
+  return { items: [...kept, ...out.values()], merged };
 }

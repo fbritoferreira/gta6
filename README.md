@@ -38,8 +38,9 @@ haven't marked found, within the current district filter.
 
 "Found" progress is kept in the browser. **Share progress** copies a link (`?progress=...`, one character per 6 trackable locations, about 300 today) that
 carries it to another device: opening the link asks whether to replace that device's progress or add to it. The link
-holds one bit per trackable location in id order, behind a checksum of the id list, so a link made before the data
-changed is reported as outdated instead of marking the wrong locations (`src/progress.ts`). There are no accounts and
+holds one bit per trackable location in data order, plus how many it covers and a checksum of those, so it keeps
+working after a data sync adds locations (they start unfound); if earlier entries changed, it is reported as outdated
+instead of marking the wrong locations (`src/progress.ts`). There are no accounts and
 nothing is sent to a server.
 
 ## Use the data
@@ -205,7 +206,8 @@ Corrections and new locations are welcome as pull requests.
 - No Git needed for screenshots: on the map, open the pin and choose **Add a screenshot** (or **Replace screenshot**).
   It opens an issue with the location filled in; drag your image into it.
 - Real Florida spots: a place's popup links its real-life counterpart to Google Maps, so you can compare it in
-  Street View. **Suggest a real-world spot** (or **Wrong real-world spot?**) opens an issue for the match; include how you
+  Street View (to the exact spot when `real_life_lat`/`real_life_lng` are set, and straight into Street View when
+  `real_life_street_view_pano` is). **Suggest a real-world spot** (or **Wrong real-world spot?**) opens an issue for the match; include how you
   know, such as a game screenshot or trailer timestamp next to a Street View link. Matches are reviewed before they go
   in.
 - To add a screenshot yourself, put it in `public/screenshots/` named after the location's `id` (`.webp` preferred) and set
@@ -213,7 +215,8 @@ Corrections and new locations are welcome as pull requests.
 - To add a pin, put a 56×64 `.webp` in `public/icons/pins/` named after the location type and add the name to
   `index.json`.
 - `pnpm build` checks that every JSON file parses, every screenshot file is used, every `screenshot` exists and is written as `screenshots/<file>` (no leading `/`), every `kind` is in `categories.json` (and none is `other` where the id type is usually filed elsewhere), no
-  `id` repeats and the pin list matches the files. CI runs it, plus lint, format and tests, on every pull request.
+  `id` repeats and the pin list matches the files. CI runs it, plus lint, format and tests, on every pull request, and
+  checks every commit has a real author (not a placeholder such as a `.local` email).
 - Each pull request gets a temporary preview on GitHub Pages under `pr-preview/pr-<number>/`. The link is posted on the
   PR and the preview is deleted when the PR closes. Merges to `main` deploy to the live site.
 
