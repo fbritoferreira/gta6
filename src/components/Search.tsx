@@ -1,4 +1,4 @@
-import { createMemo, createSignal, For, Show } from "solid-js";
+import { createMemo, createSignal, For, onSettled, Show } from "solid-js";
 import { buildIndex, search } from "../search";
 import { useApp } from "../state";
 import { SearchIcon } from "./icons";
@@ -9,7 +9,7 @@ type Group = { name: string; options: Option[] };
 /**
  * Finds districts, categories and locations by anything a player might type: a name, what it is, its
  * district or area, or the real-world place it is based on. Up and down move through the results,
- * Enter picks one, Escape clears.
+ * Enter picks one, Escape clears. "/" anywhere on the page jumps here.
  */
 export function Search() {
   const app = useApp();
@@ -18,6 +18,20 @@ export function Search() {
   const index = buildIndex(app.data.items, (kind) => app.data.catBy[kind].name);
   const districts = app.data.districts.map((d) => d.name);
   const categories = app.data.shownKinds.map((k) => ({ kind: k.key, name: k.name }));
+  let input!: HTMLInputElement;
+
+  onSettled(() => {
+    const onSlash = (e: KeyboardEvent) => {
+      const t = e.target as HTMLElement;
+      if (e.key !== "/" || e.ctrlKey || e.metaKey || e.altKey) return;
+      if (t.isContentEditable || ["INPUT", "TEXTAREA", "SELECT"].includes(t.tagName)) return;
+      e.preventDefault();
+      app.setPanelOpen(true);
+      input.focus();
+    };
+    document.addEventListener("keydown", onSlash);
+    return () => document.removeEventListener("keydown", onSlash);
+  });
 
   const results = createMemo(() => search(index, query(), districts, categories));
   const groups = createMemo((): Group[] => {
@@ -80,6 +94,8 @@ export function Search() {
         <SearchIcon />
         <input
           id="q"
+          ref={input}
+          aria-keyshortcuts="/"
           type="search"
           role="combobox"
           aria-label="Search the map"
@@ -96,6 +112,9 @@ export function Search() {
           }}
           onKeyDown={onKeyDown}
         />
+        <kbd class="search-key" aria-hidden="true">
+          /
+        </kbd>
       </div>
       <Show when={results().fuzzy && options().length > 0}>
         <p class="result-note" role="status">

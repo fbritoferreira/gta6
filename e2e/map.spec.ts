@@ -221,3 +221,13 @@ test("a place that is also a synced location shows once, with both sets of detai
   await expect(popup.locator(".pop-report", { hasText: "real-world spot" })).toBeVisible();
   await expect(page.locator(".leaflet-popup")).toHaveCount(1);
 });
+
+test("pressing / jumps to the search box", async ({ page, isMobile }) => {
+  test.skip(isMobile, "a keyboard shortcut");
+  await page.goto("./");
+  await mapReady(page);
+  await page.locator("#map").click({ position: { x: 600, y: 400 } });
+  await page.keyboard.press("/");
+  await expect(page.locator("#q")).toBeFocused();
+  await expect(page.locator("#q")).toHaveValue(""); // the "/" itself is not typed
+});
