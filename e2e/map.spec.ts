@@ -176,3 +176,20 @@ test("a progress link from older map data says so instead of loading", async ({ 
   await page.goto("./?progress=zzzzzz.AAAA");
   await expect(page.getByRole("dialog")).toContainText("older version of the map data");
 });
+
+test("after one visit the map opens with no connection", async ({ page, context }) => {
+  await page.goto("./?view=3/505/480");
+  await mapReady(page);
+  await page.evaluate(() => navigator.serviceWorker.ready);
+  await expect.poll(() => page.evaluate(() => !!navigator.serviceWorker.controller)).toBe(true);
+  // Reload once while online so the page, its built files and the tiles in view go through the worker.
+  await page.reload();
+  await mapReady(page);
+  await expect(page.locator(".leaflet-tile-loaded").first()).toBeVisible();
+
+  await context.setOffline(true);
+  await page.goto("./?view=3/505/480&district=Hamlet");
+  await mapReady(page);
+  await expect(page.locator(".leaflet-tile-loaded").first()).toBeVisible();
+  await context.setOffline(false);
+});

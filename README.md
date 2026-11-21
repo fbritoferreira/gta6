@@ -25,6 +25,11 @@ Locations also have their own pages for search engines, at `https://fbritoferrei
 build: plain HTML with the name, district, screenshot, real-life counterpart, nearby locations and an "Open on the
 map" link. Only locations with a description or screenshot, and places with a real-world address, get a page.
 
+The map keeps working with no signal. After one visit, `public/sw.js` (a service worker) answers from the browser's
+cache when the network doesn't: the page and data are fetched fresh when online, and tiles, pins and screenshots are
+kept once viewed. Areas you have never zoomed into stay blank offline. It only runs in the built site, not in
+`pnpm dev`.
+
 "Found" progress is kept in the browser. **Share progress** copies a link (`?progress=...`, about 300 characters) that
 carries it to another device: opening the link asks whether to replace that device's progress or add to it. The link
 holds one bit per trackable location in id order, behind a checksum of the id list, so a link made before the data
@@ -169,7 +174,7 @@ Open the built site through `pnpm preview`, not by double-clicking `dist/index.h
 and `fetch` on `file://` pages.
 
 ```
-public/            served as is: data/, tiles/, icons/, screenshots/
+public/            served as is: data/, tiles/, icons/, screenshots/, sw.js
 src/               the map app (Solid 2 + Leaflet)
   map.ts           the Leaflet map, drawn on one canvas, driven imperatively
   state.ts         shared state: URL-backed filters, found progress, panel
