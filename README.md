@@ -12,7 +12,7 @@ No ads and no paywall. If the map helps you, you can [buy me a coffee](https://b
 Search matches every word you type against a location's name, type, category, district, area, real-world
 counterpart and description, ignoring case and accents (and, when nothing matches as typed, allowing a typo or two), so "ritz" finds the hotels based on Ritz-Carlton buildings and
 "card key lento" finds the cards in Key Lento. Results come in three groups: districts, categories (such as "WAiNK
-scans") and locations. Up and down move through them, Enter picks one and Escape clears the box. Picking a category
+scans") and locations. Press `/` anywhere to jump to the box. Up and down move through the results, Enter picks one and Escape clears the box. Picking a category
 shows only that category. Picking a district, or clicking one on the map, shows only the locations inside it; the
 "Only <district>" chip in the panel counts how many of its collectibles and activities you have found ("Only Hamlet, 12
 of 71 found") and shows everything again when clicked. A `?district=` link opens zoomed to that district.

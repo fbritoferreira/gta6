@@ -139,6 +139,28 @@ body.closed #side {
   color: var(--haze);
   pointer-events: none;
 }
+/* The "/" shortcut hint: keyboard users only, and only while the box is empty and unfocused. */
+.search-key {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  translate: 0 -50%;
+  padding: 1px 7px;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  color: var(--haze);
+  font: 12px/1.4 inherit;
+  pointer-events: none;
+}
+.search:focus-within .search-key,
+.search:has(#q:not(:placeholder-shown)) .search-key {
+  display: none;
+}
+@media (pointer: coarse) {
+  .search-key {
+    display: none;
+  }
+}
 #results {
   margin: 6px 0 0;
   max-height: 46vh;
