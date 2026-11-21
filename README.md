@@ -39,6 +39,20 @@ for (const l of locations) L.marker([-l.y, l.x]).bindPopup(l.name).addTo(map);
 
 Credit "Open GTA 6 Map" with a link to this repository; see [License](#license).
 
+### Maps for gta.wiki
+
+Every build also exports the collectibles and activities as [gta.wiki](https://gta.wiki/) interactive maps, in the
+same format as the wiki's own maps (for example `Map:GTA Vice City: Hidden Packages`): one page per category, popups
+reading `Location: [[District]]`, and one shared map image.
+
+- `https://fbritoferreira.github.io/gta6/wiki/index.json`: the page titles and where to get each one
+- `https://fbritoferreira.github.io/gta6/wiki/maps/<kind>.json`: the JSON for a `Map:GTA VI: ...` page
+- `https://fbritoferreira.github.io/gta6/wiki/Leonida-GTAVI-Map.jpg`: the map image, uploaded as
+  `File:Leonida-GTAVI-Map.jpg`
+
+`scripts/export-wiki.ts` builds them; Places (shops, food, transport) are left out, as the wiki maps only collectibles
+and activities.
+
 ## Embed the map
 
 Click **Embed map** on the map to get an `<iframe>` with your current base map, categories and view, or build the URL

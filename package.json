@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "pnpm districts && pnpm validate && tsc --noEmit && vite build",
+    "build": "pnpm districts && pnpm validate && tsc --noEmit && vite build && pnpm export:wiki",
     "preview": "vite preview",
     "typecheck": "tsc --noEmit",
     "lint": "eslint .",
@@ -17,7 +17,8 @@
     "validate": "node scripts/validate-data.ts",
     "districts": "node scripts/build-districts.ts",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "test:watch": "vitest",
+    "export:wiki": "node scripts/export-wiki.ts"
   },
   "dependencies": {
     "@solidjs/web": "2.0.3",
@@ -39,6 +40,7 @@
     "jiti": "2.7.0",
     "polyclip-ts": "0.16.8",
     "prettier": "3.10.1",
+    "sharp": "0.35.5",
     "simplify-js": "1.2.4",
     "typescript": "6.0.3",
     "typescript-eslint": "8.73.0",
