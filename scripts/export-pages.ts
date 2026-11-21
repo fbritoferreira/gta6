@@ -11,6 +11,7 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import sharp from "sharp";
 import { districtAt, realWorldMapUrl, toGame, type Outline } from "../src/geo.ts";
 import { mergePlaces } from "../src/merge.ts";
+import { breadcrumbLd, buildHubs, slug } from "./export-hubs.ts";
 
 export type Entry = {
   service?: string;
@@ -25,7 +26,7 @@ export type Entry = {
   area?: string;
   real_life?: string;
 };
-type Kind = { key: string; name: string; colour: string };
+type Kind = { key: string; name: string; colour: string; group?: string };
 
 const NEARBY = 5;
 const DESCRIPTION_MAX = 155;
@@ -106,6 +107,11 @@ export function buildPage(
 <meta property="og:image" content="${esc(image)}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#0F1D30">
+${breadcrumbLd([
+  ["Open GTA 6 Map", `${siteUrl}/`],
+  [kind.name, `${siteUrl}/c/${slug(kind.name)}/`],
+  [it.name, url],
+])}
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='%23FF5FA2'/><circle cx='50' cy='50' r='18' fill='%23fff'/></svg>">
 <style>
 :root{--gulf:#0F1D30;--deep:#091321;--bone:#F5EFE6;--sand:#F2D7A6;--haze:#8C9BB5;--teal:#3FE0D0;--line:rgba(245,239,230,.12)}
@@ -122,7 +128,7 @@ h2{font-size:18px;margin:28px 0 8px;color:var(--sand)}ul{padding-left:20px}foote
 </head>
 <body>
 <main>
-<p class="crumb"><a href="../../">Open GTA 6 Map</a> / ${esc(district)}</p>
+<p class="crumb"><a href="../../">Open GTA 6 Map</a> / ${district === "Leonida" ? esc(district) : `<a href="../../d/${slug(district)}/">${esc(district)}</a>`} / <a href="../../c/${slug(kind.name)}/">${esc(kind.name)}</a></p>
 <h1>${esc(it.name)}</h1>
 <p class="kind"><span class="dot" aria-hidden="true"></span>${esc(category)} in ${esc(district)}</p>
 ${it.screenshot ? `<img src="../../${esc(it.screenshot)}"${shot ? ` width="${shot.width}" height="${shot.height}"` : ""} alt="${esc(`Where to find ${it.name}`)}" loading="lazy">` : ""}
@@ -185,8 +191,9 @@ export function buildRedirect(to: string, siteUrl: string) {
 `;
 }
 
-export function buildSitemap(ids: string[], siteUrl: string) {
-  const urls = [`${siteUrl}/`, ...ids.map((id) => `${siteUrl}/l/${id}/`)];
+/** The home page, location pages (by id) and any other pages (paths like "c/meteorite/"). */
+export function buildSitemap(ids: string[], siteUrl: string, paths: string[] = []) {
+  const urls = [`${siteUrl}/`, ...paths.map((p) => `${siteUrl}/${p}`), ...ids.map((id) => `${siteUrl}/l/${id}/`)];
   return `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${urls.map((u) => `  <url><loc>${u}</loc></url>`).join("\n")}
@@ -229,14 +236,40 @@ if (import.meta.main) {
     mkdirSync(`dist/l/${from}`, { recursive: true });
     writeFileSync(`dist/l/${from}/index.html`, buildRedirect(to, siteUrl));
   }
+  // Category, district and browse pages: they link every location, so none is reachable only by sitemap.
+  const hubs = buildHubs(
+    all
+      .filter((it) => kinds.has(it.kind) && /^[A-Za-z0-9-]+$/.test(it.id))
+      .map((it) => ({
+        id: it.id,
+        name: it.name,
+        kind: it.kind,
+        district: districtAt(it.x, it.y, districts) ?? "Leonida",
+        hasPage: paged.has(it.id),
+        // Where it is, when known: many share a name ("Meteorite Fragment"), so the type alone doesn't help.
+        detail: it.description
+          ? it.description.split(/[.;]/)[0].slice(0, 80)
+          : it.type && it.type !== it.name
+            ? it.type
+            : "",
+      })),
+    [...kinds.values()],
+    read<{ groups: string[] }>("public/data/categories.json").groups,
+    siteUrl,
+  );
+  for (const [path, html] of hubs) {
+    mkdirSync(`dist/${path}`, { recursive: true });
+    writeFileSync(`dist/${path}index.html`, html);
+  }
   writeFileSync(
     "dist/sitemap.xml",
     buildSitemap(
       pages.map((p) => p.id),
       siteUrl,
+      hubs.map(([path]) => path),
     ),
   );
   writeFileSync("dist/404.html", buildNotFound(siteUrl));
   writeFileSync("dist/robots.txt", `User-agent: *\nAllow: /\n\nSitemap: ${siteUrl}/sitemap.xml\n`);
-  console.log(`location pages: ${pages.length}, sitemap.xml, robots.txt, 404.html`);
+  console.log(`location pages: ${pages.length}, list pages: ${hubs.length}, sitemap.xml, robots.txt, 404.html`);
 }

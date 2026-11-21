@@ -14,6 +14,9 @@ export function PanelFooter() {
       <button class="btn" type="button" onClick={(e) => void copy(`${BASE}?${app.link()}`, e.currentTarget)}>
         Copy link
       </button>
+      <a class="license" href={`${BASE}browse/`}>
+        Browse
+      </a>
       <a class="license" href={LICENSE_URL} target="_blank" rel="noopener">
         CC BY 4.0
       </a>

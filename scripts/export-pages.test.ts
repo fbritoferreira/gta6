@@ -78,6 +78,10 @@ describe("buildSitemap", () => {
     expect(xml).toContain(`<loc>${site}/</loc>`);
     expect(xml).toContain(`<loc>${site}/l/b-2/</loc>`);
   });
+
+  it("lists other pages too, like the category and district lists", () => {
+    expect(buildSitemap([], site, ["c/meteorites/"])).toContain(`<loc>${site}/c/meteorites/</loc>`);
+  });
 });
 
 describe("labels", () => {
