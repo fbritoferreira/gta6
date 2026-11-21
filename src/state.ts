@@ -2,6 +2,7 @@ import { createContext, createMemo, createSignal, untrack, useContext } from "so
 import type { Data } from "./data";
 import type { MapController } from "./map";
 import { readUrl, writeUrl, type Filters, type Style } from "./url";
+import { decodeProgress, encodeProgress, trackableIds, type Decoded } from "./progress";
 
 export const BASE = location.origin + location.pathname;
 
@@ -36,6 +37,15 @@ export function createAppState(data: Data) {
   const [embedOpen, setEmbedOpen] = createSignal(false);
   const [map, setMap] = createSignal<MapController>();
   const [moves, setMoves] = createSignal(0); // bumps on every pan and zoom, so view-dependent things follow
+  // Progress links: the trackable ids in the order the link's bits follow, and any link we were opened with.
+  const progressIds = trackableIds(data.items, (kind) => !!data.catBy[kind]?.pinnable);
+  const [progressOffer, setProgressOffer] = createSignal<Decoded | undefined>(
+    init.progress ? decodeProgress(init.progress, progressIds) : undefined,
+  );
+  const saveFound = (next: Set<string>) => {
+    setFound(next);
+    store.set("found", [...next]);
+  };
   let pendingFocus: string | undefined = init.id; // a search pick, or ?id=, made before the map is ready
 
   const filters = (): Filters => ({ style: style(), kinds: kinds(), labels: labels(), hideFound: hideFound() });
@@ -76,6 +86,17 @@ export function createAppState(data: Data) {
     setMap,
     moves,
     moved: () => setMoves((n) => n + 1),
+    progressOffer,
+    /** A link that carries this device's found list. */
+    progressLink: () => `${BASE}?progress=${encodeProgress(untrack(found), progressIds)}`,
+    /** Applies the progress from the link we were opened with, replacing or adding to this device's. */
+    takeProgress(mode: "replace" | "add") {
+      const offer = untrack(progressOffer);
+      if (offer?.ok)
+        saveFound(mode === "replace" ? new Set(offer.found) : new Set([...untrack(found), ...offer.found]));
+      setProgressOffer(undefined);
+    },
+    dismissProgress: () => setProgressOffer(undefined),
     filters,
     isFound: (id: string) => untrack(found).has(id),
     /** Returns the new state: Solid 2 batches writes, so reading found() straight after would be stale. */
@@ -83,8 +104,7 @@ export function createAppState(data: Data) {
       const next = new Set(untrack(found));
       const on = !next.delete(id);
       if (on) next.add(id);
-      setFound(next);
-      store.set("found", [...next]);
+      saveFound(next);
       return on;
     },
     showKind: (key: string, on: boolean) => editKinds((next) => (on ? next.add(key) : next.delete(key))),

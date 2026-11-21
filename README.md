@@ -18,6 +18,12 @@ Locations also have their own pages for search engines, at `https://fbritoferrei
 build: plain HTML with the name, district, screenshot, real-life counterpart, nearby locations and an "Open on the
 map" link. Only locations with a description or screenshot, and places with a real-world address, get a page.
 
+"Found" progress is kept in the browser. **Share progress** copies a link (`?progress=...`, about 300 characters) that
+carries it to another device: opening the link asks whether to replace that device's progress or add to it. The link
+holds one bit per trackable location in id order, behind a checksum of the id list, so a link made before the data
+changed is reported as outdated instead of marking the wrong locations (`src/progress.ts`). There are no accounts and
+nothing is sent to a server.
+
 ## Use the data
 
 Every file in [`public/`](public) is published at the same path on the site, so the URL for any file is the site

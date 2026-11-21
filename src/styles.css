@@ -762,3 +762,12 @@ dialog .row input[type="checkbox"] {
     min-height: 44px;
   }
 }
+
+/* "Share progress" sits with the chips but is a button, not a toggle. */
+.chip.share-progress {
+  background: none;
+  color: var(--bone);
+}
+.chip.share-progress:hover {
+  border-color: var(--haze);
+}

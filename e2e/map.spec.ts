@@ -115,3 +115,32 @@ test("each location has a static page for search engines, listed in the sitemap"
   await page.getByRole("link", { name: "Open on the map" }).click();
   await expect(page.locator(".leaflet-popup-content h3")).toContainText("Marquise Bernard");
 });
+
+test("progress moves to another device through a progress link", async ({ browser, isMobile, baseURL }) => {
+  test.skip(isMobile, "one device pair is enough");
+  const phone = await browser.newContext({ baseURL, permissions: ["clipboard-read", "clipboard-write"] });
+  const a = await phone.newPage();
+  await a.goto("./?id=hidden-package-001");
+  await a.locator(".found-btn").click();
+  await expect(a.locator(".found-btn")).toHaveText("Found");
+  await a.getByRole("button", { name: "Share progress" }).click();
+  const link = await a.evaluate(() => navigator.clipboard.readText());
+  expect(link).toMatch(/\?progress=[a-z0-9]{6}\.[A-Za-z0-9_-]+$/);
+  expect(link.length - link.indexOf("progress=")).toBeLessThan(320);
+
+  const laptop = await browser.newContext({ baseURL });
+  const b = await laptop.newPage();
+  await b.goto(link);
+  const dialog = b.getByRole("dialog", { name: "Load progress from this link?" });
+  await expect(dialog).toContainText("The link has 1 found. This device has 0.");
+  await dialog.getByRole("button", { name: "Replace mine" }).click();
+  await expect(dialog).toBeHidden();
+  await expect(b.locator(".kind", { hasText: "Collectible cards" }).locator(".count")).toHaveText(/^1 of /);
+  await phone.close();
+  await laptop.close();
+});
+
+test("a progress link from older map data says so instead of loading", async ({ page }) => {
+  await page.goto("./?progress=zzzzzz.AAAA");
+  await expect(page.getByRole("dialog")).toContainText("older version of the map data");
+});

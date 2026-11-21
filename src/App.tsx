@@ -4,6 +4,7 @@ import { AppContext, createAppState } from "./state";
 import { MapView } from "./components/MapView";
 import { Panel } from "./components/Panel";
 import { EmbedDialog } from "./components/EmbedDialog";
+import { ProgressDialog } from "./components/ProgressDialog";
 
 export function App(props: { data: Data }) {
   const app = createAppState(untrack(() => props.data)); // loaded once before render; never changes
@@ -22,6 +23,7 @@ export function App(props: { data: Data }) {
       <MapView />
       <Panel />
       <EmbedDialog />
+      <ProgressDialog />
     </AppContext>
   );
 }
