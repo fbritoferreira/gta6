@@ -28086,7 +28086,7 @@
         "y": 722.3,
         "name": "Parachute (radio tower)",
         "type": "Parachuting",
-        "description": "oben auf dem funkturm",
+        "description": "On top of the radio tower.",
         "screenshot": "screenshots/parachuting-002.webp"
     },
     {
@@ -29396,7 +29396,7 @@
         "y": 697.6,
         "name": "Vice City Flamingos card: Jude Flores",
         "type": "Vice City Flamingos card",
-        "description": "Au fond du parking à droite",
+        "description": "At the far end of the parking lot, on the right.",
         "screenshot": "screenshots/card-vice-city-flamingos-003.webp"
     },
     {
@@ -29646,7 +29646,7 @@
         "y": 719,
         "name": "Delights card: Thelma (Standard)",
         "type": "Delights card",
-        "description": "Devant la maison dans la boîte jaune",
+        "description": "In front of the house, in the yellow box.",
         "screenshot": "screenshots/card-delights-009.webp"
     },
     {
