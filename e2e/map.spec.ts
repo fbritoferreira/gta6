@@ -255,3 +255,17 @@ test("a category group collapses from its heading, and Show all / Hide all sit o
   await expect(toggle).toHaveAttribute("aria-expanded", "false");
   await expect(page).toHaveURL(/kinds=/);
 });
+
+test("Next nearby jumps to the closest unfound location of the same category", async ({ page }) => {
+  await page.goto("./?id=meteorite-001");
+  await mapReady(page);
+  const popup = page.locator(".leaflet-popup-content");
+  await expect(popup.locator(".pop-kind")).toContainText(/meteorite/i);
+  await expect(page).toHaveURL(/view=/);
+  const before = new URL(page.url()).searchParams.get("view");
+  await popup.getByRole("button", { name: "Next nearby" }).click();
+  await expect(page.locator(".leaflet-popup")).toHaveCount(1); // the old one is gone, not just fading
+  await expect(popup.locator(".pop-kind")).toContainText(/meteorite/i);
+  // Most meteorites share a name, so check the map moved to another one.
+  await expect.poll(() => new URL(page.url()).searchParams.get("view")).not.toBe(before);
+});

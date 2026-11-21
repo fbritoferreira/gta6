@@ -323,6 +323,7 @@ export async function createMap(o: MapOptions) {
         <div class="pop-actions">
           ${c.pinnable ? '<button type="button" class="btn found-btn"></button>' : ""}
           <button type="button" class="btn" data-copy>Copy link</button>
+          ${c.pinnable ? '<button type="button" class="btn" data-next>Next nearby</button>' : ""}
         </div>
         <div class="pop-links">
           <a class="pop-report" href="${esc(screenshotUrl(it))}" target="_blank" rel="noopener">${it.screenshot ? "Replace screenshot" : "Add a screenshot"}</a>
@@ -339,6 +340,17 @@ export async function createMap(o: MapOptions) {
       paint(o.isFound(it.id));
       fb.onclick = () => paint(o.toggleFound(it.id));
     }
+    // For collecting on the go: the closest one of the same category not yet found, within the filters.
+    const next = el.querySelector<HTMLButtonElement>("[data-next]");
+    if (next)
+      next.onclick = () => {
+        const d = (x: Item) => (x.x - it.x) ** 2 + (x.y - it.y) ** 2;
+        const target = items
+          .filter((x) => x.kind === it.kind && x.id !== it.id && !o.isFound(x.id) && inDistrict(x, filters))
+          .sort((a, b) => d(a) - d(b))[0];
+        if (target) controller.focus(target.id);
+        else next.textContent = "All found here";
+      };
     el.querySelector<HTMLButtonElement>("[data-copy]")!.onclick = (e) =>
       copy(`${BASE}?id=${encodeURIComponent(it.id)}`, e.currentTarget as HTMLElement);
     return el;
@@ -576,7 +588,7 @@ export async function createMap(o: MapOptions) {
   else map.fitBounds(firstBounds, { paddingTopLeft: [o.panelWidth(), 0] });
   onZoom();
 
-  return {
+  const controller = {
     kindIcon,
     itemIcon,
     setFilters(f: Filters) {
@@ -645,4 +657,5 @@ export async function createMap(o: MapOptions) {
     },
     invalidate: () => map.invalidateSize(),
   };
+  return controller;
 }
