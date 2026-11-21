@@ -51,6 +51,9 @@ test("search focuses a location, and marking it found updates the count", async 
   if ((await page.locator("body").getAttribute("class"))?.includes("closed"))
     await page.locator(".ctl-filters").click();
   await expect(page.locator(".kind", { hasText: "Collectible cards" }).locator(".count")).toHaveText(/^1 of /);
+  // Search results say so too.
+  await page.locator("#q").fill("marquise");
+  await expect(page.locator("#results [role=option]").first()).toContainText(", found");
   expect(errors).toEqual([]);
 });
 

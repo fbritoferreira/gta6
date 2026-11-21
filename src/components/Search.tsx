@@ -65,7 +65,9 @@ export function Search() {
         options: r.items.map((it) => ({
           id: `item-${it.id}`,
           label: it.name,
-          detail: [it.type || app.data.catBy[it.kind].name, it.district].filter(Boolean).join(", "),
+          detail: [it.type || app.data.catBy[it.kind].name, it.district, app.found().has(it.id) && "found"]
+            .filter(Boolean)
+            .join(", "),
           icon: app.map()?.itemIcon(it),
           run: () => app.focus(it.id),
         })),
