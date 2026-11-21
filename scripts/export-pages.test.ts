@@ -47,6 +47,11 @@ describe("buildPage", () => {
     expect(html).toContain(`content="${site}/screenshots/hidden-package-001.webp"`);
   });
 
+  it("sizes the screenshot so the text below it doesn't jump when it loads", () => {
+    const sized = buildPage(card, kind, "Key Lento", [], site, undefined, { width: 960, height: 1280 });
+    expect(sized).toMatch(/<img src="..\/..\/screenshots\/hidden-package-001.webp" width="960" height="1280" /);
+  });
+
   it("links to the map and to nearby pages with relative URLs, so previews work too", () => {
     expect(html).toContain('href="../../?id=hidden-package-001"');
     expect(html).toContain('<a href="../fence-014/">Kenton</a>');
