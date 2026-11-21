@@ -4,6 +4,7 @@ import { Brand } from "./Brand";
 import { Search } from "./Search";
 import { MapOptions } from "./MapOptions";
 import { CategoryList } from "./CategoryList";
+import { InView } from "./InView";
 import { PanelFooter } from "./PanelFooter";
 
 /** The floating side panel. It slides away when closed; the map's Filters button brings it back. */
@@ -26,7 +27,10 @@ export function Panel() {
         <Search />
       </header>
       <MapOptions />
-      <CategoryList />
+      <div id="scroll">
+        <InView />
+        <CategoryList />
+      </div>
       <PanelFooter />
     </aside>
   );

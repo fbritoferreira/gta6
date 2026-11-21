@@ -715,3 +715,50 @@ dialog .row input[type="checkbox"] {
 .leaflet-container .pop-actions a.btn.primary {
   color: var(--gulf);
 }
+
+/* "In view": the on-screen locations as a list, for keyboards and screen readers. */
+.in-view ul {
+  list-style: none;
+  margin: 0;
+  padding: 0 0 6px;
+}
+.in-view button {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-align: left;
+  background: none;
+  border: 0;
+  padding: 6px 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.in-view button:hover {
+  background: rgba(245, 239, 230, 0.06);
+}
+.in-view img {
+  width: 24px;
+  height: 24px;
+  flex: none;
+  object-fit: contain;
+}
+.in-view small {
+  display: block;
+  color: var(--haze);
+  font-size: 12px;
+}
+.in-view .hint {
+  margin: 0 8px 6px;
+  color: var(--haze);
+  font-size: 12.5px;
+}
+.group-head h2 .count {
+  color: var(--haze);
+  font-weight: 400;
+}
+@media (pointer: coarse) {
+  .in-view button {
+    min-height: 44px;
+  }
+}
