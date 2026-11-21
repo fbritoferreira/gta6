@@ -34,6 +34,12 @@ describe("validateData", () => {
     expect(validateData(fixture())).toEqual([]);
   });
 
+  it("reports a screenshot file that no location uses", () => {
+    const root = fixture();
+    writeFileSync(join(root, "screenshots/old-001.jpg"), "");
+    expect(validateData(root).join()).toContain("screenshots/old-001.jpg");
+  });
+
   it("reports a missing screenshot", () => {
     const root = fixture({
       "data/locations.json": [{ id: "bank-001", kind: "bank", screenshot: "screenshots/nope.webp" }],
