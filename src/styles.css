@@ -340,7 +340,7 @@ body.closed #side {
   color: var(--haze);
   font-size: 12px;
 }
-/* Same pill as the PSN trophies site, in this map's sand tone so it doesn't compete with "Embed map". */
+/* A pill in the map's sand tone, so it doesn't compete with "Embed map". */
 #side footer .sponsor {
   flex-basis: 100%;
   display: inline-flex;

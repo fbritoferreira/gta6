@@ -1,4 +1,4 @@
-/** The same Buy Me a Coffee link as the PSN trophies site. Keeps hosting free of ads. */
+/** Buy Me a Coffee link that keeps hosting free of ads. */
 export const SPONSOR_URL = "https://buymeacoffee.com/fbritoferreira";
 
 export function Sponsor() {
