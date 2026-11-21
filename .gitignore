@@ -20,3 +20,20 @@ node_modules
 # Playwright
 test-results/
 playwright-report/
+# Tile pipeline working files
+scripts/tiles/cls_z4.npy
+scripts/tiles/source/
+scripts/tiles/out/
+scripts/tiles/.venv/
+scripts/tiles/cls_z5*.npy
+scripts/tiles/roads_z5.geojson
+scripts/tiles/rails_z5.geojson
+scripts/tiles/pcls.npy
+scripts/tiles/poster_fit.npy
+scripts/tiles/poster.png
+scripts/tiles/roads_extra.geojson
+scripts/tiles/surface.geojson
+scripts/tiles/roads_z5_traced.geojson
+scripts/tiles/plabel.npy
+scripts/tiles/prunway.npy
+scripts/tiles/shields_check.png

@@ -65,7 +65,7 @@ export async function createMap(o: MapOptions) {
   const map = L.map(o.el, {
     crs: L.CRS.Simple,
     minZoom: -1,
-    maxZoom: 6,
+    maxZoom: 7,
     zoomSnap: 0.5,
     preferCanvas: true,
     maxBounds: BOUNDS.pad(0.3),
@@ -79,7 +79,7 @@ export async function createMap(o: MapOptions) {
       tileSize: 256,
       minZoom: -1, // the layer's own default is 0, which hid the tiles when a phone fits the map at -1
       minNativeZoom: 0,
-      maxNativeZoom: 4,
+      maxNativeZoom: 5,
       noWrap: true,
       bounds: BOUNDS,
       attribution,

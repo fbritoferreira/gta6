@@ -3,7 +3,7 @@
 // final for them. Tiles, pins and screenshots can be replaced under the same name, so they show from
 // the cache at once and are refreshed in the background for next time. Only what you have already opened is cached, so a
 // tile you never zoomed to stays blank offline.
-// ponytail: the cache only grows (old built files, every tile viewed, at most ~75 MB for the whole
+// ponytail: the cache only grows (old built files, every tile viewed, at most ~250 MB for the whole
 // site); add an expiry pass if that ever matters.
 
 const CACHE = `map:${self.registration.scope}`; // PR previews live under the same origin; keep them apart

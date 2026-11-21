@@ -9,6 +9,9 @@
  *
  *   pnpm districts
  *
+ * Districts end at the coast: each is clipped to public/data/land.json (the land as polygons in map
+ * units, holes for lakes), so no outline spills into the sea.
+ *
  * Writes public/data/districts.json: [{ name, x, y, rings: [[[x, y], ...], ...] }].
  */
 import { readFileSync, writeFileSync } from "node:fs";
@@ -26,6 +29,7 @@ const MIN_AREA = 20; // drop slivers smaller than this (square map units)
 
 const labels = JSON.parse(readFileSync("public/data/labels.json", "utf8")) as { name: string; x: number; y: number }[];
 const places = JSON.parse(readFileSync("public/data/places.json", "utf8")) as { x: number; y: number; area?: string }[];
+const land = JSON.parse(readFileSync("public/data/land.json", "utf8")) as MultiPolygon;
 const names = new Set(labels.map((l) => l.name));
 
 /** `area` is "Neighbourhood, District" or "District"; return the district if we know it. */
@@ -75,7 +79,7 @@ const out = labels.map((label) => {
   const territory: MultiPolygon = union(first, ...rest);
   const [c0, ...cn] = seeds.get(label.name)!.map((p) => circle(p, REACH));
   const reach: MultiPolygon = union(c0, ...cn);
-  const shape: MultiPolygon = intersection(territory, reach);
+  const shape: MultiPolygon = intersection(territory, reach, land);
   const rings = shape
     .map((poly) => poly[0]) // outer ring only; holes are lakes and gaps we don't need
     .filter((ring) => area(ring) > MIN_AREA)
