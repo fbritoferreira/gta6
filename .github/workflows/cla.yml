@@ -29,4 +29,7 @@ jobs:
           path-to-signatures: signatures/cla.json
           path-to-document: ${{ github.server_url }}/${{ github.repository }}/blob/main/CLA.md
           branch: cla-signatures
-          allowlist: fbritoferreira,dependabot[bot],github-actions[bot]
+          allowlist: fbritoferreira,dependabot[bot],github-actions[bot],renovate[bot]
+          # The default locks merged PRs, which stops the Pages workflow commenting when it
+          # removes the PR preview, so the preview never gets deleted.
+          lock-pullrequest-aftermerge: false
