@@ -97,6 +97,11 @@ export function Search() {
           onKeyDown={onKeyDown}
         />
       </div>
+      <Show when={results().fuzzy && options().length > 0}>
+        <p class="result-note" role="status">
+          Nothing matches “{query().trim()}” exactly. These are close.
+        </p>
+      </Show>
       <div id="results" role="listbox" aria-label="Search results">
         <For each={groups()}>
           {(group) => (

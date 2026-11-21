@@ -68,6 +68,12 @@ test("search finds real-world places, districts and categories, and works from t
   await q.fill("ritz");
   await expect(page.locator("#results [role=option]", { hasText: "Vice Regal" })).toBeVisible();
 
+  await q.fill("hiden pakages");
+  await expect(page.locator(".result-note[role=status]")).toContainText("exactly");
+  await expect(page.locator("#results [role=group][aria-label=Categories] [role=option]")).toContainText(
+    "Hidden packages",
+  );
+
   await q.fill("xyzzy");
   await expect(page.locator(".result-note[role=status]")).toContainText("No matches");
 
