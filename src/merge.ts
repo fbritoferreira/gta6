@@ -1,10 +1,21 @@
-// Some places in places.json are also in locations.json (the synced data): same name, same spot. Shown
+// Some places in places.json are also in locations.json (the synced data): same name and spot, or the
+// same category at the very same coordinates (the synced entry copied the place's position). Shown
 // as is, they stack two pins and two search results. Merging at load time, rather than editing the
 // JSON, keeps the hourly sync from adding them back.
 
-type Spot = { id: string; name: string; x: number; y: number; area?: string; real_life?: string; service?: string };
+type Spot = {
+  id: string;
+  kind?: string;
+  name: string;
+  x: number;
+  y: number;
+  area?: string;
+  real_life?: string;
+  service?: string;
+};
 
 const SAME_SPOT = 1; // map units, as in scripts/validate-data.ts
+const EXACT = 0.05; // the same coordinates, give or take rounding: "Key Lento Marina" on top of "Marina"
 const norm = (s: string) =>
   s
     .toLowerCase()
@@ -13,21 +24,28 @@ const norm = (s: string) =>
 
 /**
  * Locations plus the places that aren't already one. A duplicated place folds into the nearest location
- * of the same name: the location keeps its pin, category, screenshot and description and gains the
+ * of the same name, or else a location of its category at the same coordinates: the location keeps its pin, category, screenshot and description and gains the
  * place's area (over its own district-level one), real-world counterpart and service. `merged` maps each folded place id to its location,
  * so old ?id= links and location pages still lead somewhere.
  */
 export function mergePlaces<T extends Spot>(locations: T[], places: T[]) {
   const byName = new Map<string, T[]>();
-  for (const l of locations) byName.set(norm(l.name), [...(byName.get(norm(l.name)) ?? []), l]);
+  const byKind = new Map<string | undefined, T[]>();
+  for (const l of locations) {
+    const name = norm(l.name);
+    if (!byName.has(name)) byName.set(name, []);
+    byName.get(name)!.push(l);
+    if (!byKind.has(l.kind)) byKind.set(l.kind, []);
+    byKind.get(l.kind)!.push(l);
+  }
   const out = new Map(locations.map((l) => [l.id, { ...l }]));
   const merged = new Map<string, string>();
   const kept: T[] = [];
   for (const p of places) {
     const dist = (l: T) => Math.hypot(l.x - p.x, l.y - p.y);
-    const twin = (byName.get(norm(p.name)) ?? [])
-      .filter((l) => dist(l) < SAME_SPOT)
-      .sort((a, b) => dist(a) - dist(b))[0];
+    const twin =
+      (byName.get(norm(p.name)) ?? []).filter((l) => dist(l) < SAME_SPOT).sort((a, b) => dist(a) - dist(b))[0] ??
+      byKind.get(p.kind)?.find((l) => dist(l) < EXACT);
     if (!twin) {
       kept.push(p);
       continue;

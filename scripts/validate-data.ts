@@ -50,6 +50,38 @@ export function findDuplicates(list: Entry[]): string[] {
   return found;
 }
 
+/** Pairs at the very same coordinates, give or take rounding. */
+const EXACT_SPOT = 0.05;
+
+/**
+ * Possible duplicates for a person to check, not errors: in one file and category, the same name
+ * (generic ones too) within SAME_SPOT, or any two entries at the very same coordinates. Some are real
+ * pairs (two arcade machines side by side), so they are reported, not rejected. Location and place
+ * pairs are left out: src/merge.ts folds those together when the map loads.
+ */
+export function possibleDuplicates(list: Entry[]): string[] {
+  const norm = (s: string) =>
+    s
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, " ")
+      .trim();
+  const byKind = new Map<string, Entry[]>();
+  for (const e of list) {
+    if (!byKind.has(e.kind)) byKind.set(e.kind, []);
+    byKind.get(e.kind)!.push(e);
+  }
+  const found: string[] = [];
+  for (const group of byKind.values())
+    for (let i = 0; i < group.length; i++)
+      for (let j = i + 1; j < group.length; j++) {
+        const [a, b] = [group[i], group[j]];
+        const d = Math.hypot(a.x - b.x, a.y - b.y);
+        if (d < EXACT_SPOT || (d < SAME_SPOT && norm(a.name) === norm(b.name)))
+          found.push(`${a.id} and ${b.id}, ${d.toFixed(2)} apart ("${a.name}" / "${b.name}")`);
+      }
+  return found;
+}
+
 export function validateData(root: string): string[] {
   const read = <T>(path: string): T => JSON.parse(readFileSync(join(root, path), "utf8")) as T;
   const problems: string[] = [];
@@ -178,4 +210,10 @@ if (import.meta.main) {
     process.exit(1);
   }
   console.log("Data OK");
+  const read = (f: string) => JSON.parse(readFileSync(join("public/data", f), "utf8")) as Entry[];
+  const maybe = [...possibleDuplicates(read("locations.json")), ...possibleDuplicates(read("places.json"))];
+  if (maybe.length)
+    console.log(
+      `\nPossible duplicates to check (not errors; remove a real one and list it in data/removed.json):\n${maybe.map((m) => `  ${m}`).join("\n")}`,
+    );
 }

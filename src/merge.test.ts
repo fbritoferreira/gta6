@@ -22,6 +22,16 @@ describe("mergePlaces", () => {
     expect(items[0].area).toBe("Little Havana");
   });
 
+  it("folds a differently named place at the exact same spot and category", () => {
+    const marina = { id: "marina-005", kind: "transport", name: "Key Lento Marina", x: 432.2, y: 695.1 };
+    const generic = { id: "L333", kind: "transport", name: "Marina", x: 432.2, y: 695.1, area: "Key Lento" };
+    const elsewhere = { ...generic, id: "L334", x: 433 };
+    const otherKind = { ...generic, id: "L335", kind: "food" };
+    const { items, merged } = mergePlaces([marina], [generic, elsewhere, otherKind]);
+    expect(merged.get("L333")).toBe("marina-005");
+    expect(items.map((i) => i.id).sort()).toEqual(["L334", "L335", "marina-005"]);
+  });
+
   it("picks the nearest of two same-named locations", () => {
     const near = { ...shop, id: "marina-004", x: 501.7 };
     expect(mergePlaces([shop, near], [place]).merged.get("L1488")).toBe("marina-004");

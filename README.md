@@ -140,10 +140,13 @@ Everything here lives in `public/` and is served as is.
 - `data/locations.json`: collectibles, activities and services. `kind` is the map category, `type` the label shown,
   `x`/`y` map units, `screenshot` a path in `screenshots/` or null.
 - `data/places.json`: named places with their real-life counterparts (`real_life`) and the area they sit in. A place
-  that is also in `locations.json` (same name, within 1 map unit) is shown once: the map merges it into the location
+  that is also in `locations.json` (same name within 1 map unit, or same category at the very same coordinates) is
+  shown once: the map merges it into the location
   when it loads (`src/merge.ts`), and its old `?id=` and `/l/<id>/` links lead to the location.
 - `data/categories.json`: every `kind` with its name, colour, icon (an emoji glyph), group, and whether players can mark
   it as found.
+- `pnpm validate` also lists possible duplicates to check by hand (same name close together, or two entries at the
+  same coordinates); they are notes, not errors, since some are real pairs.
 - `data/removed.json`: ids taken out on purpose (duplicates, things not in the game), each with a reason. The data
   sync never adds them back, and `pnpm build` fails if one reappears. To remove a location, delete its entry and list
   its id here.
