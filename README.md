@@ -20,6 +20,10 @@ of 71 found") and shows everything again when clicked. A `?district=` link opens
 The pins are drawn on a canvas, so the panel's **In view** section lists the locations on screen as buttons, nearest
 the centre first. With a keyboard or screen reader, open it, pick a location, and focus moves into its popup.
 
+There are list pages too: one per category (`/c/meteorites/`), one per district (`/d/hamlet/`) and an index of both
+([`/browse/`](https://fbritoferreira.github.io/gta6/browse/), linked from the panel), each listing every location with where it
+is (`scripts/export-hubs.ts`). They link every location page, so none is reachable only through the sitemap.
+
 Locations also have their own pages for search engines, at `https://fbritoferreira.github.io/gta6/l/<id>/` (for example
 [`/l/hidden-package-001/`](https://fbritoferreira.github.io/gta6/l/hidden-package-001/)), listed in
 [`sitemap.xml`](https://fbritoferreira.github.io/gta6/sitemap.xml). A missing `/l/<id>/` page forwards to the map at that id; any other
