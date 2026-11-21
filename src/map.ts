@@ -583,6 +583,22 @@ export async function createMap(o: MapOptions) {
       map.setView(m.getLatLng(), Math.max(map.getZoom(), 4), { animate: false });
       onZoom(); // past the cluster zoom now, so the pin is on the map
       m.openPopup();
+      // Keyboard and screen-reader users land inside the popup, on its first action.
+      m.getPopup()?.getElement()?.querySelector<HTMLElement>(".pop-actions button, .pop-actions a")?.focus();
+    },
+    /**
+     * The locations on screen under the given filters, nearest the centre first: the list view's
+     * text alternative to the canvas pins.
+     */
+    inView(f: Filters, limit: number) {
+      const bounds = map.getBounds(),
+        c = map.getCenter();
+      const shown = items.filter(
+        (it) => f.kinds.has(it.kind) && !(f.hideFound && o.isFound(it.id)) && bounds.contains([-it.y, it.x]),
+      );
+      const dist = (it: Item) => (it.x - c.lng) ** 2 + (-it.y - c.lat) ** 2;
+      shown.sort((p, q) => dist(p) - dist(q));
+      return { total: shown.length, items: shown.slice(0, limit) };
     },
     view(): View {
       const c = map.getCenter();

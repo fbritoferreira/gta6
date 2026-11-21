@@ -85,3 +85,21 @@ test("a location link opens its popup even though it is requested before the map
   await page.goto("./?id=hidden-package-001");
   await expect(page.locator(".leaflet-popup-content h3")).toContainText("Marquise Bernard");
 });
+
+test("keyboard users can reach on-screen locations through the In view list", async ({ page, isMobile }) => {
+  test.skip(isMobile, "keyboard navigation");
+  await page.goto("./?view=4/505/480");
+  await mapReady(page);
+  const summary = page.locator(".in-view summary");
+  await expect(summary).toContainText(/In view \(\d+\)/);
+  await summary.focus();
+  await page.keyboard.press("Enter");
+  const first = page.locator(".in-view li button").first();
+  await expect(first).toBeVisible();
+  const name = (await first.locator("span").innerText()).split("\n")[0];
+  await first.focus();
+  await page.keyboard.press("Enter");
+  await expect(page.locator(".leaflet-popup-content h3")).toHaveText(name);
+  // Focus moved into the popup, onto its first action.
+  await expect(page.locator(".leaflet-popup-content .pop-actions :focus")).toHaveCount(1);
+});

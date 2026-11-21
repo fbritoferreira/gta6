@@ -6,11 +6,7 @@ import { ChevronIcon } from "./icons";
 /** The legend: one collapsible group per category group, each row a show/hide toggle. */
 export function CategoryList() {
   const app = useApp();
-  return (
-    <div id="scroll">
-      <For each={app.data.groups}>{(group) => <CategoryGroup group={group} />}</For>
-    </div>
-  );
+  return <For each={app.data.groups}>{(group) => <CategoryGroup group={group} />}</For>;
 }
 
 function CategoryGroup(props: { group: string }) {

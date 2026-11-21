@@ -10,6 +10,9 @@ in your own map, app or tool.
 
 No ads and no paywall. If the map helps you, you can [buy me a coffee](https://buymeacoffee.com/fbritoferreira) to cover hosting.
 
+The pins are drawn on a canvas, so the panel's **In view** section lists the locations on screen as buttons, nearest
+the centre first. With a keyboard or screen reader, open it, pick a location, and focus moves into its popup.
+
 ## Use the data
 
 Every file in [`public/`](public) is published at the same path on the site, so the URL for any file is the site
