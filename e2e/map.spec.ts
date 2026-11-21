@@ -77,7 +77,9 @@ test("search finds real-world places, districts and categories, and works from t
   await q.press("Enter");
   await expect(page).toHaveURL(/district=Key\+Lento/);
   await openPanel();
-  await page.locator(".chip-on", { hasText: "Only Key Lento" }).click();
+  const chip = page.locator(".chip-on", { hasText: "Only Key Lento" });
+  await expect(chip).toHaveText(/^Only Key Lento, 0 of [1-9]\d* found/);
+  await chip.click();
   await expect(page).not.toHaveURL(/district=/);
 
   await q.fill("waink scans");
@@ -192,4 +194,15 @@ test("after one visit the map opens with no connection", async ({ page, context 
   await mapReady(page);
   await expect(page.locator(".leaflet-tile-loaded").first()).toBeVisible();
   await context.setOffline(false);
+});
+
+test("a district link opens on that district, with its found count", async ({ page }) => {
+  await page.goto("./?district=Hamlet");
+  await mapReady(page);
+  await expect(page).toHaveURL(/view=(\d+(\.\d+)?)/);
+  const zoom = Number(/view=([\d.]+)/.exec(decodeURIComponent(page.url()))![1]);
+  expect(zoom).toBeGreaterThanOrEqual(2); // the whole island fits at about 0.5
+  if ((await page.locator("body").getAttribute("class"))?.includes("closed"))
+    await page.locator(".ctl-filters").click();
+  await expect(page.locator(".chip-on")).toHaveText(/^Only Hamlet, 0 of [1-9]\d* found/);
 });

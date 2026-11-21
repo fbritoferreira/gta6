@@ -14,7 +14,8 @@ counterpart and description, ignoring case and accents, so "ritz" finds the hote
 "card key lento" finds the cards in Key Lento. Results come in three groups: districts, categories (such as "WAiNK
 scans") and locations. Up and down move through them, Enter picks one and Escape clears the box. Picking a category
 shows only that category. Picking a district, or clicking one on the map, shows only the locations inside it; the
-"Only <district>" chip in the panel shows them all again.
+"Only <district>" chip in the panel counts how many of its collectibles and activities you have found ("Only Hamlet, 12
+of 71 found") and shows everything again when clicked. A `?district=` link opens zoomed to that district.
 
 The pins are drawn on a canvas, so the panel's **In view** section lists the locations on screen as buttons, nearest
 the centre first. With a keyboard or screen reader, open it, pick a location, and focus moves into its popup.

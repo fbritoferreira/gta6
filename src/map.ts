@@ -555,13 +555,13 @@ export async function createMap(o: MapOptions) {
   map.on("zoomend", onZoom);
   map.on("moveend", () => o.onMove());
 
+  // First view: a ?district= link opens on that district; otherwise the area the locations cover,
+  // not the whole tile square (mostly sea), so the island fills a phone screen instead of a third of it.
+  const firstBounds =
+    (filters.district && districtBounds.get(filters.district)) ||
+    L.latLngBounds(items.map((it) => [-it.y, it.x] as L.LatLngTuple)).pad(0.04);
   if (o.view) map.setView([-o.view.y, o.view.x], o.view.zoom);
-  // First view: the area the locations cover, not the whole tile square (mostly sea), so the
-  // island fills a phone screen instead of a third of it.
-  else
-    map.fitBounds(L.latLngBounds(items.map((it) => [-it.y, it.x] as L.LatLngTuple)).pad(0.04), {
-      paddingTopLeft: [o.panelWidth(), 0],
-    });
+  else map.fitBounds(firstBounds, { paddingTopLeft: [o.panelWidth(), 0] });
   onZoom();
 
   return {

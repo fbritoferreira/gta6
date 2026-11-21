@@ -85,6 +85,18 @@ export function createAppState(data: Data) {
     hideFound,
     setHideFound,
     district,
+    /** Collectibles and activities in a district, and how many of them are marked found. */
+    districtProgress(name: string) {
+      let total = 0,
+        got = 0;
+      const done = found();
+      for (const it of data.items)
+        if (it.district === name && data.catBy[it.kind]?.pinnable) {
+          total++;
+          if (done.has(it.id)) got++;
+        }
+      return { got, total };
+    },
     /** Shows every location again, not only one district's. */
     allDistricts: () => setDistrict(undefined),
     found,

@@ -25,13 +25,16 @@ export function Search() {
     return [
       {
         name: "Districts",
-        options: r.districts.map((d) => ({
-          id: `district-${d.name}`,
-          label: d.name,
-          detail: `Show only this district, ${d.count} locations`,
-          pin: true,
-          run: () => app.showDistrict(d.name),
-        })),
+        options: r.districts.map((d) => {
+          const { got, total } = app.districtProgress(d.name);
+          return {
+            id: `district-${d.name}`,
+            label: d.name,
+            detail: `Show only this district, ${total ? `${got} of ${total} found` : `${d.count} locations`}`,
+            pin: true,
+            run: () => app.showDistrict(d.name),
+          };
+        }),
       },
       {
         name: "Categories",
