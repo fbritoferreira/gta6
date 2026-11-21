@@ -49,6 +49,12 @@ jobs:
           clean-exclude: pr-preview/
           force: false
 
+      # GitHub only reads .nojekyll at the site root (deployed from main). The preview action
+      # removes a closed PR's folder but skips dotfiles, so a copy here would be left behind.
+      - name: Drop .nojekyll from the preview
+        if: github.event_name == 'pull_request' && github.event.action != 'closed'
+        run: rm -f dist/.nojekyll
+
       # Pull requests from forks get a read-only token, so they can't push a preview to gh-pages.
       # They still run the checks and the build above; only the preview is skipped.
       - name: Deploy PR preview
