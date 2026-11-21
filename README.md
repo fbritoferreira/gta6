@@ -38,8 +38,9 @@ haven't marked found, within the current district filter.
 
 "Found" progress is kept in the browser. **Share progress** copies a link (`?progress=...`, one character per 6 trackable locations, about 300 today) that
 carries it to another device: opening the link asks whether to replace that device's progress or add to it. The link
-holds one bit per trackable location in id order, behind a checksum of the id list, so a link made before the data
-changed is reported as outdated instead of marking the wrong locations (`src/progress.ts`). There are no accounts and
+holds one bit per trackable location in data order, plus how many it covers and a checksum of those, so it keeps
+working after a data sync adds locations (they start unfound); if earlier entries changed, it is reported as outdated
+instead of marking the wrong locations (`src/progress.ts`). There are no accounts and
 nothing is sent to a server.
 
 ## Use the data
