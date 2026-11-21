@@ -7,6 +7,7 @@
  * Runs as part of `pnpm build`, after the site itself is built.
  */
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
+import sharp from "sharp";
 import { districtAt, toGame, type Outline } from "../src/geo.ts";
 
 export type Entry = {
@@ -72,6 +73,8 @@ export function buildPage(
   nearby: Entry[],
   siteUrl: string,
   kindName: (key: string) => string = () => kind.name,
+  /** The screenshot's pixel size, so the page reserves its space before it loads (no layout shift). */
+  shot?: { width: number; height: number },
 ) {
   const url = `${siteUrl}/l/${it.id}/`;
   const category = what(it, kind.name);
@@ -120,7 +123,7 @@ h2{font-size:18px;margin:28px 0 8px;color:var(--sand)}ul{padding-left:20px}foote
 <p class="crumb"><a href="../../">Open GTA 6 Map</a> / ${esc(district)}</p>
 <h1>${esc(it.name)}</h1>
 <p class="kind"><span class="dot" aria-hidden="true"></span>${esc(category)} in ${esc(district)}</p>
-${it.screenshot ? `<img src="../../${esc(it.screenshot)}" alt="${esc(`Where to find ${it.name}`)}" loading="lazy">` : ""}
+${it.screenshot ? `<img src="../../${esc(it.screenshot)}"${shot ? ` width="${shot.width}" height="${shot.height}"` : ""} alt="${esc(`Where to find ${it.name}`)}" loading="lazy">` : ""}
 ${it.description ? `<p>${esc(it.description)}</p>` : ""}
 <a class="cta" href="../../?id=${encodeURIComponent(it.id)}">Open on the map</a>
 <dl>
@@ -164,10 +167,12 @@ if (import.meta.main) {
       .slice(0, NEARBY)
       .map(({ o }) => o);
     const district = districtAt(it.x, it.y, districts) ?? "Leonida";
+    const meta = it.screenshot ? await sharp(`public/${it.screenshot}`).metadata() : undefined;
+    const shot = meta?.width && meta.height ? { width: meta.width, height: meta.height } : undefined;
     mkdirSync(`dist/l/${it.id}`, { recursive: true });
     writeFileSync(
       `dist/l/${it.id}/index.html`,
-      buildPage(it, kinds.get(it.kind)!, district, nearby, siteUrl, (k) => kinds.get(k)?.name ?? k),
+      buildPage(it, kinds.get(it.kind)!, district, nearby, siteUrl, (k) => kinds.get(k)?.name ?? k, shot),
     );
   }
   writeFileSync(
