@@ -3,8 +3,16 @@ import type { Plugin } from "vite";
 import { defineConfig } from "vitest/config";
 import solid from "@solidjs/vite-plugin";
 
-// Credits link to the repository. CI sets GITHUB_REPOSITORY; locally we fall back to the expected name.
-const REPO_URL = `https://github.com/${process.env.GITHUB_REPOSITORY ?? "fbritoferreira/gta6"}`;
+// CI sets GITHUB_REPOSITORY; locally we fall back to the expected name. Credits link to the repo;
+// link previews need the absolute Pages address, so index.html gets it as %SITE_URL%.
+const [OWNER, REPO] = (process.env.GITHUB_REPOSITORY ?? "fbritoferreira/gta6").split("/");
+const REPO_URL = `https://github.com/${OWNER}/${REPO}`;
+const SITE_URL = `https://${OWNER.toLowerCase()}.github.io/${REPO}`;
+
+const siteUrl = (): Plugin => ({
+  name: "site-url",
+  transformIndexHtml: (html) => html.replaceAll("%SITE_URL%", SITE_URL),
+});
 
 /** Names in public/<dir>, with `ext` stripped; without `ext`, every entry as is. */
 const list = (dir: string, ext = "") =>
@@ -48,7 +56,7 @@ const assetIndex = (): Plugin => ({
 export default defineConfig({
   base: "./",
   define: { __REPO_URL__: JSON.stringify(REPO_URL) },
-  plugins: [solid(), assetIndex()],
+  plugins: [solid(), assetIndex(), siteUrl()],
   build: { target: "es2022" },
   test: { include: ["src/**/*.test.ts", "scripts/**/*.test.ts"] },
 });

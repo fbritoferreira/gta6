@@ -63,6 +63,7 @@ export async function createMap(o: MapOptions) {
   const tileLayer = (style: string) =>
     L.tileLayer(`tiles/${style}/{z}/{z},{y},{x}.webp`, {
       tileSize: 256,
+      minZoom: -1, // the layer's own default is 0, which hid the tiles when a phone fits the map at -1
       minNativeZoom: 0,
       maxNativeZoom: 4,
       noWrap: true,
@@ -273,7 +274,12 @@ export async function createMap(o: MapOptions) {
     const m = new BlipClass([-it.y, it.x], { radius: 10 });
     m.item = it;
     m.bindTooltip(esc(it.name), { direction: "top", offset: [0, -28] });
-    m.bindPopup(() => popup(it), { maxWidth: 320, minWidth: 280, offset: [0, -22], autoPanPaddingTopLeft: [360, 20] });
+    m.bindPopup(() => popup(it), {
+      maxWidth: 320,
+      minWidth: 280,
+      offset: [0, -22],
+      autoPanPaddingTopLeft: innerWidth < 800 ? [16, 16] : [360, 20], // desktop leaves room for the panel
+    });
     markers.set(it.id, m);
   }
 
@@ -524,7 +530,9 @@ export async function createMap(o: MapOptions) {
   map.on("moveend", () => o.onMove());
 
   if (o.view) map.setView([-o.view.y, o.view.x], o.view.zoom);
-  else map.fitBounds(BOUNDS);
+  // First view: the area the locations cover, not the whole tile square (mostly sea), so the
+  // island fills a phone screen instead of a third of it.
+  else map.fitBounds(L.latLngBounds(items.map((it) => [-it.y, it.x] as L.LatLngTuple)).pad(0.04));
   onZoom();
 
   return {
