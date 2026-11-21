@@ -71,6 +71,13 @@ describe("validateData", () => {
     expect(validateData(root).join()).toContain('bank-001 ("card-ed-comics")');
   });
 
+  it("reports a place whose same_as points nowhere", () => {
+    const root = fixture({
+      "data/places.json": [{ id: "L1", kind: "food", name: "Diner", x: 2, y: 2, same_as: "nope-001" }],
+    });
+    expect(validateData(root).join()).toContain("L1 (same_as nope-001)");
+  });
+
   it("reports a name with a stray space", () => {
     const root = fixture({ "data/places.json": [{ id: "L1", kind: "food", name: "Turn ", x: 2, y: 2 }] });
     expect(validateData(root).join()).toContain('L1 ("Turn ")');

@@ -32,6 +32,34 @@ describe("mergePlaces", () => {
     expect(items.map((i) => i.id).sort()).toEqual(["L334", "L335", "marina-005"]);
   });
 
+  it("folds a nearby place that shares a word with the location, but not an unrelated neighbour", () => {
+    const marina = { id: "marina-009", kind: "transport", name: "Peacock Bay Marina", type: "Marina", x: 100, y: 100 };
+    const atm = { id: "atm-056", kind: "shop", name: "ATM", type: "ATM", x: 200, y: 200 };
+    const generic = { id: "L2525", kind: "transport", name: "Marina", x: 100.1, y: 100 };
+    const store = { id: "L2757", kind: "shop", name: "Zeke's Gadgets", service: "Electronics shop", x: 200.1, y: 200 };
+    const { merged } = mergePlaces([marina, atm], [generic, store]);
+    expect(merged.get("L2525")).toBe("marina-009");
+    expect(merged.has("L2757")).toBe(false);
+  });
+
+  it("folds a place into the location its same_as names, with its real-world coordinates", () => {
+    const moses = { id: "fence-007", kind: "fence", name: "Moses", x: 310.6, y: 409.4 };
+    const watkins = {
+      id: "L348",
+      kind: "fence",
+      name: "Watkins Auto Parts",
+      same_as: "fence-007",
+      x: 310.6,
+      y: 409.6,
+      real_life_lat: 30.15703,
+      real_life_lng: -85.62635,
+    };
+    const { items, merged } = mergePlaces([moses], [watkins]);
+    expect(merged.get("L348")).toBe("fence-007");
+    expect(items).toHaveLength(1);
+    expect(items[0]).toMatchObject({ name: "Moses", real_life_lat: 30.15703 });
+  });
+
   it("picks the nearest of two same-named locations", () => {
     const near = { ...shop, id: "marina-004", x: 501.7 };
     expect(mergePlaces([shop, near], [place]).merged.get("L1488")).toBe("marina-004");

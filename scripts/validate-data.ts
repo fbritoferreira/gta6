@@ -141,6 +141,15 @@ export function validateData(root: string): string[] {
     locations.filter((l) => l.type && /^[a-z0-9]+(-[a-z0-9]+)+$/.test(l.type)).map((l) => `${l.id} ("${l.type}")`),
   );
 
+  // A place's same_as names the location it is (src/merge.ts folds them together).
+  const locationIds = new Set(locations.map((l) => l.id));
+  report(
+    "Places whose same_as isn't a location id",
+    (places as (Entry & { same_as?: string })[])
+      .filter((e) => e.same_as && !locationIds.has(e.same_as))
+      .map((e) => `${e.id} (same_as ${e.same_as})`),
+  );
+
   // Stray spaces break exact-name matches (search ranking, duplicate checks) and show in titles.
   report(
     "Names with spaces at either end",
