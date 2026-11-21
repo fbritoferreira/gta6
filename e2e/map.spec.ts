@@ -35,7 +35,7 @@ test("search focuses a location, and marking it found updates the count", async 
   };
   await openPanel();
   await page.locator("#q").fill("marquise");
-  await page.locator("#results button").first().click();
+  await page.locator("#results [role=option]").first().click();
 
   const popup = page.locator(".leaflet-popup-content");
   await expect(popup.locator("h3")).toContainText("Marquise Bernard");
@@ -51,6 +51,38 @@ test("search focuses a location, and marking it found updates the count", async 
   if ((await page.locator("body").getAttribute("class"))?.includes("closed"))
     await page.locator(".ctl-filters").click();
   await expect(page.locator(".kind", { hasText: "Collectible cards" }).locator(".count")).toHaveText(/^1 of /);
+  expect(errors).toEqual([]);
+});
+
+test("search finds real-world places, districts and categories, and works from the keyboard", async ({ page }) => {
+  const errors = watchErrors(page);
+  await page.goto("./");
+  await mapReady(page);
+  const openPanel = async () => {
+    if ((await page.locator("body").getAttribute("class"))?.includes("closed"))
+      await page.locator(".ctl-filters").click();
+  };
+  await openPanel();
+  const q = page.locator("#q");
+
+  await q.fill("ritz");
+  await expect(page.locator("#results [role=option]", { hasText: "Vice Regal" })).toBeVisible();
+
+  await q.fill("xyzzy");
+  await expect(page.locator(".result-note[role=status]")).toContainText("No matches");
+
+  // Picking a district shows only the locations inside it, until the chip is cleared.
+  await q.fill("key lento");
+  await expect(page.locator("#results [role=group][aria-label=Districts] [role=option]")).toContainText("Key Lento");
+  await q.press("Enter");
+  await expect(page).toHaveURL(/district=Key\+Lento/);
+  await openPanel();
+  await page.locator(".chip-on", { hasText: "Only Key Lento" }).click();
+  await expect(page).not.toHaveURL(/district=/);
+
+  await q.fill("waink scans");
+  await page.locator("#results [role=group][aria-label=Categories] [role=option]").first().click();
+  await expect(page).toHaveURL(/kinds=[a-z-]+(&|$)/);
   expect(errors).toEqual([]);
 });
 

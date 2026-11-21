@@ -32,6 +32,8 @@ export function createAppState(data: Data) {
   const [kinds, setKinds] = createSignal(init.filters.kinds);
   const [labels, setLabels] = createSignal(init.filters.labels);
   const [hideFound, setHideFound] = createSignal(init.filters.hideFound);
+  const known = (d?: string) => (data.districts.some((x) => x.name === d) ? d : undefined);
+  const [district, setDistrict] = createSignal(known(init.filters.district));
   const [found, setFound] = createSignal(new Set(store.get<string[]>("found", [])));
   const [panelOpen, setPanelOpen] = createSignal(!init.embed && innerWidth >= 800);
   const [embedOpen, setEmbedOpen] = createSignal(false);
@@ -48,7 +50,13 @@ export function createAppState(data: Data) {
   };
   let pendingFocus: string | undefined = init.id; // a search pick, or ?id=, made before the map is ready
 
-  const filters = (): Filters => ({ style: style(), kinds: kinds(), labels: labels(), hideFound: hideFound() });
+  const filters = (): Filters => ({
+    style: style(),
+    kinds: kinds(),
+    labels: labels(),
+    hideFound: hideFound(),
+    district: district(),
+  });
   const editKinds = (edit: (next: Set<string>) => void) =>
     setKinds((prev) => {
       const next = new Set(prev);
@@ -76,6 +84,9 @@ export function createAppState(data: Data) {
     setLabels,
     hideFound,
     setHideFound,
+    district,
+    /** Shows every location again, not only one district's. */
+    allDistricts: () => setDistrict(undefined),
     found,
     foundByKind,
     panelOpen,
@@ -117,10 +128,23 @@ export function createAppState(data: Data) {
         }
       }),
     /** Zooms to a location. Before the map has loaded, it is remembered and shown once the map is ready. */
+    /** Search: show only one category and fit the map to it. */
+    showOnly(kind: string) {
+      setKinds(new Set([kind]));
+      if (innerWidth < 800) setPanelOpen(false);
+      untrack(map)?.showKind(kind);
+    },
+    /** Shows only the locations inside one district and flies to it. */
+    showDistrict(name: string) {
+      setDistrict(name);
+      if (innerWidth < 800) setPanelOpen(false);
+      untrack(map)?.showDistrict(name);
+    },
     focus(id: string, readyMap?: MapController) {
       const it = itemById.get(id);
       if (!it) return;
       editKinds((next) => next.add(it.kind));
+      if (untrack(district) && it.district !== untrack(district)) setDistrict(undefined);
       if (innerWidth < 800) setPanelOpen(false);
       // readyMap: the caller just set the map; Solid 2 batches writes, so map() would still be stale.
       const ready = readyMap ?? untrack(map);

@@ -9,6 +9,13 @@ in your own map, app or tool.
 
 No ads and no paywall. If the map helps you, you can [buy me a coffee](https://buymeacoffee.com/fbritoferreira) to cover hosting.
 
+Search matches every word you type against a location's name, type, category, district, area, real-world
+counterpart and description, ignoring case and accents, so "ritz" finds the hotels based on Ritz-Carlton buildings and
+"card key lento" finds the cards in Key Lento. Results come in three groups: districts, categories (such as "WAiNK
+scans") and locations. Up and down move through them, Enter picks one and Escape clears the box. Picking a category
+shows only that category. Picking a district, or clicking one on the map, shows only the locations inside it; the
+"Only <district>" chip in the panel shows them all again.
+
 The pins are drawn on a canvas, so the panel's **In view** section lists the locations on screen as buttons, nearest
 the centre first. With a keyboard or screen reader, open it, pick a location, and focus moves into its popup.
 
@@ -104,6 +111,7 @@ yourself:
 | `kinds`     | `kinds=card,package`    | Categories to show (keys from `data/categories.json`). Defaults to everything except Places |
 | `view`      | `view=3/500/480`        | Zoom, then x and y in map units                                                             |
 | `id`        | `id=hidden-package-001` | Open one location and zoom to it                                                            |
+| `district`  | `district=Hamlet`       | Show only the locations inside one district                                                 |
 | `labels`    | `labels=0`              | Hide district names                                                                         |
 | `hidefound` | `hidefound=1`           | Hide collectibles the viewer has marked as found                                            |
 

@@ -18,6 +18,8 @@ export function MapView() {
       toggleFound: (id) => app.toggleFound(id),
       onMove: app.moved,
       openPanel: () => app.setPanelOpen(true),
+      onDistrict: (name) => app.showDistrict(name),
+      panelWidth: () => (untrack(app.panelOpen) && innerWidth >= 800 ? 348 : 0),
     }).then((map) => {
       app.setMap(() => map);
       el.dataset.ready = ""; // lets tests (and anything else) wait until pins and handlers exist

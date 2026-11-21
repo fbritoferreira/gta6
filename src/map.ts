@@ -17,6 +17,10 @@ export type MapOptions = {
   toggleFound(id: string): boolean;
   onMove(): void;
   openPanel(): void;
+  /** A district outline or name was clicked. */
+  onDistrict(name: string): void;
+  /** Room the panel takes on the left, so fitted views centre in the space beside it. */
+  panelWidth(): number;
 };
 export type MapController = Awaited<ReturnType<typeof createMap>>;
 
@@ -305,7 +309,7 @@ export async function createMap(o: MapOptions) {
         <div class="pop-kind"><img src="${itemIcon(it)}" alt="">${esc(it.type || c.name)}</div>
         <h3>${esc(it.name)}</h3>
         ${it.description ? `<p>${esc(it.description)}</p>` : ""}
-        ${it.area ? `<p class="muted">${esc(it.area)}</p>` : ""}
+        ${it.area || it.district ? `<p class="muted">${esc(it.area || it.district)}</p>` : ""}
         ${it.real_life ? `<p><span class="muted">Real life:</span> ${esc(it.real_life)}</p>` : ""}
         ${it.service ? `<p><span class="muted">Service:</span> ${esc(it.service)}</p>` : ""}
         <div class="pop-actions">
@@ -329,19 +333,15 @@ export async function createMap(o: MapOptions) {
   }
 
   // --- Districts ---------------------------------------------------------------------------
-  // Approximate outlines (scripts/build-districts.ts) and names; click either to zoom in.
+  // Approximate outlines (scripts/build-districts.ts) and names; click either to show only that district.
   // Zoomed out a district is a tinted area you can click; zoomed in only its outline stays.
-  const zoomTo = (bounds: L.LatLngBounds) => {
-    if (map.getBoundsZoom(bounds, false, L.point(80, 80)) <= map.getZoom() + 0.25) return; // already this close
-    if (REDUCED_MOTION) map.fitBounds(bounds, { padding: [40, 40] });
-    else map.flyToBounds(bounds, { padding: [40, 40], duration: 0.8 });
-  };
   const districtStyle = (hover = false): L.PathOptions => ({
     opacity: hover ? 0.95 : 0.5,
     fill: map.getZoom() < DISTRICT_FILL_UNTIL,
     fillOpacity: hover ? 0.09 : 0.03,
   });
   const polygons: L.Polygon[] = [];
+  const districtBounds = new Map<string, L.LatLngBounds>();
   const districtLayer = L.layerGroup(),
     labelLayer = L.layerGroup();
   for (const d of districts) {
@@ -359,15 +359,16 @@ export async function createMap(o: MapOptions) {
     );
     poly.on("mouseover", () => poly.setStyle(districtStyle(true)));
     poly.on("mouseout", () => poly.setStyle(districtStyle()));
-    poly.on("click", () => zoomTo(poly.getBounds()));
+    poly.on("click", () => o.onDistrict(d.name));
     polygons.push(poly);
+    districtBounds.set(d.name, poly.getBounds());
     districtLayer.addLayer(poly);
     const label = L.marker([-d.y, d.x], {
       icon: L.divIcon({ className: "place-label", html: `<span>${esc(d.name)}</span>`, iconSize: undefined }),
-      title: `Zoom to ${d.name}`,
+      title: `Show only ${d.name}`,
       keyboard: true,
     });
-    label.on("click", () => zoomTo(poly.getBounds()));
+    label.on("click", () => o.onDistrict(d.name));
     labelLayer.addLayer(label);
   }
 
@@ -418,7 +419,9 @@ export async function createMap(o: MapOptions) {
     if (REDUCED_MOTION) map.setView(bounds.getCenter(), z);
     else map.flyTo(bounds.getCenter(), z, { duration: 0.6 });
   };
-  const visible = (it: Item) => filters.kinds.has(it.kind) && !(filters.hideFound && o.isFound(it.id));
+  const inDistrict = (it: Item, f: Filters) => !f.district || it.district === f.district;
+  const visible = (it: Item) =>
+    filters.kinds.has(it.kind) && inDistrict(it, filters) && !(filters.hideFound && o.isFound(it.id));
 
   function render() {
     const z = map.getZoom(),
@@ -555,7 +558,10 @@ export async function createMap(o: MapOptions) {
   if (o.view) map.setView([-o.view.y, o.view.x], o.view.zoom);
   // First view: the area the locations cover, not the whole tile square (mostly sea), so the
   // island fills a phone screen instead of a third of it.
-  else map.fitBounds(L.latLngBounds(items.map((it) => [-it.y, it.x] as L.LatLngTuple)).pad(0.04));
+  else
+    map.fitBounds(L.latLngBounds(items.map((it) => [-it.y, it.x] as L.LatLngTuple)).pad(0.04), {
+      paddingTopLeft: [o.panelWidth(), 0],
+    });
   onZoom();
 
   return {
@@ -580,6 +586,7 @@ export async function createMap(o: MapOptions) {
       const m = markers.get(id);
       if (!m) return;
       if (!filters.kinds.has(m.item.kind)) filters = { ...filters, kinds: new Set([...filters.kinds, m.item.kind]) };
+      if (!inDistrict(m.item, filters)) filters = { ...filters, district: undefined };
       map.setView(m.getLatLng(), Math.max(map.getZoom(), 4), { animate: false });
       onZoom(); // past the cluster zoom now, so the pin is on the map
       m.openPopup();
@@ -594,11 +601,31 @@ export async function createMap(o: MapOptions) {
       const bounds = map.getBounds(),
         c = map.getCenter();
       const shown = items.filter(
-        (it) => f.kinds.has(it.kind) && !(f.hideFound && o.isFound(it.id)) && bounds.contains([-it.y, it.x]),
+        (it) =>
+          f.kinds.has(it.kind) &&
+          inDistrict(it, f) &&
+          !(f.hideFound && o.isFound(it.id)) &&
+          bounds.contains([-it.y, it.x]),
       );
       const dist = (it: Item) => (it.x - c.lng) ** 2 + (-it.y - c.lat) ** 2;
       shown.sort((p, q) => dist(p) - dist(q));
       return { total: shown.length, items: shown.slice(0, limit) };
+    },
+    /** Flies to a district. */
+    showDistrict(name: string) {
+      const b = districtBounds.get(name);
+      if (!b) return;
+      const options = { paddingTopLeft: L.point(o.panelWidth() + 40, 40), paddingBottomRight: L.point(40, 40) };
+      if (REDUCED_MOTION) map.fitBounds(b, options);
+      else map.flyToBounds(b, { ...options, duration: 0.8 });
+    },
+    /** Fits the view to every location of one category, after search narrows the map to it. */
+    showKind(kind: string) {
+      const its = items.filter((it) => it.kind === kind);
+      if (its.length)
+        map.fitBounds(L.latLngBounds(its.map((it) => [-it.y, it.x] as L.LatLngTuple)).pad(0.1), {
+          paddingTopLeft: [o.panelWidth(), 0],
+        });
     },
     view(): View {
       const c = map.getCenter();

@@ -140,40 +140,67 @@ body.closed #side {
   pointer-events: none;
 }
 #results {
-  list-style: none;
   margin: 6px 0 0;
-  padding: 0;
-  max-height: 38vh;
+  max-height: 46vh;
   overflow: auto;
+  scrollbar-width: thin;
 }
 #results:empty {
   display: none;
 }
-#results button {
-  width: 100%;
+.result-head {
+  margin: 10px 8px 2px;
+  color: var(--sand);
+  font-size: 12.5px;
+  font-weight: 600;
+  font-stretch: var(--wide);
+}
+.result {
   display: flex;
   align-items: center;
   gap: 10px;
-  text-align: left;
-  background: none;
-  border: 0;
   padding: 6px 8px;
   border-radius: 8px;
   cursor: pointer;
 }
-#results button:hover {
-  background: rgba(245, 239, 230, 0.06);
+/* The keyboard-active result: a teal edge, so it reads as "where Enter goes", not just hover. */
+.result[aria-selected="true"] {
+  background: rgba(63, 224, 208, 0.1);
+  box-shadow: inset 2px 0 0 var(--teal);
 }
-#results img {
+.result img {
   width: 24px;
   height: 24px;
   flex: none;
   object-fit: contain;
 }
-#results small {
+.result small {
   display: block;
   color: var(--haze);
   font-size: 12px;
+}
+/* Districts get a dashed ring, echoing the dashed outlines on the map. */
+.result-pin {
+  width: 22px;
+  height: 22px;
+  margin: 1px;
+  flex: none;
+  border-radius: 50%;
+  border: 2px dashed var(--bone);
+  opacity: 0.8;
+}
+.result-dot {
+  width: 10px;
+  height: 10px;
+  margin: 7px;
+  flex: none;
+  border-radius: 50%;
+  background: var(--haze);
+}
+.result-note {
+  margin: 8px 8px 2px;
+  color: var(--haze);
+  font-size: 12.5px;
 }
 
 .bar {
@@ -220,10 +247,16 @@ body.closed #side {
   color: var(--haze);
   font-size: 13px;
 }
+.chip-on {
+  background: none;
+  font: inherit;
+  font-size: 13px;
+}
 .chip input {
   accent-color: var(--teal);
   margin: 0;
 }
+.chip-on,
 .chip:has(input:checked) {
   color: var(--bone);
   border-color: rgba(63, 224, 208, 0.4);
@@ -690,7 +723,7 @@ dialog .row input[type="checkbox"] {
   .kind {
     min-height: 44px;
   }
-  #results button {
+  .result {
     min-height: 44px;
   }
   .icon-btn {
@@ -770,4 +803,19 @@ dialog .row input[type="checkbox"] {
 }
 .chip.share-progress:hover {
   border-color: var(--haze);
+}
+
+/* Touch screens: no hover, no right-click, so the coordinate and report hint would only cover the map. */
+@media (pointer: coarse) {
+  .coords {
+    display: none;
+  }
+}
+/* Phones: a solid panel, so cluster rings behind it don't fight the text. */
+@media (max-width: 520px) {
+  #side {
+    background: var(--gulf);
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+  }
 }
