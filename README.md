@@ -198,7 +198,7 @@ Corrections and new locations are welcome as pull requests.
   `screenshot` to its path.
 - To add a pin, put a 56×64 `.webp` in `public/icons/pins/` named after the location type and add the name to
   `index.json`.
-- `pnpm build` checks that every JSON file parses, every `screenshot` exists, every `kind` is in `categories.json`, no
+- `pnpm build` checks that every JSON file parses, every `screenshot` exists and is written as `screenshots/<file>` (no leading `/`), every `kind` is in `categories.json`, no
   `id` repeats and the pin list matches the files. CI runs it, plus lint, format and tests, on every pull request.
 - Each pull request gets a temporary preview on GitHub Pages under `pr-preview/pr-<number>/`. The link is posted on the
   PR and the preview is deleted when the PR closes. Merges to `main` deploy to the live site.

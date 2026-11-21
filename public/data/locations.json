@@ -30787,7 +30787,7 @@
         "name": "Vice City",
         "type": "City / Town",
         "description": "The main city of GTA 6, inspired by Miami. Rockstar calls it the sun and fun capital of America, from the art deco hotels of Ocean Beach to Little Cuba and the VC Port.",
-        "screenshot": "/screenshots/gta6-city-town-001.webp"
+        "screenshot": "screenshots/gta6-city-town-001.webp"
     },
     {
         "id": "city-town-002",
@@ -30797,7 +30797,7 @@
         "name": "Vice Beach",
         "type": "City / Town",
         "description": "A beach area in Vice-Dale County, next to Vice City.",
-        "screenshot": "/screenshots/gta6-city-town-002.webp"
+        "screenshot": "screenshots/gta6-city-town-002.webp"
     },
     {
         "id": "city-town-003",
@@ -30807,7 +30807,7 @@
         "name": "Gloriana Key",
         "type": "City / Town",
         "description": "A small island in Vice-Dale County. It appears to be based on Virginia Key in Miami.",
-        "screenshot": "/screenshots/gta6-city-town-003.webp"
+        "screenshot": "screenshots/gta6-city-town-003.webp"
     },
     {
         "id": "city-town-004",
@@ -30817,7 +30817,7 @@
         "name": "Hamlet",
         "type": "City / Town",
         "description": "A town in Vice-Dale County. It is based on Homestead, Florida.",
-        "screenshot": "/screenshots/gta6-city-town-004.webp"
+        "screenshot": "screenshots/gta6-city-town-004.webp"
     },
     {
         "id": "city-town-005",
@@ -30837,7 +30837,7 @@
         "name": "Key Lento",
         "type": "City / Town",
         "description": "A town in the Leonida Keys, in all likelihood based on Key Largo. Jason's stilt house stands here.",
-        "screenshot": "/screenshots/gta6-city-town-006.webp"
+        "screenshot": "screenshots/gta6-city-town-006.webp"
     },
     {
         "id": "city-town-007",
@@ -30847,7 +30847,7 @@
         "name": "Watson Bay",
         "type": "City / Town",
         "description": "A town in Mariana County, likely based on Cedar Key. The Paradise Garage of the Ultimate Edition is here.",
-        "screenshot": "/screenshots/gta6-city-town-007.webp"
+        "screenshot": "screenshots/gta6-city-town-007.webp"
     },
     {
         "id": "city-town-008",
@@ -30857,7 +30857,7 @@
         "name": "Port Gellhorn",
         "type": "City / Town",
         "description": "Leonida's forgotten coast: a once popular vacation spot of cheap motels, closed attractions and empty strip malls. It appears to be based on Panama City, Florida.",
-        "screenshot": "/screenshots/gta6-city-town-008.webp"
+        "screenshot": "screenshots/gta6-city-town-008.webp"
     },
     {
         "id": "city-town-009",
@@ -30867,7 +30867,7 @@
         "name": "Ambrosia",
         "type": "City / Town",
         "description": "A sugar town in the heart of Leonida. The Allied Crystal refinery provides the jobs, and the local biker gang nearly everything else.",
-        "screenshot": "/screenshots/gta6-city-town-009.webp"
+        "screenshot": "screenshots/gta6-city-town-009.webp"
     },
     {
         "id": "city-town-010",
@@ -30877,7 +30877,7 @@
         "name": "Waning Sands",
         "type": "City / Town",
         "description": "A town in Leonard County, in the north east of Leonida. It appears to be based on the Florida cities of Pembroke Pines and Fort Lauderdale.",
-        "screenshot": "/screenshots/gta6-city-town-010.webp"
+        "screenshot": "screenshots/gta6-city-town-010.webp"
     },
     {
         "id": "card-los-santos-panic-004",
@@ -30917,7 +30917,7 @@
         "name": "Brofile Pic",
         "type": "Random event",
         "description": "Three guys drinking on top of the Wonder Whale ask you to take a picture of them.",
-        "screenshot": "/screenshots/gta6-random-event-053.webp"
+        "screenshot": "screenshots/gta6-random-event-053.webp"
     },
     {
         "id": "card-americas-next-top-hooker-010",
@@ -30937,7 +30937,7 @@
         "name": "Meteorite Fragment",
         "type": "Meteorite",
         "description": "Under the ledge below the red triangle chair.",
-        "screenshot": "/screenshots/gta6-meteorite-018.webp"
+        "screenshot": "screenshots/gta6-meteorite-018.webp"
     },
     {
         "id": "vehicle-spawn-011",
@@ -30967,7 +30967,7 @@
         "name": "Skunk Ape Effigy",
         "type": "Random event",
         "description": "One of the three skunk ape effigies.",
-        "screenshot": "/screenshots/gta6-random-event-055.webp"
+        "screenshot": "screenshots/gta6-random-event-055.webp"
     },
     {
         "id": "random-event-056",
@@ -30977,7 +30977,7 @@
         "name": "Skunk Ape Effigy",
         "type": "Random event",
         "description": "One of the three skunk ape effigies.",
-        "screenshot": "/screenshots/gta6-random-event-056.webp"
+        "screenshot": "screenshots/gta6-random-event-056.webp"
     },
     {
         "id": "random-event-054",
@@ -30987,7 +30987,7 @@
         "name": "Robbed at the ATM",
         "type": "Random event",
         "description": "A man in a floral shirt pulls a gun as you start a deposit and demands all your cash. Hand it over, or refuse and he tries to kill you.",
-        "screenshot": "/screenshots/gta6-random-event-054.webp"
+        "screenshot": "screenshots/gta6-random-event-054.webp"
     },
     {
         "id": "random-event-057",
@@ -30997,7 +30997,7 @@
         "name": "Skunk Ape Effigy",
         "type": "Random event",
         "description": "One of the three skunk ape effigies.",
-        "screenshot": "/screenshots/gta6-random-event-057.webp"
+        "screenshot": "screenshots/gta6-random-event-057.webp"
     },
     {
         "id": "random-event-058",
@@ -31007,7 +31007,7 @@
         "name": "Drunk Man at the Rusty Anchor",
         "type": "Random event",
         "description": "A drunk man stumbles outside the Rusty Anchor asking for cash. Give him money for a ride home, or watch him water the plants and drive off drunk in his boat.",
-        "screenshot": "/screenshots/gta6-random-event-058.webp"
+        "screenshot": "screenshots/gta6-random-event-058.webp"
     },
     {
         "id": "hunting-005",
@@ -31017,7 +31017,7 @@
         "name": "Gellhorn Hunting Spot",
         "type": "Hunting",
         "description": "A hunting magazine marks this as a good spot for wild boars, wild white turkeys, Leonida panthers and black foxes. Recommended weapon: Shrewsbury SM-69 rifle.",
-        "screenshot": "/screenshots/gta6-hunting-005.webp"
+        "screenshot": "screenshots/gta6-hunting-005.webp"
     },
     {
         "id": "card-legends-of-ratface-006",
@@ -31027,7 +31027,7 @@
         "name": "Legends of Ratface card: Ratster (Blue)",
         "type": "card-legends-of-ratface",
         "description": "In the staff-only area of the LTD Food Mart - Capri, on top of a microwave.",
-        "screenshot": "/screenshots/gta6-card-legends-of-ratface-006.webp"
+        "screenshot": "screenshots/gta6-card-legends-of-ratface-006.webp"
     },
     {
         "id": "vehicle-spawn-012",
@@ -31037,7 +31037,7 @@
         "name": "Bombora S23 CS (Boat)",
         "type": "Standout vehicle",
         "description": "On the shore, next to a couple sitting by a fire.",
-        "screenshot": "/screenshots/gta6-vehicle-spawn-012.webp"
+        "screenshot": "screenshots/gta6-vehicle-spawn-012.webp"
     },
     {
         "id": "weapon-spawn-032",
@@ -31047,7 +31047,7 @@
         "name": "Duke 556 Assault Rifle",
         "type": "Weapon pickup",
         "description": "Near the seaplane, on top of the small building to the right of the water tank (facing the water).",
-        "screenshot": "/screenshots/gta6-weapon-spawn-032.webp"
+        "screenshot": "screenshots/gta6-weapon-spawn-032.webp"
     },
     {
         "id": "card-backyard-wrestling-008",
@@ -31067,7 +31067,7 @@
         "name": "Dumpster Diver",
         "type": "Random event",
         "description": "During Chapter 2, a dumpster diver at the motel where Jason and Lucia are staying.",
-        "screenshot": "/screenshots/gta6-random-event-059.webp"
+        "screenshot": "screenshots/gta6-random-event-059.webp"
     },
     {
         "id": "random-event-060",
@@ -31077,7 +31077,7 @@
         "name": "A Couple's Dream",
         "type": "Random event",
         "description": "A couple near the motel's reception entrance, dreaming about their future.",
-        "screenshot": "/screenshots/gta6-random-event-060.webp"
+        "screenshot": "screenshots/gta6-random-event-060.webp"
     },
     {
         "id": "card-legends-of-ratface-007",
@@ -31107,7 +31107,7 @@
         "name": "Payday Loan Crashout",
         "type": "Random event",
         "description": "Inside Cash Flow Loans on Gellhorn Avenue, Port Gellhorn: a bald man rages at the ATM and cracks its screen.",
-        "screenshot": "/screenshots/gta6-random-event-061.webp"
+        "screenshot": "screenshots/gta6-random-event-061.webp"
     },
     {
         "id": "standout-vehicle-104",
@@ -31117,7 +31117,7 @@
         "name": "Partytime Caddy",
         "type": "Standout vehicle",
         "description": "Parked out front of the milk bar.",
-        "screenshot": "/screenshots/gta6-standout-vehicle-104.webp"
+        "screenshot": "screenshots/gta6-standout-vehicle-104.webp"
     },
     {
         "id": "card-los-santos-corkers-005",
@@ -31147,7 +31147,7 @@
         "name": "Tee'd Off Dino",
         "type": "Magazine",
         "description": "Magazine on the table. Unlocks the unique Tee'd Off Dino tattoo.",
-        "screenshot": "/screenshots/gta6-magazine-047.webp"
+        "screenshot": "screenshots/gta6-magazine-047.webp"
     },
     {
         "id": "weapon-spawn-033",
@@ -31157,7 +31157,7 @@
         "name": "Bat Batesaurio",
         "type": "Weapon pickup",
         "description": "Unique bat. Pick it up next to the red mesh cage near Dino Golf.",
-        "screenshot": "/screenshots/gta6-weapon-spawn-033.webp"
+        "screenshot": "screenshots/gta6-weapon-spawn-033.webp"
     },
     {
         "id": "card-backyard-wrestling-009",

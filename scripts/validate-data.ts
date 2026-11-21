@@ -66,6 +66,12 @@ export function validateData(root: string): string[] {
     locations.flatMap((l) => (l.screenshot && !existsSync(join(root, l.screenshot)) ? [l.screenshot] : [])),
   );
 
+  // A leading "/" resolves from the domain root, so the image breaks on GitHub Pages (served under /<repo>/).
+  report(
+    "Screenshots not written as screenshots/<file> (no leading /)",
+    locations.flatMap((l) => (l.screenshot && !l.screenshot.startsWith("screenshots/") ? [l.screenshot] : [])),
+  );
+
   const kinds = new Set(categories.kinds.map((k) => k.key));
   report(
     "Kinds missing from data/categories.json",
