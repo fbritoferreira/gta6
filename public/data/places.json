@@ -1936,7 +1936,7 @@
     "name": "Xero Gas Station",
     "area": "Ambrosia",
     "real_life": "517 E Sugarland Hwy, Clewiston, FL 33440",
-    "service": "Gas station",
+    "service": "Gas station, Supermarket",
     "confidence": "community",
     "source_urls": []
   },
@@ -2947,7 +2947,7 @@
     "name": "Gas Station",
     "area": "Stockyard, Vice City",
     "real_life": "3601 Biscayne Blvd, Miami, FL 33137",
-    "service": "Supermarket",
+    "service": "Supermarket, Gas station",
     "confidence": "community",
     "source_urls": []
   },
@@ -5654,7 +5654,7 @@
     "name": "Arrow Gas Station",
     "area": "Route 1, Key Lento",
     "real_life": "Olimar Stone - Key Largo, 106580 Overseas Hwy, Key Largo, FL 33037",
-    "service": "Supermarket",
+    "service": "Supermarket, Gas station",
     "confidence": "community",
     "source_urls": []
   },
@@ -6218,7 +6218,7 @@
     "name": "Xero Gas Station",
     "area": "Capri",
     "real_life": "3030 U.S. Hwy 27 S, Sebring, FL 33870",
-    "service": "Gas station",
+    "service": "Gas station, Supermarket",
     "confidence": "community",
     "source_urls": []
   },
@@ -11313,18 +11313,6 @@
     "source_urls": []
   },
   {
-    "id": "L3197",
-    "kind": "shop",
-    "x": 508.9,
-    "y": 451.9,
-    "name": "Gas Station",
-    "area": "Stockyard, Vice City",
-    "real_life": "",
-    "service": "Gas station",
-    "confidence": "community",
-    "source_urls": []
-  },
-  {
     "id": "L3205",
     "kind": "transport",
     "x": 491.9,
@@ -11517,18 +11505,6 @@
     "source_urls": []
   },
   {
-    "id": "L3283",
-    "kind": "shop",
-    "x": 445.7,
-    "y": 675,
-    "name": "Arrow Gas Station",
-    "area": "Route 1, Key Lento",
-    "real_life": "Olimar Stone - Key Largo, 106580 Overseas Hwy, Key Largo, FL 33037",
-    "service": "Gas station",
-    "confidence": "community",
-    "source_urls": []
-  },
-  {
     "id": "L3287",
     "kind": "shop",
     "x": 502.5,
@@ -11547,18 +11523,6 @@
     "y": 423.5,
     "name": "Arrow Gas Station",
     "area": "Belville",
-    "real_life": "",
-    "service": "Supermarket",
-    "confidence": "community",
-    "source_urls": []
-  },
-  {
-    "id": "L3289",
-    "kind": "shop",
-    "x": 307.4,
-    "y": 518,
-    "name": "Xero Gas Station",
-    "area": "Capri",
     "real_life": "",
     "service": "Supermarket",
     "confidence": "community",
@@ -11625,18 +11589,6 @@
     "source_urls": []
   },
   {
-    "id": "L3299",
-    "kind": "transport",
-    "x": 457.3,
-    "y": 568.1,
-    "name": "Bus Stop",
-    "area": "Calderone Ave, Southside, Vice City",
-    "real_life": "",
-    "service": "Bus stop",
-    "confidence": "community",
-    "source_urls": []
-  },
-  {
     "id": "L3302",
     "kind": "shop",
     "x": 505.3,
@@ -11657,18 +11609,6 @@
     "area": "Vice Decor District, Vice City",
     "real_life": "",
     "service": "",
-    "confidence": "community",
-    "source_urls": []
-  },
-  {
-    "id": "L3304",
-    "kind": "shop",
-    "x": 428.1,
-    "y": 380.9,
-    "name": "Xero Gas Station",
-    "area": "Ambrosia",
-    "real_life": "",
-    "service": "Supermarket",
     "confidence": "community",
     "source_urls": []
   },

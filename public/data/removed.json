@@ -43,5 +43,10 @@
   { "id": "towable-atm-043", "reason": "Duplicate of towable-atm-042, 0.36 map units away" },
   { "id": "towable-atm-054", "reason": "Duplicate of towable-atm-053, 0.42 map units away" },
   { "id": "towable-atm-080", "reason": "Duplicate of towable-atm-079, 0.98 map units away" },
-  { "id": "towable-atm-086", "reason": "Duplicate of towable-atm-085, 0.32 map units away" }
+  { "id": "towable-atm-086", "reason": "Duplicate of towable-atm-085, 0.32 map units away" },
+  { "id": "L3304", "reason": "Duplicate of L406 (Xero Gas Station), 0.64 map units away; its service is merged into L406" },
+  { "id": "L3289", "reason": "Duplicate of L1619 (Xero Gas Station), 0.78 map units away; its service is merged into L1619" },
+  { "id": "L3197", "reason": "Duplicate of L679 (Gas Station), 0.63 map units away; its service is merged into L679" },
+  { "id": "L3283", "reason": "Duplicate of L1536 (Arrow Gas Station), 0.85 map units away; its service is merged into L1536" },
+  { "id": "L3299", "reason": "Duplicate of L3116 (Bus Stop), 0.92 map units away; its service is merged into L3116" }
 ]
