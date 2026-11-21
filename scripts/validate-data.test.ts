@@ -34,6 +34,11 @@ describe("validateData", () => {
     expect(validateData(fixture())).toEqual([]);
   });
 
+  it("reports a name with a stray space", () => {
+    const root = fixture({ "data/places.json": [{ id: "L1", kind: "food", name: "Turn ", x: 2, y: 2 }] });
+    expect(validateData(root).join()).toContain('L1 ("Turn ")');
+  });
+
   it("reports a screenshot file that no location uses", () => {
     const root = fixture();
     writeFileSync(join(root, "screenshots/old-001.jpg"), "");
