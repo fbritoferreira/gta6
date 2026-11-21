@@ -1,0 +1,87 @@
+import { expect, test, type Page } from "@playwright/test";
+
+/** Fails the test on any console error or failed request for the site's own files. */
+/** Waits until the map has loaded its icons, pins and handlers. */
+const mapReady = (page: Page) => page.locator("#map[data-ready]").waitFor();
+
+function watchErrors(page: Page) {
+  const errors: string[] = [];
+  page.on("console", (m) => {
+    if (m.type() === "error") errors.push(m.text());
+  });
+  page.on("response", (r) => {
+    if (r.status() >= 400 && r.url().startsWith("http://localhost")) errors.push(`${r.status()} ${r.url()}`);
+  });
+  return errors;
+}
+
+test("loads the map, its tiles and the category list without errors", async ({ page }) => {
+  const errors = watchErrors(page);
+  await page.goto("./");
+  await expect(page.locator(".leaflet-tile-loaded").first()).toBeVisible();
+  await expect(page.locator("#scroll .kind").first()).toBeAttached();
+  expect(await page.locator("#scroll .kind").count()).toBeGreaterThan(30);
+  expect(errors).toEqual([]);
+});
+
+test("search focuses a location, and marking it found updates the count", async ({ page }) => {
+  const errors = watchErrors(page);
+  await page.goto("./");
+  await mapReady(page);
+  // Phones start with the panel slid off screen (still "visible" to Playwright), so check the class.
+  const openPanel = async () => {
+    if ((await page.locator("body").getAttribute("class"))?.includes("closed"))
+      await page.locator(".ctl-filters").click();
+  };
+  await openPanel();
+  await page.locator("#q").fill("marquise");
+  await page.locator("#results button").first().click();
+
+  const popup = page.locator(".leaflet-popup-content");
+  await expect(popup.locator("h3")).toContainText("Marquise Bernard");
+  await expect(page).toHaveURL(/view=/);
+
+  const found = popup.locator(".found-btn");
+  await expect(found).toHaveText("Mark as found");
+  await found.click();
+  await expect(found).toHaveText("Found");
+  await expect(found).toHaveAttribute("aria-pressed", "true");
+
+  // On phones the panel closes when a result is picked; open it again to read the count.
+  if ((await page.locator("body").getAttribute("class"))?.includes("closed"))
+    await page.locator(".ctl-filters").click();
+  await expect(page.locator(".kind", { hasText: "Collectible cards" }).locator(".count")).toHaveText(/^1 of /);
+  expect(errors).toEqual([]);
+});
+
+test("right-clicking the map offers a pre-filled missing-location report", async ({ page, isMobile }) => {
+  test.skip(isMobile, "right-click is a desktop gesture; phones use long-press");
+  await page.goto("./?view=3/505/480");
+  await mapReady(page);
+  await page.locator("#map").click({ button: "right", position: { x: 700, y: 400 } });
+  const link = page.locator(".leaflet-popup-content a.btn");
+  await expect(link).toHaveText("Report a missing location");
+  const url = new URL((await link.getAttribute("href"))!);
+  expect(url.searchParams.get("template")).toBe("missing-location.yml");
+  expect(url.searchParams.get("position")).toMatch(/^x [\d.]+, y [\d.]+$/);
+});
+
+test("embed mode starts with the panel closed and links to the full map", async ({ page }) => {
+  await page.goto("./?embed=1");
+  await expect(page.locator("body")).toHaveClass(/embed/);
+  await expect(page.locator("body")).toHaveClass(/closed/);
+  await expect(page.getByRole("link", { name: "Open full map" })).toBeVisible();
+});
+
+test("publishes the asset index and the wiki export", async ({ request }) => {
+  const assets = (await (await request.get("./assets.json")).json()) as { data: Record<string, string> };
+  expect(assets.data.locations).toBe("data/locations.json");
+  const wiki = (await (await request.get("./wiki/index.json")).json()) as { maps: unknown[]; image: { path: string } };
+  expect(wiki.maps.length).toBeGreaterThanOrEqual(31);
+  expect((await request.get(`./wiki/${wiki.image.path}`)).ok()).toBe(true);
+});
+
+test("a location link opens its popup even though it is requested before the map has loaded", async ({ page }) => {
+  await page.goto("./?id=hidden-package-001");
+  await expect(page.locator(".leaflet-popup-content h3")).toContainText("Marquise Bernard");
+});

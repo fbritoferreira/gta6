@@ -1,0 +1,22 @@
+# Weekly dependency updates. Each one runs the full CI (lint, unit and browser tests, build)
+# before it can merge. Solid 2 is new and patched often, so its packages move together.
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+    versioning-strategy: increase
+    groups:
+      solid:
+        patterns: ["solid-js", "@solidjs/*"]
+      lint-and-format:
+        patterns: ["eslint", "@eslint/*", "typescript-eslint", "eslint-plugin-*", "prettier", "globals"]
+      test:
+        patterns: ["vitest", "@playwright/test"]
+      build:
+        patterns: ["vite", "typescript", "@types/*", "sharp"]
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly

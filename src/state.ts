@@ -36,6 +36,7 @@ export function createAppState(data: Data) {
   const [embedOpen, setEmbedOpen] = createSignal(false);
   const [map, setMap] = createSignal<MapController>();
   const [moves, setMoves] = createSignal(0); // bumps on every pan and zoom, so view-dependent things follow
+  let pendingFocus: string | undefined = init.id; // a search pick, or ?id=, made before the map is ready
 
   const filters = (): Filters => ({ style: style(), kinds: kinds(), labels: labels(), hideFound: hideFound() });
   const editKinds = (edit: (next: Set<string>) => void) =>
@@ -95,12 +96,22 @@ export function createAppState(data: Data) {
           else next.delete(k.key);
         }
       }),
-    focus(id: string) {
+    /** Zooms to a location. Before the map has loaded, it is remembered and shown once the map is ready. */
+    focus(id: string, readyMap?: MapController) {
       const it = itemById.get(id);
       if (!it) return;
       editKinds((next) => next.add(it.kind));
       if (innerWidth < 800) setPanelOpen(false);
-      untrack(map)?.focus(id);
+      // readyMap: the caller just set the map; Solid 2 batches writes, so map() would still be stale.
+      const ready = readyMap ?? untrack(map);
+      if (ready) ready.focus(id);
+      else pendingFocus = id;
+    },
+    /** Called once by MapView when the map is ready: shows the location picked while it loaded. */
+    takePendingFocus() {
+      const id = pendingFocus;
+      pendingFocus = undefined;
+      return id;
     },
     /** Query string for the current filters, plus the current view unless withView is false. */
     link: (withView = true) => writeUrl(filters(), data.defaultKinds, withView ? map()?.view() : undefined),
