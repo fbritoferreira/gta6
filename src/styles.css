@@ -615,8 +615,12 @@ body:not(.closed) .ctl-filters {
 }
 .pop-actions {
   display: flex;
+  flex-wrap: wrap; /* on a phone the buttons wrap, not the words inside them */
   gap: 8px;
   margin-top: 14px;
+}
+.pop-actions .btn {
+  white-space: nowrap;
 }
 .pop-actions .btn {
   padding: 6px 12px;
