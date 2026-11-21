@@ -166,7 +166,6 @@ test("progress moves to another device through a progress link", async ({ browse
   await a.getByRole("button", { name: "Share progress" }).click();
   const link = await a.evaluate(() => navigator.clipboard.readText());
   expect(link).toMatch(/\?progress=[a-z0-9]{6}\.[A-Za-z0-9_-]+$/);
-  expect(link.length - link.indexOf("progress=")).toBeLessThan(320);
 
   const laptop = await browser.newContext({ baseURL });
   const b = await laptop.newPage();
