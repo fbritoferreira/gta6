@@ -49,8 +49,10 @@ jobs:
           clean-exclude: pr-preview/
           force: false
 
+      # Pull requests from forks get a read-only token, so they can't push a preview to gh-pages.
+      # They still run the checks and the build above; only the preview is skipped.
       - name: Deploy PR preview
-        if: github.event_name == 'pull_request'
+        if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
         uses: rossjrw/pr-preview-action@v1
         with:
           source-dir: dist
