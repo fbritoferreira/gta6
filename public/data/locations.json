@@ -910,16 +910,6 @@
     "screenshot": null
   },
   {
-    "id": "bar-002",
-    "kind": "food",
-    "x": 441.9,
-    "y": 676.8,
-    "name": "The Rusty Anchor",
-    "type": "Bar",
-    "description": "A bar in Key Lento.",
-    "screenshot": null
-  },
-  {
     "id": "marina-004",
     "kind": "transport",
     "x": 432.2,
@@ -11815,16 +11805,6 @@
     "x": 574.4,
     "y": 522.2,
     "name": "Acai Dreams VIP Bar",
-    "type": "Bar",
-    "description": "",
-    "screenshot": null
-  },
-  {
-    "id": "bar-133",
-    "kind": "food",
-    "x": 574.1,
-    "y": 522.3,
-    "name": "Acai Dreams Rooftop Bar",
     "type": "Bar",
     "description": "",
     "screenshot": null
