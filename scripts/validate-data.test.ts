@@ -34,6 +34,18 @@ describe("validateData", () => {
     expect(validateData(fixture())).toEqual([]);
   });
 
+  it("reports a location filed as other when its id type usually isn't", () => {
+    const root = fixture({
+      "data/categories.json": { kinds: [{ key: "bank" }, { key: "food" }, { key: "other" }] },
+      "data/locations.json": [
+        { id: "bank-001", kind: "bank", name: "A", x: 1, y: 1, screenshot: "screenshots/bank-001.webp" },
+        { id: "bank-002", kind: "bank", name: "B", x: 5, y: 5 },
+        { id: "bank-003", kind: "other", name: "C", x: 9, y: 9 },
+      ],
+    });
+    expect(validateData(root).join()).toContain("bank-003 (usually bank)");
+  });
+
   it("reports a name with a stray space", () => {
     const root = fixture({ "data/places.json": [{ id: "L1", kind: "food", name: "Turn ", x: 2, y: 2 }] });
     expect(validateData(root).join()).toContain('L1 ("Turn ")');

@@ -66,6 +66,22 @@ export function validateData(root: string): string[] {
     locations.flatMap((l) => (l.screenshot && !existsSync(join(root, l.screenshot)) ? [l.screenshot] : [])),
   );
 
+  // "other" is the sync's fallback for a category it doesn't know; a location whose id type is usually
+  // filed elsewhere (a card-* id) was almost certainly misfiled, and wouldn't count toward that progress.
+  const typeOf = (id: string) => id.replace(/-\d+$/, "");
+  const tally = new Map<string, Map<string, number>>();
+  for (const l of locations) {
+    const t = tally.get(typeOf(l.id)) ?? new Map<string, number>();
+    tally.set(typeOf(l.id), t.set(l.kind, (t.get(l.kind) ?? 0) + 1));
+  }
+  const usual = (id: string) => [...(tally.get(typeOf(id)) ?? [])].sort((a, b) => b[1] - a[1])[0]?.[0];
+  report(
+    'Filed as "other" though their id type usually isn\'t',
+    locations
+      .filter((l) => l.kind === "other" && usual(l.id) !== "other")
+      .map((l) => `${l.id} (usually ${usual(l.id)})`),
+  );
+
   // Stray spaces break exact-name matches (search ranking, duplicate checks) and show in titles.
   report(
     "Names with spaces at either end",

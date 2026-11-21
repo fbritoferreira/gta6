@@ -30881,7 +30881,7 @@
     },
     {
         "id": "card-los-santos-panic-004",
-        "kind": "other",
+        "kind": "card",
         "x": 372.90625,
         "y": 629.5,
         "name": "Los Santos Panic card: Marquise Bernard",
@@ -30921,7 +30921,7 @@
     },
     {
         "id": "card-americas-next-top-hooker-010",
-        "kind": "other",
+        "kind": "card",
         "x": 436.78125,
         "y": 686.875,
         "name": "America's Next Top Hooker card: Chastity",
@@ -31021,7 +31021,7 @@
     },
     {
         "id": "card-legends-of-ratface-006",
-        "kind": "other",
+        "kind": "card",
         "x": 298.125,
         "y": 495.09375,
         "name": "Legends of Ratface card: Ratster (Blue)",
@@ -31051,7 +31051,7 @@
     },
     {
         "id": "card-backyard-wrestling-008",
-        "kind": "other",
+        "kind": "card",
         "x": 530.125,
         "y": 569.4375,
         "name": "Backyard Wrestling card: Judas Sterling",
@@ -31081,7 +31081,7 @@
     },
     {
         "id": "card-legends-of-ratface-007",
-        "kind": "other",
+        "kind": "card",
         "x": 531.65625,
         "y": 569.0625,
         "name": "Legends of Ratface card: The Diddler",
@@ -31121,7 +31121,7 @@
     },
     {
         "id": "card-los-santos-corkers-005",
-        "kind": "other",
+        "kind": "card",
         "x": 480.1875,
         "y": 487.28125,
         "name": "Los Santos Corkers card: Carlos Larios (Gold)",
@@ -31161,7 +31161,7 @@
     },
     {
         "id": "card-backyard-wrestling-009",
-        "kind": "other",
+        "kind": "card",
         "x": 312.34375,
         "y": 373.65625,
         "name": "Backyard Wrestling card: Katie K",
@@ -31181,7 +31181,7 @@
     },
     {
         "id": "card-vice-city-narcos-007",
-        "kind": "other",
+        "kind": "card",
         "x": 476.65625,
         "y": 535.75,
         "name": "Vice City Narcos card: Antoine Bell",
@@ -31251,7 +31251,7 @@
     },
     {
         "id": "card-delights-011",
-        "kind": "other",
+        "kind": "card",
         "x": 399.5,
         "y": 261.4375,
         "name": "Delights card: Perla",
@@ -31351,7 +31351,7 @@
     },
     {
         "id": "card-ed-comics-006",
-        "kind": "other",
+        "kind": "card",
         "x": 475.09375,
         "y": 474.875,
         "name": "Ed Comics Universe card: Dr. Placebo",
