@@ -38,7 +38,7 @@ const assetIndex = (): Plugin => ({
         url: "tiles/{style}/{z}/{z},{y},{x}.webp",
         tileSize: 256,
         minZoom: 0,
-        maxZoom: 4,
+        maxZoom: 5,
         crs: "Leaflet CRS.Simple, 1024 units square at zoom 0, latitude = -y",
       },
       pins: {

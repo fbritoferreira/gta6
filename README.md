@@ -54,6 +54,11 @@ address plus its path:
 | Places             | `https://fbritoferreira.github.io/gta6/data/places.json`                       |
 | Categories         | `https://fbritoferreira.github.io/gta6/data/categories.json`                   |
 | District outlines  | `https://fbritoferreira.github.io/gta6/data/districts.json`                    |
+| Land (coastline)   | `https://fbritoferreira.github.io/gta6/data/land.json`                         |
+| Surface            | `https://fbritoferreira.github.io/gta6/data/surface.json`                      |
+| Roads              | `https://fbritoferreira.github.io/gta6/data/roads.json`                        |
+| Railways           | `https://fbritoferreira.github.io/gta6/data/rails.json`                        |
+| Route shields      | `https://fbritoferreira.github.io/gta6/data/routes.json`                       |
 | Base map tiles     | `https://fbritoferreira.github.io/gta6/tiles/{night,day}/{z}/{z},{y},{x}.webp` |
 | Pins               | `https://fbritoferreira.github.io/gta6/icons/pins/{type}.webp`                 |
 | Screenshots        | `https://fbritoferreira.github.io/gta6/screenshots/{id}.webp`                  |
@@ -63,8 +68,8 @@ GitHub Pages sends `Access-Control-Allow-Origin: *`, so you can `fetch` these fr
 
 ```js
 const BASE = "https://fbritoferreira.github.io/gta6";
-const map = L.map("map", { crs: L.CRS.Simple, minZoom: 0, maxZoom: 6 });
-L.tileLayer(`${BASE}/tiles/night/{z}/{z},{y},{x}.webp`, { tileSize: 256, maxNativeZoom: 4, noWrap: true }).addTo(map);
+const map = L.map("map", { crs: L.CRS.Simple, minZoom: 0, maxZoom: 7 });
+L.tileLayer(`${BASE}/tiles/night/{z}/{z},{y},{x}.webp`, { tileSize: 256, maxNativeZoom: 5, noWrap: true }).addTo(map);
 
 const locations = await fetch(`${BASE}/data/locations.json`).then((r) => r.json());
 for (const l of locations) L.marker([-l.y, l.x]).bindPopup(l.name).addTo(map);
@@ -134,8 +139,9 @@ Keep the credit in the corner of the map visible; CC BY 4.0 requires it.
 Everything here lives in `public/` and is served as is.
 
 - `tiles/night/` and `tiles/day/`: the two base maps (Night: navy water and slate land; Day: turquoise water and sand
-  land) at zooms 0 to 4, named `<z>/<z>,<y>,<x>.webp`. Each tile is a 1024 px image shown in a 256 px slot
-  (`tileSize: 256`), so it stays sharp up to zoom 6 and on high-density screens. At zoom 0 the map is 1024 units square
+  land) at zooms 0 to 5, named `<z>/<z>,<y>,<x>.webp`. Each tile is a 1024 px image shown in a 256 px slot
+  (`tileSize: 256`), so it stays sharp up to zoom 7 and on high-density screens. They are drawn from the data below by
+  the pipeline in `scripts/tiles/` (see its README). At zoom 0 the map is 1024 units square
   (Leaflet `CRS.Simple`, latitude = -y).
 - `data/locations.json`: collectibles, activities and services. `kind` is the map category, `type` the label shown,
   `x`/`y` map units, `screenshot` a path in `screenshots/` or null.
@@ -152,7 +158,18 @@ Everything here lives in `public/` and is served as is.
   its id here.
 - `data/labels.json`: district names and where they sit.
 - `data/districts.json`: approximate district outlines, generated from `places.json` by `pnpm districts` (part of
-  `pnpm build`). There is no official boundary data; outlines sharpen as more places get an `area`.
+  `pnpm build`). There is no official boundary data; outlines sharpen as more places get an `area`. Each district is
+  clipped to `land.json`, so outlines stop at the coast.
+- `data/land.json`: the land as polygons in map units (`[[[x, y], ...], ...]` per polygon, outer ring then holes for
+  lakes): the mainland, islands and keys, traced from Rockstar's printable Leonida map.
+- `data/surface.json`: GeoJSON polygons in map units, each with a `layer`: `shallow` (shallow water along the coasts),
+  `park`, `urban` (built-up ground), `paved` (runways), `building` and `sand`.
+- `data/roads.json`: GeoJSON lines in map units, every road with its `kind`: `highway`, `main`, `street` or `minor`
+  (country roads and tracks).
+- `data/rails.json`: GeoJSON lines in map units, the railways.
+- `data/routes.json`: the highway route shields on Rockstar's printable map: `ref` (`I-97`, `US-35`, `SR-1A`, `CR-62`...),
+  `kind` (`interstate`, `us`, `state`, `toll` or `county`) and `x`/`y` in map units. The map has no street names, so
+  there are none here.
 - `icons/pins/<type>.webp`: the map pins, one per location type, where the type is the location's `id` without its
   number (`bank-001` uses `bank.webp`). A location filed under another category than its id type usually is (a card numbered `hidden-package-001`) uses its category's pin instead. Pins are 56×64 with the tail tip at the bottom centre. List every pin in
   `icons/pins/index.json`. Most are hand-drawn; the ones listed in `scripts/make-pins.ts` (meteorite, Ahol street art, random event,
