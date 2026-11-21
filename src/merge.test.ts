@@ -17,6 +17,11 @@ describe("mergePlaces", () => {
     expect(mergePlaces([shop], [far, other]).items.map((i) => i.id)).toEqual(["clothing-001", "L2", "L3"]);
   });
 
+  it("prefers the place's finer area over the location's district", () => {
+    const { items } = mergePlaces([{ ...shop, area: "Vice City", real_life: "" }], [place]);
+    expect(items[0].area).toBe("Little Havana");
+  });
+
   it("picks the nearest of two same-named locations", () => {
     const near = { ...shop, id: "marina-004", x: 501.7 };
     expect(mergePlaces([shop, near], [place]).merged.get("L1488")).toBe("marina-004");
