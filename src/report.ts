@@ -1,24 +1,10 @@
 // Links that open a pre-filled GitHub issue (.github/ISSUE_TEMPLATE/*.yml), so players can report
 // a missing or wrong location from the map without knowing the JSON format.
-import type { District, Item } from "./data";
+import type { Item } from "./data";
+import { toGame } from "./geo";
 import { REPO_URL } from "./repo";
 
-/** Map units to game coordinates (README: x = (gx + 16384) / 32, y = (16384 - gy) / 32). */
-export const toGame = (x: number, y: number) => ({ gx: Math.round(x * 32 - 16384), gy: Math.round(16384 - y * 32) });
-
-/** The district whose outline contains the point, by ray casting; undefined outside all of them. */
-export function districtAt(x: number, y: number, districts: District[]): string | undefined {
-  const inside = (ring: [number, number][]) => {
-    let hit = false;
-    for (let i = 0, j = ring.length - 1; i < ring.length; j = i++) {
-      const [xi, yi] = ring[i];
-      const [xj, yj] = ring[j];
-      if (yi > y !== yj > y && x < ((xj - xi) * (y - yi)) / (yj - yi) + xi) hit = !hit;
-    }
-    return hit;
-  };
-  return districts.find((d) => d.rings.some(inside))?.name;
-}
+export { districtAt, toGame } from "./geo";
 
 const issueUrl = (fields: Record<string, string | undefined>) => {
   const p = new URLSearchParams();
