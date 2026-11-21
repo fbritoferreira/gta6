@@ -298,20 +298,24 @@ body.closed #side {
   margin: 10px 0 4px;
   padding: 6px 8px;
   border-radius: 10px;
-  cursor: pointer;
   list-style: none;
+}
+summary.group-head {
+  cursor: pointer;
 }
 .group-head::-webkit-details-marker {
   display: none;
 }
-.group-head:hover {
+summary.group-head:hover,
+.group-head:has(.group-toggle:hover) {
   background: rgba(245, 239, 230, 0.04);
 }
 .group-head .chev {
   color: var(--haze);
   transition: transform 0.15s;
 }
-.group:not([open]) .chev {
+details.group:not([open]) .chev,
+.group-toggle[aria-expanded="false"] .chev {
   transform: rotate(-90deg);
 }
 .group-head h2 {
@@ -333,6 +337,17 @@ body.closed #side {
 }
 .group-head button:hover {
   color: var(--bone);
+}
+/* The group name is the toggle: it looks like the heading, and the whole name and chevron are the target. */
+.group-head .group-toggle {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  padding: 0;
+  color: inherit;
+  font: inherit;
+  text-align: left;
 }
 .kind {
   display: flex;

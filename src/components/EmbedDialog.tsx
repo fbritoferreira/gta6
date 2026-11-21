@@ -37,6 +37,7 @@ export function EmbedDialog() {
           Height{" "}
           <input
             type="number"
+            name="height"
             min="200"
             step="50"
             value={height()}
@@ -45,11 +46,16 @@ export function EmbedDialog() {
           px
         </label>
         <label>
-          <input type="checkbox" checked={withView()} onChange={(e) => setWithView(e.currentTarget.checked)} /> Start at
-          my current view
+          <input
+            type="checkbox"
+            name="withview"
+            checked={withView()}
+            onChange={(e) => setWithView(e.currentTarget.checked)}
+          />{" "}
+          Start at my current view
         </label>
       </div>
-      <textarea readonly aria-label="Embed code" value={code()} />
+      <textarea readonly name="code" aria-label="Embed code" value={code()} />
       <div class="row">
         <button class="btn primary" type="button" onClick={(e) => void copy(code(), e.currentTarget)}>
           Copy code
