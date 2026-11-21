@@ -29880,16 +29880,6 @@
     "screenshot": "screenshots/magazine-042.webp"
   },
   {
-    "id": "card-los-santos-panic-004",
-    "kind": "card",
-    "x": 372.9,
-    "y": 629.5,
-    "name": "Los Santos Panic card: Marquise Bernard",
-    "type": "Los Santos Panic card",
-    "description": "Found in a box on the second floor",
-    "screenshot": null
-  },
-  {
     "id": "card-vice-city-club-de-futbol-003",
     "kind": "card",
     "x": 562.3,
