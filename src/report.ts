@@ -4,7 +4,7 @@ import type { Item } from "./data";
 import { toGame } from "./geo";
 import { REPO_URL } from "./repo";
 
-export { districtAt, realWorldMapUrl, toGame } from "./geo";
+export { districtAt, realWorldMapUrl, streetViewUrl, toGame } from "./geo";
 
 const issueUrl = (fields: Record<string, string | undefined>) => {
   const p = new URLSearchParams();

@@ -11,6 +11,10 @@ export type Item = {
   description?: string;
   area?: string;
   real_life?: string;
+  /** Exact real-world spot, when known; links use it instead of searching the address. */
+  real_life_lat?: number;
+  real_life_lng?: number;
+  real_life_street_view_pano?: string;
   service?: string;
   screenshot?: string | null;
   /** Pin image slug in icons/pins/, or null to draw the category badge. */

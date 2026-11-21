@@ -9,6 +9,7 @@ import {
   districtAt,
   missingLocationUrl,
   realWorldMapUrl,
+  streetViewUrl,
   realWorldUrl,
   screenshotUrl,
   toGame,
@@ -318,7 +319,7 @@ export async function createMap(o: MapOptions) {
         <h3>${esc(it.name)}</h3>
         ${it.description ? `<p>${esc(it.description)}</p>` : ""}
         ${it.area || it.district ? `<p class="muted">${esc(it.area || it.district)}</p>` : ""}
-        ${it.real_life ? `<p><span class="muted">Real life:</span> <a href="${esc(realWorldMapUrl(it.real_life))}" target="_blank" rel="noopener">${esc(it.real_life)}</a></p>` : ""}
+        ${it.real_life ? `<p><span class="muted">Real life:</span> <a href="${esc(realWorldMapUrl(it.real_life, it.real_life_lat, it.real_life_lng))}" target="_blank" rel="noopener">${esc(it.real_life)}</a>${it.real_life_street_view_pano ? ` (<a href="${esc(streetViewUrl(it.real_life_street_view_pano))}" target="_blank" rel="noopener">Street View</a>)` : ""}</p>` : ""}
         ${it.service ? `<p><span class="muted">Service:</span> ${esc(it.service)}</p>` : ""}
         <div class="pop-actions">
           ${c.pinnable ? '<button type="button" class="btn found-btn"></button>' : ""}
