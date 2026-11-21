@@ -32,7 +32,7 @@ kept once viewed (shown from the cache, then refreshed in the background, so a r
 on the next visit). Areas you have never zoomed into stay blank offline. It only runs in the built site, not in
 `pnpm dev`.
 
-"Found" progress is kept in the browser. **Share progress** copies a link (`?progress=...`, about 300 characters) that
+"Found" progress is kept in the browser. **Share progress** copies a link (`?progress=...`, one character per 6 trackable locations, about 300 today) that
 carries it to another device: opening the link asks whether to replace that device's progress or add to it. The link
 holds one bit per trackable location in id order, behind a checksum of the id list, so a link made before the data
 changed is reported as outdated instead of marking the wrong locations (`src/progress.ts`). There are no accounts and

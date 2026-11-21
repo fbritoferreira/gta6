@@ -26,7 +26,9 @@ describe("progress links", () => {
     expect(decodeProgress(`${checksum(ids)}.A`, ids)).toEqual({ ok: false, reason: "invalid" });
   });
 
-  it("fits the real data in under 300 characters", () => {
+  // Grows with the data, so check the rate (one character per 6 locations), not a fixed cap that
+  // every data sync would eventually break.
+  it("costs one character per 6 trackable locations, plus a 7-character header", () => {
     const categories = JSON.parse(readFileSync("public/data/categories.json", "utf8")) as {
       kinds: { key: string; pinnable: boolean }[];
     };
@@ -36,6 +38,7 @@ describe("progress links", () => {
       ...(JSON.parse(readFileSync("public/data/places.json", "utf8")) as { id: string; kind: string }[]),
     ];
     const all = trackableIds(items, (k) => trackable.has(k));
-    expect(encodeProgress(new Set(all), all).length).toBeLessThan(300);
+    expect(encodeProgress(new Set(all), all).length).toBeLessThanOrEqual(7 + Math.ceil(all.length / 6) + 1);
+    expect(all.length).toBeGreaterThan(1000); // the real data, not an empty read
   });
 });
