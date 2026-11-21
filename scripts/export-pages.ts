@@ -8,7 +8,7 @@
  */
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import sharp from "sharp";
-import { districtAt, toGame, type Outline } from "../src/geo.ts";
+import { districtAt, realWorldMapUrl, toGame, type Outline } from "../src/geo.ts";
 
 export type Entry = {
   service?: string;
@@ -127,7 +127,7 @@ ${it.screenshot ? `<img src="../../${esc(it.screenshot)}"${shot ? ` width="${sho
 ${it.description ? `<p>${esc(it.description)}</p>` : ""}
 <a class="cta" href="../../?id=${encodeURIComponent(it.id)}">Open on the map</a>
 <dl>
-${facts.map(([k, v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join("\n")}
+${facts.map(([k, v]) => `<dt>${esc(k)}</dt><dd>${k === "Real-life counterpart" ? `<a href="${esc(realWorldMapUrl(v))}" rel="noopener">${esc(v)}</a>` : esc(v)}</dd>`).join("\n")}
 </dl>
 ${
   nearby.length

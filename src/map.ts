@@ -5,7 +5,15 @@ import type { Data, Item } from "./data";
 import type { Filters, View } from "./url";
 import { copy } from "./copy";
 import { LICENSE_URL, REPO_URL } from "./repo";
-import { districtAt, missingLocationUrl, screenshotUrl, toGame, wrongLocationUrl } from "./report";
+import {
+  districtAt,
+  missingLocationUrl,
+  realWorldMapUrl,
+  realWorldUrl,
+  screenshotUrl,
+  toGame,
+  wrongLocationUrl,
+} from "./report";
 
 export type MapOptions = {
   el: HTMLElement;
@@ -310,7 +318,7 @@ export async function createMap(o: MapOptions) {
         <h3>${esc(it.name)}</h3>
         ${it.description ? `<p>${esc(it.description)}</p>` : ""}
         ${it.area || it.district ? `<p class="muted">${esc(it.area || it.district)}</p>` : ""}
-        ${it.real_life ? `<p><span class="muted">Real life:</span> ${esc(it.real_life)}</p>` : ""}
+        ${it.real_life ? `<p><span class="muted">Real life:</span> <a href="${esc(realWorldMapUrl(it.real_life))}" target="_blank" rel="noopener">${esc(it.real_life)}</a></p>` : ""}
         ${it.service ? `<p><span class="muted">Service:</span> ${esc(it.service)}</p>` : ""}
         <div class="pop-actions">
           ${c.pinnable ? '<button type="button" class="btn found-btn"></button>' : ""}
@@ -318,6 +326,7 @@ export async function createMap(o: MapOptions) {
         </div>
         <div class="pop-links">
           <a class="pop-report" href="${esc(screenshotUrl(it))}" target="_blank" rel="noopener">${it.screenshot ? "Replace screenshot" : "Add a screenshot"}</a>
+          ${c.group === "Places" ? `<a class="pop-report" href="${esc(realWorldUrl(it))}" target="_blank" rel="noopener">${it.real_life ? "Wrong real-world spot?" : "Suggest a real-world spot"}</a>` : ""}
           <a class="pop-report" href="${esc(wrongLocationUrl(it))}" target="_blank" rel="noopener">Report a problem</a>
         </div>
       </div>`;

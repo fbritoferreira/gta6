@@ -198,6 +198,10 @@ Corrections and new locations are welcome as pull requests.
   map units for `x`/`y`, and use a `kind` listed in `categories.json`.
 - No Git needed for screenshots: on the map, open the pin and choose **Add a screenshot** (or **Replace screenshot**).
   It opens an issue with the location filled in; drag your image into it.
+- Real Florida spots: a place's popup links its real-life counterpart to Google Maps, so you can compare it in
+  Street View. **Suggest a real-world spot** (or **Wrong real-world spot?**) opens an issue for the match; include how you
+  know, such as a game screenshot or trailer timestamp next to a Street View link. Matches are reviewed before they go
+  in.
 - To add a screenshot yourself, put it in `public/screenshots/` named after the location's `id` (`.webp` preferred) and set
   `screenshot` to its path.
 - To add a pin, put a 56×64 `.webp` in `public/icons/pins/` named after the location type and add the name to

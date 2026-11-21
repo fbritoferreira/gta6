@@ -1,6 +1,14 @@
 import { describe, expect, it } from "vitest";
 import type { District } from "./data";
-import { districtAt, missingLocationUrl, screenshotUrl, toGame, wrongLocationUrl } from "./report";
+import {
+  districtAt,
+  missingLocationUrl,
+  realWorldMapUrl,
+  realWorldUrl,
+  screenshotUrl,
+  toGame,
+  wrongLocationUrl,
+} from "./report";
 
 const square = (name: string, x0: number, y0: number, size: number): District => ({
   name,
@@ -75,5 +83,23 @@ describe("screenshotUrl", () => {
     expect(add.searchParams.get("action")).toBe("Add (it has no screenshot)");
     const replace = new URL(screenshotUrl({ id: "x-1", name: "X", screenshot: "screenshots/x-1.webp" }));
     expect(replace.searchParams.get("action")).toBe("Replace the current one");
+  });
+});
+
+describe("real-world links", () => {
+  it("opens the real-world form with the current match, if any, filled in", () => {
+    const url = new URL(
+      realWorldUrl({ id: "L13", name: "Albany Hotel", real_life: "Cadillac Hotel, 3925 Collins Ave" }),
+    );
+    expect(url.searchParams.get("template")).toBe("real-world.yml");
+    expect(url.searchParams.get("location-id")).toBe("L13");
+    expect(url.searchParams.get("current")).toBe("Cadillac Hotel, 3925 Collins Ave");
+    expect(new URL(realWorldUrl({ id: "L9", name: "Diner" })).searchParams.has("current")).toBe(false);
+  });
+
+  it("looks the real place up on Google Maps", () => {
+    expect(realWorldMapUrl("3925 Collins Ave, Miami Beach")).toBe(
+      "https://www.google.com/maps/search/?api=1&query=3925%20Collins%20Ave%2C%20Miami%20Beach",
+    );
   });
 });
