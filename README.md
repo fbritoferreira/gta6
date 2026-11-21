@@ -12,6 +12,12 @@ No ads and no paywall. If the map helps you, you can [buy me a coffee](https://b
 The pins are drawn on a canvas, so the panel's **In view** section lists the locations on screen as buttons, nearest
 the centre first. With a keyboard or screen reader, open it, pick a location, and focus moves into its popup.
 
+Locations also have their own pages for search engines, at `https://fbritoferreira.github.io/gta6/l/<id>/` (for example
+[`/l/hidden-package-001/`](https://fbritoferreira.github.io/gta6/l/hidden-package-001/)), listed in
+[`sitemap.xml`](https://fbritoferreira.github.io/gta6/sitemap.xml). `scripts/export-pages.ts` writes them during the
+build: plain HTML with the name, district, screenshot, real-life counterpart, nearby locations and an "Open on the
+map" link. Only locations with a description or screenshot, and places with a real-world address, get a page.
+
 ## Use the data
 
 Every file in [`public/`](public) is published at the same path on the site, so the URL for any file is the site
