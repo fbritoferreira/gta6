@@ -7,6 +7,10 @@ updates:
     schedule:
       interval: weekly
     versioning-strategy: increase
+    # typescript-eslint supports TypeScript below 6.1 (its peer range); lift this when it moves.
+    ignore:
+      - dependency-name: typescript
+        versions: [">=6.1.0"]
     groups:
       solid:
         patterns: ["solid-js", "@solidjs/*"]
