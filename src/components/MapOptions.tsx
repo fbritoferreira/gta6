@@ -11,6 +11,10 @@ const STYLES: { value: Style; label: string }[] = [
 /** Base map switch plus the district and found toggles. */
 export function MapOptions() {
   const app = useApp();
+  const progress = (name: string) => {
+    const p = app.districtProgress(name);
+    return `${p.got} of ${p.total} found`;
+  };
   return (
     <div class="bar">
       <div class="seg" role="radiogroup" aria-label="Base map">
@@ -34,10 +38,10 @@ export function MapOptions() {
           <button
             class="chip chip-on"
             type="button"
-            aria-label={`Showing only ${name()}. Show all districts`}
+            aria-label={`Showing only ${name()}, ${progress(name())}. Show all districts`}
             onClick={app.allDistricts}
           >
-            Only {name()} <span aria-hidden="true">×</span>
+            Only {name()}, {progress(name())} <span aria-hidden="true">×</span>
           </button>
         )}
       </Show>
