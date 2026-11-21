@@ -2,7 +2,7 @@ import { mkdirSync, mkdtempSync, writeFileSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { describe, expect, it } from "vitest";
-import { findDuplicates, validateData } from "./validate-data";
+import { findDuplicates, possibleDuplicates, validateData } from "./validate-data";
 
 /** Writes a tiny public/ tree; each override replaces one file's contents. */
 function fixture(overrides: Record<string, unknown> = {}) {
@@ -143,5 +143,23 @@ describe("findDuplicates", () => {
       ],
     });
     expect(validateData(root).join()).toContain("L1 and L2");
+  });
+});
+
+describe("possibleDuplicates", () => {
+  const at = (id: string, kind: string, name: string, x: number, y: number) => ({ id, kind, name, x, y });
+  it("flags a same-named pair close together, and any two at the very same spot", () => {
+    const found = possibleDuplicates([
+      at("L1", "shop", "Xero Gas Station", 10, 10),
+      at("L2", "shop", "Xero Gas Station", 10.6, 10),
+      at("arcade-1", "arcade", "Bang For Your Buck", 5, 5),
+      at("arcade-2", "arcade", "Street Trash 3", 5, 5),
+      at("L3", "shop", "Binco", 10, 10.5), // near, different name: not flagged
+      at("L4", "food", "Xero Gas Station", 10, 10), // other category: not flagged
+    ]);
+    expect(found).toEqual([
+      'L1 and L2, 0.60 apart ("Xero Gas Station" / "Xero Gas Station")',
+      'arcade-1 and arcade-2, 0.00 apart ("Bang For Your Buck" / "Street Trash 3")',
+    ]);
   });
 });
