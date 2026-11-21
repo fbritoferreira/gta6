@@ -1,0 +1,50 @@
+name: Missing location
+description: A collectible, activity or place that isn't on the map yet.
+title: "Missing: "
+labels: ["data", "missing location"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping. The quickest way to fill this in: right-click (or long-press) the spot on the map and choose **Report a missing location**; the position fields come pre-filled.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: 'What it''s called in the game, for example "Los Santos Panic card: Marquise Bernard".'
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: Category
+      description: For example collectible card, hidden package, stunt jump, bank, shop.
+    validations:
+      required: true
+  - type: input
+    id: position
+    attributes:
+      label: Position on the map
+      description: Map units (x, y). Filled in when you report from the map.
+      placeholder: "x 512.3, y 480.1"
+    validations:
+      required: true
+  - type: input
+    id: game-coords
+    attributes:
+      label: Game coordinates
+      description: Optional. Filled in when you report from the map.
+  - type: input
+    id: district
+    attributes:
+      label: District
+  - type: textarea
+    id: details
+    attributes:
+      label: How to find it
+      description: Where exactly it sits (rooftop, inside a building, underwater), and anything needed to reach it.
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: Drag an image here. Only your own captures, since contributions are CC BY 4.0.

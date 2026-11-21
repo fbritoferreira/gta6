@@ -5,6 +5,7 @@ import type { Data, Item } from "./data";
 import type { Filters, View } from "./url";
 import { copy } from "./copy";
 import { LICENSE_URL, REPO_URL } from "./repo";
+import { districtAt, missingLocationUrl, toGame, wrongLocationUrl } from "./report";
 
 export type MapOptions = {
   el: HTMLElement;
@@ -311,6 +312,7 @@ export async function createMap(o: MapOptions) {
           ${c.pinnable ? '<button type="button" class="btn found-btn"></button>' : ""}
           <button type="button" class="btn" data-copy>Copy link</button>
         </div>
+        <a class="pop-report" href="${esc(wrongLocationUrl(it))}" target="_blank" rel="noopener">Report a problem</a>
       </div>`;
     const fb = el.querySelector<HTMLButtonElement>(".found-btn");
     if (fb) {
@@ -503,16 +505,37 @@ export async function createMap(o: MapOptions) {
       document.fullscreenElement ? document.exitFullscreen() : document.documentElement.requestFullscreen();
     control(fs, "bottomright");
   }
-  // Game coordinates under the cursor (README: x = (gx + 16384) / 32, y = (16384 - gy) / 32)
+  // Game coordinates under the cursor, with a hint that right-click reports a missing location.
   const coords = L.DomUtil.create("div", "coords");
   coords.setAttribute("aria-hidden", "true");
   control(coords, "bottomleft");
-  const fmt = (n: number) => Math.round(n).toLocaleString("en");
+  const fmt = (n: number) => n.toLocaleString("en");
   map.on("mousemove", (e) => {
-    coords.textContent = `X ${fmt(e.latlng.lng * 32 - 16384)}   Y ${fmt(16384 + e.latlng.lat * 32)}`;
+    const { gx, gy } = toGame(e.latlng.lng, -e.latlng.lat);
+    coords.textContent = `X ${fmt(gx)}   Y ${fmt(gy)}   Right-click to report a missing location`;
   });
   map.on("mouseout", () => {
     coords.textContent = "";
+  });
+
+  // Right-click, or long-press on touch screens, anywhere: offer to report what's missing there.
+  map.on("contextmenu", (e) => {
+    const x = e.latlng.lng,
+      y = -e.latlng.lat;
+    const district = districtAt(x, y, districts);
+    const { gx, gy } = toGame(x, y);
+    const el = document.createElement("div");
+    el.className = "pop";
+    el.innerHTML = `
+      <div class="pop-body">
+        <div class="pop-kind">${district ? esc(district) : "Leonida"}</div>
+        <h3>Something missing here?</h3>
+        <p class="muted">X ${fmt(gx)}, Y ${fmt(gy)}</p>
+        <div class="pop-actions">
+          <a class="btn primary" href="${esc(missingLocationUrl(x, y, district))}" target="_blank" rel="noopener">Report a missing location</a>
+        </div>
+      </div>`;
+    L.popup({ maxWidth: 320, minWidth: 240 }).setLatLng(e.latlng).setContent(el).openOn(map);
   });
 
   // --- Zoom-dependent styling --------------------------------------------------------------
