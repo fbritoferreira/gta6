@@ -31198,5 +31198,215 @@
         "type": "Random event",
         "description": "A car sits on the road with all doors open, headlights flashing and a glitching radio. Further along, a bright light in a field: a naked middle-aged woman being beamed up by a tractor beam.",
         "screenshot": null
+    },
+    {
+        "id": "car-meet-001",
+        "kind": "other",
+        "x": 473.1875,
+        "y": 528.25,
+        "name": "Car Meet",
+        "type": "car-meet",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "helipad-001",
+        "kind": "other",
+        "x": 420,
+        "y": 373,
+        "name": "Ambrosia Medical Center Helipad",
+        "type": "helipad",
+        "description": "Helipad of the medical center in Ambrosia.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-064",
+        "kind": "event",
+        "x": 344.9375,
+        "y": 402.84375,
+        "name": "Mudslider Mechanic",
+        "type": "Random event",
+        "description": "A mechanic fixing his car for the mudslide race asks you to sit in the driver's seat and rev the engine a few times until it is fixed.",
+        "screenshot": "screenshots/gta6-random-event-064.webp"
+    },
+    {
+        "id": "weapon-spawn-035",
+        "kind": "weapon",
+        "x": 392.4375,
+        "y": 278.875,
+        "name": "Redneck W-22",
+        "type": "Weapon pickup",
+        "description": "Inside the derailed train.",
+        "screenshot": null
+    },
+    {
+        "id": "safe-051",
+        "kind": "safe",
+        "x": 451.5625,
+        "y": 682,
+        "name": "Safe - VR Gamer House",
+        "type": "Safe",
+        "description": "In the house, next to the bedroom.",
+        "screenshot": null
+    },
+    {
+        "id": "card-delights-011",
+        "kind": "other",
+        "x": 399.5,
+        "y": 261.4375,
+        "name": "Delights card: Perla",
+        "type": "card-delights",
+        "description": "In a lockbox beside the vagrant on the porch.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-065",
+        "kind": "event",
+        "x": 441.03125,
+        "y": 499.03125,
+        "name": "Fox Furry Cornered by Police",
+        "type": "Random event",
+        "description": "A man in a fox costume cornered by the police.",
+        "screenshot": null
+    },
+    {
+        "id": "meteorite-019",
+        "kind": "meteorite",
+        "x": 434.3125,
+        "y": 291.75,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "Climb up to the bell.",
+        "screenshot": null
+    },
+    {
+        "id": "meteorite-020",
+        "kind": "meteorite",
+        "x": 312.53125,
+        "y": 490.28125,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "At the abandoned campsite by the river: the meteorite is under the upside-down boat, next to the fire. Easy to see from the river.",
+        "screenshot": null
+    },
+    {
+        "id": "standout-vehicle-105",
+        "kind": "vehicle",
+        "x": 335.8125,
+        "y": 371.65625,
+        "name": "Karin Cheshire Rebel (Barn Find)",
+        "type": "Standout vehicle",
+        "description": "A racing-style Rebel found in the barn.",
+        "screenshot": "screenshots/gta6-standout-vehicle-105.webp"
+    },
+    {
+        "id": "vehicle-spawn-013",
+        "kind": "vehicle",
+        "x": 336.15625,
+        "y": 371.90625,
+        "name": "Vapid '65 Dominator",
+        "type": "Standout vehicle",
+        "description": "Classic convertible just outside the barn with the Karin Cheshire Rebel.",
+        "screenshot": "screenshots/gta6-vehicle-spawn-013.webp"
+    },
+    {
+        "id": "meteorite-021",
+        "kind": "meteorite",
+        "x": 370.8125,
+        "y": 428.78125,
+        "name": "Meteorite Fragments (Selkie Hole)",
+        "type": "Meteorite",
+        "description": "Follow the underwater diving route through the cave: one meteorite is at the cave entrance and the other at the exit, just before the lake.",
+        "screenshot": null
+    },
+    {
+        "id": "weapon-spawn-036",
+        "kind": "weapon",
+        "x": 337.59375,
+        "y": 371.5625,
+        "name": "Machete",
+        "type": "Weapon pickup",
+        "description": "On top of the hay bales.",
+        "screenshot": "screenshots/gta6-weapon-spawn-036.webp"
+    },
+    {
+        "id": "meteorite-022",
+        "kind": "meteorite",
+        "x": 287.59375,
+        "y": 478.9375,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "Near the boat party, where the grass meets the sand.",
+        "screenshot": null
+    },
+    {
+        "id": "meteorite-023",
+        "kind": "meteorite",
+        "x": 287.875,
+        "y": 478.25,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "Right of the boat party, on the sand where the tide comes in.",
+        "screenshot": null
+    },
+    {
+        "id": "card-ed-comics-006",
+        "kind": "other",
+        "x": 475.09375,
+        "y": 474.875,
+        "name": "Ed Comics Universe card: Dr. Placebo",
+        "type": "card-ed-comics",
+        "description": "On the shelf inside the building, through the back entrance.",
+        "screenshot": "screenshots/gta6-card-ed-comics-006.webp"
+    },
+    {
+        "id": "meteorite-024",
+        "kind": "meteorite",
+        "x": 286.09375,
+        "y": 465.5,
+        "name": "Meteorite Fragment (beached whale)",
+        "type": "Meteorite",
+        "description": "Inside the beached whale. Careful: when you approach it bursts, spilling a wheelchair, cocaine packages and the meteorite onto the beach.",
+        "screenshot": null
+    },
+    {
+        "id": "meteorite-025",
+        "kind": "meteorite",
+        "x": 282,
+        "y": 459.46875,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "Between the two trees on the grass by the beach. Easier to spot from a boat.",
+        "screenshot": null
+    },
+    {
+        "id": "collectible-card-115",
+        "kind": "card",
+        "x": 347.5625,
+        "y": 400.34375,
+        "name": "Collectible Card",
+        "type": "Collectible card",
+        "description": "On the roof of the gas station.",
+        "screenshot": null
+    },
+    {
+        "id": "weapon-spawn-037",
+        "kind": "weapon",
+        "x": 482.375,
+        "y": 541.15625,
+        "name": "Cockroach Xtreme 556 Assault Rifle",
+        "type": "Weapon pickup",
+        "description": "Unique weapon at the back of the garage.",
+        "screenshot": "screenshots/gta6-weapon-spawn-037.webp"
+    },
+    {
+        "id": "meteorite-026",
+        "kind": "meteorite",
+        "x": 268.375,
+        "y": 451.75,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "On the tip of land, among the rocks.",
+        "screenshot": null
     }
 ]
