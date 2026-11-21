@@ -65,13 +65,19 @@ export function distance(a: string, b: string, max: number) {
  * A query word that is in the text, or, when fuzzy, one or two typos away from the start of a word in it
  * ("hiden" finds "hidden", "wank" finds "waink"). Words under 4 letters must match exactly.
  */
-function has(text: string, w: string, fuzzy: boolean) {
+function has(text: string, w: string, fuzzy: boolean, near = new Map<string, boolean>()) {
   if (text.includes(w)) return true;
   if (!fuzzy || w.length < 4) return false;
   const max = w.length < 7 ? 1 : 2;
-  return text
-    .split(" ")
-    .some((t) => [-1, 0, 1].some((d) => w.length + d <= t.length && distance(w, t.slice(0, w.length + d), max) <= max));
+  return text.split(" ").some((t) => {
+    // The same few thousand words recur across entries, so each is compared once per search.
+    let hit = near.get(t);
+    if (hit === undefined) {
+      hit = [-1, 0, 1].some((d) => w.length + d <= t.length && distance(w, t.slice(0, w.length + d), max) <= max);
+      near.set(t, hit);
+    }
+    return hit;
+  });
 }
 
 export type Results<T> = {
@@ -108,7 +114,8 @@ function find<T extends Searchable>(
   limit: number,
   fuzzy: boolean,
 ): Results<T> {
-  const matches = index.filter((e) => words.every((w) => has(e.text, w, fuzzy)));
+  const near = new Map(words.map((w) => [w, new Map<string, boolean>()]));
+  const matches = index.filter((e) => words.every((w) => has(e.text, w, fuzzy, near.get(w))));
   matches.sort(
     (a, b) => rank(a.name, query, words, fuzzy) - rank(b.name, query, words, fuzzy) || a.name.length - b.name.length,
   );
