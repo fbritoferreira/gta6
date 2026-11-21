@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Open the map
+    url: https://fbritoferreira.github.io/gta6/
+    about: Right-click (or long-press) a spot to report a missing location with its position filled in.

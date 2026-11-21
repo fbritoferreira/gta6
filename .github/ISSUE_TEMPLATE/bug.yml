@@ -1,0 +1,26 @@
+name: Map bug
+description: Something on the site doesn't work, like search, filters, the embed or the layout.
+title: "Bug: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what you saw instead.
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: Copy the map's address from your browser; it holds the view and filters you had.
+  - type: input
+    id: device
+    attributes:
+      label: Device and browser
+      placeholder: "iPhone 15, Safari / Windows, Chrome"
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot

@@ -1,0 +1,45 @@
+name: Wrong location
+description: A pin in the wrong place, a wrong name or category, a duplicate, or a bad screenshot.
+title: "Wrong: "
+labels: ["data", "fix"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The fastest way: open the pin's popup on the map and choose **Report a problem**; the id and name come pre-filled.
+  - type: input
+    id: location-id
+    attributes:
+      label: Location id
+      description: Filled in when you report from the map, for example `bank-001`.
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Name on the map
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What's wrong
+      options:
+        - It's in the wrong place
+        - Wrong name or category
+        - It's on the map twice
+        - The screenshot is wrong or missing
+        - It doesn't exist in the game
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What it should be. For a wrong position, say where it really is (or right-click that spot on the map and paste the coordinates).
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: Drag an image here. Only your own captures, since contributions are CC BY 4.0.
