@@ -6,6 +6,7 @@ import {
   realWorldMapUrl,
   realWorldUrl,
   screenshotUrl,
+  streetViewUrl,
   toGame,
   wrongLocationUrl,
 } from "./report";
@@ -100,6 +101,17 @@ describe("real-world links", () => {
   it("looks the real place up on Google Maps", () => {
     expect(realWorldMapUrl("3925 Collins Ave, Miami Beach")).toBe(
       "https://www.google.com/maps/search/?api=1&query=3925%20Collins%20Ave%2C%20Miami%20Beach",
+    );
+  });
+});
+
+describe("exact real-world links", () => {
+  it("uses the coordinates when known, and opens a Street View panorama by id", () => {
+    expect(realWorldMapUrl("Juvia", 25.79139, -80.13611)).toBe(
+      "https://www.google.com/maps/search/?api=1&query=25.79139,-80.13611",
+    );
+    expect(streetViewUrl("ATJhjQzLzdVh17UD4B7Aaw")).toBe(
+      "https://www.google.com/maps/@?api=1&map_action=pano&pano=ATJhjQzLzdVh17UD4B7Aaw",
     );
   });
 });

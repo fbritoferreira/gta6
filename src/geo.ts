@@ -24,5 +24,11 @@ export function districtAt(x: number, y: number, districts: Outline[]): string |
  * Looks the real-world place up on Google Maps (its documented search URL), to compare it with the game
  * in Street View. OpenStreetMap search was tried: it found 8 of 20 sampled addresses and no plus codes.
  */
-export const realWorldMapUrl = (realLife: string) =>
-  `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(realLife)}`;
+export const realWorldMapUrl = (realLife: string, lat?: number, lng?: number) =>
+  `https://www.google.com/maps/search/?api=1&query=${
+    lat !== undefined && lng !== undefined ? `${lat},${lng}` : encodeURIComponent(realLife)
+  }`;
+
+/** Opens a Google Street View panorama by id (Maps URLs, map_action=pano). */
+export const streetViewUrl = (pano: string) =>
+  `https://www.google.com/maps/@?api=1&map_action=pano&pano=${encodeURIComponent(pano)}`;

@@ -206,7 +206,8 @@ Corrections and new locations are welcome as pull requests.
 - No Git needed for screenshots: on the map, open the pin and choose **Add a screenshot** (or **Replace screenshot**).
   It opens an issue with the location filled in; drag your image into it.
 - Real Florida spots: a place's popup links its real-life counterpart to Google Maps, so you can compare it in
-  Street View. **Suggest a real-world spot** (or **Wrong real-world spot?**) opens an issue for the match; include how you
+  Street View (to the exact spot when `real_life_lat`/`real_life_lng` are set, and straight into Street View when
+  `real_life_street_view_pano` is). **Suggest a real-world spot** (or **Wrong real-world spot?**) opens an issue for the match; include how you
   know, such as a game screenshot or trailer timestamp next to a Street View link. Matches are reviewed before they go
   in.
 - To add a screenshot yourself, put it in `public/screenshots/` named after the location's `id` (`.webp` preferred) and set
