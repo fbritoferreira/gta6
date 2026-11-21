@@ -111,16 +111,16 @@ yourself:
 ></iframe>
 ```
 
-| Parameter   | Example                 | Effect                                                                                      |
-| ----------- | ----------------------- | ------------------------------------------------------------------------------------------- |
-| `embed`     | `embed=1`               | Compact mode: filters start closed, with an "Open full map" button                          |
-| `style`     | `style=day`             | Base map, `night` (default) or `day`                                                        |
-| `kinds`     | `kinds=card,package`    | Categories to show (keys from `data/categories.json`). Defaults to everything except Places |
-| `view`      | `view=3/500/480`        | Zoom, then x and y in map units                                                             |
-| `id`        | `id=hidden-package-001` | Open one location and zoom to it                                                            |
-| `district`  | `district=Hamlet`       | Show only the locations inside one district                                                 |
-| `labels`    | `labels=0`              | Hide district names                                                                         |
-| `hidefound` | `hidefound=1`           | Hide collectibles the viewer has marked as found                                            |
+| Parameter   | Example                 | Effect                                                                                                                                                               |
+| ----------- | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `embed`     | `embed=1`               | Compact mode: filters start closed, with an "Open full map" button                                                                                                   |
+| `style`     | `style=day`             | Base map, `night` (default) or `day`                                                                                                                                 |
+| `kinds`     | `kinds=card,package`    | Categories to show (keys from `data/categories.json`). Defaults to everything except Places. `default,hotel` adds to the defaults, `default,-card` removes from them |
+| `view`      | `view=3/500/480`        | Zoom, then x and y in map units                                                                                                                                      |
+| `id`        | `id=hidden-package-001` | Open one location and zoom to it                                                                                                                                     |
+| `district`  | `district=Hamlet`       | Show only the locations inside one district                                                                                                                          |
+| `labels`    | `labels=0`              | Hide district names                                                                                                                                                  |
+| `hidefound` | `hidefound=1`           | Hide collectibles the viewer has marked as found                                                                                                                     |
 
 Keep the credit in the corner of the map visible; CC BY 4.0 requires it.
 

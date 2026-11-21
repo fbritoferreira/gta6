@@ -54,3 +54,26 @@ describe("writeUrl", () => {
     expect(writeUrl(f, defaults).has("kinds")).toBe(false);
   });
 });
+
+describe("kinds as defaults plus changes", () => {
+  const many = new Set(["a", "b", "c", "d", "e", "hotel"]);
+  const base = ["a", "b", "c", "d", "e"];
+
+  it("reads default plus additions and removals", () => {
+    expect(readUrl("?kinds=default,hotel,-a", many, base).filters.kinds).toEqual(
+      new Set(["b", "c", "d", "e", "hotel"]),
+    );
+  });
+
+  it("writes whichever form is shorter", () => {
+    const plusHotel = readUrl("?kinds=default,hotel", many, base).filters;
+    expect(writeUrl(plusHotel, base).get("kinds")).toBe("default,hotel");
+    const justA = readUrl("?kinds=a", many, base).filters;
+    expect(writeUrl(justA, base).get("kinds")).toBe("a");
+  });
+
+  it("round-trips", () => {
+    const f = readUrl("?kinds=default,-c,hotel", many, base).filters;
+    expect(readUrl(`?${writeUrl(f, base)}`, many, base).filters.kinds).toEqual(f.kinds);
+  });
+});
