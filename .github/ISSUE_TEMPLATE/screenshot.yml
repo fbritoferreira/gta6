@@ -1,0 +1,43 @@
+name: Add or replace a screenshot
+description: A picture of where to find a location, for its popup and its page.
+title: "Screenshot: "
+labels: ["data", "screenshot"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The fastest way: open the pin's popup on the map and choose **Add a screenshot** (or **Replace screenshot**); the id and name come pre-filled.
+
+        Good screenshots show the spot clearly, with something recognisable nearby. Landscape, game HUD hidden if you can.
+  - type: input
+    id: location-id
+    attributes:
+      label: Location id
+      description: Filled in when you open this from the map, for example `card-right-wing-006`.
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Name on the map
+  - type: dropdown
+    id: action
+    attributes:
+      label: Add or replace
+      options:
+        - Add (it has no screenshot)
+        - Replace the current one
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: Drag the image here. Only your own captures, since contributions are CC BY 4.0.
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Anything that helps, such as why the current screenshot is wrong.

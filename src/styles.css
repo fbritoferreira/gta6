@@ -734,9 +734,14 @@ dialog .row input[type="checkbox"] {
 }
 
 /* "Report a problem" under a location's actions, and the report-a-missing-location popup's button. */
+.pop-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 14px;
+  margin-top: 10px;
+}
 .pop-report {
   display: inline-block;
-  margin-top: 10px;
   color: var(--haze);
   font-size: 12.5px;
 }

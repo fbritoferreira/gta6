@@ -5,7 +5,7 @@ import type { Data, Item } from "./data";
 import type { Filters, View } from "./url";
 import { copy } from "./copy";
 import { LICENSE_URL, REPO_URL } from "./repo";
-import { districtAt, missingLocationUrl, toGame, wrongLocationUrl } from "./report";
+import { districtAt, missingLocationUrl, screenshotUrl, toGame, wrongLocationUrl } from "./report";
 
 export type MapOptions = {
   el: HTMLElement;
@@ -316,7 +316,10 @@ export async function createMap(o: MapOptions) {
           ${c.pinnable ? '<button type="button" class="btn found-btn"></button>' : ""}
           <button type="button" class="btn" data-copy>Copy link</button>
         </div>
-        <a class="pop-report" href="${esc(wrongLocationUrl(it))}" target="_blank" rel="noopener">Report a problem</a>
+        <div class="pop-links">
+          <a class="pop-report" href="${esc(screenshotUrl(it))}" target="_blank" rel="noopener">${it.screenshot ? "Replace screenshot" : "Add a screenshot"}</a>
+          <a class="pop-report" href="${esc(wrongLocationUrl(it))}" target="_blank" rel="noopener">Report a problem</a>
+        </div>
       </div>`;
     const fb = el.querySelector<HTMLButtonElement>(".found-btn");
     if (fb) {

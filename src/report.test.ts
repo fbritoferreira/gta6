@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 import type { District } from "./data";
-import { districtAt, missingLocationUrl, toGame, wrongLocationUrl } from "./report";
+import { districtAt, missingLocationUrl, screenshotUrl, toGame, wrongLocationUrl } from "./report";
 
 const square = (name: string, x0: number, y0: number, size: number): District => ({
   name,
@@ -64,5 +64,16 @@ describe("districtAt on the real outlines", () => {
     const { readFileSync } = await import("node:fs");
     const real = JSON.parse(readFileSync("public/data/districts.json", "utf8")) as District[];
     for (const d of real) expect(districtAt(d.x, d.y, real), d.name).toBe(d.name);
+  });
+});
+
+describe("screenshotUrl", () => {
+  it("opens the screenshot form set to add or replace, with the id and name filled in", () => {
+    const add = new URL(screenshotUrl({ id: "waink-landmark-014", name: "Gellhorn Fun Fair", screenshot: null }));
+    expect(add.searchParams.get("template")).toBe("screenshot.yml");
+    expect(add.searchParams.get("location-id")).toBe("waink-landmark-014");
+    expect(add.searchParams.get("action")).toBe("Add (it has no screenshot)");
+    const replace = new URL(screenshotUrl({ id: "x-1", name: "X", screenshot: "screenshots/x-1.webp" }));
+    expect(replace.searchParams.get("action")).toBe("Replace the current one");
   });
 });
