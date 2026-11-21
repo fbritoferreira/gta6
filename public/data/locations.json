@@ -13500,16 +13500,6 @@
         "source_urls": []
     },
     {
-        "id": "atm-006",
-        "kind": "shop",
-        "x": 312.9,
-        "y": 400.6,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
         "id": "atm-007",
         "kind": "shop",
         "x": 313,
@@ -13538,16 +13528,6 @@
         "source_urls": []
     },
     {
-        "id": "atm-009",
-        "kind": "shop",
-        "x": 314.3,
-        "y": 409.5,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
         "id": "atm-010",
         "kind": "shop",
         "x": 506.5,
@@ -13574,16 +13554,6 @@
         "source_urls": []
     },
     {
-        "id": "atm-012",
-        "kind": "shop",
-        "x": 506.3,
-        "y": 416.1,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
         "id": "atm-013",
         "kind": "shop",
         "x": 504.6,
@@ -13597,16 +13567,6 @@
         "source_urls": []
     },
     {
-        "id": "atm-014",
-        "kind": "shop",
-        "x": 507.9,
-        "y": 416.7,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
         "id": "atm-015",
         "kind": "shop",
         "x": 509.7,
@@ -13618,16 +13578,6 @@
         "area": "Waning Sands",
         "confidence": "community",
         "source_urls": []
-    },
-    {
-        "id": "atm-016",
-        "kind": "shop",
-        "x": 509.1,
-        "y": 417.2,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
     },
     {
         "id": "atm-017",
@@ -13779,16 +13729,6 @@
         "region": "vice",
         "confidence": "community",
         "source_urls": []
-    },
-    {
-        "id": "atm-028",
-        "kind": "shop",
-        "x": 510,
-        "y": 452,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
     },
     {
         "id": "atm-029",
@@ -13959,16 +13899,6 @@
         "source_urls": []
     },
     {
-        "id": "atm-041",
-        "kind": "shop",
-        "x": 499.8,
-        "y": 472.6,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
         "id": "atm-042",
         "kind": "shop",
         "x": 490.9,
@@ -13981,16 +13911,6 @@
         "region": "vice",
         "confidence": "community",
         "source_urls": []
-    },
-    {
-        "id": "atm-043",
-        "kind": "shop",
-        "x": 491.6,
-        "y": 474.2,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
     },
     {
         "id": "atm-044",
@@ -14019,16 +13939,6 @@
         "region": "vice",
         "confidence": "community",
         "source_urls": []
-    },
-    {
-        "id": "atm-046",
-        "kind": "shop",
-        "x": 492.2,
-        "y": 474.9,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
     },
     {
         "id": "atm-047",
@@ -14101,16 +14011,6 @@
         "source_urls": []
     },
     {
-        "id": "atm-052",
-        "kind": "shop",
-        "x": 567.8,
-        "y": 476.3,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
         "id": "atm-053",
         "kind": "shop",
         "x": 346,
@@ -14122,16 +14022,6 @@
         "region": "keys",
         "confidence": "community",
         "source_urls": []
-    },
-    {
-        "id": "atm-054",
-        "kind": "shop",
-        "x": 345.6,
-        "y": 478.3,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
     },
     {
         "id": "atm-055",
@@ -14427,56 +14317,6 @@
         "source_urls": []
     },
     {
-        "id": "atm-076",
-        "kind": "shop",
-        "x": 488.1,
-        "y": 496.9,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
-        "id": "atm-077",
-        "kind": "shop",
-        "x": 488.5,
-        "y": 497.1,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
-        "id": "atm-078",
-        "kind": "shop",
-        "x": 487.6,
-        "y": 497.3,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
-        "id": "atm-079",
-        "kind": "shop",
-        "x": 491.1,
-        "y": 497.4,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
-        "id": "atm-080",
-        "kind": "shop",
-        "x": 487.3,
-        "y": 497.7,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
         "id": "atm-081",
         "kind": "shop",
         "x": 471.5,
@@ -14715,16 +14555,6 @@
         "source_urls": []
     },
     {
-        "id": "atm-098",
-        "kind": "shop",
-        "x": 562.4,
-        "y": 505.6,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
         "id": "atm-099",
         "kind": "shop",
         "x": 450.3,
@@ -14781,26 +14611,6 @@
         "source_urls": []
     },
     {
-        "id": "atm-103",
-        "kind": "shop",
-        "x": 484.1,
-        "y": 508.8,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
-        "id": "atm-104",
-        "kind": "shop",
-        "x": 483.6,
-        "y": 509.3,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
         "id": "atm-105",
         "kind": "shop",
         "x": 485.8,
@@ -14813,16 +14623,6 @@
         "region": "vice",
         "confidence": "community",
         "source_urls": []
-    },
-    {
-        "id": "atm-106",
-        "kind": "shop",
-        "x": 485.9,
-        "y": 510,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
     },
     {
         "id": "atm-107",
@@ -15007,36 +14807,6 @@
         "source_urls": []
     },
     {
-        "id": "atm-120",
-        "kind": "shop",
-        "x": 493.9,
-        "y": 521.3,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
-        "id": "atm-121",
-        "kind": "shop",
-        "x": 493.9,
-        "y": 521.6,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
-        "id": "atm-122",
-        "kind": "shop",
-        "x": 493.6,
-        "y": 521.8,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
         "id": "atm-123",
         "kind": "shop",
         "x": 522.8,
@@ -15077,16 +14847,6 @@
         "region": "vice",
         "confidence": "community",
         "source_urls": []
-    },
-    {
-        "id": "atm-126",
-        "kind": "shop",
-        "x": 486.9,
-        "y": 525.9,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
     },
     {
         "id": "atm-127",
@@ -15186,36 +14946,6 @@
         "source_urls": []
     },
     {
-        "id": "atm-134",
-        "kind": "shop",
-        "x": 439.8,
-        "y": 534.8,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
-        "id": "atm-135",
-        "kind": "shop",
-        "x": 439.7,
-        "y": 535.5,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
-        "id": "atm-136",
-        "kind": "shop",
-        "x": 439.7,
-        "y": 535.7,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
         "id": "atm-137",
         "kind": "shop",
         "x": 443.1,
@@ -15228,16 +14958,6 @@
         "region": "vice",
         "confidence": "community",
         "source_urls": []
-    },
-    {
-        "id": "atm-138",
-        "kind": "shop",
-        "x": 439.3,
-        "y": 535.8,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
     },
     {
         "id": "atm-139",
@@ -15265,46 +14985,6 @@
         "region": "vice",
         "confidence": "community",
         "source_urls": []
-    },
-    {
-        "id": "atm-141",
-        "kind": "shop",
-        "x": 434.8,
-        "y": 536.4,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
-        "id": "atm-142",
-        "kind": "shop",
-        "x": 439.3,
-        "y": 536.4,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
-        "id": "atm-143",
-        "kind": "shop",
-        "x": 439.6,
-        "y": 536.6,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
-        "id": "atm-144",
-        "kind": "shop",
-        "x": 443,
-        "y": 536.6,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
     },
     {
         "id": "atm-145",
@@ -15360,16 +15040,6 @@
         "region": "vice",
         "confidence": "community",
         "source_urls": []
-    },
-    {
-        "id": "atm-149",
-        "kind": "shop",
-        "x": 439.3,
-        "y": 537.9,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
     },
     {
         "id": "atm-150",
@@ -15620,26 +15290,6 @@
         "region": "vice",
         "confidence": "community",
         "source_urls": []
-    },
-    {
-        "id": "atm-168",
-        "kind": "shop",
-        "x": 472.5,
-        "y": 565.1,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
-        "id": "atm-169",
-        "kind": "shop",
-        "x": 473.3,
-        "y": 565.6,
-        "name": "ATM",
-        "type": "ATM",
-        "description": "",
-        "screenshot": null
     },
     {
         "id": "atm-170",
@@ -24479,16 +24129,6 @@
         "source_urls": []
     },
     {
-        "id": "ev-charger-030",
-        "kind": "shop",
-        "x": 468.3,
-        "y": 477.3,
-        "name": "Electric Vehicle Charger",
-        "type": "EV charger",
-        "description": "",
-        "screenshot": null
-    },
-    {
         "id": "ev-charger-031",
         "kind": "shop",
         "x": 556.3,
@@ -24780,16 +24420,6 @@
         "region": "vice",
         "confidence": "community",
         "source_urls": []
-    },
-    {
-        "id": "ev-charger-052",
-        "kind": "shop",
-        "x": 446,
-        "y": 533.4,
-        "name": "Electric Vehicle Charger",
-        "type": "EV charger",
-        "description": "",
-        "screenshot": null
     },
     {
         "id": "ev-charger-053",
@@ -32655,16 +32285,6 @@
         "source_urls": []
     },
     {
-        "id": "towable-atm-015",
-        "kind": "towatm",
-        "x": 559.6,
-        "y": 455.5,
-        "name": "Towable ATM",
-        "type": "Towable ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
         "id": "towable-atm-016",
         "kind": "towatm",
         "x": 558.1,
@@ -32719,16 +32339,6 @@
         "region": "vice",
         "confidence": "community",
         "source_urls": []
-    },
-    {
-        "id": "towable-atm-020",
-        "kind": "towatm",
-        "x": 501.3,
-        "y": 461.7,
-        "name": "Towable ATM",
-        "type": "Towable ATM",
-        "description": "",
-        "screenshot": null
     },
     {
         "id": "towable-atm-021",
@@ -33038,16 +32648,6 @@
         "source_urls": []
     },
     {
-        "id": "towable-atm-043",
-        "kind": "towatm",
-        "x": 556.1,
-        "y": 501,
-        "name": "Towable ATM",
-        "type": "Towable ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
         "id": "towable-atm-044",
         "kind": "towatm",
         "x": 496.3,
@@ -33186,16 +32786,6 @@
         "region": "vice",
         "confidence": "community",
         "source_urls": []
-    },
-    {
-        "id": "towable-atm-054",
-        "kind": "towatm",
-        "x": 566.1,
-        "y": 510.4,
-        "name": "Towable ATM",
-        "type": "Towable ATM",
-        "description": "",
-        "screenshot": null
     },
     {
         "id": "towable-atm-055",
@@ -33546,16 +33136,6 @@
         "source_urls": []
     },
     {
-        "id": "towable-atm-080",
-        "kind": "towatm",
-        "x": 485.5,
-        "y": 543,
-        "name": "Towable ATM",
-        "type": "Towable ATM",
-        "description": "",
-        "screenshot": null
-    },
-    {
         "id": "towable-atm-081",
         "kind": "towatm",
         "x": 502.4,
@@ -33624,16 +33204,6 @@
         "region": "vice",
         "confidence": "community",
         "source_urls": []
-    },
-    {
-        "id": "towable-atm-086",
-        "kind": "towatm",
-        "x": 478.9,
-        "y": 558.4,
-        "name": "Towable ATM",
-        "type": "Towable ATM",
-        "description": "",
-        "screenshot": null
     },
     {
         "id": "towable-atm-087",
