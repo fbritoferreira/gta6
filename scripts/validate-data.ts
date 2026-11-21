@@ -66,6 +66,12 @@ export function validateData(root: string): string[] {
     locations.flatMap((l) => (l.screenshot && !existsSync(join(root, l.screenshot)) ? [l.screenshot] : [])),
   );
 
+  // Stray spaces break exact-name matches (search ranking, duplicate checks) and show in titles.
+  report(
+    "Names with spaces at either end",
+    entries.filter((e) => e.name !== e.name?.trim()).map((e) => `${e.id} ("${e.name}")`),
+  );
+
   // Files nothing points at are dead weight on every clone and in assets.json.
   const shown = new Set(locations.map((l) => l.screenshot));
   report(
