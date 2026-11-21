@@ -144,6 +144,9 @@ Everything here lives in `public/` and is served as is.
   when it loads (`src/merge.ts`), and its old `?id=` and `/l/<id>/` links lead to the location.
 - `data/categories.json`: every `kind` with its name, colour, icon (an emoji glyph), group, and whether players can mark
   it as found.
+- `data/removed.json`: ids taken out on purpose (duplicates, things not in the game), each with a reason. The data
+  sync never adds them back, and `pnpm build` fails if one reappears. To remove a location, delete its entry and list
+  its id here.
 - `data/labels.json`: district names and where they sit.
 - `data/districts.json`: approximate district outlines, generated from `places.json` by `pnpm districts` (part of
   `pnpm build`). There is no official boundary data; outlines sharpen as more places get an `area`.

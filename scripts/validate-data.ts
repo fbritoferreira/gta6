@@ -82,6 +82,18 @@ export function validateData(root: string): string[] {
       .map((l) => `${l.id} (usually ${usual(l.id)})`),
   );
 
+  // data/removed.json lists ids taken out on purpose; the data sync skips them, so they must stay out.
+  const removedPath = join(root, "data/removed.json");
+  const removed = existsSync(removedPath) ? read<{ id: string; reason: string }[]>("data/removed.json") : [];
+  report(
+    "Removed ids (data/removed.json) that are back in the data",
+    entries.filter((e) => removed.some((r) => r.id === e.id)).map((e) => e.id),
+  );
+  report(
+    "Entries in data/removed.json without an id and a reason",
+    removed.filter((r) => !r.id || !r.reason).map((r) => JSON.stringify(r)),
+  );
+
   // Stray spaces break exact-name matches (search ranking, duplicate checks) and show in titles.
   report(
     "Names with spaces at either end",

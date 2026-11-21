@@ -46,6 +46,14 @@ describe("validateData", () => {
     expect(validateData(root).join()).toContain("bank-003 (usually bank)");
   });
 
+  it("reports an id from data/removed.json that is back in the data", () => {
+    const root = fixture({ "data/removed.json": [{ id: "L1", reason: "duplicate" }] });
+    expect(validateData(root).join()).toContain("back in the data:\n  L1");
+    expect(validateData(fixture({ "data/removed.json": [{ id: "x-1" }] })).join()).toContain(
+      "without an id and a reason",
+    );
+  });
+
   it("reports a name with a stray space", () => {
     const root = fixture({ "data/places.json": [{ id: "L1", kind: "food", name: "Turn ", x: 2, y: 2 }] });
     expect(validateData(root).join()).toContain('L1 ("Turn ")');
