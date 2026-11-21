@@ -654,3 +654,47 @@ dialog .row input[type="checkbox"] {
   padding: 24px;
   color: var(--sand);
 }
+
+/* Phones: the panel takes the whole screen (it closes again when you pick a result), touch
+   targets reach about 44px, and inputs use 16px text so iOS doesn't zoom the page on focus. */
+@media (max-width: 520px) {
+  #side {
+    top: 8px;
+    left: 8px;
+    right: 8px;
+    bottom: 8px;
+    width: auto;
+    max-width: none;
+  }
+  body.closed #side {
+    transform: translateX(calc(-100% - 16px));
+  }
+}
+@media (pointer: coarse) {
+  #q,
+  dialog input,
+  dialog textarea {
+    font-size: 16px;
+  }
+  .seg label,
+  .chip,
+  .btn {
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+  }
+  .group-head button {
+    min-height: 40px;
+    padding: 0 8px;
+  }
+  .kind {
+    min-height: 44px;
+  }
+  #results button {
+    min-height: 44px;
+  }
+  .icon-btn {
+    width: 44px;
+    height: 44px;
+  }
+}
