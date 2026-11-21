@@ -20,7 +20,8 @@
     "test:watch": "vitest",
     "export:wiki": "node scripts/export-wiki.ts",
     "test:e2e": "playwright test",
-    "pins": "node scripts/make-pins.ts"
+    "pins": "node scripts/make-pins.ts",
+    "sync:wiki": "node scripts/sync-wiki.ts"
   },
   "dependencies": {
     "@solidjs/web": "2.0.3",
