@@ -40,6 +40,11 @@ jobs:
         if: github.event.action != 'closed'
         run: pnpm build
 
+      # Smoke tests in a real browser against the built site (e2e/), desktop and phone sizes.
+      - name: Browser tests
+        if: github.event.action != 'closed'
+        run: pnpm exec playwright install --with-deps chromium && pnpm test:e2e
+
       - name: Deploy main
         if: github.event_name == 'push'
         uses: JamesIves/github-pages-deploy-action@v4
