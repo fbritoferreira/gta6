@@ -45,8 +45,8 @@ export function MapOptions() {
           </button>
         )}
       </Show>
-      <Chip label="Districts" checked={app.labels()} onChange={app.setLabels} />
-      <Chip label="Hide found" checked={app.hideFound()} onChange={app.setHideFound} />
+      <Chip label="Districts" name="labels" checked={app.labels()} onChange={app.setLabels} />
+      <Chip label="Hide found" name="hidefound" checked={app.hideFound()} onChange={app.setHideFound} />
       <button
         class="chip share-progress"
         type="button"
@@ -59,10 +59,15 @@ export function MapOptions() {
   );
 }
 
-function Chip(props: { label: string; checked: boolean; onChange: (on: boolean) => void }) {
+function Chip(props: { label: string; name: string; checked: boolean; onChange: (on: boolean) => void }) {
   return (
     <label class="chip">
-      <input type="checkbox" checked={props.checked} onChange={(e) => props.onChange(e.currentTarget.checked)} />{" "}
+      <input
+        type="checkbox"
+        name={props.name}
+        checked={props.checked}
+        onChange={(e) => props.onChange(e.currentTarget.checked)}
+      />{" "}
       {props.label}
     </label>
   );

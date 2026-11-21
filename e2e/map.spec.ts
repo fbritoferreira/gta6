@@ -234,3 +234,24 @@ test("pressing / jumps to the search box", async ({ page, isMobile }) => {
   await expect(page.locator("#q")).toBeFocused();
   await expect(page.locator("#q")).toHaveValue(""); // the "/" itself is not typed
 });
+
+test("a category group collapses from its heading, and Show all / Hide all sit outside the toggle", async ({
+  page,
+}) => {
+  await page.goto("./");
+  await mapReady(page);
+  if ((await page.locator("body").getAttribute("class"))?.includes("closed"))
+    await page.locator(".ctl-filters").click();
+  const toggle = page.getByRole("button", { name: "Collectibles" });
+  await expect(toggle).toHaveAttribute("aria-expanded", "true");
+  await expect(page.locator(".kind", { hasText: "Hidden packages" })).toBeVisible();
+  // The chevron points down while open (a leftover <details> rule once rotated it).
+  await expect(toggle.locator(".chev")).toHaveCSS("transform", "none");
+  await toggle.click();
+  await expect(toggle).toHaveAttribute("aria-expanded", "false");
+  await expect(page.locator(".kind", { hasText: "Hidden packages" })).toBeHidden();
+  // Show all / Hide all still work while the group is collapsed, and don't toggle it.
+  await page.locator(".group", { has: toggle }).getByRole("button", { name: "Hide all" }).click();
+  await expect(toggle).toHaveAttribute("aria-expanded", "false");
+  await expect(page).toHaveURL(/kinds=/);
+});

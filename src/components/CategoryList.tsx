@@ -1,4 +1,4 @@
-import { For } from "solid-js";
+import { createSignal, For } from "solid-js";
 import type { Kind } from "../data";
 import { useApp } from "../state";
 import { ChevronIcon } from "./icons";
@@ -9,29 +9,42 @@ export function CategoryList() {
   return <For each={app.data.groups}>{(group) => <CategoryGroup group={group} />}</For>;
 }
 
+/**
+ * A heading with a toggle button, then Show all / Hide all beside it: a disclosure built from buttons,
+ * since buttons inside a <summary> are hard to reach and announce.
+ */
 function CategoryGroup(props: { group: string }) {
   const app = useApp();
-  // preventDefault: these buttons sit inside <summary>, so a click would also collapse the group.
-  const showAll = (on: boolean) => (e: MouseEvent) => {
-    e.preventDefault();
-    app.showGroup(props.group, on);
-  };
+  const [open, setOpen] = createSignal(true);
+  const id = () => `group-${props.group.toLowerCase().replace(/[^a-z0-9]+/g, "-")}`;
   return (
-    <details class="group" open>
-      <summary class="group-head">
-        <h2>{props.group}</h2>
-        <button type="button" onClick={showAll(true)}>
+    <section class="group">
+      <div class="group-head">
+        <h2>
+          <button
+            type="button"
+            class="group-toggle"
+            aria-expanded={open() ? "true" : "false"}
+            aria-controls={id()}
+            onClick={() => setOpen((o) => !o)}
+          >
+            {props.group}
+            <ChevronIcon />
+          </button>
+        </h2>
+        <button type="button" onClick={() => app.showGroup(props.group, true)}>
           Show all
         </button>
-        <button type="button" onClick={showAll(false)}>
+        <button type="button" onClick={() => app.showGroup(props.group, false)}>
           Hide all
         </button>
-        <ChevronIcon />
-      </summary>
-      <For each={app.data.shownKinds.filter((k) => k.group === props.group)}>
-        {(kind) => <CategoryRow kind={kind} />}
-      </For>
-    </details>
+      </div>
+      <div id={id()} hidden={!open()}>
+        <For each={app.data.shownKinds.filter((k) => k.group === props.group)}>
+          {(kind) => <CategoryRow kind={kind} />}
+        </For>
+      </div>
+    </section>
   );
 }
 
@@ -43,6 +56,8 @@ function CategoryRow(props: { kind: Kind }) {
       <input
         class="sr"
         type="checkbox"
+        name="kinds"
+        value={props.kind.key}
         checked={app.kinds().has(props.kind.key)}
         onChange={(e) => app.showKind(props.kind.key, e.currentTarget.checked)}
       />
