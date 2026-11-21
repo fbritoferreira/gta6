@@ -218,6 +218,14 @@
       "pinnable": true
     },
     {
+      "key": "streetart",
+      "name": "Ahol Street Art",
+      "colour": "#06d6a0",
+      "icon": "🖌️",
+      "group": "Collectibles",
+      "pinnable": true
+    },
+    {
       "key": "vehicle",
       "name": "Standout vehicles",
       "colour": "#f72585",

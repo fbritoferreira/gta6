@@ -5,7 +5,15 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 
-type Entry = { id: string; kind: string; name: string; x: number; y: number; screenshot?: string | null };
+type Entry = {
+  id: string;
+  kind: string;
+  name: string;
+  type?: string;
+  x: number;
+  y: number;
+  screenshot?: string | null;
+};
 
 /** Closer than this (map units, about 32 game units) counts as the same spot. */
 const SAME_SPOT = 1;
@@ -92,6 +100,13 @@ export function validateData(root: string): string[] {
   report(
     "Entries in data/removed.json without an id and a reason",
     removed.filter((r) => !r.id || !r.reason).map((r) => JSON.stringify(r)),
+  );
+
+  // The sync falls back to the gtabase category slug ("card-ed-comics") for a type it has no label for;
+  // that shows as is in popups and search.
+  report(
+    "Types that are slugs, not labels",
+    locations.filter((l) => l.type && /^[a-z0-9]+(-[a-z0-9]+)+$/.test(l.type)).map((l) => `${l.id} ("${l.type}")`),
   );
 
   // Stray spaces break exact-name matches (search ranking, duplicate checks) and show in titles.
