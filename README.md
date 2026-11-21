@@ -146,9 +146,10 @@ Everything here lives in `public/` and is served as is.
 - `data/locations.json`: collectibles, activities and services. `kind` is the map category, `type` the label shown,
   `x`/`y` map units, `screenshot` a path in `screenshots/` or null.
 - `data/places.json`: named places with their real-life counterparts (`real_life`) and the area they sit in. A place
-  that is also in `locations.json` (same name within 1 map unit, or same category at the very same coordinates) is
-  shown once: the map merges it into the location
-  when it loads (`src/merge.ts`), and its old `?id=` and `/l/<id>/` links lead to the location.
+  that is also in `locations.json` (same name within 1 map unit; same category at the very same coordinates; or
+  same category within 0.5 units and sharing a word, like "Marina" by "Peacock Bay Marina") is shown once. When the
+  names don't show it, give the place `"same_as": "<location id>"` ("Watkins Auto Parts" is Moses's shop). The map
+  merges these when it loads (`src/merge.ts`), and the place's old `?id=` and `/l/<id>/` links lead to the location.
 - `data/categories.json`: every `kind` with its name, colour, icon (an emoji glyph), group, and whether players can mark
   it as found.
 - `pnpm validate` also lists possible duplicates to check by hand (same name close together, or two entries at the

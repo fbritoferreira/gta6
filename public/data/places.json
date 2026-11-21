@@ -1637,7 +1637,8 @@
     "real_life_lat": 30.15703,
     "real_life_lng": -85.62635,
     "real_life_street_view_pano": "9303W4e2qaWf7l9s2Y5sWQ",
-    "source_urls": []
+    "source_urls": [],
+    "same_as": "fence-007"
   },
   {
     "id": "L354",
@@ -8154,7 +8155,8 @@
     "real_life": "",
     "service": "",
     "confidence": "community",
-    "source_urls": []
+    "source_urls": [],
+    "same_as": "ammu-nation-023"
   },
   {
     "id": "L2420",
