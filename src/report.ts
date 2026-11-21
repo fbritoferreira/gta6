@@ -4,7 +4,7 @@ import type { Item } from "./data";
 import { toGame } from "./geo";
 import { REPO_URL } from "./repo";
 
-export { districtAt, toGame } from "./geo";
+export { districtAt, realWorldMapUrl, toGame } from "./geo";
 
 const issueUrl = (fields: Record<string, string | undefined>) => {
   const p = new URLSearchParams();
@@ -34,5 +34,16 @@ export function screenshotUrl(it: Pick<Item, "id" | "name" | "screenshot">) {
     "location-id": it.id,
     name: it.name,
     action: it.screenshot ? "Replace the current one" : "Add (it has no screenshot)",
+  });
+}
+
+/** Opens the real-world form to suggest a match for a place, or correct the one it has. */
+export function realWorldUrl(it: Pick<Item, "id" | "name" | "real_life">) {
+  return issueUrl({
+    template: "real-world.yml",
+    title: `Real world: ${it.name}`,
+    "location-id": it.id,
+    name: it.name,
+    current: it.real_life,
   });
 }

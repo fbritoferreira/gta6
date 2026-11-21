@@ -81,6 +81,9 @@ describe("labels", () => {
       site,
     );
     expect(hotel).toContain("<title>Vice Regal (Hotel), Vice Beach | Open GTA 6 Map</title>");
+    expect(hotel).toContain(
+      '<dd><a href="https://www.google.com/maps/search/?api=1&amp;query=Ritz" rel="noopener">Ritz</a></dd>',
+    );
     expect(what({ id: "L2", kind: "transport", x: 1, y: 1, name: "Pier", service: "Marina" }, "Transport")).toBe(
       "Marina",
     );

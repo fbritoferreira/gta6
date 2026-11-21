@@ -1,0 +1,41 @@
+name: Real-world spot
+description: Suggest or correct the real Florida place a location is based on.
+title: "Real world: "
+labels: ["data", "real-world"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The fastest way: open the place's popup on the map and choose **Suggest a real-world spot** (or **Wrong real-world spot?**); the id and name come pre-filled.
+
+        Matches are reviewed before they go on the map, so show how you know: a game screenshot or trailer timestamp next to a Street View or map link works best.
+  - type: input
+    id: location-id
+    attributes:
+      label: Location id
+      description: Filled in when you open this from the map, for example `L13`.
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Name on the map
+  - type: input
+    id: current
+    attributes:
+      label: Current match
+      description: Filled in when the place already has one.
+  - type: input
+    id: real-place
+    attributes:
+      label: Real place
+      description: Name and address, for example "Cadillac Hotel & Beach Club, 3925 Collins Ave, Miami Beach, FL 33140".
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: How you matched it
+      description: A Street View or map link, plus a game screenshot (drag it here, your own captures only, contributions are CC BY 4.0) or a trailer link with timestamp.
+    validations:
+      required: true
