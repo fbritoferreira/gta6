@@ -41,6 +41,13 @@ describe("validateData", () => {
     expect(validateData(root).join()).toContain("screenshots/nope.webp");
   });
 
+  it("reports a screenshot path with a leading slash, which breaks under /<repo>/ on Pages", () => {
+    const root = fixture({
+      "data/locations.json": [{ id: "bank-001", kind: "bank", screenshot: "/screenshots/bank-001.webp" }],
+    });
+    expect(validateData(root).join()).toContain("no leading /");
+  });
+
   it("reports a kind that isn't in categories.json", () => {
     const root = fixture({ "data/places.json": [{ id: "L1", kind: "spaceport" }] });
     expect(validateData(root).join()).toContain("spaceport");
