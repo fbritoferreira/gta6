@@ -9,6 +9,7 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import sharp from "sharp";
 import { districtAt, realWorldMapUrl, toGame, type Outline } from "../src/geo.ts";
+import { mergePlaces } from "../src/merge.ts";
 
 export type Entry = {
   service?: string;
@@ -141,6 +142,19 @@ ${
 `;
 }
 
+/** A page that sends visitors and search engines on to another location's page. */
+export function buildRedirect(to: string, siteUrl: string) {
+  return `<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<title>Moved</title>
+<link rel="canonical" href="${siteUrl}/l/${to}/">
+<meta name="robots" content="noindex">
+<meta http-equiv="refresh" content="0; url=../${to}/">
+<p><a href="../${to}/">This location has moved.</a></p>
+`;
+}
+
 export function buildSitemap(ids: string[], siteUrl: string) {
   const urls = [`${siteUrl}/`, ...ids.map((id) => `${siteUrl}/l/${id}/`)];
   return `<?xml version="1.0" encoding="UTF-8"?>
@@ -156,7 +170,10 @@ if (import.meta.main) {
   const siteUrl = `https://${owner.toLowerCase()}.github.io/${repo}`;
   const kinds = new Map(read<{ kinds: Kind[] }>("public/data/categories.json").kinds.map((k) => [k.key, k]));
   const districts = read<Outline[]>("public/data/districts.json");
-  const all = [...read<Entry[]>("public/data/locations.json"), ...read<Entry[]>("public/data/places.json")];
+  const { items: all, merged } = mergePlaces(
+    read<Entry[]>("public/data/locations.json"),
+    read<Entry[]>("public/data/places.json"),
+  );
   const pages = all.filter((it) => hasPage(it) && kinds.has(it.kind) && /^[A-Za-z0-9-]+$/.test(it.id));
 
   for (const it of pages) {
@@ -174,6 +191,13 @@ if (import.meta.main) {
       `dist/l/${it.id}/index.html`,
       buildPage(it, kinds.get(it.kind)!, district, nearby, siteUrl, (k) => kinds.get(k)?.name ?? k, shot),
     );
+  }
+  // A place folded into a location keeps its old URL working, pointing at the location's page.
+  const paged = new Set(pages.map((p) => p.id));
+  for (const [from, to] of merged) {
+    if (!paged.has(to) || !/^[A-Za-z0-9-]+$/.test(from)) continue;
+    mkdirSync(`dist/l/${from}`, { recursive: true });
+    writeFileSync(`dist/l/${from}/index.html`, buildRedirect(to, siteUrl));
   }
   writeFileSync(
     "dist/sitemap.xml",

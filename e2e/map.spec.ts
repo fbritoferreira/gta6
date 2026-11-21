@@ -212,3 +212,13 @@ test("a district link opens on that district, with its found count", async ({ pa
     await page.locator(".ctl-filters").click();
   await expect(page.locator(".chip-on")).toHaveText(/^Only Hamlet, 0 of [1-9]\d* found/);
 });
+
+test("a place that is also a synced location shows once, with both sets of details", async ({ page }) => {
+  // L1488 (places.json) and clothing-001 (locations.json) are the same shop; the old ?id= still opens it.
+  await page.goto("./?id=L1488");
+  await mapReady(page);
+  const popup = page.locator(".leaflet-popup-content");
+  await expect(popup).toContainText("Real life:");
+  await expect(popup.locator(".pop-report", { hasText: "real-world spot" })).toBeVisible();
+  await expect(page.locator(".leaflet-popup")).toHaveCount(1);
+});

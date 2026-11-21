@@ -134,7 +134,9 @@ Everything here lives in `public/` and is served as is.
   (Leaflet `CRS.Simple`, latitude = -y).
 - `data/locations.json`: collectibles, activities and services. `kind` is the map category, `type` the label shown,
   `x`/`y` map units, `screenshot` a path in `screenshots/` or null.
-- `data/places.json`: named places with their real-life counterparts (`real_life`) and the area they sit in.
+- `data/places.json`: named places with their real-life counterparts (`real_life`) and the area they sit in. A place
+  that is also in `locations.json` (same name, within 1 map unit) is shown once: the map merges it into the location
+  when it loads (`src/merge.ts`), and its old `?id=` and `/l/<id>/` links lead to the location.
 - `data/categories.json`: every `kind` with its name, colour, icon (an emoji glyph), group, and whether players can mark
   it as found.
 - `data/labels.json`: district names and where they sit.
