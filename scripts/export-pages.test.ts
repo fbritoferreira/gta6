@@ -1,5 +1,14 @@
 import { describe, expect, it } from "vitest";
-import { buildPage, buildRedirect, buildSitemap, hasPage, metaDescription, what, type Entry } from "./export-pages.ts";
+import {
+  buildNotFound,
+  buildPage,
+  buildRedirect,
+  buildSitemap,
+  hasPage,
+  metaDescription,
+  what,
+  type Entry,
+} from "./export-pages.ts";
 
 const card: Entry = {
   id: "hidden-package-001",
@@ -107,5 +116,17 @@ describe("buildRedirect", () => {
     expect(html).toContain('<meta http-equiv="refresh" content="0; url=../clothing-001/">');
     expect(html).toContain(`<link rel="canonical" href="${site}/l/clothing-001/">`);
     expect(html).toContain('content="noindex"');
+  });
+});
+
+describe("buildNotFound", () => {
+  const html = buildNotFound(site);
+  it("links to the map absolutely, since it is served at any depth", () => {
+    expect(html).toContain(`href="${site}/"`);
+    expect(html).toContain('content="noindex"');
+  });
+
+  it("sends a missing /l/<id>/ page to the map at that id", () => {
+    expect(html).toContain(`location.replace("${site}/?id=" + id[1])`);
   });
 });
