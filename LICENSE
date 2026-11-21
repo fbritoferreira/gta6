@@ -9,8 +9,8 @@ license and say whether you made changes.
 Suggested credit: "Map data from Open GTA 6 Map (fbritoferreira), CC BY 4.0"
 with a link to this repository.
 
-The fallback icons in icons/*.svg are from Lucide (https://lucide.dev) and stay under their
-own ISC license, in icons/LICENSE.
+The fallback icons in icons/*.svg, and the glyphs in the pins drawn by scripts/make-pins.ts,
+are from Lucide (https://lucide.dev) and stay under their own ISC license, in icons/LICENSE.
 
 This license does not cover material owned by others. Grand Theft Auto, its
 names and logos, the game's map art and in-game screenshots belong to Rockstar

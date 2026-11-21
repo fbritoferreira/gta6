@@ -19,7 +19,8 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "export:wiki": "node scripts/export-wiki.ts",
-    "test:e2e": "playwright test"
+    "test:e2e": "playwright test",
+    "pins": "node scripts/make-pins.ts"
   },
   "dependencies": {
     "@solidjs/web": "2.0.3",
