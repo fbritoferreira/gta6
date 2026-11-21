@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { buildPage, buildSitemap, hasPage, metaDescription, what, type Entry } from "./export-pages.ts";
+import { buildPage, buildRedirect, buildSitemap, hasPage, metaDescription, what, type Entry } from "./export-pages.ts";
 
 const card: Entry = {
   id: "hidden-package-001",
@@ -98,5 +98,14 @@ describe("labels", () => {
       site,
     );
     expect(html).toContain('<a href="../under-the-bridge-001/">Bridge</a> <span class="muted">Under the bridge</span>');
+  });
+});
+
+describe("buildRedirect", () => {
+  it("sends a merged place's old URL on to its location, and keeps it out of search results", () => {
+    const html = buildRedirect("clothing-001", site);
+    expect(html).toContain('<meta http-equiv="refresh" content="0; url=../clothing-001/">');
+    expect(html).toContain(`<link rel="canonical" href="${site}/l/clothing-001/">`);
+    expect(html).toContain('content="noindex"');
   });
 });

@@ -153,15 +153,15 @@ export function createAppState(data: Data) {
       untrack(map)?.showDistrict(name);
     },
     focus(id: string, readyMap?: MapController) {
-      const it = itemById.get(id);
+      const it = itemById.get(data.merged.get(id) ?? id);
       if (!it) return;
       editKinds((next) => next.add(it.kind));
       if (untrack(district) && it.district !== untrack(district)) setDistrict(undefined);
       if (innerWidth < 800) setPanelOpen(false);
       // readyMap: the caller just set the map; Solid 2 batches writes, so map() would still be stale.
       const ready = readyMap ?? untrack(map);
-      if (ready) ready.focus(id);
-      else pendingFocus = id;
+      if (ready) ready.focus(it.id);
+      else pendingFocus = it.id;
     },
     /** Called once by MapView when the map is ready: shows the location picked while it loaded. */
     takePendingFocus() {

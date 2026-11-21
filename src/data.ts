@@ -1,4 +1,5 @@
 import { districtAt } from "./geo";
+import { mergePlaces } from "./merge";
 export type Kind = { key: string; name: string; colour: string; icon: string; group: string; pinnable: boolean };
 export type Item = {
   id: string;
@@ -89,7 +90,8 @@ export async function loadData() {
   ]);
   const catBy: Record<string, Kind> = Object.fromEntries(cats.kinds.map((k) => [k.key, k]));
   const pinNames = new Set(pinList);
-  const known = [...locations, ...places].filter((it) => catBy[it.kind]);
+  const { items: all, merged } = mergePlaces(locations, places);
+  const known = all.filter((it) => catBy[it.kind]);
   const usual = usualKinds(known);
   const items: Item[] = known.map((it) => ({
     ...it,
@@ -121,6 +123,8 @@ export async function loadData() {
     shownKinds,
     districts,
     defaultKinds: shownKinds.filter((k) => k.group !== "Places").map((k) => k.key),
+    /** Place ids folded into a location (src/merge.ts), so old ?id= links still open it. */
+    merged,
   };
 }
 export type Data = Awaited<ReturnType<typeof loadData>>;
