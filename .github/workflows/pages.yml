@@ -18,6 +18,22 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+      # Commits must carry a real author: a placeholder identity (an email ending in .local, or a
+      # name like "Sync Bot") isn't a person who signed the CLA, and would land in main's history
+      # as a co-author. GitHub's own [bot] accounts (Dependabot) are fine.
+      - name: Commit authors
+        if: github.event_name == 'pull_request' && github.event.action != 'closed'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          bad=$(gh api "repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/commits" --paginate \
+            --jq '.[] | select((.commit.author.email | endswith(".local")) or ((.commit.author.name | test("\\bbot\\b"; "i")) and (.commit.author.name | endswith("[bot]") | not))) | "\(.sha[0:8]) \(.commit.author.name) <\(.commit.author.email)>"')
+          if [ -n "$bad" ]; then
+            echo "::error::These commits have a placeholder author. Recommit them as yourself (git commit --amend --reset-author):"
+            echo "$bad"
+            exit 1
+          fi
+
       - uses: actions/checkout@v7
 
       # A closed PR only needs its preview removed, so skip the build.
