@@ -45087,5 +45087,505 @@
         "type": "Ahol Street Art",
         "description": "Behind the petrol station, under the \"GAS ->\" sign on the wall: a painted wheel.",
         "screenshot": "screenshots/gta6-ahol-street-art-028.webp"
+    },
+    {
+        "id": "random-event-107",
+        "kind": "event",
+        "x": 523.625,
+        "y": 501.78125,
+        "name": "Anti-Theft Car",
+        "type": "Random event",
+        "description": "Steal the car and its anti-theft system takes over: it locks the doors and windows and drives you to the police station.",
+        "screenshot": "screenshots/gta6-random-event-107.webp"
+    },
+    {
+        "id": "random-event-108",
+        "kind": "event",
+        "x": 464.96875,
+        "y": 661.78125,
+        "name": "Gang Trade",
+        "type": "Random event",
+        "description": "Only at night: two gangs meet to trade goods. Ambush them and take the loot (around $1,500).",
+        "screenshot": "screenshots/gta6-random-event-108.webp"
+    },
+    {
+        "id": "card-liberty-city-swingers-007",
+        "kind": "card",
+        "x": 363.78125,
+        "y": 616.5,
+        "name": "Liberty City Swingers card",
+        "type": "Liberty City Swingers card",
+        "description": "On the porch of the first house.",
+        "screenshot": null
+    },
+    {
+        "id": "card-los-santos-corkers-013",
+        "kind": "card",
+        "x": 406.96875,
+        "y": 382.5,
+        "name": "Los Santos Corkers card: Victor Maravilla",
+        "type": "Los Santos Corkers card",
+        "description": "On the bench next to the Ambrosia baseball field.",
+        "screenshot": "screenshots/gta6-card-los-santos-corkers-013.webp"
+    },
+    {
+        "id": "collectible-card-120",
+        "kind": "card",
+        "x": 514.375,
+        "y": 397.03125,
+        "name": "Collectible Card (Gold)",
+        "type": "Collectible card",
+        "description": "In the garage, on the couch.",
+        "screenshot": null
+    },
+    {
+        "id": "collectible-card-121",
+        "kind": "card",
+        "x": 503.875,
+        "y": 456.5625,
+        "name": "Right Wing: America's Hero card: The Educated Woman",
+        "type": "Collectible card",
+        "description": "In the alley on the right, up the ladder.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-109",
+        "kind": "event",
+        "x": 428.65625,
+        "y": 704.3125,
+        "name": "Drunk Man on a Police Car",
+        "type": "Random event",
+        "description": "A drunk man dances on a police car while officers try to handle him.",
+        "screenshot": "screenshots/gta6-random-event-109.webp"
+    },
+    {
+        "id": "random-event-110",
+        "kind": "event",
+        "x": 433.03125,
+        "y": 341.65625,
+        "name": "Paranoid Prepper's Bunker",
+        "type": "Random event",
+        "description": "Move the container to reach the bunker, and watch out for mines: a paranoid man sets you more challenges for money.",
+        "screenshot": "screenshots/gta6-random-event-110.webp"
+    },
+    {
+        "id": "card-backyard-wrestling-014",
+        "kind": "card",
+        "x": 336.28125,
+        "y": 314.8125,
+        "name": "Backyard Wrestling card: Luke X",
+        "type": "Backyard Wrestling card",
+        "description": "In the bedroom of the trailer.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-111",
+        "kind": "event",
+        "x": 337.625,
+        "y": 305.375,
+        "name": "Roadside Forest Fire",
+        "type": "Random event",
+        "description": "Off the left side of the highway, a patch of trees is on fire.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-112",
+        "kind": "event",
+        "x": 308.15625,
+        "y": 413.03125,
+        "name": "Clumsy Car Thief",
+        "type": "Random event",
+        "description": "A clumsy woman needs your help stealing a car.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-113",
+        "kind": "event",
+        "x": 311.9375,
+        "y": 389.75,
+        "name": "Botched Robbery",
+        "type": "Random event",
+        "description": "Robbers flee the payday loan store, dropping wads of cash on the tarmac as the owner chases them; the cash is left scattered around.",
+        "screenshot": "screenshots/gta6-random-event-113.webp"
+    },
+    {
+        "id": "random-event-114",
+        "kind": "event",
+        "x": 334.25,
+        "y": 302.03125,
+        "name": "Attempted Carjacking",
+        "type": "Random event",
+        "description": "At night a muscle car blocks the road and its driver demands money.",
+        "screenshot": null
+    },
+    {
+        "id": "card-liberty-city-swingers-008",
+        "kind": "card",
+        "x": 425.5625,
+        "y": 488.6875,
+        "name": "Liberty City Swingers card: Ricardo Zamudio",
+        "type": "Liberty City Swingers card",
+        "description": "On the desk beside the radio as you enter the market.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-121",
+        "kind": "event",
+        "x": 325.875,
+        "y": 394.09375,
+        "name": "Kolt & Associates Highway Ambush",
+        "type": "Random event",
+        "description": "After completing the chapter 2 mission \"Slam Dunk\" and gain the ability to raid their drug operations you'll be able to unlock this random encounter as they try to retaliate via an ambush. They will run the car off the road and try to kill you.",
+        "screenshot": "screenshots/gta6-random-event-121.webp"
+    },
+    {
+        "id": "card-los-santos-corkers-014",
+        "kind": "card",
+        "x": 482.1875,
+        "y": 541.375,
+        "name": "Los Santos Corkers card: Anthony Herndon",
+        "type": "Los Santos Corkers card",
+        "description": "In the back of the garage.",
+        "screenshot": null
+    },
+    {
+        "id": "card-right-wing-015",
+        "kind": "card",
+        "x": 363.53125,
+        "y": 325.4375,
+        "name": "Right Wing: America's Hero card: President Quinn",
+        "type": "Right Wing card",
+        "description": "In the office.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-116",
+        "kind": "event",
+        "x": 344.875,
+        "y": 302.9375,
+        "name": "Former Final Chapter Member Attacked",
+        "type": "Random event",
+        "description": "A former Final Chapter member is being beaten and threatened. Help him and untie him to complete it.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-117",
+        "kind": "event",
+        "x": 294.875,
+        "y": 397.15625,
+        "name": "Newlyweds' House",
+        "type": "Random event",
+        "description": "Listen in on a couple who have just got married.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-122",
+        "kind": "event",
+        "x": 474,
+        "y": 550.125,
+        "name": "Non-Flusher Movement Meeting (Frank's Waffle)",
+        "type": "Random event",
+        "description": "Code: 00-00-02.",
+        "screenshot": null
+    },
+    {
+        "id": "collectible-card-122",
+        "kind": "card",
+        "x": 431.28125,
+        "y": 379.25,
+        "name": "Malik Rivers card",
+        "type": "Collectible card",
+        "description": "In the house, on a shelf in the trophy/sports room. Enter through the back door.",
+        "screenshot": null
+    },
+    {
+        "id": "card-vice-city-flamingos-015",
+        "kind": "card",
+        "x": 472.96875,
+        "y": 509.59375,
+        "name": "Julian Cruz",
+        "type": "Vice City Flamingos card",
+        "description": "On a pinboard in an office. Enter through parking lot.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-118",
+        "kind": "event",
+        "x": 390,
+        "y": 576.34375,
+        "name": "Kidnapped Cop",
+        "type": "Random event",
+        "description": "Two people have tied up a police officer.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-119",
+        "kind": "event",
+        "x": 327.8125,
+        "y": 589.40625,
+        "name": "Dirty Cops (hangar)",
+        "type": "Random event",
+        "description": "Inside the hangar at 3 a.m.: a cop tied to a chair is beaten up by two dirty cops.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-120",
+        "kind": "event",
+        "x": 316.25,
+        "y": 534.78125,
+        "name": "Lady with a Couch",
+        "type": "Random event",
+        "description": "Help the woman with her couch and you get kidnapped into the game's take on the Saw movies.",
+        "screenshot": null
+    },
+    {
+        "id": "card-legends-of-ratface-010",
+        "kind": "card",
+        "x": 465.0625,
+        "y": 418.8125,
+        "name": "Legends of Ratface card: Illuminaughty",
+        "type": "Legends Of Ratface card",
+        "description": "On the board near the computers.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-123",
+        "kind": "event",
+        "x": 474.40625,
+        "y": 544,
+        "name": "Influencer Falls from Overpass",
+        "type": "Random event",
+        "description": "A streamer livestreaming on the edge of the bridge accidentally falls off.",
+        "screenshot": null
+    },
+    {
+        "id": "card-vice-city-manatees-010",
+        "kind": "card",
+        "x": 425.125,
+        "y": 607.75,
+        "name": "Vice City Manatees card: Jacob Schneeman",
+        "type": "Vice City Manatees card",
+        "description": "In a yellow box outside the house.",
+        "screenshot": "screenshots/gta6-card-vice-city-manatees-010.webp"
+    },
+    {
+        "id": "card-right-wing-014",
+        "kind": "card",
+        "x": 496.6875,
+        "y": 473.71875,
+        "name": "Right Wing: America's Hero card: Right Wing (Red)",
+        "type": "Right Wing card",
+        "description": "On a small table in the side room on the ground floor of Bayside Apartments (first room on the right of the entrance).",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-115",
+        "kind": "event",
+        "x": 425.0625,
+        "y": 708.65625,
+        "name": "Drug Export Threat",
+        "type": "Random event",
+        "description": "Two men are threatening another man. Question them and they tell you to back off; talk more with the threatened man.",
+        "screenshot": "screenshots/gta6-random-event-115.webp"
+    },
+    {
+        "id": "card-los-santos-panic-010",
+        "kind": "card",
+        "x": 411.34375,
+        "y": 665,
+        "name": "Los Santos Panic card: Oluwa Mohammed",
+        "type": "Los Santos Panic card",
+        "description": "On the side of the bridge, in a yellow box.",
+        "screenshot": null
+    },
+    {
+        "id": "card-legends-of-ratface-011",
+        "kind": "card",
+        "x": 485.9375,
+        "y": 458.40625,
+        "name": "Legends of Ratface card: Wokester",
+        "type": "Legends Of Ratface card",
+        "description": "In the garage (break in), in a container.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-124",
+        "kind": "event",
+        "x": 312.46875,
+        "y": 503.53125,
+        "name": "Traffic Stop: Golf Clubs",
+        "type": "Random event",
+        "description": "A woman is pulled over and her car searched; the police only find golf clubs.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-125",
+        "kind": "event",
+        "x": 315.21875,
+        "y": 416.21875,
+        "name": "Corrupt Cops Rob a Dealer",
+        "type": "Random event",
+        "description": "Two corrupt cops beat a drug dealer and steal his cocaine, which opens a possible robbery.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-126",
+        "kind": "event",
+        "x": 417.6875,
+        "y": 640.875,
+        "name": "Loose Pet Tiger",
+        "type": "Random event",
+        "description": "Kingfishers gang members are mauled by a loose tiger. Shoot it, then fight the gang members who arrive.",
+        "screenshot": "screenshots/gta6-random-event-126.webp"
+    },
+    {
+        "id": "card-los-santos-corkers-015",
+        "kind": "card",
+        "x": 282.0625,
+        "y": 502.75,
+        "name": "Los Santos Corkers card: Franklin Turner (Gold)",
+        "type": "Los Santos Corkers card",
+        "description": "Upstairs, on the table under the flower painting.",
+        "screenshot": null
+    },
+    {
+        "id": "card-los-santos-corkers-016",
+        "kind": "card",
+        "x": 470.625,
+        "y": 562.28125,
+        "name": "Los Santos Corkers card: Aoi Watanabe (Hotshot Rookie)",
+        "type": "Los Santos Corkers card",
+        "description": "In the top cabana overlooking the shopping plaza.",
+        "screenshot": null
+    },
+    {
+        "id": "card-legends-of-ratface-013",
+        "kind": "card",
+        "x": 376.34375,
+        "y": 431.53125,
+        "name": "Legends of Ratface card: Ratster",
+        "type": "Legends Of Ratface card",
+        "description": "On the top floor of the tower, next to the meditation spot.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-127",
+        "kind": "event",
+        "x": 345.15625,
+        "y": 402.375,
+        "name": "Linda's Coupon Meltdown",
+        "type": "Random event",
+        "description": "Linda, the motel receptionist, tries to get a restaurant coupon accepted, is refused and blows up at the staff.",
+        "screenshot": null
+    },
+    {
+        "id": "card-liberty-city-swingers-006",
+        "kind": "card",
+        "x": 481.6875,
+        "y": 426.375,
+        "name": "Garth Buxton",
+        "type": "Liberty City Swingers card",
+        "description": "In a lockbox in the garage",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-128",
+        "kind": "event",
+        "x": 394.09375,
+        "y": 378.6875,
+        "name": "Man Tied Up in a Barn",
+        "type": "Random event",
+        "description": "A man yells for help, guarded by two thugs. After you save him, there is a shotgun in the back of their truck.",
+        "screenshot": null
+    },
+    {
+        "id": "card-liberty-city-wrath-011",
+        "kind": "card",
+        "x": 442.9375,
+        "y": 611.6875,
+        "name": "Liberty City Wrath card: Christian Yee",
+        "type": "Liberty City Wrath card",
+        "description": "In the back of the grocery store, pinned on the bulletin board.",
+        "screenshot": "screenshots/gta6-card-liberty-city-wrath-011.webp"
+    },
+    {
+        "id": "card-americas-next-top-hooker-014",
+        "kind": "card",
+        "x": 222.15625,
+        "y": 389.53125,
+        "name": "America's Next Top Hooker card: Angel",
+        "type": "Americas Next Top Hooker card",
+        "description": "On the deck.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-129",
+        "kind": "event",
+        "x": 376,
+        "y": 588.8125,
+        "name": "Van Stuck in the Mud",
+        "type": "Random event",
+        "description": "Help push the stuck van (reward: adrenaline).",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-130",
+        "kind": "event",
+        "x": 399.71875,
+        "y": 621.59375,
+        "name": "Skunk Ape Effigy",
+        "type": "Random event",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-131",
+        "kind": "event",
+        "x": 385.5625,
+        "y": 638.5,
+        "name": "Skunk Ape Effigy",
+        "type": "Random event",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-132",
+        "kind": "event",
+        "x": 396.40625,
+        "y": 641,
+        "name": "Skunk Ape Effigy",
+        "type": "Random event",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "card-right-wing-016",
+        "kind": "card",
+        "x": 305.09375,
+        "y": 496.65625,
+        "name": "Right Wing: America's Hero card: Burning Desire",
+        "type": "Right Wing card",
+        "description": "On top of the building, directly below the sign.",
+        "screenshot": "screenshots/gta6-card-right-wing-016.webp"
+    },
+    {
+        "id": "card-legends-of-ratface-012",
+        "kind": "card",
+        "x": 371.78125,
+        "y": 606.9375,
+        "name": "Legends of Ratface card: Silver Age Betrayal (Purple)",
+        "type": "Legends Of Ratface card",
+        "description": "In the garage.",
+        "screenshot": null
+    },
+    {
+        "id": "card-los-santos-pounders-011",
+        "kind": "card",
+        "x": 533.21875,
+        "y": 393.375,
+        "name": "Los Santos Pounders card: Maximus Goldbart (Primo)",
+        "type": "Los Santos Pounders card",
+        "description": "In the garage on the left side, by the tool rack.",
+        "screenshot": null
     }
 ]
