@@ -44077,5 +44077,1015 @@
         "type": "Standout vehicle",
         "description": "Drift-spec Elegy in the garage.",
         "screenshot": "screenshots/gta6-standout-vehicle-116.webp"
+    },
+    {
+        "id": "card-liberty-city-wrath-009",
+        "kind": "card",
+        "x": 556.03125,
+        "y": 457.03125,
+        "name": "Liberty City Wrath card: Anthony Poke II",
+        "type": "Liberty City Wrath card",
+        "description": "Ajax Gym, 4th (top) floor: behind the treadmills a door leads to a corridor; the card is between the first two doors, on the poster/bulletin board.",
+        "screenshot": null
+    },
+    {
+        "id": "meteorite-032",
+        "kind": "meteorite",
+        "x": 405.3125,
+        "y": 244.28125,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "At the campfire, under the seat.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-007",
+        "kind": "streetart",
+        "x": 474.9375,
+        "y": 544,
+        "name": "Ahol Street Art: Mattress 72",
+        "type": "Ahol Street Art",
+        "description": "In front of the stairs up to the house, on the road side.",
+        "screenshot": "screenshots/gta6-ahol-street-art-007.webp"
+    },
+    {
+        "id": "safe-056",
+        "kind": "safe",
+        "x": 384.40625,
+        "y": 448.34375,
+        "name": "Safe (abandoned house)",
+        "type": "Safe",
+        "description": "Climb onto the abandoned house and go through the hole in the roof.",
+        "screenshot": null
+    },
+    {
+        "id": "safe-057",
+        "kind": "safe",
+        "x": 308.03125,
+        "y": 649.8125,
+        "name": "Safe (shipwreck)",
+        "type": "Safe",
+        "description": "Inside the wrecked ship.",
+        "screenshot": "screenshots/gta6-safe-057.webp"
+    },
+    {
+        "id": "ahol-street-art-008",
+        "kind": "streetart",
+        "x": 498.1875,
+        "y": 466.40625,
+        "name": "Ahol Street Art: Mattress 168",
+        "type": "Ahol Street Art",
+        "description": "On the corner where the road comes into the lot.",
+        "screenshot": "screenshots/gta6-ahol-street-art-008.webp"
+    },
+    {
+        "id": "ahol-street-art-009",
+        "kind": "streetart",
+        "x": 473.625,
+        "y": 533.96875,
+        "name": "Ahol Street Art: Mattress 433",
+        "type": "Ahol Street Art",
+        "description": "Along the short side of the red building, next to an AC unit.",
+        "screenshot": "screenshots/gta6-ahol-street-art-009.webp"
+    },
+    {
+        "id": "random-event-099",
+        "kind": "event",
+        "x": 346.625,
+        "y": 292.625,
+        "name": "Burning Car Collision",
+        "type": "Random event",
+        "description": "Two cars have collided and one is burning. The black pickup has a large chest in its bed with cocaine, cash and a Zhang Wu Type 9.",
+        "screenshot": "screenshots/gta6-random-event-099.webp"
+    },
+    {
+        "id": "card-legends-of-ratface-009",
+        "kind": "card",
+        "x": 478.71875,
+        "y": 463.5625,
+        "name": "Legends of Ratface card: Captain Kreuks (Blue)",
+        "type": "Legends Of Ratface card",
+        "description": "On the rooftop of the multistorey building, on the wall in the north-east corner (a radio is playing music there).",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-100",
+        "kind": "event",
+        "x": 336.5,
+        "y": 300.03125,
+        "name": "Kitty Litter Drug Ring",
+        "type": "Random event",
+        "description": "A woman produces Kitty Litter, a synthetic drug. If you pass through, you have to wait until the police finish their operation.",
+        "screenshot": "screenshots/gta6-random-event-100.webp"
+    },
+    {
+        "id": "card-right-wing-012",
+        "kind": "card",
+        "x": 413.125,
+        "y": 294.46875,
+        "name": "Right Wing: America's Hero card: Right Wing (White)",
+        "type": "Right Wing card",
+        "description": "On the notice board outside the store.",
+        "screenshot": "screenshots/gta6-card-right-wing-012.webp"
+    },
+    {
+        "id": "ahol-street-art-010",
+        "kind": "streetart",
+        "x": 471.875,
+        "y": 501.78125,
+        "name": "Ahol Street Art: Mattress 292",
+        "type": "Ahol Street Art",
+        "description": "Behind the fence, leaning against the wall.",
+        "screenshot": "screenshots/gta6-ahol-street-art-010.webp"
+    },
+    {
+        "id": "card-vice-city-manatees-009",
+        "kind": "card",
+        "x": 568.09375,
+        "y": 502.3125,
+        "name": "Vice City Manatees card: Dominic Brizzolato",
+        "type": "Vice City Manatees card",
+        "description": "In the back room of the shop, in the larger safe.",
+        "screenshot": "screenshots/gta6-card-vice-city-manatees-009.webp"
+    },
+    {
+        "id": "card-liberty-city-swingers-004",
+        "kind": "card",
+        "x": 432.75,
+        "y": 655.4375,
+        "name": "Liberty City Swingers card: Christian Delgado",
+        "type": "Liberty City Swingers card",
+        "description": "On top of the green lockers.",
+        "screenshot": null
+    },
+    {
+        "id": "meteorite-030",
+        "kind": "meteorite",
+        "x": 285,
+        "y": 634.25,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "In the O of the SOS sign.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-011",
+        "kind": "streetart",
+        "x": 572.875,
+        "y": 487.0625,
+        "name": "Ahol Street Art: Mattress 74",
+        "type": "Ahol Street Art",
+        "description": "Between a brown power pole and a window, leaning against the wall.",
+        "screenshot": "screenshots/gta6-ahol-street-art-011.webp"
+    },
+    {
+        "id": "ahol-street-art-006",
+        "kind": "streetart",
+        "x": 570,
+        "y": 511.03125,
+        "name": "Ahol Street Art: Mattress 62",
+        "type": "Ahol Street Art",
+        "description": "Tucked around a corner next to the green dustbin and proper aganced a short wall is a matriss painted with a face",
+        "screenshot": "screenshots/gta6-ahol-street-art-006.webp"
+    },
+    {
+        "id": "card-backyard-wrestling-013",
+        "kind": "card",
+        "x": 375.625,
+        "y": 607.875,
+        "name": "Backyard Wrestling card: Danny McLean",
+        "type": "Backyard Wrestling card",
+        "description": "In the gym behind the house, beside the punching bag.",
+        "screenshot": null
+    },
+    {
+        "id": "weapon-spawn-052",
+        "kind": "weapon",
+        "x": 454.625,
+        "y": 601.21875,
+        "name": "Molotov Cocktails",
+        "type": "Weapon pickup",
+        "description": "Break open the crate at the end of the destroyed building, behind the drug deal gone wrong.",
+        "screenshot": "screenshots/gta6-weapon-spawn-052.webp"
+    },
+    {
+        "id": "hospital-006",
+        "kind": "civic",
+        "x": 564.75,
+        "y": 546.9375,
+        "name": "Dalton Island Medical Center",
+        "type": "Hospital",
+        "description": "",
+        "screenshot": "screenshots/gta6-hospital-006.webp"
+    },
+    {
+        "id": "ahol-street-art-012",
+        "kind": "streetart",
+        "x": 476.375,
+        "y": 466.5,
+        "name": "Ahol Street Art: Mattress 181",
+        "type": "Ahol Street Art",
+        "description": "Just inside the gated area, next to a red skip.",
+        "screenshot": "screenshots/gta6-ahol-street-art-012.webp"
+    },
+    {
+        "id": "ahol-street-art-013",
+        "kind": "streetart",
+        "x": 452.9375,
+        "y": 577.46875,
+        "name": "Ahol Street Art: Mattress 133",
+        "type": "Ahol Street Art",
+        "description": "Inside the bin area, leaning against the wall.",
+        "screenshot": "screenshots/gta6-ahol-street-art-013.webp"
+    },
+    {
+        "id": "ahol-street-art-014",
+        "kind": "streetart",
+        "x": 464.40625,
+        "y": 512.9375,
+        "name": "Ahol Street Art: Mattress 252",
+        "type": "Ahol Street Art",
+        "description": "Next to a green bin at the end of a parking space.",
+        "screenshot": "screenshots/gta6-ahol-street-art-014.webp"
+    },
+    {
+        "id": "random-event-101",
+        "kind": "event",
+        "x": 577.90625,
+        "y": 530.53125,
+        "name": "AI Ex-CEO",
+        "type": "Random event",
+        "description": "May only appear at night.",
+        "screenshot": "screenshots/gta6-random-event-101.webp"
+    },
+    {
+        "id": "random-event-091",
+        "kind": "event",
+        "x": 561.0625,
+        "y": 522.90625,
+        "name": "Stuntman",
+        "type": "Random event",
+        "description": "",
+        "screenshot": "screenshots/gta6-random-event-091.webp"
+    },
+    {
+        "id": "random-event-092",
+        "kind": "event",
+        "x": 425.03125,
+        "y": 273.375,
+        "name": "Ghost Woman",
+        "type": "Random event",
+        "description": "Drive here at night: your car shuts off and a ghost woman crawls towards you, then appears in your car or as you get out.",
+        "screenshot": null
+    },
+    {
+        "id": "meteorite-031",
+        "kind": "meteorite",
+        "x": 271.75,
+        "y": 686.40625,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "Under the dead tree.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-015",
+        "kind": "streetart",
+        "x": 468.75,
+        "y": 486.28125,
+        "name": "Ahol Street Art: Wheel 186",
+        "type": "Ahol Street Art",
+        "description": "Behind the corner shops, in the back alley.",
+        "screenshot": "screenshots/gta6-ahol-street-art-015.webp"
+    },
+    {
+        "id": "vehicle-spawn-024",
+        "kind": "vehicle",
+        "x": 502.5,
+        "y": 441.71875,
+        "name": "Pegassi Tempesta",
+        "type": "Standout vehicle",
+        "description": "Guaranteed Tempesta spawn: if it is not here, save and reload until it appears.",
+        "screenshot": "screenshots/gta6-vehicle-spawn-024.webp"
+    },
+    {
+        "id": "random-event-093",
+        "kind": "event",
+        "x": 533.40625,
+        "y": 316.25,
+        "name": "Ghost Ship (lighthouse)",
+        "type": "Random event",
+        "description": "Go to the lighthouse at night: you hear voices and see ghosts that leave clues to a cursed knife in the ocean. With the knife, climb to the top of the lighthouse and face the ocean: the ghost ship appears.",
+        "screenshot": null
+    },
+    {
+        "id": "card-los-santos-pounders-010",
+        "kind": "card",
+        "x": 441.3125,
+        "y": 679.15625,
+        "name": "Los Santos Pounders card: Zander Paton",
+        "type": "Los Santos Pounders card",
+        "description": "Inside the bungalow, on top of the fridge.",
+        "screenshot": "screenshots/gta6-card-los-santos-pounders-010.webp"
+    },
+    {
+        "id": "weapon-spawn-050",
+        "kind": "weapon",
+        "x": 430.96875,
+        "y": 468.9375,
+        "name": "Black Eagle Import Kalinga .50",
+        "type": "Weapon pickup",
+        "description": "In the safe. Door code: 789987, safe code: 031462.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-016",
+        "kind": "streetart",
+        "x": 487.9375,
+        "y": 482.78125,
+        "name": "Ahol Street Art: Tires 262",
+        "type": "Ahol Street Art",
+        "description": "Between an orange construction sign and a garage marked \"Keep Clear\".",
+        "screenshot": "screenshots/gta6-ahol-street-art-016.webp"
+    },
+    {
+        "id": "random-event-102",
+        "kind": "event",
+        "x": 370.40625,
+        "y": 397.34375,
+        "name": "Bridge Jumpers",
+        "type": "Random event",
+        "description": "A couple of kids jump off the bridge. Challenge them and choose to jump together, and there is more to this encounter.",
+        "screenshot": "screenshots/gta6-random-event-102.webp"
+    },
+    {
+        "id": "ahol-street-art-017",
+        "kind": "streetart",
+        "x": 484.09375,
+        "y": 521.09375,
+        "name": "Ahol Street Art: Wheel 311",
+        "type": "Ahol Street Art",
+        "description": "Under the overpass, by a support pillar.",
+        "screenshot": "screenshots/gta6-ahol-street-art-017.webp"
+    },
+    {
+        "id": "random-event-094",
+        "kind": "event",
+        "x": 345.9375,
+        "y": 411.09375,
+        "name": "Drunk Tractor Driver",
+        "type": "Random event",
+        "description": "A drunk man asks you to help him drive his tractor.",
+        "screenshot": null
+    },
+    {
+        "id": "magazine-051",
+        "kind": "magazine",
+        "x": 423.875,
+        "y": 616.6875,
+        "name": "Tattoo Magazine: Backyard Wrestling Belt & Luchadora",
+        "type": "Magazine",
+        "description": "On the sofa by the B.A.M. flag.",
+        "screenshot": "screenshots/gta6-magazine-051.webp"
+    },
+    {
+        "id": "collectible-card-118",
+        "kind": "card",
+        "x": 427.78125,
+        "y": 276.5,
+        "name": "Collectible Card",
+        "type": "Collectible card",
+        "description": "In a yellow box on a bench on the porch.",
+        "screenshot": null
+    },
+    {
+        "id": "card-los-santos-panic-008",
+        "kind": "card",
+        "x": 481.09375,
+        "y": 469.875,
+        "name": "Los Santos Panic card: Terrance Ericks",
+        "type": "Los Santos Panic card",
+        "description": "In the garage you can break open, next to the door.",
+        "screenshot": null
+    },
+    {
+        "id": "meteorite-033",
+        "kind": "meteorite",
+        "x": 404.3125,
+        "y": 252.09375,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "In the ditch: look for a glowing red light.",
+        "screenshot": null
+    },
+    {
+        "id": "standout-vehicle-117",
+        "kind": "vehicle",
+        "x": 312.21875,
+        "y": 373.84375,
+        "name": "Declasse '86 Rancher (Stars and Stripes)",
+        "type": "Standout vehicle",
+        "description": "Off-road pickup with a US-flag paint job, a barbecue and camping gear in the bed.",
+        "screenshot": null
+    },
+    {
+        "id": "card-liberty-city-penetrators-011",
+        "kind": "card",
+        "x": 337.03125,
+        "y": 371.8125,
+        "name": "Liberty City Penetrators card: Dimitri Petrov",
+        "type": "Liberty City Penetrators card",
+        "description": "In a yellow box.",
+        "screenshot": null
+    },
+    {
+        "id": "card-right-wing-013",
+        "kind": "card",
+        "x": 385.5,
+        "y": 607.65625,
+        "name": "Right Wing: America's Hero card: Flamer",
+        "type": "Right Wing card",
+        "description": "On the table.",
+        "screenshot": "screenshots/gta6-card-right-wing-013.webp"
+    },
+    {
+        "id": "card-los-santos-corkers-012",
+        "kind": "card",
+        "x": 384,
+        "y": 366.53125,
+        "name": "Los Santos Corkers card: Victor Maravilla",
+        "type": "Los Santos Corkers card",
+        "description": "In a yellow box on the walkway.",
+        "screenshot": null
+    },
+    {
+        "id": "standout-vehicle-120",
+        "kind": "vehicle",
+        "x": 339.1875,
+        "y": 368.25,
+        "name": "Declasse Akane (Stripped)",
+        "type": "Standout vehicle",
+        "description": "Green hatchback stripped down to the body, drivable, off-road modified.",
+        "screenshot": "screenshots/gta6-standout-vehicle-120.webp"
+    },
+    {
+        "id": "random-event-098",
+        "kind": "event",
+        "x": 554.6875,
+        "y": 494.75,
+        "name": "Carjacker at Gunpoint",
+        "type": "Random event",
+        "description": "A stranger gets into your car, holds a gun to your head and makes you drive.",
+        "screenshot": null
+    },
+    {
+        "id": "card-liberty-city-wrath-010",
+        "kind": "card",
+        "x": 340.78125,
+        "y": 296.5,
+        "name": "Liberty City Wrath card",
+        "type": "Liberty City Wrath card",
+        "description": "On a grave, next to a football.",
+        "screenshot": null
+    },
+    {
+        "id": "meteorite-034",
+        "kind": "meteorite",
+        "x": 238.1875,
+        "y": 496.34375,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "Under the dock.",
+        "screenshot": null
+    },
+    {
+        "id": "standout-vehicle-121",
+        "kind": "vehicle",
+        "x": 449.4375,
+        "y": 687.90625,
+        "name": "Vapid DriveShaft Hustler",
+        "type": "Standout vehicle",
+        "description": "A unique teal vintage hot rod with black flame decals, from the DriveShaft Famous set.",
+        "screenshot": "screenshots/gta6-standout-vehicle-121.webp"
+    },
+    {
+        "id": "hidden-package-054",
+        "kind": "package",
+        "x": 238.5,
+        "y": 496.53125,
+        "name": "Cocaine Flamingo",
+        "type": "Hidden package",
+        "description": "Under the dock.",
+        "screenshot": null
+    },
+    {
+        "id": "bar-138",
+        "kind": "food",
+        "x": 479.59375,
+        "y": 566.28125,
+        "name": "Restaurante Português",
+        "type": "Bar",
+        "description": "Portuguese restaurant, since 1995.",
+        "screenshot": "screenshots/gta6-bar-138.webp"
+    },
+    {
+        "id": "ahol-street-art-018",
+        "kind": "streetart",
+        "x": 479.0625,
+        "y": 475.15625,
+        "name": "Ahol Street Art: Wheel 296",
+        "type": "Ahol Street Art",
+        "description": "Down the alley, by a red concrete bollard: a wheel rim with red decoration.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-019",
+        "kind": "streetart",
+        "x": 494.21875,
+        "y": 475.46875,
+        "name": "Ahol Street Art: Containers",
+        "type": "Ahol Street Art",
+        "description": "Under the steps, by the mailboxes.",
+        "screenshot": "screenshots/gta6-ahol-street-art-019.webp"
+    },
+    {
+        "id": "collectible-card-119",
+        "kind": "card",
+        "x": 390.84375,
+        "y": 264.5625,
+        "name": "Player's Player of the Year card: Drake",
+        "type": "Collectible card",
+        "description": "In the building at the gold mine.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-095",
+        "kind": "event",
+        "x": 346.625,
+        "y": 400.59375,
+        "name": "Gasoline Bath",
+        "type": "Random event",
+        "description": "A man is filling his bathtub with gasoline.",
+        "screenshot": null
+    },
+    {
+        "id": "standout-vehicle-122",
+        "kind": "vehicle",
+        "x": 312.25,
+        "y": 425.6875,
+        "name": "Maibatsu Yesteryear Boomazoom",
+        "type": "Standout vehicle",
+        "description": "A mobility scooter.",
+        "screenshot": "screenshots/gta6-standout-vehicle-122.webp"
+    },
+    {
+        "id": "card-right-wing-010",
+        "kind": "card",
+        "x": 336.84375,
+        "y": 297.40625,
+        "name": "Right Wing: America's Hero card: Flamer",
+        "type": "Right Wing card",
+        "description": "Williams Guest House: upstairs, on the shelf.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-096",
+        "kind": "event",
+        "x": 430.8125,
+        "y": 624.46875,
+        "name": "Gang Revenge",
+        "type": "Random event",
+        "description": "Witness a drive-by shooting: gang retaliation in which a rival member (an M7 recruit) is killed.",
+        "screenshot": null
+    },
+    {
+        "id": "card-liberty-city-swingers-005",
+        "kind": "card",
+        "x": 443.53125,
+        "y": 683.40625,
+        "name": "Liberty City Swingers card: Steven Kendricks",
+        "type": "Liberty City Swingers card",
+        "description": "In a yellow box on the terrace.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-020",
+        "kind": "streetart",
+        "x": 475.5625,
+        "y": 471.90625,
+        "name": "Ahol Street Art: Tires",
+        "type": "Ahol Street Art",
+        "description": "Behind the red wall of Jeff's Discount Centre: a stack of tires.",
+        "screenshot": "screenshots/gta6-ahol-street-art-020.webp"
+    },
+    {
+        "id": "ahol-street-art-021",
+        "kind": "streetart",
+        "x": 506.375,
+        "y": 448.03125,
+        "name": "Ahol Street Art: Chair 337",
+        "type": "Ahol Street Art",
+        "description": "In the front doorway of the building.",
+        "screenshot": "screenshots/gta6-ahol-street-art-021.webp"
+    },
+    {
+        "id": "marina-012",
+        "kind": "transport",
+        "x": 350.90625,
+        "y": 617.46875,
+        "name": "Mariana Marina",
+        "type": "Marina",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-022",
+        "kind": "streetart",
+        "x": 482.5625,
+        "y": 475.0625,
+        "name": "Ahol Street Art: Tires 460",
+        "type": "Ahol Street Art",
+        "description": "Just inside the open gated area, in front of a red skip.",
+        "screenshot": "screenshots/gta6-ahol-street-art-022.webp"
+    },
+    {
+        "id": "standout-vehicle-118",
+        "kind": "vehicle",
+        "x": 310.375,
+        "y": 423.75,
+        "name": "'95 Bison 900",
+        "type": "Standout vehicle",
+        "description": "Off-road 1990s classic on big wheels (like a mini monster truck), white with black stripes.",
+        "screenshot": null
+    },
+    {
+        "id": "weapon-spawn-053",
+        "kind": "weapon",
+        "x": 428.96875,
+        "y": 469.40625,
+        "name": "Hillinger Boomer",
+        "type": "Weapon pickup",
+        "description": "In a crate you can break open.",
+        "screenshot": "screenshots/gta6-weapon-spawn-053.webp"
+    },
+    {
+        "id": "weapon-spawn-051",
+        "kind": "weapon",
+        "x": 356.5625,
+        "y": 449.5,
+        "name": "Convict Kalinga .50",
+        "type": "Weapon pickup",
+        "description": "Enter at the Escaped Prisoners barn: underground, at the end of the collapsed tunnel, by the dead prisoner.",
+        "screenshot": null
+    },
+    {
+        "id": "clothing-071",
+        "kind": "shop",
+        "x": 293.15625,
+        "y": 496.5625,
+        "name": "Scuba Gear",
+        "type": "Clothes shop",
+        "description": "Open the right-hand garage: the scuba tank is at the back.",
+        "screenshot": null
+    },
+    {
+        "id": "standout-vehicle-119",
+        "kind": "vehicle",
+        "x": 474.875,
+        "y": 429.75,
+        "name": "Pink Gallivanter Baller II",
+        "type": "Standout vehicle",
+        "description": "In the garage.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-097",
+        "kind": "event",
+        "x": 380.90625,
+        "y": 640.15625,
+        "name": "Skunk Ape Effigy",
+        "type": "Random event",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-103",
+        "kind": "event",
+        "x": 469.875,
+        "y": 423.78125,
+        "name": "Insurance Fraud",
+        "type": "Random event",
+        "description": "After an accident, a man in a burning car: help him and it turns into insurance fraud.",
+        "screenshot": "screenshots/gta6-random-event-103.webp"
+    },
+    {
+        "id": "hidden-package-056",
+        "kind": "package",
+        "x": 399.125,
+        "y": 447.15625,
+        "name": "Weed Stash (boarded-up shack)",
+        "type": "Hidden package",
+        "description": "On the table on the back porch of the boarded-up shack with a dock: 3 bags of weed ($150 each).",
+        "screenshot": null
+    },
+    {
+        "id": "card-ed-comics-010",
+        "kind": "card",
+        "x": 471.0625,
+        "y": 474.96875,
+        "name": "Ed Comics Universe card: Femi-Nemesis",
+        "type": "Ed Comics card",
+        "description": "On the roof: the ladder is on the east side of the building (broken barbed wire on the west side).",
+        "screenshot": "screenshots/gta6-card-ed-comics-010.webp"
+    },
+    {
+        "id": "hidden-package-057",
+        "kind": "package",
+        "x": 382.3125,
+        "y": 743.96875,
+        "name": "Cocaine Flamingo",
+        "type": "Hidden package",
+        "description": "Among the flamingos on the beach. Use focus to spot the right one.",
+        "screenshot": null
+    },
+    {
+        "id": "vehicle-spawn-021",
+        "kind": "vehicle",
+        "x": 437.5625,
+        "y": 684.5,
+        "name": "Bombora S23",
+        "type": "Standout vehicle",
+        "description": "",
+        "screenshot": "screenshots/gta6-vehicle-spawn-021.webp"
+    },
+    {
+        "id": "marina-015",
+        "kind": "transport",
+        "x": 521.96875,
+        "y": 391.40625,
+        "name": "Waning Sands Marina",
+        "type": "Marina",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "vehicle-spawn-022",
+        "kind": "vehicle",
+        "x": 452.40625,
+        "y": 263.5,
+        "name": "Dinka Enduro",
+        "type": "Standout vehicle",
+        "description": "Parked here at night.",
+        "screenshot": null
+    },
+    {
+        "id": "marina-013",
+        "kind": "transport",
+        "x": 560.71875,
+        "y": 550.53125,
+        "name": "Dalton Island Marina",
+        "type": "Marina",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "vehicle-spawn-023",
+        "kind": "vehicle",
+        "x": 386.6875,
+        "y": 252.78125,
+        "name": "Martha's Declasse",
+        "type": "Standout vehicle",
+        "description": "In the barn.",
+        "screenshot": null
+    },
+    {
+        "id": "vehicle-rental-003",
+        "kind": "shop",
+        "x": 573.21875,
+        "y": 463.3125,
+        "name": "Y Hotel Rentals",
+        "type": "Vehicle rental",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "meteorite-035",
+        "kind": "meteorite",
+        "x": 347.53125,
+        "y": 257.75,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "On the ground right next to the shipwreck.",
+        "screenshot": null
+    },
+    {
+        "id": "card-right-wing-011",
+        "kind": "card",
+        "x": 316.625,
+        "y": 363.0625,
+        "name": "Right Wing: America's Hero card: President Blunt",
+        "type": "Right Wing card",
+        "description": "On the sofa.",
+        "screenshot": null
+    },
+    {
+        "id": "marina-014",
+        "kind": "transport",
+        "x": 523.03125,
+        "y": 572.9375,
+        "name": "Gloriana Key Marina",
+        "type": "Marina",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "hospital-005",
+        "kind": "civic",
+        "x": 420.09375,
+        "y": 371.65625,
+        "name": "Ambrosia Hospital",
+        "type": "Hospital",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "vehicle-request-017",
+        "kind": "shop",
+        "x": 569.6875,
+        "y": 524.1875,
+        "name": "Benefactor Dubsta (Randy's request)",
+        "type": "Vehicle request",
+        "description": "In the parking lot.",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-058",
+        "kind": "package",
+        "x": 389.78125,
+        "y": 577.875,
+        "name": "Abandoned Train Car Stash",
+        "type": "Hidden package",
+        "description": "In the abandoned train car (sofa chair in the opening): drugs, with weed in the corner of the building next to it.",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-055",
+        "kind": "package",
+        "x": 425.75,
+        "y": 702.59375,
+        "name": "Cocaine Flamingo",
+        "type": "Hidden package",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "meteorite-036",
+        "kind": "meteorite",
+        "x": 351.5625,
+        "y": 277.8125,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "By the rock at the water's edge.",
+        "screenshot": null
+    },
+    {
+        "id": "standout-vehicle-123",
+        "kind": "vehicle",
+        "x": 571.8125,
+        "y": 494.34375,
+        "name": "Pfister '88 Comet",
+        "type": "Standout vehicle",
+        "description": "In the garage in the alley.",
+        "screenshot": "screenshots/gta6-standout-vehicle-123.webp"
+    },
+    {
+        "id": "ahol-street-art-023",
+        "kind": "streetart",
+        "x": 462.40625,
+        "y": 534.125,
+        "name": "Ahol Street Art: Tires 140",
+        "type": "Ahol Street Art",
+        "description": "In the grassy corner with the rubbish and green dumpsters.",
+        "screenshot": "screenshots/gta6-ahol-street-art-023.webp"
+    },
+    {
+        "id": "ahol-street-art-024",
+        "kind": "streetart",
+        "x": 466.28125,
+        "y": 553.1875,
+        "name": "Ahol Street Art: Geographies of Trash",
+        "type": "Ahol Street Art",
+        "description": "",
+        "screenshot": "screenshots/gta6-ahol-street-art-024.webp"
+    },
+    {
+        "id": "card-liberty-city-penetrators-012",
+        "kind": "card",
+        "x": 282.8125,
+        "y": 495.78125,
+        "name": "Liberty City Penetrators card: Lev Volkov",
+        "type": "Liberty City Penetrators card",
+        "description": "On the shelf, to the left of all the supplements.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-025",
+        "kind": "streetart",
+        "x": 491.65625,
+        "y": 550.875,
+        "name": "Ahol Street Art: Tires 44",
+        "type": "Ahol Street Art",
+        "description": "",
+        "screenshot": "screenshots/gta6-ahol-street-art-025.webp"
+    },
+    {
+        "id": "random-event-104",
+        "kind": "event",
+        "x": 381.4375,
+        "y": 502.34375,
+        "name": "Bear Protesters (animal transport)",
+        "type": "Random event",
+        "description": "Protesters block a truck carrying a live bear.",
+        "screenshot": null
+    },
+    {
+        "id": "magazine-052",
+        "kind": "magazine",
+        "x": 443.65625,
+        "y": 679.78125,
+        "name": "Styling Magazine: Beard Style",
+        "type": "Magazine",
+        "description": "On the bed: read it to unlock a new beard style.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-026",
+        "kind": "streetart",
+        "x": 555.375,
+        "y": 490.875,
+        "name": "Ahol Street Art: Tires 188",
+        "type": "Ahol Street Art",
+        "description": "In the corner of the car park, by the large red skip: a stack of tires painted green.",
+        "screenshot": "screenshots/gta6-ahol-street-art-026.webp"
+    },
+    {
+        "id": "card-los-santos-panic-009",
+        "kind": "card",
+        "x": 489.59375,
+        "y": 516.34375,
+        "name": "Los Santos Panic card: Lloyd Robinson",
+        "type": "Los Santos Panic card",
+        "description": "In a box at the top of the cell tower.",
+        "screenshot": null
+    },
+    {
+        "id": "standout-vehicle-124",
+        "kind": "vehicle",
+        "x": 313.65625,
+        "y": 396.03125,
+        "name": "Benefactor Schafter V12",
+        "type": "Standout vehicle",
+        "description": "Parked here, and it looks far too good for the place.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-105",
+        "kind": "event",
+        "x": 385.75,
+        "y": 385.09375,
+        "name": "Crop Dusting Job (McKittrick Farm)",
+        "type": "Random event",
+        "description": "A job posting at the Starlet Motel says to call Kyle at McKittrick Farm: he has a crop dusting job.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-106",
+        "kind": "event",
+        "x": 375.4375,
+        "y": 736.15625,
+        "name": "Taser Arrest",
+        "type": "Random event",
+        "description": "A man climbs onto a police car, gets tasered and is arrested.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-027",
+        "kind": "streetart",
+        "x": 477.5625,
+        "y": 515.375,
+        "name": "Ahol Street Art: Wheel 498",
+        "type": "Ahol Street Art",
+        "description": "Behind the Euroform van, next to the silver shutters: a wheel painted with stripes.",
+        "screenshot": "screenshots/gta6-ahol-street-art-027.webp"
+    },
+    {
+        "id": "ahol-street-art-028",
+        "kind": "streetart",
+        "x": 472.15625,
+        "y": 480.59375,
+        "name": "Ahol Street Art: Wheel 429",
+        "type": "Ahol Street Art",
+        "description": "Behind the petrol station, under the \"GAS ->\" sign on the wall: a painted wheel.",
+        "screenshot": "screenshots/gta6-ahol-street-art-028.webp"
     }
 ]
