@@ -45587,5 +45587,4295 @@
         "type": "Los Santos Pounders card",
         "description": "In the garage on the left side, by the tool rack.",
         "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-007",
+        "kind": "other",
+        "x": 438.84375,
+        "y": 697.75,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). In the garage of the house. A member found the Ali Zeidan card here.",
+        "screenshot": null
+    },
+    {
+        "id": "scoop-container-001",
+        "kind": "other",
+        "x": 306.78125,
+        "y": 387.46875,
+        "name": "SCOOP Container (billboard)",
+        "type": "Scoop Container",
+        "description": "Open it with the Cut-Off Tool. On top of the billboard. A member found the Bill Norton card (Vice City Flamingos) inside.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-008",
+        "kind": "other",
+        "x": 342.65625,
+        "y": 709.28125,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). A closed yellow metal box on the shoreline. A member found $549 in cash.",
+        "screenshot": null
+    },
+    {
+        "id": "luxury-watch-001",
+        "kind": "other",
+        "x": 497.8125,
+        "y": 598.96875,
+        "name": "Luxury Watch",
+        "type": "Luxury Watch",
+        "description": "On the second floor, on the south-west (pool) side. Jump in from the roof.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-009",
+        "kind": "other",
+        "x": 303.6875,
+        "y": 398.65625,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). On the first level of the water tower. A member found cash.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-010",
+        "kind": "other",
+        "x": 433.84375,
+        "y": 625.9375,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). In the back corner of the building, under the shelves. A member found the J.D. Wild card.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-011",
+        "kind": "other",
+        "x": 375.625,
+        "y": 471.40625,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). At the back of the tent. A member found cash.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-012",
+        "kind": "other",
+        "x": 501.09375,
+        "y": 620.3125,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). Up the stairs. A member found sunglasses.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-013",
+        "kind": "other",
+        "x": 274.3125,
+        "y": 366.1875,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). At the back of a big building. A member found the Lionel Taber card.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-014",
+        "kind": "other",
+        "x": 376.875,
+        "y": 451.21875,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). A member found drugs in it; more drugs are scattered around the huts.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-015",
+        "kind": "other",
+        "x": 422.71875,
+        "y": 709.8125,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). A member found the Romss card.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-015.webp"
+    },
+    {
+        "id": "yellow-loot-box-016",
+        "kind": "other",
+        "x": 283.53125,
+        "y": 416.8125,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). A yellow case on the side of the house. A member found the Carl Kasey card (Vice City Narcos).",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-059",
+        "kind": "package",
+        "x": 371.21875,
+        "y": 616.46875,
+        "name": "Weed Stash (house)",
+        "type": "Hidden package",
+        "description": "Enter through the front, where there are no residents; avoid the back.",
+        "screenshot": null
+    },
+    {
+        "id": "card-vice-city-manatees-011",
+        "kind": "card",
+        "x": 492.5625,
+        "y": 476.5625,
+        "name": "Vice City Manatees card: Anthony Ross",
+        "type": "Vice City Manatees card",
+        "description": "On the second floor, on the fridge.",
+        "screenshot": "screenshots/gta6-card-vice-city-manatees-011.webp"
+    },
+    {
+        "id": "card-vice-city-narcos-012",
+        "kind": "card",
+        "x": 474.71875,
+        "y": 429.65625,
+        "name": "Vice City Narcos card: Leroy Rook (Gold)",
+        "type": "Vice City Narcos card",
+        "description": "In the safe in the bedroom of the house.",
+        "screenshot": "screenshots/gta6-card-vice-city-narcos-012.webp"
+    },
+    {
+        "id": "magazine-062",
+        "kind": "magazine",
+        "x": 352.1875,
+        "y": 390.875,
+        "name": "Tattoo Magazine (under the bridge)",
+        "type": "Magazine",
+        "description": "Under the bridge.",
+        "screenshot": "screenshots/gta6-magazine-062.webp"
+    },
+    {
+        "id": "ahol-street-art-029",
+        "kind": "streetart",
+        "x": 492.9375,
+        "y": 465.15625,
+        "name": "Ahol Street Art: Wheel 78",
+        "type": "Ahol Street Art",
+        "description": "On the right-hand corner of the building, under the purple graffiti.",
+        "screenshot": "screenshots/gta6-ahol-street-art-029.webp"
+    },
+    {
+        "id": "vehicle-spawn-025",
+        "kind": "vehicle",
+        "x": 450.40625,
+        "y": 623.15625,
+        "name": "Buckingham SuperVolito",
+        "type": "Standout vehicle",
+        "description": "At the heliport (it spawned here 3 out of 4 visits).",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-030",
+        "kind": "streetart",
+        "x": 484.3125,
+        "y": 485.5,
+        "name": "Ahol Street Art: Wheel 114",
+        "type": "Ahol Street Art",
+        "description": "On the right side of the building, under the yellow graffiti.",
+        "screenshot": "screenshots/gta6-ahol-street-art-030.webp"
+    },
+    {
+        "id": "standout-vehicle-125",
+        "kind": "vehicle",
+        "x": 502.09375,
+        "y": 465.03125,
+        "name": "Invetero Coquette D10 (Graffiti)",
+        "type": "Standout vehicle",
+        "description": "Pink and teal graffiti wrap, parked under the canopy.",
+        "screenshot": "screenshots/gta6-standout-vehicle-125.webp"
+    },
+    {
+        "id": "weapon-spawn-055",
+        "kind": "other",
+        "x": 397,
+        "y": 462.84375,
+        "name": "Swamp Bait Akulus",
+        "type": "Unique Weapon",
+        "description": "Revolver. On the floor of a wrecked cabin in the middle of the Pelican Valley swamp.",
+        "screenshot": null
+    },
+    {
+        "id": "collectible-card-123",
+        "kind": "card",
+        "x": 358.53125,
+        "y": 613.21875,
+        "name": "Collectible Card (water tower)",
+        "type": "Collectible card",
+        "description": "At the top of the water tower, in the bird's nest.",
+        "screenshot": "screenshots/gta6-collectible-card-123.webp"
+    },
+    {
+        "id": "ahol-street-art-031",
+        "kind": "streetart",
+        "x": 473.5625,
+        "y": 493.78125,
+        "name": "Ahol Street Art: Wheel 216",
+        "type": "Ahol Street Art",
+        "description": "On the corner of VCA, propped up by a telephone pole.",
+        "screenshot": "screenshots/gta6-ahol-street-art-031.webp"
+    },
+    {
+        "id": "hidden-package-061",
+        "kind": "package",
+        "x": 354.46875,
+        "y": 611.09375,
+        "name": "Pills Stash",
+        "type": "Hidden package",
+        "description": "Pills ($260) in the back bedroom, and another set in the back bathroom.",
+        "screenshot": "screenshots/gta6-hidden-package-061.webp"
+    },
+    {
+        "id": "yellow-loot-box-001",
+        "kind": "other",
+        "x": 440.625,
+        "y": 687.25,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). At the top of the unfinished building, next to a generator.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-001.webp"
+    },
+    {
+        "id": "standout-vehicle-126",
+        "kind": "vehicle",
+        "x": 274.34375,
+        "y": 404.625,
+        "name": "BF '77 Bandito (Stars and Stripes)",
+        "type": "Standout vehicle",
+        "description": "In the garage.",
+        "screenshot": "screenshots/gta6-standout-vehicle-126.webp"
+    },
+    {
+        "id": "card-los-santos-pounders-012",
+        "kind": "other",
+        "x": 444.75,
+        "y": 673.8125,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). A member found the Los Santos Pounders: Granian Beach card here. At the top of the tower, in the phone box.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-032",
+        "kind": "streetart",
+        "x": 478.84375,
+        "y": 463.09375,
+        "name": "Ahol Street Art: Buckets",
+        "type": "Ahol Street Art",
+        "description": "Geographies of Trash: buckets on the corner, on a maintenance box.",
+        "screenshot": "screenshots/gta6-ahol-street-art-032.webp"
+    },
+    {
+        "id": "standout-vehicle-127",
+        "kind": "vehicle",
+        "x": 474.6875,
+        "y": 473.28125,
+        "name": "Bravado '69 Gauntlet (HWL YEAH)",
+        "type": "Standout vehicle",
+        "description": "Black and purple, licence plate \"HWL YEAH\", in the warehouse.",
+        "screenshot": "screenshots/gta6-standout-vehicle-127.webp"
+    },
+    {
+        "id": "vehicle-spawn-026",
+        "kind": "vehicle",
+        "x": 381.46875,
+        "y": 648.03125,
+        "name": "Nagasaki Sea Sparrow",
+        "type": "Standout vehicle",
+        "description": "Free helicopter.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-017",
+        "kind": "other",
+        "x": 308.78125,
+        "y": 391.9375,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). Inside the building. A member found the Seo-Jun Kim card.",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-062",
+        "kind": "package",
+        "x": 474.625,
+        "y": 490.1875,
+        "name": "Cocaine Flamingo",
+        "type": "Hidden package",
+        "description": "In the store lockup.",
+        "screenshot": null
+    },
+    {
+        "id": "standout-vehicle-128",
+        "kind": "vehicle",
+        "x": 530.6875,
+        "y": 497.40625,
+        "name": "Benefactor Gilded Dubsta",
+        "type": "Standout vehicle",
+        "description": "Solid gold, in the garage next to two gold jet skis. Needs the key cloner and has a standard tracker.",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-063",
+        "kind": "package",
+        "x": 308.25,
+        "y": 395.8125,
+        "name": "Cocaine Flamingo",
+        "type": "Hidden package",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "magazine-053",
+        "kind": "magazine",
+        "x": 282.09375,
+        "y": 502.96875,
+        "name": "Dazzle",
+        "type": "Magazine",
+        "description": "On the 2nd floor.",
+        "screenshot": "screenshots/gta6-magazine-053.webp"
+    },
+    {
+        "id": "magazine-054",
+        "kind": "magazine",
+        "x": 336.375,
+        "y": 315.21875,
+        "name": "The Cowboy's Prayer",
+        "type": "Magazine",
+        "description": "Immediately right of the front door, on a shelf at head height.",
+        "screenshot": null
+    },
+    {
+        "id": "waink-curiosity-039",
+        "kind": "waink",
+        "x": 438.34375,
+        "y": 684.5,
+        "name": "Dolores the Snake",
+        "type": "WAiNK curiosity",
+        "description": "After Chapter 1, under the stairs: Dolores the snake with her eggs.",
+        "screenshot": "screenshots/gta6-waink-curiosity-039.webp"
+    },
+    {
+        "id": "standout-vehicle-129",
+        "kind": "vehicle",
+        "x": 534.25,
+        "y": 396.625,
+        "name": "Gold Scarab Windsor",
+        "type": "Standout vehicle",
+        "description": "Black and gold Windsor.",
+        "screenshot": null
+    },
+    {
+        "id": "scoop-container-002",
+        "kind": "other",
+        "x": 431.71875,
+        "y": 708.78125,
+        "name": "SCOOP Container (garage)",
+        "type": "Scoop Container",
+        "description": "Open it with the Cut-Off Tool. Inside the garage; the door has an alarm. A member found the Tyson Brooks card (Los Santos Pounders) inside.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-002",
+        "kind": "other",
+        "x": 312.40625,
+        "y": 391.1875,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). In the staff-only part of the convenience store.",
+        "screenshot": null
+    },
+    {
+        "id": "magazine-055",
+        "kind": "magazine",
+        "x": 379.15625,
+        "y": 307.46875,
+        "name": "Waink Tattoo Style (tower)",
+        "type": "Magazine",
+        "description": "At the top of the tower: scan it with the Waink app to unlock a tattoo style.",
+        "screenshot": null
+    },
+    {
+        "id": "standout-vehicle-131",
+        "kind": "vehicle",
+        "x": 487.0625,
+        "y": 576.96875,
+        "name": "Pink Speedboat",
+        "type": "Standout vehicle",
+        "description": "A pink boat for the catalogue.",
+        "screenshot": null
+    },
+    {
+        "id": "standout-vehicle-132",
+        "kind": "vehicle",
+        "x": 312.125,
+        "y": 403.71875,
+        "name": "Dinka \"She's All That\" Blista",
+        "type": "Standout vehicle",
+        "description": "Pink car with eyelashes and lips.",
+        "screenshot": "screenshots/gta6-standout-vehicle-132.webp"
+    },
+    {
+        "id": "weapon-spawn-056",
+        "kind": "weapon",
+        "x": 433.15625,
+        "y": 634.40625,
+        "name": "Rocket Launcher",
+        "type": "Weapon pickup",
+        "description": "Contents may vary: a member found a shotgun in it.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-018",
+        "kind": "other",
+        "x": 431.15625,
+        "y": 385.90625,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). In the warehouse. A member found $180.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-033",
+        "kind": "streetart",
+        "x": 489.3125,
+        "y": 473.96875,
+        "name": "Ahol Street Art: Chair",
+        "type": "Ahol Street Art",
+        "description": "A striped black and white chair leaning against a wall.",
+        "screenshot": "screenshots/gta6-ahol-street-art-033.webp"
+    },
+    {
+        "id": "random-event-137",
+        "kind": "event",
+        "x": 482.0625,
+        "y": 637.09375,
+        "name": "Non-Flusher Movement QR Code",
+        "type": "Random event",
+        "description": "Scan the QR code with WAiNK and answer the Non-Flusher Movement message: it unlocks the side mission to meet a contact at Frank's Waffles in Tequesta, Vice-Dale County.",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-060",
+        "kind": "package",
+        "x": 319.03125,
+        "y": 730.46875,
+        "name": "Cocaine Flamingo",
+        "type": "Hidden package",
+        "description": "Near the one inside the house: walk out, go straight to the damaged wall and look far right.",
+        "screenshot": null
+    },
+    {
+        "id": "vehicle-spawn-027",
+        "kind": "vehicle",
+        "x": 357.21875,
+        "y": 367.28125,
+        "name": "Pegassi Toros",
+        "type": "Standout vehicle",
+        "description": "Linked to an NPC you meet after rescuing a tourist from a black bear; the same NPC also appears in Lummox County near the MacAlister Gold Mine, so it may not be a fixed spawn.",
+        "screenshot": null
+    },
+    {
+        "id": "standout-vehicle-133",
+        "kind": "vehicle",
+        "x": 307.6875,
+        "y": 511.65625,
+        "name": "Manga-Livery Hatchback",
+        "type": "Standout vehicle",
+        "description": "Small car with a manga design, in the garage.",
+        "screenshot": null
+    },
+    {
+        "id": "card-americas-next-top-hooker-016",
+        "kind": "card",
+        "x": 305.84375,
+        "y": 410.71875,
+        "name": "America's Next Top Hooker card: Crystal",
+        "type": "Americas Next Top Hooker card",
+        "description": "In a bumper car, with the gnome.",
+        "screenshot": null
+    },
+    {
+        "id": "card-americas-next-top-hooker-015",
+        "kind": "other",
+        "x": 276.96875,
+        "y": 410.5625,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). A member found the Crystal card (America's Next Top Hooker) here. In a yellow box at the top of the tower.",
+        "screenshot": "screenshots/gta6-card-americas-next-top-hooker-015.webp"
+    },
+    {
+        "id": "hidden-package-065",
+        "kind": "package",
+        "x": 310.4375,
+        "y": 423.53125,
+        "name": "Cocaine Flamingo",
+        "type": "Hidden package",
+        "description": "At the front of the house.",
+        "screenshot": "screenshots/gta6-hidden-package-065.webp"
+    },
+    {
+        "id": "magazine-059",
+        "kind": "magazine",
+        "x": 357.9375,
+        "y": 605.4375,
+        "name": "Styling Magazine: Cowboy Horseshoe Mustache",
+        "type": "Magazine",
+        "description": "On the chair in the bedroom.",
+        "screenshot": null
+    },
+    {
+        "id": "vehicle-spawn-028",
+        "kind": "vehicle",
+        "x": 279.84375,
+        "y": 493.03125,
+        "name": "Kit Car (project car)",
+        "type": "Standout vehicle",
+        "description": "A car to restore, at Wyman.",
+        "screenshot": null
+    },
+    {
+        "id": "magazine-056",
+        "kind": "magazine",
+        "x": 497.0625,
+        "y": 473.9375,
+        "name": "Book: Passion B.C.",
+        "type": "Magazine",
+        "description": "In the safehouse bathroom, past the bedroom by the tub. Available until Chapter 3.",
+        "screenshot": "screenshots/gta6-magazine-056.webp"
+    },
+    {
+        "id": "card-ed-comics-012",
+        "kind": "card",
+        "x": 475.84375,
+        "y": 473.25,
+        "name": "Ed Comics Universe card: RatFace (Bronze)",
+        "type": "Ed Comics card",
+        "description": "Inside the abandoned shed, on the left near the wall.",
+        "screenshot": "screenshots/gta6-card-ed-comics-012.webp"
+    },
+    {
+        "id": "magazine-057",
+        "kind": "magazine",
+        "x": 497.03125,
+        "y": 473.75,
+        "name": "Book: Two Pricks in the Bush",
+        "type": "Magazine",
+        "description": "In the Bayside apartment, on the glass table in front of the TV. Available until the end of Chapter 3.",
+        "screenshot": "screenshots/gta6-magazine-057.webp"
+    },
+    {
+        "id": "fire-station-015",
+        "kind": "civic",
+        "x": 355.09375,
+        "y": 618,
+        "name": "Watson Bay Fire Station",
+        "type": "Fire station",
+        "description": "",
+        "screenshot": "screenshots/gta6-fire-station-015.webp"
+    },
+    {
+        "id": "comics-003",
+        "kind": "shop",
+        "x": 489.6875,
+        "y": 476.21875,
+        "name": "Special Friends Force",
+        "type": "Comics",
+        "description": "Inside the gas station, on the rack on the right back wall.",
+        "screenshot": null
+    },
+    {
+        "id": "comics-004",
+        "kind": "shop",
+        "x": 489.40625,
+        "y": 476.21875,
+        "name": "The Johnsons",
+        "type": "Comics",
+        "description": "On the magazine rack next to Special Friends Force, inside the gas station.",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-069",
+        "kind": "package",
+        "x": 314.84375,
+        "y": 373.40625,
+        "name": "Cocaine Flamingo",
+        "type": "Hidden package",
+        "description": "On the roof (white beak).",
+        "screenshot": null
+    },
+    {
+        "id": "standout-vehicle-134",
+        "kind": "vehicle",
+        "x": 388.625,
+        "y": 634.625,
+        "name": "Seashark (Leonida Man)",
+        "type": "Standout vehicle",
+        "description": "Jet ski.",
+        "screenshot": null
+    },
+    {
+        "id": "weapon-spawn-057",
+        "kind": "other",
+        "x": 487.40625,
+        "y": 458.5625,
+        "name": "Chromium W-10",
+        "type": "Unique Weapon",
+        "description": "Unique weapon, inside the house in the gaming room.",
+        "screenshot": null
+    },
+    {
+        "id": "card-americas-next-top-hooker-017",
+        "kind": "card",
+        "x": 313.5625,
+        "y": 512.75,
+        "name": "America's Next Top Hooker card",
+        "type": "Americas Next Top Hooker card",
+        "description": "On top of the highest point.",
+        "screenshot": "screenshots/gta6-card-americas-next-top-hooker-017.webp"
+    },
+    {
+        "id": "weapon-spawn-058",
+        "kind": "weapon",
+        "x": 476.5,
+        "y": 525.3125,
+        "name": "Sticky Bombs",
+        "type": "Weapon pickup",
+        "description": "Crate with 3 sticky bombs.",
+        "screenshot": null
+    },
+    {
+        "id": "weapon-spawn-059",
+        "kind": "other",
+        "x": 458.0625,
+        "y": 498.53125,
+        "name": "Spangled Vatra",
+        "type": "Unique Weapon",
+        "description": "Unique weapon, for sale only at this Ammu-Nation.",
+        "screenshot": null
+    },
+    {
+        "id": "fire-station-016",
+        "kind": "civic",
+        "x": 370.40625,
+        "y": 504.96875,
+        "name": "Kelly County Fire Rescue Station No. 65",
+        "type": "Fire station",
+        "description": "",
+        "screenshot": "screenshots/gta6-fire-station-016.webp"
+    },
+    {
+        "id": "luxury-watch-002",
+        "kind": "other",
+        "x": 282.625,
+        "y": 502.71875,
+        "name": "Luxury Watch",
+        "type": "Luxury Watch",
+        "description": "In the second-floor bedroom, on the right side table.",
+        "screenshot": null
+    },
+    {
+        "id": "card-los-santos-pounders-013",
+        "kind": "card",
+        "x": 315.15625,
+        "y": 711.375,
+        "name": "Los Santos Pounders card: Maximus Goldbart",
+        "type": "Los Santos Pounders card",
+        "description": "On the ground floor, outside on the TV console.",
+        "screenshot": "screenshots/gta6-card-los-santos-pounders-013.webp"
+    },
+    {
+        "id": "ahol-street-art-034",
+        "kind": "streetart",
+        "x": 470.84375,
+        "y": 474.125,
+        "name": "Ahol Street Art: Chair 98",
+        "type": "Ahol Street Art",
+        "description": "",
+        "screenshot": "screenshots/gta6-ahol-street-art-034.webp"
+    },
+    {
+        "id": "random-event-138",
+        "kind": "event",
+        "x": 345.15625,
+        "y": 403.34375,
+        "name": "Creepy Neighbour Zach",
+        "type": "Random event",
+        "description": "Zach is poking a dead animal with a tree branch; call him out and see what happens.",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-066",
+        "kind": "package",
+        "x": 376.40625,
+        "y": 450.375,
+        "name": "LSD Stash (bus)",
+        "type": "Hidden package",
+        "description": "Some LSD is hidden in the bus.",
+        "screenshot": null
+    },
+    {
+        "id": "standout-vehicle-135",
+        "kind": "vehicle",
+        "x": 279.46875,
+        "y": 491.1875,
+        "name": "Pfister Comet ('88)",
+        "type": "Standout vehicle",
+        "description": "",
+        "screenshot": "screenshots/gta6-standout-vehicle-135.webp"
+    },
+    {
+        "id": "standout-vehicle-136",
+        "kind": "vehicle",
+        "x": 345.25,
+        "y": 478.625,
+        "name": "Maibatsu Manchez (Pink/Blue)",
+        "type": "Standout vehicle",
+        "description": "At the back of the shop, with a unique pink and blue paint job: enter through the back, or through reception after threatening the clerk.",
+        "screenshot": null
+    },
+    {
+        "id": "standout-vehicle-137",
+        "kind": "vehicle",
+        "x": 279.8125,
+        "y": 494.28125,
+        "name": "Pegassi Vitello (Orange)",
+        "type": "Standout vehicle",
+        "description": "",
+        "screenshot": "screenshots/gta6-standout-vehicle-137.webp"
+    },
+    {
+        "id": "standout-vehicle-138",
+        "kind": "vehicle",
+        "x": 284,
+        "y": 497.3125,
+        "name": "Bravado Banshee",
+        "type": "Standout vehicle",
+        "description": "",
+        "screenshot": "screenshots/gta6-standout-vehicle-138.webp"
+    },
+    {
+        "id": "magazine-060",
+        "kind": "magazine",
+        "x": 497.40625,
+        "y": 455.25,
+        "name": "Pout: Tiger Eyes Makeup",
+        "type": "Magazine",
+        "description": "In the office on the second floor of the warehouse.",
+        "screenshot": null
+    },
+    {
+        "id": "magazine-061",
+        "kind": "magazine",
+        "x": 497.5,
+        "y": 456.03125,
+        "name": "Lights, Camera, Affirmative Action",
+        "type": "Magazine",
+        "description": "On the table next to the couches.",
+        "screenshot": null
+    },
+    {
+        "id": "luxury-watch-004",
+        "kind": "other",
+        "x": 452.0625,
+        "y": 293.3125,
+        "name": "Luxury Watch: Crowex Ambassador",
+        "type": "Luxury Watch",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-019",
+        "kind": "other",
+        "x": 285.40625,
+        "y": 405.25,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). A yellow telephone box. A member found the Delord Nathan Alford card.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-019.webp"
+    },
+    {
+        "id": "standout-vehicle-130",
+        "kind": "vehicle",
+        "x": 279.75,
+        "y": 493.15625,
+        "name": "Progen Seaspray Emerus",
+        "type": "Standout vehicle",
+        "description": "In the garage.",
+        "screenshot": "screenshots/gta6-standout-vehicle-130.webp"
+    },
+    {
+        "id": "hidden-package-070",
+        "kind": "package",
+        "x": 363.25,
+        "y": 587.25,
+        "name": "Cocaine Flamingo",
+        "type": "Hidden package",
+        "description": "In the small cave off the side of the road.",
+        "screenshot": null
+    },
+    {
+        "id": "luxury-watch-005",
+        "kind": "other",
+        "x": 463.5625,
+        "y": 493.5625,
+        "name": "Luxury Watch",
+        "type": "Luxury Watch",
+        "description": "In a room on the top floor, the one with the safe.",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-067",
+        "kind": "package",
+        "x": 349.875,
+        "y": 576.40625,
+        "name": "Tower Stash",
+        "type": "Hidden package",
+        "description": "Loot ($349) and weed.",
+        "screenshot": "screenshots/gta6-hidden-package-067.webp"
+    },
+    {
+        "id": "weapon-spawn-060",
+        "kind": "other",
+        "x": 463.34375,
+        "y": 493.28125,
+        "name": "Guardia Brothers VF5",
+        "type": "Unique Weapon",
+        "description": "Unique weapon, on the coffee table on the second floor of the warehouse.",
+        "screenshot": null
+    },
+    {
+        "id": "meteorite-037",
+        "kind": "meteorite",
+        "x": 464.9375,
+        "y": 418.5625,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "Inside the garage, under the bed the magazine is lying on.",
+        "screenshot": "screenshots/gta6-meteorite-037.webp"
+    },
+    {
+        "id": "weapon-spawn-061",
+        "kind": "weapon",
+        "x": 436.75,
+        "y": 499,
+        "name": "Laird 350 Sniper Rifle",
+        "type": "Weapon pickup",
+        "description": "Up top, by the card.",
+        "screenshot": "screenshots/gta6-weapon-spawn-061.webp"
+    },
+    {
+        "id": "random-event-133",
+        "kind": "event",
+        "x": 393.03125,
+        "y": 655.3125,
+        "name": "Skunk Ape Effigy",
+        "type": "Random event",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-134",
+        "kind": "event",
+        "x": 395.5,
+        "y": 647.5625,
+        "name": "Skunk Ape Effigy",
+        "type": "Random event",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "magazine-058",
+        "kind": "magazine",
+        "x": 434.75,
+        "y": 688.78125,
+        "name": "Book: Passion B.C. (Jason's house)",
+        "type": "Magazine",
+        "description": "On the corner of the bar during the escape from Jason's home in Chapter 1.",
+        "screenshot": "screenshots/gta6-magazine-058.webp"
+    },
+    {
+        "id": "random-event-135",
+        "kind": "event",
+        "x": 309.53125,
+        "y": 386.96875,
+        "name": "ATV Rally",
+        "type": "Random event",
+        "description": "A crowd watches ATVs jump one of the stunt jumps, and you are invited to take part: a guy challenges you to jump over the concession building for $500.",
+        "screenshot": "screenshots/gta6-random-event-135.webp"
+    },
+    {
+        "id": "luxury-watch-003",
+        "kind": "other",
+        "x": 511.65625,
+        "y": 402.25,
+        "name": "Luxury Watch: B&G Ark Royal Ashore",
+        "type": "Luxury Watch",
+        "description": "In the bedroom, on the dresser across from the bed.",
+        "screenshot": "screenshots/gta6-luxury-watch-003.webp"
+    },
+    {
+        "id": "standout-vehicle-139",
+        "kind": "vehicle",
+        "x": 307.71875,
+        "y": 399.65625,
+        "name": "Candyman Scorcher",
+        "type": "Standout vehicle",
+        "description": "Pink bike parked in front of Sarena's Bargain Store.",
+        "screenshot": "screenshots/gta6-standout-vehicle-139.webp"
+    },
+    {
+        "id": "hidden-package-068",
+        "kind": "package",
+        "x": 286.8125,
+        "y": 492.15625,
+        "name": "Cocaine Flamingo",
+        "type": "Hidden package",
+        "description": "White beak, behind the grill.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-136",
+        "kind": "event",
+        "x": 571.6875,
+        "y": 480.8125,
+        "name": "Robbed Naked Man",
+        "type": "Random event",
+        "description": "",
+        "screenshot": "screenshots/gta6-random-event-136.webp"
+    },
+    {
+        "id": "meteorite-038",
+        "kind": "meteorite",
+        "x": 267.1875,
+        "y": 680.75,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "In the little waterhole.",
+        "screenshot": null
+    },
+    {
+        "id": "vehicle-spawn-029",
+        "kind": "vehicle",
+        "x": 338.71875,
+        "y": 441.65625,
+        "name": "Grotti RSX",
+        "type": "Standout vehicle",
+        "description": "A Ferrari-style replica.",
+        "screenshot": "screenshots/gta6-vehicle-spawn-029.webp"
+    },
+    {
+        "id": "safe-058",
+        "kind": "safe",
+        "x": 490.875,
+        "y": 462.78125,
+        "name": "Safe (slum house)",
+        "type": "Safe",
+        "description": "Code: 9790.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-003",
+        "kind": "other",
+        "x": 371.90625,
+        "y": 728.4375,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). Through the door on the left inside the main building.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-003.webp"
+    },
+    {
+        "id": "random-event-140",
+        "kind": "event",
+        "x": 304.5,
+        "y": 389.1875,
+        "name": "Car Jacking Lesson",
+        "type": "Random event",
+        "description": "Help a woman break into a locked car and steal it.",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-071",
+        "kind": "package",
+        "x": 241.9375,
+        "y": 523.1875,
+        "name": "Cocaine Flamingo",
+        "type": "Hidden package",
+        "description": "Near the shipping containers, by the burning pile.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-035",
+        "kind": "streetart",
+        "x": 500.0625,
+        "y": 440.5,
+        "name": "Ahol Street Art: TV 367",
+        "type": "Ahol Street Art",
+        "description": "Decor District: next to the dumpster by the blue and black building.",
+        "screenshot": "screenshots/gta6-ahol-street-art-035.webp"
+    },
+    {
+        "id": "card-legends-of-ratface-014",
+        "kind": "card",
+        "x": 293.53125,
+        "y": 483.15625,
+        "name": "Legends of Ratface card: Disastrous Duo",
+        "type": "Legends Of Ratface card",
+        "description": "On a side table by a couch.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-036",
+        "kind": "streetart",
+        "x": 512,
+        "y": 441.53125,
+        "name": "Ahol Street Art: Cone 435",
+        "type": "Ahol Street Art",
+        "description": "Decor District: at the construction site entrance, on the right.",
+        "screenshot": "screenshots/gta6-ahol-street-art-036.webp"
+    },
+    {
+        "id": "hidden-package-072",
+        "kind": "package",
+        "x": 443.28125,
+        "y": 682.6875,
+        "name": "Easter Egg: Evidence of a Murder",
+        "type": "Hidden package",
+        "description": "Behind Mandy's house: a plastic drum big enough to fit a person, next to a body-sized patch of dug-up dirt.",
+        "screenshot": "screenshots/gta6-hidden-package-072.webp"
+    },
+    {
+        "id": "ahol-street-art-037",
+        "kind": "streetart",
+        "x": 504.59375,
+        "y": 442.0625,
+        "name": "Ahol Street Art: Buckets 212",
+        "type": "Ahol Street Art",
+        "description": "Decor District: buckets looking out of a dumpster like eyes, under the big \"Tetes\" lettering on the side of the building.",
+        "screenshot": "screenshots/gta6-ahol-street-art-037.webp"
+    },
+    {
+        "id": "random-event-141",
+        "kind": "event",
+        "x": 348.59375,
+        "y": 407.6875,
+        "name": "Overpass Vandals (computers)",
+        "type": "Random event",
+        "description": "Three rednecks throw computers at cars from the highway overpass. You can scare them off.",
+        "screenshot": null
+    },
+    {
+        "id": "fire-station-017",
+        "kind": "civic",
+        "x": 480.40625,
+        "y": 423.59375,
+        "name": "Belville Fire Department",
+        "type": "Fire station",
+        "description": "",
+        "screenshot": "screenshots/gta6-fire-station-017.webp"
+    },
+    {
+        "id": "random-event-142",
+        "kind": "event",
+        "x": 336.9375,
+        "y": 478.59375,
+        "name": "Delirious Farmer",
+        "type": "Random event",
+        "description": "A farmer driving his tractor in circles.",
+        "screenshot": null
+    },
+    {
+        "id": "card-backyard-wrestling-015",
+        "kind": "card",
+        "x": 569.0625,
+        "y": 483.90625,
+        "name": "Backyard Wrestling card: Katie K",
+        "type": "Backyard Wrestling card",
+        "description": "On the roof.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-004",
+        "kind": "other",
+        "x": 494.375,
+        "y": 441.34375,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). In the portable toilet.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-143",
+        "kind": "event",
+        "x": 326.9375,
+        "y": 493.3125,
+        "name": "Overpass Droppings",
+        "type": "Random event",
+        "description": "Three people throw tyres and junk off the overpass. Confront them and they back off quickly.",
+        "screenshot": "screenshots/gta6-random-event-143.webp"
+    },
+    {
+        "id": "card-vice-city-club-de-futbol-007",
+        "kind": "card",
+        "x": 503.34375,
+        "y": 441.09375,
+        "name": "Vice City Club de Futbol card: Renata Vasquez (Dusty Pink)",
+        "type": "Vice City Club De Futbol card",
+        "description": "On the roof, next to a football net and ball.",
+        "screenshot": "screenshots/gta6-card-vice-city-club-de-futbol-007.webp"
+    },
+    {
+        "id": "police-station-016",
+        "kind": "civic",
+        "x": 511.28125,
+        "y": 378.8125,
+        "name": "Leonard County Sheriff's Office",
+        "type": "Police station",
+        "description": "",
+        "screenshot": "screenshots/gta6-police-station-016.webp"
+    },
+    {
+        "id": "magazine-063",
+        "kind": "magazine",
+        "x": 442.9375,
+        "y": 611.5625,
+        "name": "Magazine rack: 247 - Hamlet",
+        "type": "Magazine",
+        "description": "Magazines on the shelf next to the cashier: ¡Bombazo!, Special Friends Force and Body Copy (the same one as at Jason's house).",
+        "screenshot": "screenshots/gta6-magazine-063.webp"
+    },
+    {
+        "id": "standout-vehicle-140",
+        "kind": "vehicle",
+        "x": 539.6875,
+        "y": 471.90625,
+        "name": "Pegassi Lustrous Toros",
+        "type": "Standout vehicle",
+        "description": "Gold Pegassi Toros.",
+        "screenshot": "screenshots/gta6-standout-vehicle-140.webp"
+    },
+    {
+        "id": "random-event-139",
+        "kind": "event",
+        "x": 438.71875,
+        "y": 613.5625,
+        "name": "Drive-Through Rant (Pollo Diablo)",
+        "type": "Random event",
+        "description": "A woman ranting about cheese at the drive-through window.",
+        "screenshot": "screenshots/gta6-random-event-139.webp"
+    },
+    {
+        "id": "weapon-spawn-062",
+        "kind": "other",
+        "x": 309.21875,
+        "y": 400.875,
+        "name": "Kolt & Associates Vatra",
+        "type": "Unique Weapon",
+        "description": "Unique SMG very close to the door.",
+        "screenshot": null
+    },
+    {
+        "id": "fire-station-018",
+        "kind": "civic",
+        "x": 287.59375,
+        "y": 728.9375,
+        "name": "Mile Zero Fire Station",
+        "type": "Fire station",
+        "description": "",
+        "screenshot": "screenshots/gta6-fire-station-018.webp"
+    },
+    {
+        "id": "card-backyard-wrestling-016",
+        "kind": "card",
+        "x": 349.46875,
+        "y": 258.5,
+        "name": "Backyard Wrestling card: Danny McLean",
+        "type": "Backyard Wrestling card",
+        "description": "",
+        "screenshot": "screenshots/gta6-card-backyard-wrestling-016.webp"
+    },
+    {
+        "id": "weapon-spawn-063",
+        "kind": "other",
+        "x": 343.3125,
+        "y": 609.21875,
+        "name": "La Polilla Negra KZ-59",
+        "type": "Unique Weapon",
+        "description": "On a weapon case, close to the safe.",
+        "screenshot": null
+    },
+    {
+        "id": "magazine-064",
+        "kind": "magazine",
+        "x": 517.84375,
+        "y": 563.5625,
+        "name": "Mermaid Tattoo Book",
+        "type": "Magazine",
+        "description": "In the same building as the mermaid statues: follow the door around the building.",
+        "screenshot": null
+    },
+    {
+        "id": "weapon-spawn-064",
+        "kind": "other",
+        "x": 568.4375,
+        "y": 493.0625,
+        "name": "Zodiac Nipper .38",
+        "type": "Unique Weapon",
+        "description": "In the garage of the robbery opportunity.",
+        "screenshot": null
+    },
+    {
+        "id": "scoop-container-003",
+        "kind": "other",
+        "x": 259.15625,
+        "y": 724.28125,
+        "name": "SCOOP Container (island)",
+        "type": "Scoop Container",
+        "description": "Open it with the Cut-Off Tool. A yellow container on the island.",
+        "screenshot": null
+    },
+    {
+        "id": "card-americas-next-top-hooker-018",
+        "kind": "card",
+        "x": 476.65625,
+        "y": 542.8125,
+        "name": "America's Next Top Hooker card: Skyla",
+        "type": "Americas Next Top Hooker card",
+        "description": "",
+        "screenshot": "screenshots/gta6-card-americas-next-top-hooker-018.webp"
+    },
+    {
+        "id": "hidden-package-073",
+        "kind": "package",
+        "x": 304.125,
+        "y": 510.46875,
+        "name": "Cocaine Flamingo",
+        "type": "Hidden package",
+        "description": "Among the flamingos in the middle of the Halloween House's front yard.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-038",
+        "kind": "streetart",
+        "x": 497.78125,
+        "y": 460,
+        "name": "Ahol Street Art: Cone 246",
+        "type": "Ahol Street Art",
+        "description": "Crosstown: across the street from 247 - Bayside, by a wall that says \"SAUTE\".",
+        "screenshot": "screenshots/gta6-ahol-street-art-038.webp"
+    },
+    {
+        "id": "scoop-container-004",
+        "kind": "other",
+        "x": 262.125,
+        "y": 719.8125,
+        "name": "SCOOP Container (armory)",
+        "type": "Scoop Container",
+        "description": "Open it with the Cut-Off Tool. A container full of guns on the island.",
+        "screenshot": null
+    },
+    {
+        "id": "weapon-spawn-065",
+        "kind": "weapon",
+        "x": 307.53125,
+        "y": 376.5625,
+        "name": "Rocket Launcher",
+        "type": "Weapon pickup",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-144",
+        "kind": "event",
+        "x": 441.03125,
+        "y": 263.75,
+        "name": "Caveman vs Panther",
+        "type": "Random event",
+        "description": "After the caveman deals with a panther, he challenges you to a race.",
+        "screenshot": null
+    },
+    {
+        "id": "weapon-spawn-066",
+        "kind": "other",
+        "x": 443.28125,
+        "y": 262.96875,
+        "name": "Money Bag & Deadringer 1922 Pistols",
+        "type": "Unique Weapon",
+        "description": "Two unique 1922 pistols inside the caravan.",
+        "screenshot": "screenshots/gta6-weapon-spawn-066.webp"
+    },
+    {
+        "id": "vehicle-spawn-030",
+        "kind": "vehicle",
+        "x": 467.9375,
+        "y": 551.9375,
+        "name": "Cheetah (1010 Murals reward)",
+        "type": "Standout vehicle",
+        "description": "In the garage where the car appears after all 5 murals are found.",
+        "screenshot": null
+    },
+    {
+        "id": "waink-curiosity-040",
+        "kind": "waink",
+        "x": 448.84375,
+        "y": 389.78125,
+        "name": "QR Code (The Thirsty Wolf)",
+        "type": "WAiNK curiosity",
+        "description": "A QR code in the bathroom to scan with Waink. A message arrives after a moment, which may lead to more.",
+        "screenshot": "screenshots/gta6-waink-curiosity-040.webp"
+    },
+    {
+        "id": "card-ed-comics-011",
+        "kind": "card",
+        "x": 471.875,
+        "y": 480.96875,
+        "name": "Ed Comics Universe card: Side Effect",
+        "type": "Ed Comics card",
+        "description": "In the bathroom of the employee area.",
+        "screenshot": null
+    },
+    {
+        "id": "card-liberty-city-penetrators-013",
+        "kind": "card",
+        "x": 503.4375,
+        "y": 537.34375,
+        "name": "Liberty City Penetrators card: Noah Marcus",
+        "type": "Liberty City Penetrators card",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "safe-059",
+        "kind": "safe",
+        "x": 443.375,
+        "y": 262.53125,
+        "name": "Safe (caravan)",
+        "type": "Safe",
+        "description": "Inside the caravan with the unique pistols: cash and a collectible card.",
+        "screenshot": null
+    },
+    {
+        "id": "card-los-santos-panic-011",
+        "kind": "card",
+        "x": 442.875,
+        "y": 262.96875,
+        "name": "Los Santos Panic card: Quinton Allen",
+        "type": "Los Santos Panic card",
+        "description": "Inside the safe in the caravan.",
+        "screenshot": "screenshots/gta6-card-los-santos-panic-011.webp"
+    },
+    {
+        "id": "yellow-loot-box-006",
+        "kind": "other",
+        "x": 486.25,
+        "y": 624.78125,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). A yellow emergency phone box.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-006.webp"
+    },
+    {
+        "id": "random-event-145",
+        "kind": "event",
+        "x": 438,
+        "y": 261.0625,
+        "name": "Man vs Bear",
+        "type": "Random event",
+        "description": "Tell the man to scare the bear off and he survives and promises to send you money.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-146",
+        "kind": "event",
+        "x": 313,
+        "y": 393.28125,
+        "name": "Sal, Shooting Victim",
+        "type": "Random event",
+        "description": "Sal was shot by people trying to rob his wallet. He needs a ride and help with something.",
+        "screenshot": "screenshots/gta6-random-event-146.webp"
+    },
+    {
+        "id": "card-liberty-city-swingers-009",
+        "kind": "card",
+        "x": 410.46875,
+        "y": 385.875,
+        "name": "Liberty City Swingers card: Blake Balls",
+        "type": "Liberty City Swingers card",
+        "description": "Inside the blue house covered in Buddy Krever ads, in one of the bedrooms.",
+        "screenshot": "screenshots/gta6-card-liberty-city-swingers-009.webp"
+    },
+    {
+        "id": "hidden-package-074",
+        "kind": "package",
+        "x": 309.65625,
+        "y": 407.125,
+        "name": "Cocaine Flamingo",
+        "type": "Hidden package",
+        "description": "In front of the house by the highway.",
+        "screenshot": null
+    },
+    {
+        "id": "meteorite-039",
+        "kind": "meteorite",
+        "x": 226.625,
+        "y": 438.78125,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "Under a dead tree.",
+        "screenshot": "screenshots/gta6-meteorite-039.webp"
+    },
+    {
+        "id": "clothing-072",
+        "kind": "shop",
+        "x": 439.3125,
+        "y": 683.375,
+        "name": "Scuba Gear",
+        "type": "Clothes shop",
+        "description": "Behind the house.",
+        "screenshot": null
+    },
+    {
+        "id": "meteorite-040",
+        "kind": "meteorite",
+        "x": 423.125,
+        "y": 314.71875,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "In the rocks by the river.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-005",
+        "kind": "other",
+        "x": 426.71875,
+        "y": 368.6875,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...).",
+        "screenshot": null
+    },
+    {
+        "id": "card-americas-next-top-hooker-019",
+        "kind": "card",
+        "x": 393.15625,
+        "y": 271.5,
+        "name": "America's Next Top Hooker card: Sapphire",
+        "type": "Americas Next Top Hooker card",
+        "description": "In the trunk of a red car crushed by rocks.",
+        "screenshot": null
+    },
+    {
+        "id": "meteorite-041",
+        "kind": "meteorite",
+        "x": 479.96875,
+        "y": 249.84375,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "Near a campsite, partly in the water, glowing bright pink. Head towards the crashed boat.",
+        "screenshot": "screenshots/gta6-meteorite-041.webp"
+    },
+    {
+        "id": "card-liberty-city-wrath-012",
+        "kind": "card",
+        "x": 481.40625,
+        "y": 465.25,
+        "name": "Liberty City Wrath card: Alvin Orlowski",
+        "type": "Liberty City Wrath card",
+        "description": "Third floor, room 16.",
+        "screenshot": "screenshots/gta6-card-liberty-city-wrath-012.webp"
+    },
+    {
+        "id": "yellow-loot-box-020",
+        "kind": "other",
+        "x": 346.53125,
+        "y": 259.25,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). In a lock box inside a blue storage container. A member found the Brandon Roncevic card (Lob Dunks).",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-039",
+        "kind": "streetart",
+        "x": 473.9375,
+        "y": 513.46875,
+        "name": "Ahol Street Art: Wheel 468",
+        "type": "Ahol Street Art",
+        "description": "Tucked in the alcove of the blue building next to the dirt mound: a wheel covered in striped paint.",
+        "screenshot": "screenshots/gta6-ahol-street-art-039.webp"
+    },
+    {
+        "id": "magazine-065",
+        "kind": "magazine",
+        "x": 427.65625,
+        "y": 611.21875,
+        "name": "Law & Litigation in Leonida",
+        "type": "Magazine",
+        "description": "On the coffee table in the messy apartment: go up one floor, first apartment on the left.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-147",
+        "kind": "event",
+        "x": 432.75,
+        "y": 606.21875,
+        "name": "Package Delivery",
+        "type": "Random event",
+        "description": "Deliver 3 packages for a broken-down Sahara driver.",
+        "screenshot": null
+    },
+    {
+        "id": "helipad-003",
+        "kind": "other",
+        "x": 448.25,
+        "y": 672.96875,
+        "name": "Key Lento Fire Station Helipad",
+        "type": "Helipad",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "vehicle-spawn-031",
+        "kind": "vehicle",
+        "x": 283.375,
+        "y": 733.28125,
+        "name": "Military Helicopter",
+        "type": "Standout vehicle",
+        "description": "Spawn point of a big military helicopter.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-148",
+        "kind": "event",
+        "x": 347.34375,
+        "y": 351.21875,
+        "name": "Alien Aficionado",
+        "type": "Random event",
+        "description": "A man waiting to see something: keep the conversation going.",
+        "screenshot": null
+    },
+    {
+        "id": "helipad-004",
+        "kind": "other",
+        "x": 474.75,
+        "y": 556.03125,
+        "name": "Tesqueta Police Station Helipad (1)",
+        "type": "Helipad",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "helipad-005",
+        "kind": "other",
+        "x": 477.15625,
+        "y": 557.5,
+        "name": "Tesqueta Police Station Helipad (2)",
+        "type": "Helipad",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-021",
+        "kind": "other",
+        "x": 342.78125,
+        "y": 255.09375,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). A yellow lock box on the beach. A member found the Crystal card (America's Next Top Hooker).",
+        "screenshot": null
+    },
+    {
+        "id": "helipad-006",
+        "kind": "other",
+        "x": 559.0625,
+        "y": 500.03125,
+        "name": "Vice Beach Police Station Helipad",
+        "type": "Helipad",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-022",
+        "kind": "other",
+        "x": 454.03125,
+        "y": 602.09375,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). Near the warehouse of the drug deal gone wrong. A member found the Gerry Northgate card (Vice City Club de Futbol).",
+        "screenshot": "screenshots/gta6-yellow-loot-box-022.webp"
+    },
+    {
+        "id": "helipad-007",
+        "kind": "other",
+        "x": 479.75,
+        "y": 481.59375,
+        "name": "Rockridge Hospital Helipad",
+        "type": "Helipad",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "helipad-008",
+        "kind": "other",
+        "x": 283.25,
+        "y": 411.25,
+        "name": "Port Gellhorn Helipad",
+        "type": "Helipad",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-075",
+        "kind": "package",
+        "x": 320.65625,
+        "y": 696.28125,
+        "name": "Macizo Cigars",
+        "type": "Hidden package",
+        "description": "Among the wreckage on the shore.",
+        "screenshot": "screenshots/gta6-hidden-package-075.webp"
+    },
+    {
+        "id": "random-event-149",
+        "kind": "event",
+        "x": 444.34375,
+        "y": 688.65625,
+        "name": "Lady with a Broken Car",
+        "type": "Random event",
+        "description": "A woman with a damaged car refuses help and gets aggressive. There is a stash in the trunk.",
+        "screenshot": null
+    },
+    {
+        "id": "card-ed-comics-013",
+        "kind": "card",
+        "x": 371.5,
+        "y": 505.09375,
+        "name": "Ed Comics Universe card: General Surgeon",
+        "type": "Ed Comics card",
+        "description": "In the storage room, on the cork board.",
+        "screenshot": "screenshots/gta6-card-ed-comics-013.webp"
+    },
+    {
+        "id": "card-liberty-city-penetrators-014",
+        "kind": "card",
+        "x": 503.3125,
+        "y": 455.84375,
+        "name": "Liberty City Penetrators card: Dimitri Petrov",
+        "type": "Liberty City Penetrators card",
+        "description": "On the roof, up the ladder near the food carts.",
+        "screenshot": "screenshots/gta6-card-liberty-city-penetrators-014.webp"
+    },
+    {
+        "id": "safe-060",
+        "kind": "safe",
+        "x": 484.9375,
+        "y": 462.53125,
+        "name": "Safe (gaming room)",
+        "type": "Safe",
+        "description": "In the gaming room of the house.",
+        "screenshot": null
+    },
+    {
+        "id": "weapon-spawn-067",
+        "kind": "other",
+        "x": 400.71875,
+        "y": 257.5625,
+        "name": "Martha's 1922 Pistol",
+        "type": "Unique Weapon",
+        "description": "Go into the house and search the oven.",
+        "screenshot": "screenshots/gta6-weapon-spawn-067.webp"
+    },
+    {
+        "id": "card-vice-city-club-de-futbol-008",
+        "kind": "card",
+        "x": 484.90625,
+        "y": 462.59375,
+        "name": "Vice City Club De Fútbol card: Badge",
+        "type": "Vice City Club De Futbol card",
+        "description": "In the gaming room, next to the safe.",
+        "screenshot": "screenshots/gta6-card-vice-city-club-de-futbol-008.webp"
+    },
+    {
+        "id": "card-right-wing-017",
+        "kind": "card",
+        "x": 484.65625,
+        "y": 462.96875,
+        "name": "Right Wing: America's Hero card: Immigrantasma",
+        "type": "Right Wing card",
+        "description": "On the fridge in the house.",
+        "screenshot": "screenshots/gta6-card-right-wing-017.webp"
+    },
+    {
+        "id": "weapon-spawn-068",
+        "kind": "weapon",
+        "x": 377.28125,
+        "y": 385.5625,
+        "name": "Flare Gun",
+        "type": "Weapon pickup",
+        "description": "Inside a metal box.",
+        "screenshot": null
+    },
+    {
+        "id": "standout-vehicle-141",
+        "kind": "vehicle",
+        "x": 563.21875,
+        "y": 518.5625,
+        "name": "Pfister Hornet Growler",
+        "type": "Standout vehicle",
+        "description": "On the second floor of the car park, in the middle section.",
+        "screenshot": null
+    },
+    {
+        "id": "safe-061",
+        "kind": "safe",
+        "x": 435.09375,
+        "y": 698.9375,
+        "name": "Exotic Animals Front: Hidden Stash",
+        "type": "Safe",
+        "description": "Listen to the parrot when it tells you to check the generator: right behind it there's an air shaft in the wall.",
+        "screenshot": "screenshots/gta6-safe-061.webp"
+    },
+    {
+        "id": "card-vice-city-club-de-futbol-009",
+        "kind": "card",
+        "x": 457.6875,
+        "y": 570.75,
+        "name": "Vice City Club De Fútbol card: Sue Prettyman",
+        "type": "Vice City Club De Futbol card",
+        "description": "To the right of the front door, next to a stack of magazines.",
+        "screenshot": "screenshots/gta6-card-vice-city-club-de-futbol-009.webp"
+    },
+    {
+        "id": "yellow-loot-box-023",
+        "kind": "other",
+        "x": 314.28125,
+        "y": 416,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "A medical box on the side of the building, about 10 m from the seating area you can see from the ghost bike.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-040",
+        "kind": "streetart",
+        "x": 482.59375,
+        "y": 460.53125,
+        "name": "Ahol Street Art: TV 137",
+        "type": "Ahol Street Art",
+        "description": "On the ground outside the store.",
+        "screenshot": null
+    },
+    {
+        "id": "weapon-spawn-069",
+        "kind": "other",
+        "x": 287.875,
+        "y": 587.625,
+        "name": "Double Cross Vatra (Heavy SMG)",
+        "type": "Unique Weapon",
+        "description": "On the sea floor, right under the Cocaine Yacht.",
+        "screenshot": null
+    },
+    {
+        "id": "card-vice-city-manatees-012",
+        "kind": "card",
+        "x": 485.28125,
+        "y": 464.65625,
+        "name": "Vice City Manatees card: Ali Zeidan",
+        "type": "Vice City Manatees card",
+        "description": "Hanging on the wall inside the house.",
+        "screenshot": "screenshots/gta6-card-vice-city-manatees-012.webp"
+    },
+    {
+        "id": "meteorite-042",
+        "kind": "meteorite",
+        "x": 342.75,
+        "y": 265.53125,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "Underneath a metal panel in the middle of the C0-B8 Fairing impact crater, right next to the C0-B8 Fairing curiosity.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-041",
+        "kind": "streetart",
+        "x": 493.8125,
+        "y": 476.34375,
+        "name": "Ahol Street Art: Fridge 442",
+        "type": "Ahol Street Art",
+        "description": "At the base of the Brian Bradley ad sign: a fridge with blue paint on its side.",
+        "screenshot": "screenshots/gta6-ahol-street-art-041.webp"
+    },
+    {
+        "id": "ahol-street-art-042",
+        "kind": "streetart",
+        "x": 480.15625,
+        "y": 470.0625,
+        "name": "Ahol Street Art: Fridge 136",
+        "type": "Ahol Street Art",
+        "description": "At the corner of the Tropical Thrift: a fridge painted blue.",
+        "screenshot": "screenshots/gta6-ahol-street-art-042.webp"
+    },
+    {
+        "id": "random-event-150",
+        "kind": "event",
+        "x": 496.8125,
+        "y": 474.71875,
+        "name": "Dumpster Man",
+        "type": "Random event",
+        "description": "An attorney asks for pills. If you give him pills, he gives you legal advice.",
+        "screenshot": "screenshots/gta6-random-event-150.webp"
+    },
+    {
+        "id": "ahol-street-art-043",
+        "kind": "streetart",
+        "x": 470.875,
+        "y": 526.59375,
+        "name": "Ahol Street Art: Fridge 207",
+        "type": "Ahol Street Art",
+        "description": "Down the middle of an alleyway, between some old boxes and a green dumpster: a fridge painted blue.",
+        "screenshot": "screenshots/gta6-ahol-street-art-043.webp"
+    },
+    {
+        "id": "yellow-loot-box-024",
+        "kind": "other",
+        "x": 491.6875,
+        "y": 462.21875,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "In the run-down house.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-024.webp"
+    },
+    {
+        "id": "weapon-spawn-070",
+        "kind": "other",
+        "x": 313.25,
+        "y": 377.15625,
+        "name": "Kolt & Associates 556",
+        "type": "Unique Weapon",
+        "description": "Unique AR: in a weapon case beside the safe in the right dorm.",
+        "screenshot": null
+    },
+    {
+        "id": "card-ed-comics-014",
+        "kind": "card",
+        "x": 492.125,
+        "y": 462.625,
+        "name": "Ed Comics Universe card: Diagnosis",
+        "type": "Ed Comics card",
+        "description": "In the trailer.",
+        "screenshot": "screenshots/gta6-card-ed-comics-014.webp"
+    },
+    {
+        "id": "yellow-loot-box-025",
+        "kind": "other",
+        "x": 354.96875,
+        "y": 278.9375,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "A member found the Liberty City Wrath: Tyson Briggs card here.",
+        "screenshot": null
+    },
+    {
+        "id": "card-liberty-city-penetrators-015",
+        "kind": "card",
+        "x": 483.65625,
+        "y": 484.46875,
+        "name": "Liberty City Penetrators card: Rion Yapa",
+        "type": "Liberty City Penetrators card",
+        "description": "In the garage under the bridge.",
+        "screenshot": "screenshots/gta6-card-liberty-city-penetrators-015.webp"
+    },
+    {
+        "id": "yellow-loot-box-026",
+        "kind": "other",
+        "x": 483.6875,
+        "y": 483.5625,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "A member found the Vice City Club De Fútbol: Gerry Northgate card here. In the next garage under the bridge.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-026.webp"
+    },
+    {
+        "id": "yellow-loot-box-027",
+        "kind": "other",
+        "x": 491.5625,
+        "y": 465.28125,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "In the warehouse.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-027.webp"
+    },
+    {
+        "id": "card-liberty-city-swingers-010",
+        "kind": "card",
+        "x": 429.78125,
+        "y": 381.21875,
+        "name": "Liberty City Swingers card: Duke King",
+        "type": "Liberty City Swingers card",
+        "description": "In the garage, next to an orange baseball cap.",
+        "screenshot": null
+    },
+    {
+        "id": "weapon-spawn-071",
+        "kind": "other",
+        "x": 539.5625,
+        "y": 522.625,
+        "name": "Cargo H&L .38",
+        "type": "Unique Weapon",
+        "description": "Unique revolver in a SCOOP crate, alongside a few bricks of cocaine.",
+        "screenshot": null
+    },
+    {
+        "id": "card-legends-of-ratface-015",
+        "kind": "card",
+        "x": 358.71875,
+        "y": 602.3125,
+        "name": "Legends of Ratface card: Ifred",
+        "type": "Legends Of Ratface card",
+        "description": "By the rabbit hutch.",
+        "screenshot": "screenshots/gta6-card-legends-of-ratface-015.webp"
+    },
+    {
+        "id": "yellow-loot-box-028",
+        "kind": "other",
+        "x": 491.8125,
+        "y": 471.15625,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Climb the fridges once inside: it is on the shelf.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-151",
+        "kind": "event",
+        "x": 432.1875,
+        "y": 584.96875,
+        "name": "Influencer (antenna)",
+        "type": "Random event",
+        "description": "At the top of the antenna, an influencer girl takes photos.",
+        "screenshot": null
+    },
+    {
+        "id": "hunting-006",
+        "kind": "hunting",
+        "x": 345.28125,
+        "y": 312.90625,
+        "name": "Grayson Hunting Spot",
+        "type": "Hunting",
+        "description": "A good place to find black bears and wild boars.",
+        "screenshot": "screenshots/gta6-hunting-006.webp"
+    },
+    {
+        "id": "magazine-066",
+        "kind": "magazine",
+        "x": 428.6875,
+        "y": 307.15625,
+        "name": "Tattoo Magazine (lovers' camp)",
+        "type": "Magazine",
+        "description": "Beside the bed in the lovers' camp.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-029",
+        "kind": "other",
+        "x": 489.625,
+        "y": 470.65625,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "On the roof of the hotel.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-030",
+        "kind": "other",
+        "x": 488.46875,
+        "y": 472.625,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "On the roof of this building: the ladder is at the back.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-152",
+        "kind": "event",
+        "x": 445.28125,
+        "y": 728.0625,
+        "name": "Drug Boat Crash",
+        "type": "Random event",
+        "description": "A drug boat drives in circles and blows up, dropping cocaine.",
+        "screenshot": null
+    },
+    {
+        "id": "card-liberty-city-penetrators-016",
+        "kind": "card",
+        "x": 488.21875,
+        "y": 472.875,
+        "name": "Liberty City Penetrators card: Alexander Avain",
+        "type": "Liberty City Penetrators card",
+        "description": "Inside a room on the third floor.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-153",
+        "kind": "event",
+        "x": 313.78125,
+        "y": 424.3125,
+        "name": "Gasoline Bath",
+        "type": "Random event",
+        "description": "A hillbilly fills a tub with gas in the bed of his truck, argues with the gas station clerk, then speeds off.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-154",
+        "kind": "event",
+        "x": 309.34375,
+        "y": 415.5,
+        "name": "Revenge on Kolt Associates",
+        "type": "Random event",
+        "description": "Sal, who shot himself, asks you to get revenge on Booker at Kingpin Bowling.",
+        "screenshot": "screenshots/gta6-random-event-154.webp"
+    },
+    {
+        "id": "weapon-spawn-072",
+        "kind": "weapon",
+        "x": 312.90625,
+        "y": 411.9375,
+        "name": "ADB M350 Longarm",
+        "type": "Weapon pickup",
+        "description": "After killing Booker you can take this gun off his body.",
+        "screenshot": "screenshots/gta6-weapon-spawn-072.webp"
+    },
+    {
+        "id": "yellow-loot-box-031",
+        "kind": "other",
+        "x": 491.84375,
+        "y": 604,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "In the back of a washed-up boat.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-032",
+        "kind": "other",
+        "x": 485.5625,
+        "y": 476.6875,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Behind the garage door.",
+        "screenshot": null
+    },
+    {
+        "id": "weapon-spawn-073",
+        "kind": "other",
+        "x": 403.78125,
+        "y": 652.21875,
+        "name": "Kingfishers Akulus",
+        "type": "Unique Weapon",
+        "description": "In a trailer.",
+        "screenshot": null
+    },
+    {
+        "id": "race-054",
+        "kind": "race",
+        "x": 331.9375,
+        "y": 305.8125,
+        "name": "Animal Crackers - Grayson",
+        "type": "Race",
+        "description": "An Animal Crackers race, starting next to the Farm Tour and Red Canyon Run races.",
+        "screenshot": "screenshots/gta6-race-054.webp"
+    },
+    {
+        "id": "yellow-loot-box-033",
+        "kind": "other",
+        "x": 482.15625,
+        "y": 476.1875,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "On top of the roof.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-044",
+        "kind": "streetart",
+        "x": 474.6875,
+        "y": 534.21875,
+        "name": "Ahol Street Art: Pallet 108",
+        "type": "Ahol Street Art",
+        "description": "A painted pallet with boxes on it, by the fence.",
+        "screenshot": "screenshots/gta6-ahol-street-art-044.webp"
+    },
+    {
+        "id": "meteorite-043",
+        "kind": "meteorite",
+        "x": 423.71875,
+        "y": 223.90625,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "Next to the white overturned rowboat.",
+        "screenshot": "screenshots/gta6-meteorite-043.webp"
+    },
+    {
+        "id": "random-event-155",
+        "kind": "event",
+        "x": 332.0625,
+        "y": 305.125,
+        "name": "Disgruntled Employee",
+        "type": "Random event",
+        "description": "In Huck's Pump N Go you're recognised as one of the couple that robs stores all around Leonida.",
+        "screenshot": "screenshots/gta6-random-event-155.webp"
+    },
+    {
+        "id": "card-vice-city-narcos-013",
+        "kind": "card",
+        "x": 304.4375,
+        "y": 514.65625,
+        "name": "Vice City Narcos card: Dylan Ezequiel Mack Jr.",
+        "type": "Vice City Narcos card",
+        "description": "In the living room, next to the TV.",
+        "screenshot": "screenshots/gta6-card-vice-city-narcos-013.webp"
+    },
+    {
+        "id": "vehicle-spawn-032",
+        "kind": "vehicle",
+        "x": 504.34375,
+        "y": 451.34375,
+        "name": "Vapid Guardian TX2 (Lowrider)",
+        "type": "Standout vehicle",
+        "description": "A lowrider truck.",
+        "screenshot": "screenshots/gta6-vehicle-spawn-032.webp"
+    },
+    {
+        "id": "card-legends-of-ratface-016",
+        "kind": "card",
+        "x": 477.34375,
+        "y": 539.46875,
+        "name": "Legends of Ratface card: Todd Lang",
+        "type": "Legends Of Ratface card",
+        "description": "In the store backroom.",
+        "screenshot": "screenshots/gta6-card-legends-of-ratface-016.webp"
+    },
+    {
+        "id": "yellow-loot-box-034",
+        "kind": "other",
+        "x": 479.5,
+        "y": 477.03125,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "On the roof by the pool.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-045",
+        "kind": "streetart",
+        "x": 561.875,
+        "y": 472.25,
+        "name": "Ahol Street Art: Fridge 53",
+        "type": "Ahol Street Art",
+        "description": "Just inside an alleyway by some rubbish: a fridge painted blue.",
+        "screenshot": "screenshots/gta6-ahol-street-art-045.webp"
+    },
+    {
+        "id": "yellow-loot-box-035",
+        "kind": "other",
+        "x": 395.1875,
+        "y": 607.71875,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "On the roof of the sunken yacht. A member found a brick of cocaine in it.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-035.webp"
+    },
+    {
+        "id": "ahol-street-art-046",
+        "kind": "streetart",
+        "x": 568.875,
+        "y": 472.28125,
+        "name": "Ahol Street Art: Fridge 25",
+        "type": "Ahol Street Art",
+        "description": "Next to a green dumpster at the end of a parking spot: a fridge painted blue.",
+        "screenshot": "screenshots/gta6-ahol-street-art-046.webp"
+    },
+    {
+        "id": "ahol-street-art-047",
+        "kind": "streetart",
+        "x": 476.6875,
+        "y": 561.5625,
+        "name": "Ahol Street Art: Fridge 187",
+        "type": "Ahol Street Art",
+        "description": "Just inside an alleyway, next to a green cabinet and cardboard boxes: a fridge painted blue.",
+        "screenshot": "screenshots/gta6-ahol-street-art-047.webp"
+    },
+    {
+        "id": "ahol-street-art-048",
+        "kind": "streetart",
+        "x": 476.25,
+        "y": 567.5625,
+        "name": "Ahol Street Art: Fridge 199",
+        "type": "Ahol Street Art",
+        "description": "Just under the overhang of some flats: a fridge painted blue.",
+        "screenshot": "screenshots/gta6-ahol-street-art-048.webp"
+    },
+    {
+        "id": "ahol-street-art-049",
+        "kind": "streetart",
+        "x": 458.6875,
+        "y": 499.71875,
+        "name": "Ahol Street Art: Fridge 49",
+        "type": "Ahol Street Art",
+        "description": "Under a telephone pole next to Logan's Machine Shop: a fridge painted blue.",
+        "screenshot": "screenshots/gta6-ahol-street-art-049.webp"
+    },
+    {
+        "id": "random-event-156",
+        "kind": "event",
+        "x": 350.0625,
+        "y": 390.84375,
+        "name": "Paleo Bro",
+        "type": "Random event",
+        "description": "A man who wants to fight a panther tries to assert his dominance over it.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-050",
+        "kind": "streetart",
+        "x": 488.9375,
+        "y": 497.96875,
+        "name": "Ahol Street Art: Fridge 319",
+        "type": "Ahol Street Art",
+        "description": "On the sidewalk next to a staircase: a fridge painted blue.",
+        "screenshot": "screenshots/gta6-ahol-street-art-050.webp"
+    },
+    {
+        "id": "meteorite-044",
+        "kind": "meteorite",
+        "x": 224.25,
+        "y": 445.90625,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "Under a tree trunk.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-157",
+        "kind": "event",
+        "x": 364.75,
+        "y": 289.40625,
+        "name": "The Ghost of Rockledge Rd",
+        "type": "Random event",
+        "description": "Driving down Rockledge Road at night, a ghostly figure runs across the road.",
+        "screenshot": "screenshots/gta6-random-event-157.webp"
+    },
+    {
+        "id": "magazine-067",
+        "kind": "magazine",
+        "x": 379.59375,
+        "y": 282.34375,
+        "name": "Book: The Cowboy's Prayer (motel reception)",
+        "type": "Magazine",
+        "description": "On the coffee table in the motel's reception.",
+        "screenshot": "screenshots/gta6-magazine-067.webp"
+    },
+    {
+        "id": "yellow-loot-box-036",
+        "kind": "other",
+        "x": 336.21875,
+        "y": 419.34375,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "A member found the Vice City Manatees: Ali Zeidan card here. Under the ramp.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-158",
+        "kind": "event",
+        "x": 379.71875,
+        "y": 282.84375,
+        "name": "Influencing Gone Fatal",
+        "type": "Random event",
+        "description": "Two rednecks film Jason or Lucia making fun of you; when you confront them they pull out their guns.",
+        "screenshot": "screenshots/gta6-random-event-158.webp"
+    },
+    {
+        "id": "random-event-159",
+        "kind": "event",
+        "x": 315.34375,
+        "y": 373.75,
+        "name": "Mistaken Identity ($2,000)",
+        "type": "Random event",
+        "description": "A man mistakes you for someone else and asks you for $2,000.",
+        "screenshot": null
+    },
+    {
+        "id": "card-liberty-city-penetrators-017",
+        "kind": "card",
+        "x": 539.34375,
+        "y": 437.125,
+        "name": "Liberty City Penetrators card: Lev Volkov (Gold)",
+        "type": "Liberty City Penetrators card",
+        "description": "On the basketball court near the chair: the piece of paper on the floor.",
+        "screenshot": null
+    },
+    {
+        "id": "card-vice-city-flamingos-016",
+        "kind": "card",
+        "x": 476.90625,
+        "y": 469.625,
+        "name": "Vice City Flamingos card: Mateo Caballero",
+        "type": "Vice City Flamingos card",
+        "description": "In a bedroom, on the window.",
+        "screenshot": "screenshots/gta6-card-vice-city-flamingos-016.webp"
+    },
+    {
+        "id": "parachuting-004",
+        "kind": "basejump",
+        "x": 451.59375,
+        "y": 675.03125,
+        "name": "Parachute",
+        "type": "Parachuting",
+        "description": "On top of the tower.",
+        "screenshot": null
+    },
+    {
+        "id": "luxury-watch-006",
+        "kind": "other",
+        "x": 312.84375,
+        "y": 411.90625,
+        "name": "Crowex Octane 'Orca'",
+        "type": "Luxury Watch",
+        "description": "In one of the back rooms of the bowling alley.",
+        "screenshot": "screenshots/gta6-luxury-watch-006.webp"
+    },
+    {
+        "id": "random-event-160",
+        "kind": "event",
+        "x": 448.78125,
+        "y": 504.625,
+        "name": "Polar Bear Protest (freeway)",
+        "type": "Random event",
+        "description": "A group of activists protest on the freeway for the release of a polar bear.",
+        "screenshot": null
+    },
+    {
+        "id": "weapon-spawn-074",
+        "kind": "weapon",
+        "x": 477.375,
+        "y": 470.59375,
+        "name": "Hobo Shotgun (for sale)",
+        "type": "Weapon pickup",
+        "description": "A unique weapon you can buy from this store.",
+        "screenshot": null
+    },
+    {
+        "id": "meteorite-045",
+        "kind": "meteorite",
+        "x": 326.78125,
+        "y": 272.875,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "In the middle of the C0-B8 Debris crater.",
+        "screenshot": "screenshots/gta6-meteorite-045.webp"
+    },
+    {
+        "id": "standout-vehicle-142",
+        "kind": "vehicle",
+        "x": 532.125,
+        "y": 393.6875,
+        "name": "Vapid Slamvan '56",
+        "type": "Standout vehicle",
+        "description": "In the last garage on the right: the car without a plate.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-161",
+        "kind": "event",
+        "x": 474.34375,
+        "y": 419.5,
+        "name": "Couch Trap",
+        "type": "Random event",
+        "description": "Help a woman with a couch, get knocked out and wake up in a shipping container on an island.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-037",
+        "kind": "other",
+        "x": 346.0625,
+        "y": 282.5625,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "A member found 4 acid packs (about $190 each) in it.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-037.webp"
+    },
+    {
+        "id": "magazine-068",
+        "kind": "magazine",
+        "x": 450.03125,
+        "y": 678.625,
+        "name": "Off The Hook - America's No. 1 Fishing Magazine",
+        "type": "Magazine",
+        "description": "On the magazine board in the gas station.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-038",
+        "kind": "other",
+        "x": 313.21875,
+        "y": 401.96875,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "On the roof of the convenience store.",
+        "screenshot": null
+    },
+    {
+        "id": "vehicle-spawn-033",
+        "kind": "vehicle",
+        "x": 356.625,
+        "y": 225.71875,
+        "name": "Bombora S23 CCS",
+        "type": "Standout vehicle",
+        "description": "A Bombora S23 CCS boat.",
+        "screenshot": "screenshots/gta6-vehicle-spawn-033.webp"
+    },
+    {
+        "id": "yellow-loot-box-039",
+        "kind": "other",
+        "x": 379.5,
+        "y": 217.78125,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "A member found Molotov cocktails in it.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-039.webp"
+    },
+    {
+        "id": "vehicle-spawn-034",
+        "kind": "vehicle",
+        "x": 373.71875,
+        "y": 218.25,
+        "name": "Bombora S23 CCS",
+        "type": "Standout vehicle",
+        "description": "A Bombora S23 CCS boat.",
+        "screenshot": "screenshots/gta6-vehicle-spawn-034.webp"
+    },
+    {
+        "id": "vehicle-spawn-035",
+        "kind": "vehicle",
+        "x": 504.6875,
+        "y": 448.4375,
+        "name": "Ubermacht FCR 1000",
+        "type": "Standout vehicle",
+        "description": "In the building with an orange mural on the side: get in through the alarmed shutter and door.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-040",
+        "kind": "other",
+        "x": 436.03125,
+        "y": 703.9375,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "At the back of the house.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-040.webp"
+    },
+    {
+        "id": "yellow-loot-box-041",
+        "kind": "other",
+        "x": 337.9375,
+        "y": 367.125,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Inside the building.",
+        "screenshot": null
+    },
+    {
+        "id": "meteorite-046",
+        "kind": "meteorite",
+        "x": 365.71875,
+        "y": 261.875,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "On the summit of the little island.",
+        "screenshot": "screenshots/gta6-meteorite-046.webp"
+    },
+    {
+        "id": "magazine-069",
+        "kind": "magazine",
+        "x": 477.46875,
+        "y": 309.21875,
+        "name": "Book: The Cowboy's Prayer (bar)",
+        "type": "Magazine",
+        "description": "On a table in the bar.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-162",
+        "kind": "event",
+        "x": 402.46875,
+        "y": 274.09375,
+        "name": "Zeke Pimple: Target Practice",
+        "type": "Random event",
+        "description": "Two dudes want to challenge your shooting skills.",
+        "screenshot": "screenshots/gta6-random-event-162.webp"
+    },
+    {
+        "id": "random-event-163",
+        "kind": "event",
+        "x": 408.5,
+        "y": 677.71875,
+        "name": "Boar Rams a Man",
+        "type": "Random event",
+        "description": "A boar runs out of the forest and rams a man.",
+        "screenshot": null
+    },
+    {
+        "id": "hunting-007",
+        "kind": "hunting",
+        "x": 392.28125,
+        "y": 266.15625,
+        "name": "Moreau Hunting Spot",
+        "type": "Hunting",
+        "description": "A good place to find black bears and black foxes.",
+        "screenshot": "screenshots/gta6-hunting-007.webp"
+    },
+    {
+        "id": "card-americas-next-top-hooker-020",
+        "kind": "card",
+        "x": 262.1875,
+        "y": 680.84375,
+        "name": "America's Next Top Hooker card: Beverly",
+        "type": "Americas Next Top Hooker card",
+        "description": "Right next to a chair.",
+        "screenshot": null
+    },
+    {
+        "id": "meteorite-047",
+        "kind": "meteorite",
+        "x": 299.71875,
+        "y": 330.125,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "Inside the left trash outlet tube.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-164",
+        "kind": "event",
+        "x": 387.96875,
+        "y": 266.625,
+        "name": "The San Fierro Tourist",
+        "type": "Random event",
+        "description": "Near the entrance to a mineshaft, a tourist from San Fierro runs away, scared of being attacked.",
+        "screenshot": "screenshots/gta6-random-event-164.webp"
+    },
+    {
+        "id": "card-right-wing-018",
+        "kind": "card",
+        "x": 467.4375,
+        "y": 299.25,
+        "name": "Right Wing: America's Hero card: Right Wing vs Left Wing",
+        "type": "Right Wing card",
+        "description": "On the floor in the restroom.",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-076",
+        "kind": "package",
+        "x": 432.3125,
+        "y": 585,
+        "name": "Easter Egg: Bird Nest on the Mast",
+        "type": "Hidden package",
+        "description": "Climb the mast all the way up to find a nest with an egg. Nothing to keep: you can only throw it.",
+        "screenshot": null
+    },
+    {
+        "id": "card-los-santos-panic-012",
+        "kind": "card",
+        "x": 517.8125,
+        "y": 359.84375,
+        "name": "Los Santos Panic card (Gold)",
+        "type": "Los Santos Panic card",
+        "description": "In the garage.",
+        "screenshot": "screenshots/gta6-card-los-santos-panic-012.webp"
+    },
+    {
+        "id": "standout-vehicle-143",
+        "kind": "vehicle",
+        "x": 387.28125,
+        "y": 247.0625,
+        "name": "Tormentor Street Blazer (ATV)",
+        "type": "Standout vehicle",
+        "description": "An ATV parked in the shed.",
+        "screenshot": "screenshots/gta6-standout-vehicle-143.webp"
+    },
+    {
+        "id": "yellow-loot-box-042",
+        "kind": "other",
+        "x": 473.375,
+        "y": 524.8125,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "A member found the Delights: Crystal card here. Top floor by the roof access. Another card lies on the floor here.",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-077",
+        "kind": "package",
+        "x": 516.53125,
+        "y": 356.375,
+        "name": "Half Brick of Cocaine",
+        "type": "Hidden package",
+        "description": "In the garage.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-043",
+        "kind": "other",
+        "x": 310.15625,
+        "y": 415,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "",
+        "screenshot": "screenshots/gta6-yellow-loot-box-043.webp"
+    },
+    {
+        "id": "random-event-165",
+        "kind": "event",
+        "x": 345.53125,
+        "y": 404.0625,
+        "name": "Toilet Talk",
+        "type": "Random event",
+        "description": "Wyman talks with the plumber about the toilets.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-166",
+        "kind": "event",
+        "x": 509.625,
+        "y": 365.15625,
+        "name": "Dodos Rising",
+        "type": "Random event",
+        "description": "Activists protest against animal abuse: a polar bear is locked in the truck.",
+        "screenshot": "screenshots/gta6-random-event-166.webp"
+    },
+    {
+        "id": "gang-operation-046",
+        "kind": "other",
+        "x": 380.625,
+        "y": 451.875,
+        "name": "Small Weed Farm",
+        "type": "Gang Operation",
+        "description": "Knock out the man at the front and enter the room: a small weed farm, loot around $1,000.",
+        "screenshot": null
+    },
+    {
+        "id": "luxury-watch-007",
+        "kind": "other",
+        "x": 451.40625,
+        "y": 682.03125,
+        "name": "Luxury Watch (VR Gamer house safe)",
+        "type": "Luxury Watch",
+        "description": "In the safe.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-167",
+        "kind": "event",
+        "x": 522.15625,
+        "y": 368.8125,
+        "name": "Overheard Conversation (chimney)",
+        "type": "Random event",
+        "description": "At the back, under the chimney, you can hear a conversation from inside.",
+        "screenshot": "screenshots/gta6-random-event-167.webp"
+    },
+    {
+        "id": "card-liberty-city-penetrators-018",
+        "kind": "card",
+        "x": 471.71875,
+        "y": 413.375,
+        "name": "Liberty City Penetrators card: Dimitri Petrov",
+        "type": "Liberty City Penetrators card",
+        "description": "On the bleachers by the basketball court.",
+        "screenshot": null
+    },
+    {
+        "id": "weapon-spawn-075",
+        "kind": "other",
+        "x": 527.15625,
+        "y": 474.0625,
+        "name": "Kingpin Heathen",
+        "type": "Unique Weapon",
+        "description": "In the room with the two safes.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-168",
+        "kind": "event",
+        "x": 522.5,
+        "y": 371.90625,
+        "name": "Overheard Conversation (clinic)",
+        "type": "Random event",
+        "description": "On the left side, in the clinic, by the elevator.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-169",
+        "kind": "event",
+        "x": 473.375,
+        "y": 564.53125,
+        "name": "Gang Car Crash",
+        "type": "Random event",
+        "description": "Gangsters roll their car over and are then killed by the police. Pick up the loot bag afterwards.",
+        "screenshot": null
+    },
+    {
+        "id": "card-liberty-city-swingers-011",
+        "kind": "card",
+        "x": 529.25,
+        "y": 478.90625,
+        "name": "Liberty City Swingers card: Ichiro Yamada",
+        "type": "Liberty City Swingers card",
+        "description": "In the garage.",
+        "screenshot": null
+    },
+    {
+        "id": "weapon-spawn-076",
+        "kind": "other",
+        "x": 281.875,
+        "y": 534,
+        "name": "Turnt Nipper .38",
+        "type": "Unique Weapon",
+        "description": "Shoot the glider down by aiming at its ropes.",
+        "screenshot": "screenshots/gta6-weapon-spawn-076.webp"
+    },
+    {
+        "id": "yellow-loot-box-044",
+        "kind": "other",
+        "x": 348.03125,
+        "y": 388.4375,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "A green loot box next to the crashed hot dog stand, at the edge of the river.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-044.webp"
+    },
+    {
+        "id": "weapon-spawn-077",
+        "kind": "other",
+        "x": 369.53125,
+        "y": 427.78125,
+        "name": "Explorer's Knife",
+        "type": "Unique Weapon",
+        "description": "In the underwater cave: scuba gear can be picked up at the stairs.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-170",
+        "kind": "event",
+        "x": 421,
+        "y": 710.03125,
+        "name": "Mobility Scooter Robber",
+        "type": "Random event",
+        "description": "A woman on a mobility scooter steals a tourist's wallet, then tries to mug you.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-045",
+        "kind": "other",
+        "x": 447.90625,
+        "y": 408.8125,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "In the small building, on the table. A member found $72 in cash in it.",
+        "screenshot": null
+    },
+    {
+        "id": "standout-vehicle-144",
+        "kind": "vehicle",
+        "x": 531.75,
+        "y": 477.125,
+        "name": "Vice Vinyl Coquette",
+        "type": "Standout vehicle",
+        "description": "In the garage.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-046",
+        "kind": "other",
+        "x": 274.5,
+        "y": 404.78125,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "A member found the Liberty City Penetrators: Taylor Blanc card here. Behind the house.",
+        "screenshot": null
+    },
+    {
+        "id": "card-legends-of-ratface-017",
+        "kind": "card",
+        "x": 491.8125,
+        "y": 491.59375,
+        "name": "Legends of Ratface card: Death of Swallow",
+        "type": "Legends Of Ratface card",
+        "description": "At the desk on the second floor.",
+        "screenshot": "screenshots/gta6-card-legends-of-ratface-017.webp"
+    },
+    {
+        "id": "standout-vehicle-145",
+        "kind": "vehicle",
+        "x": 521.25,
+        "y": 472.40625,
+        "name": "Princess Jubilee",
+        "type": "Standout vehicle",
+        "description": "In the garage.",
+        "screenshot": null
+    },
+    {
+        "id": "standout-vehicle-146",
+        "kind": "vehicle",
+        "x": 315.375,
+        "y": 371.125,
+        "name": "Declasse Beer Nuts Yosemite",
+        "type": "Standout vehicle",
+        "description": "Parked in the yard.",
+        "screenshot": "screenshots/gta6-standout-vehicle-146.webp"
+    },
+    {
+        "id": "meteorite-048",
+        "kind": "meteorite",
+        "x": 522.21875,
+        "y": 374.46875,
+        "name": "Meteorite Fragment (office)",
+        "type": "Meteorite",
+        "description": "In the office, next to the pool table.",
+        "screenshot": null
+    },
+    {
+        "id": "card-backyard-wrestling-017",
+        "kind": "card",
+        "x": 415.96875,
+        "y": 386.34375,
+        "name": "Backyard Wrestling card: Axel Hughes (Standard)",
+        "type": "Backyard Wrestling card",
+        "description": "On the sofa outside the trailer.",
+        "screenshot": "screenshots/gta6-card-backyard-wrestling-017.webp"
+    },
+    {
+        "id": "card-backyard-wrestling-018",
+        "kind": "card",
+        "x": 341.03125,
+        "y": 360.71875,
+        "name": "Backyard Wrestling card: Blood Smith (Standard)",
+        "type": "Backyard Wrestling card",
+        "description": "Inside the treehouse covered with a red tarp, on the ground next to a pile of magazines.",
+        "screenshot": "screenshots/gta6-card-backyard-wrestling-018.webp"
+    },
+    {
+        "id": "card-backyard-wrestling-019",
+        "kind": "card",
+        "x": 389.3125,
+        "y": 577.8125,
+        "name": "Backyard Wrestling card: Cherry O'Glade (Standard)",
+        "type": "Backyard Wrestling card",
+        "description": "Inside the abandoned railway car on the tracks.",
+        "screenshot": "screenshots/gta6-card-backyard-wrestling-019.webp"
+    },
+    {
+        "id": "luxury-watch-008",
+        "kind": "other",
+        "x": 491.625,
+        "y": 491.59375,
+        "name": "Luxury Watch (safe)",
+        "type": "Luxury Watch",
+        "description": "Stored inside a safe. The access code is on the second floor.",
+        "screenshot": "screenshots/gta6-luxury-watch-008.webp"
+    },
+    {
+        "id": "card-backyard-wrestling-020",
+        "kind": "card",
+        "x": 424,
+        "y": 319.53125,
+        "name": "Backyard Wrestling card: Chrissy Deangelo (Standard)",
+        "type": "Backyard Wrestling card",
+        "description": "On the porch of Boulder Cabin, next to the door and a backpack.",
+        "screenshot": "screenshots/gta6-card-backyard-wrestling-020.webp"
+    },
+    {
+        "id": "yellow-loot-box-047",
+        "kind": "other",
+        "x": 408.59375,
+        "y": 421,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-048",
+        "kind": "other",
+        "x": 562.375,
+        "y": 432.5,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). Below the helipad on the maintenance deck, by the ladder in the far north-east corner.",
+        "screenshot": null
+    },
+    {
+        "id": "card-backyard-wrestling-021",
+        "kind": "card",
+        "x": 465.4375,
+        "y": 484.5,
+        "name": "Backyard Wrestling card: Katie K (Standard)",
+        "type": "Backyard Wrestling card",
+        "description": "On the corner of the roof ledge above the entrance of Harper Simmons Legal Services in Rockridge.",
+        "screenshot": null
+    },
+    {
+        "id": "card-liberty-city-swingers-012",
+        "kind": "card",
+        "x": 288,
+        "y": 497.78125,
+        "name": "Liberty City Swingers card: Blake Balls (Purple)",
+        "type": "Liberty City Swingers card",
+        "description": "On a shelf in the garage (no alarm).",
+        "screenshot": "screenshots/gta6-card-liberty-city-swingers-012.webp"
+    },
+    {
+        "id": "card-vice-city-club-de-futbol-010",
+        "kind": "card",
+        "x": 559,
+        "y": 475.5,
+        "name": "Vice City Club De Fútbol card: Ian Harris",
+        "type": "Vice City Club De Futbol card",
+        "description": "On the top floor of an apartment.",
+        "screenshot": null
+    },
+    {
+        "id": "card-vice-city-manatees-013",
+        "kind": "card",
+        "x": 288.125,
+        "y": 498,
+        "name": "Vice City Manatees card: Delord Nathan Alford",
+        "type": "Vice City Manatees card",
+        "description": "On a shelf.",
+        "screenshot": "screenshots/gta6-card-vice-city-manatees-013.webp"
+    },
+    {
+        "id": "yellow-loot-box-049",
+        "kind": "other",
+        "x": 312,
+        "y": 425.375,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). A member found the Axel Hughes card (Backyard Wrestling) here. Outside, at the back of a shop, in a phone box.",
+        "screenshot": null
+    },
+    {
+        "id": "card-vice-city-flamingos-017",
+        "kind": "card",
+        "x": 425.65625,
+        "y": 483.5625,
+        "name": "Vice City Flamingos card: Julian Hall",
+        "type": "Vice City Flamingos card",
+        "description": "Inside the office.",
+        "screenshot": "screenshots/gta6-card-vice-city-flamingos-017.webp"
+    },
+    {
+        "id": "parachuting-005",
+        "kind": "basejump",
+        "x": 565.78125,
+        "y": 437.46875,
+        "name": "Parachute",
+        "type": "Parachuting",
+        "description": "A box of parachutes at the south-east end of the rooftop walkway.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-050",
+        "kind": "other",
+        "x": 427.375,
+        "y": 704.21875,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). On the roof of the Fleeca bank.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-051",
+        "kind": "other",
+        "x": 564.59375,
+        "y": 437.78125,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). A member found the Bryson Powers rookie card (Vice City Narcos) here. In an emergency phone box on a structure on the rooftop, south corner.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-171",
+        "kind": "event",
+        "x": 499.84375,
+        "y": 464.84375,
+        "name": "Insurance Fraud (van crash)",
+        "type": "Random event",
+        "description": "A van crashes into a car. The man fakes an insurance claim and asks you to be his witness for a payout.",
+        "screenshot": null
+    },
+    {
+        "id": "standout-vehicle-147",
+        "kind": "vehicle",
+        "x": 246.1875,
+        "y": 448.875,
+        "name": "Buckingham Swift",
+        "type": "Standout vehicle",
+        "description": "A helicopter on the helipad.",
+        "screenshot": null
+    },
+    {
+        "id": "parachuting-006",
+        "kind": "basejump",
+        "x": 563.53125,
+        "y": 435.40625,
+        "name": "Parachute",
+        "type": "Parachuting",
+        "description": "A box of parachutes on the rooftop walkway, north side of the roof.",
+        "screenshot": null
+    },
+    {
+        "id": "weapon-spawn-078",
+        "kind": "other",
+        "x": 310.15625,
+        "y": 396.96875,
+        "name": "Couch Potato Mustang .357",
+        "type": "Unique Weapon",
+        "description": "In front of Dunk's trailer: shoot the rope holding the couch in the tree, then sit on it to find the revolver.",
+        "screenshot": null
+    },
+    {
+        "id": "waink-curiosity-041",
+        "kind": "waink",
+        "x": 372.0625,
+        "y": 432.03125,
+        "name": "QR Code (Stop! Don't Flush)",
+        "type": "WAiNK curiosity",
+        "description": "Inside the men's restroom. Scan it with WAiNK.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-052",
+        "kind": "other",
+        "x": 260.65625,
+        "y": 722.6875,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). On top of the building next to the van.",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-078",
+        "kind": "package",
+        "x": 518.40625,
+        "y": 343.84375,
+        "name": "Dead Man's Wallet",
+        "type": "Hidden package",
+        "description": "A dead man lies on the beach of the island. The wallet next to him held $1,238 in cash.",
+        "screenshot": "screenshots/gta6-hidden-package-078.webp"
+    },
+    {
+        "id": "yellow-loot-box-053",
+        "kind": "other",
+        "x": 314.78125,
+        "y": 716.84375,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). On the roof of the Tiki bar.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-172",
+        "kind": "event",
+        "x": 445.78125,
+        "y": 685.5,
+        "name": "Kingfisher Intimidation",
+        "type": "Random event",
+        "description": "Camo Kingfisher pickup rolls up to harass and threaten random man in parking lot. Their mad that he blew them off and didnt show up, they say. After they leave I question the man who got harassed and he reveals a Kingfisher Robbery opportunity on an island 1.69m north of Ammu-Nation parking lot.",
+        "screenshot": null
+    },
+    {
+        "id": "card-los-santos-panic-013",
+        "kind": "card",
+        "x": 424.3125,
+        "y": 370.96875,
+        "name": "Los Santos Panic card: Quinton Allen (Silver)",
+        "type": "Los Santos Panic card",
+        "description": "At the motel: hold L3 and R3 to pick up the signal, go inside and enter the code the man in the bathroom gives you (4242) into the safe.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-173",
+        "kind": "event",
+        "x": 490.75,
+        "y": 471.53125,
+        "name": "Police Raid",
+        "type": "Random event",
+        "description": "Three or four police cars and a riot squad raid the building.",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-079",
+        "kind": "package",
+        "x": 316.09375,
+        "y": 724.15625,
+        "name": "Cocaine Crate",
+        "type": "Hidden package",
+        "description": "A large crate near a guard leaning over a rail. It had cocaine in it.",
+        "screenshot": null
+    },
+    {
+        "id": "card-ed-comics-015",
+        "kind": "card",
+        "x": 435.28125,
+        "y": 379.96875,
+        "name": "Ed Comics Universe card: Great Uncle Sam",
+        "type": "Ed Comics card",
+        "description": "On the wooden porch of the bar (Anakala Sam's).",
+        "screenshot": "screenshots/gta6-card-ed-comics-015.webp"
+    },
+    {
+        "id": "meteorite-049",
+        "kind": "meteorite",
+        "x": 267.5,
+        "y": 503.8125,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-054",
+        "kind": "other",
+        "x": 315.59375,
+        "y": 724.5625,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). A small box at the top of the large tower.",
+        "screenshot": null
+    },
+    {
+        "id": "comics-005",
+        "kind": "shop",
+        "x": 493.78125,
+        "y": 477.5625,
+        "name": "Children of Wizard Wang",
+        "type": "Comics",
+        "description": "On the second floor.",
+        "screenshot": null
+    },
+    {
+        "id": "waink-curiosity-042",
+        "kind": "waink",
+        "x": 558.65625,
+        "y": 509.6875,
+        "name": "Pout Magazine",
+        "type": "WAiNK curiosity",
+        "description": "Scan the magazine at the top of the building in the balcony lounge to unlock a new makeup style of Lucia",
+        "screenshot": "screenshots/gta6-waink-curiosity-042.webp"
+    },
+    {
+        "id": "random-event-174",
+        "kind": "event",
+        "x": 352.09375,
+        "y": 622.625,
+        "name": "Mushroom Trip (stamina boost)",
+        "type": "Random event",
+        "description": "Eat the mushrooms to enter a trance and run an obstacle course. Finishing it improves your stamina.",
+        "screenshot": null
+    },
+    {
+        "id": "scoop-container-005",
+        "kind": "other",
+        "x": 269.75,
+        "y": 412.8125,
+        "name": "SCOOP Container (Wyman kit car)",
+        "type": "Scoop Container",
+        "description": "Open it with the Cut-Off Tool. A member found a Wyman kit car inside.",
+        "screenshot": null
+    },
+    {
+        "id": "meteorite-050",
+        "kind": "meteorite",
+        "x": 393.28125,
+        "y": 270.3125,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "Meteorite",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-175",
+        "kind": "event",
+        "x": 398.5625,
+        "y": 488.53125,
+        "name": "Rescue the Girl from Dru Kol",
+        "type": "Random event",
+        "description": "Get back in your car from going in the gas station to find her in the backseat. Drive her back to Gellhorn, raid the Kolt warehouse (4/5 enemies, suppressed weapon recommended) and then break the safe and collect the cash dotted around the warehouse. Take is about $6k.",
+        "screenshot": "screenshots/gta6-random-event-175.webp"
+    },
+    {
+        "id": "meteorite-051",
+        "kind": "meteorite",
+        "x": 253.09375,
+        "y": 338.3125,
+        "name": "Meteorite Fragment",
+        "type": "Meteorite",
+        "description": "Next to a wooden box; easier to see at night.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-055",
+        "kind": "other",
+        "x": 574.25,
+        "y": 484.46875,
+        "name": "Black Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). A black box with an envelope of cash, on the bar.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-056",
+        "kind": "other",
+        "x": 253.25,
+        "y": 338.25,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). Next to the meteorite fragment.",
+        "screenshot": null
+    },
+    {
+        "id": "vehicle-spawn-036",
+        "kind": "vehicle",
+        "x": 316.125,
+        "y": 712.375,
+        "name": "Riata ('70)",
+        "type": "Standout vehicle",
+        "description": "A vehicle Wyman asks for.",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-080",
+        "kind": "package",
+        "x": 390.25,
+        "y": 249.9375,
+        "name": "Pills Stash (gold mine)",
+        "type": "Hidden package",
+        "description": "Pills and a card, on the shelves.",
+        "screenshot": "screenshots/gta6-hidden-package-080.webp"
+    },
+    {
+        "id": "yellow-loot-box-057",
+        "kind": "other",
+        "x": 265.875,
+        "y": 334.15625,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). At the campsite.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-001",
+        "kind": "other",
+        "x": 313.9375,
+        "y": 405.875,
+        "name": "Basher Gorse 425",
+        "type": "Unique Weapon",
+        "description": "For sale at Pawn & Gun in Port Gellhorn.",
+        "screenshot": "screenshots/gta6-unique-weapon-001.webp"
+    },
+    {
+        "id": "yellow-loot-box-058",
+        "kind": "other",
+        "x": 520.84375,
+        "y": 337.21875,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). A member found the Tyson Brooks card (Los Santos Pounders) here. In the yellow lockbox at the camp.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-059",
+        "kind": "other",
+        "x": 311.34375,
+        "y": 394.78125,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). A member found the Xavier Gomez card (Los Santos Corkers) here.",
+        "screenshot": null
+    },
+    {
+        "id": "vehicle-spawn-037",
+        "kind": "vehicle",
+        "x": 546.53125,
+        "y": 512.5625,
+        "name": "Coast Guard Helicopter",
+        "type": "Standout vehicle",
+        "description": "On the helipad of the Coast Guard base.",
+        "screenshot": "screenshots/gta6-vehicle-spawn-037.webp"
+    },
+    {
+        "id": "helipad-009",
+        "kind": "other",
+        "x": 545.375,
+        "y": 512.46875,
+        "name": "Coast Guard Base Helipad",
+        "type": "Helipad",
+        "description": "At the Coast Guard base.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-060",
+        "kind": "other",
+        "x": 349.40625,
+        "y": 502.5625,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). Beside the tower, on a table.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-061",
+        "kind": "other",
+        "x": 467.84375,
+        "y": 658.75,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). In the construction site toilet, right next to the jump. A member found the Vicki card (Delights) here.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-062",
+        "kind": "other",
+        "x": 419.625,
+        "y": 715.875,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). Climb the stairs at the back to the roof.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-062.webp"
+    },
+    {
+        "id": "yellow-loot-box-063",
+        "kind": "other",
+        "x": 506.03125,
+        "y": 434.5,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). A member found the Luke X card (Backyard Wrestling) here. In the emergency phone box on the roof of the Flash FM building.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-176",
+        "kind": "event",
+        "x": 355.59375,
+        "y": 740.5625,
+        "name": "Assassination",
+        "type": "Random event",
+        "description": "A man shoots his opponent and runs off.",
+        "screenshot": null
+    },
+    {
+        "id": "magazine-070",
+        "kind": "magazine",
+        "x": 459.40625,
+        "y": 580.375,
+        "name": "DriveShaft: The Deviant",
+        "type": "Magazine",
+        "description": "On the magazine rack to the left of the counter.",
+        "screenshot": "screenshots/gta6-magazine-070.webp"
+    },
+    {
+        "id": "parachuting-007",
+        "kind": "basejump",
+        "x": 506.34375,
+        "y": 436.28125,
+        "name": "Parachute (Flash FM transmitter)",
+        "type": "Parachuting",
+        "description": "At the top of the Flash FM radio transmitter.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-177",
+        "kind": "event",
+        "x": 346.0625,
+        "y": 477.78125,
+        "name": "Wanted Posters (side mission)",
+        "type": "Random event",
+        "description": "Two wanted posters next to the front entrance of the Xero Food Mart. Examine them to unlock a side mission.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-064",
+        "kind": "other",
+        "x": 506.03125,
+        "y": 436.375,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). At the top of the Flash FM radio transmitter.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-178",
+        "kind": "event",
+        "x": 377.5,
+        "y": 345.59375,
+        "name": "Bud the Alien Hunter",
+        "type": "Random event",
+        "description": "Around 19:00 you hear \"woo woo\" shouts: Bud stands on top of his car, hoping to draw aliens and take a picture of them.",
+        "screenshot": "screenshots/gta6-random-event-178.webp"
+    },
+    {
+        "id": "yellow-loot-box-065",
+        "kind": "other",
+        "x": 324.03125,
+        "y": 407.46875,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). A member found a weed stash worth $300 here.",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-081",
+        "kind": "package",
+        "x": 458.40625,
+        "y": 571.90625,
+        "name": "Cocaine Flamingo",
+        "type": "Hidden package",
+        "description": "In front of the brick and white house with the hearts.",
+        "screenshot": "screenshots/gta6-hidden-package-081.webp"
+    },
+    {
+        "id": "yellow-loot-box-066",
+        "kind": "other",
+        "x": 433.4375,
+        "y": 690.1875,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). A member found the Antoine Bello card (Vice City Narcos) here. In a toolbox on the roof.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-066.webp"
+    },
+    {
+        "id": "yellow-loot-box-067",
+        "kind": "other",
+        "x": 499.78125,
+        "y": 477.71875,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). A member found the Lucky card (Delights) here. In the yellow phone box on the rooftop.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-067.webp"
+    },
+    {
+        "id": "vehicle-spawn-038",
+        "kind": "vehicle",
+        "x": 282.0625,
+        "y": 499.9375,
+        "name": "Pegassi Vitello",
+        "type": "Standout vehicle",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-179",
+        "kind": "event",
+        "x": 465.03125,
+        "y": 590.125,
+        "name": "Tigers in the Garages",
+        "type": "Random event",
+        "description": "There is a tiger in each of the garages of this house.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-068",
+        "kind": "other",
+        "x": 356.25,
+        "y": 437,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). Inside a garage.",
+        "screenshot": null
+    },
+    {
+        "id": "vehicle-spawn-039",
+        "kind": "vehicle",
+        "x": 282.375,
+        "y": 502.96875,
+        "name": "Pegassi Tempesta",
+        "type": "Standout vehicle",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "card-vice-city-flamingos-018",
+        "kind": "card",
+        "x": 537.5,
+        "y": 402.46875,
+        "name": "Vice City Flamingos card: Harold Toye",
+        "type": "Vice City Flamingos card",
+        "description": "In the pink flamingo garage.",
+        "screenshot": "screenshots/gta6-card-vice-city-flamingos-018.webp"
+    },
+    {
+        "id": "random-event-180",
+        "kind": "event",
+        "x": 314.15625,
+        "y": 408.75,
+        "name": "Drugged Robber",
+        "type": "Random event",
+        "description": "A man on drugs holds up his friend at the convenience store.",
+        "screenshot": null
+    },
+    {
+        "id": "safe-062",
+        "kind": "safe",
+        "x": 309.03125,
+        "y": 393.65625,
+        "name": "Safe (Prairie Court)",
+        "type": "Safe",
+        "description": "Inside the house; it needs a code.",
+        "screenshot": "screenshots/gta6-safe-062.webp"
+    },
+    {
+        "id": "yellow-loot-box-069",
+        "kind": "other",
+        "x": 348.9375,
+        "y": 288.46875,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...).",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-070",
+        "kind": "other",
+        "x": 420.09375,
+        "y": 715.625,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). On top of the building: climb the ladder behind the psychic.",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-082",
+        "kind": "package",
+        "x": 373.71875,
+        "y": 344.75,
+        "name": "Easter Egg: Beeping Bed (observatory)",
+        "type": "Hidden package",
+        "description": "Enter the dome from the top and go all the way down. Sit on the chair, get up and walk to the bed on the floor to find something to interact with.",
+        "screenshot": "screenshots/gta6-hidden-package-082.webp"
+    },
+    {
+        "id": "random-event-181",
+        "kind": "event",
+        "x": 382.25,
+        "y": 455.875,
+        "name": "Van Stuck in the Mud",
+        "type": "Random event",
+        "description": "Push the van out of the mud.",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-083",
+        "kind": "package",
+        "x": 454.46875,
+        "y": 680,
+        "name": "Bag of Cocaine (pool)",
+        "type": "Hidden package",
+        "description": "On the table next to the pool.",
+        "screenshot": null
+    },
+    {
+        "id": "weapon-spawn-079",
+        "kind": "weapon",
+        "x": 423.5,
+        "y": 706.40625,
+        "name": "Wortham WCR-1",
+        "type": "Weapon pickup",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-071",
+        "kind": "other",
+        "x": 373.46875,
+        "y": 638.1875,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). On the corner of the dock, on the opposite side from the tent.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-182",
+        "kind": "event",
+        "x": 382.1875,
+        "y": 455.84375,
+        "name": "Van Stuck in the Mud",
+        "type": "Random event",
+        "description": "Help push the van out of the mud.",
+        "screenshot": "screenshots/gta6-random-event-182.webp"
+    },
+    {
+        "id": "yellow-loot-box-072",
+        "kind": "other",
+        "x": 337.71875,
+        "y": 502.40625,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). Right at the entrance of the small boat dock.",
+        "screenshot": null
+    },
+    {
+        "id": "cafe-takeout-104",
+        "kind": "other",
+        "x": 297.78125,
+        "y": 507.25,
+        "name": "Sugar Shack",
+        "type": "Cafe Takeout",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "street-food-151",
+        "kind": "food",
+        "x": 297.375,
+        "y": 507.5,
+        "name": "Alleyway Coffee",
+        "type": "Street food",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-073",
+        "kind": "other",
+        "x": 486.03125,
+        "y": 467.59375,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). On the roof of Tyrone's apartment building, next to the couch.",
+        "screenshot": "screenshots/gta6-yellow-loot-box-073.webp"
+    },
+    {
+        "id": "weapon-spawn-080",
+        "kind": "weapon",
+        "x": 509.21875,
+        "y": 438.90625,
+        "name": "Molotov Cocktails & Hammer",
+        "type": "Weapon pickup",
+        "description": "A Molotov crate in the parking bay for the delivery truck, with a hammer on top.",
+        "screenshot": null
+    },
+    {
+        "id": "weapon-spawn-081",
+        "kind": "weapon",
+        "x": 312.5625,
+        "y": 411.1875,
+        "name": "Shotgun (Kingpin Bowling)",
+        "type": "Weapon pickup",
+        "description": "In the case on the pool table.",
+        "screenshot": null
+    },
+    {
+        "id": "atm-194",
+        "kind": "bank",
+        "x": 308.1875,
+        "y": 496.15625,
+        "name": "ATM",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-074",
+        "kind": "other",
+        "x": 506.90625,
+        "y": 437.53125,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). Under the bridge, on a concrete pillar.",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-084",
+        "kind": "package",
+        "x": 427.5,
+        "y": 623.3125,
+        "name": "Cocaine Flamingo",
+        "type": "Hidden package",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-075",
+        "kind": "other",
+        "x": 307,
+        "y": 413.25,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...).",
+        "screenshot": null
+    },
+    {
+        "id": "magazine-071",
+        "kind": "magazine",
+        "x": 463,
+        "y": 419.8125,
+        "name": "Styling Magazine (Lucia's make-up)",
+        "type": "Magazine",
+        "description": "A styling magazine that unlocks a new make-up style for Lucia.",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-183",
+        "kind": "event",
+        "x": 423.53125,
+        "y": 616.40625,
+        "name": "Caravan Fight",
+        "type": "Random event",
+        "description": "Knock on the caravan door enough times and the man inside comes out to fight.",
+        "screenshot": null
+    },
+    {
+        "id": "standout-vehicle-148",
+        "kind": "vehicle",
+        "x": 382.9375,
+        "y": 384.34375,
+        "name": "Kyle's Mallard",
+        "type": "Standout vehicle",
+        "description": "A retro plane for the catalogue.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-076",
+        "kind": "other",
+        "x": 510.375,
+        "y": 440.125,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). On the walkway of the roadside advertising sign.",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-085",
+        "kind": "package",
+        "x": 423.59375,
+        "y": 616.09375,
+        "name": "Gentrificator Mask",
+        "type": "Hidden package",
+        "description": "After the caravan fight, go inside to find a mask you can use to hide your face in robberies.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-077",
+        "kind": "other",
+        "x": 508.875,
+        "y": 440.53125,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). In the emergency phone box on the roof opposite the car park.",
+        "screenshot": null
+    },
+    {
+        "id": "card-vice-city-flamingos-019",
+        "kind": "card",
+        "x": 410.09375,
+        "y": 381.0625,
+        "name": "Vice City Flamingos card: Ulysses Whitlock (Gold)",
+        "type": "Vice City Flamingos card",
+        "description": "At the top of the radio tower.",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-086",
+        "kind": "package",
+        "x": 425.8125,
+        "y": 622,
+        "name": "Crystal Stash",
+        "type": "Hidden package",
+        "description": "",
+        "screenshot": "screenshots/gta6-hidden-package-086.webp"
+    },
+    {
+        "id": "standout-vehicle-149",
+        "kind": "vehicle",
+        "x": 352.34375,
+        "y": 497.0625,
+        "name": "Delaney Racing Car",
+        "type": "Standout vehicle",
+        "description": "In the building with the green doors.",
+        "screenshot": "screenshots/gta6-standout-vehicle-149.webp"
+    },
+    {
+        "id": "scoop-container-006",
+        "kind": "other",
+        "x": 388.59375,
+        "y": 640.46875,
+        "name": "SCOOP Container",
+        "type": "Scoop Container",
+        "description": "Open it with the Cut-Off Tool.",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-087",
+        "kind": "package",
+        "x": 378.0625,
+        "y": 451.125,
+        "name": "Shrooms Stash",
+        "type": "Hidden package",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "random-event-184",
+        "kind": "event",
+        "x": 347,
+        "y": 400.59375,
+        "name": "Jumbo the Gator",
+        "type": "Random event",
+        "description": "While you are in the store a gator comes through the door. The clerk calls him Jumbo and asks you to feed him a hot dog.",
+        "screenshot": "screenshots/gta6-random-event-184.webp"
+    },
+    {
+        "id": "card-right-wing-019",
+        "kind": "card",
+        "x": 453.9375,
+        "y": 498.3125,
+        "name": "Right Wing: America's Hero card: Red White & Boom",
+        "type": "Right Wing card",
+        "description": "On the roof.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-078",
+        "kind": "other",
+        "x": 446.84375,
+        "y": 689.53125,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). On a table in the north-west corner of the main warehouse area.",
+        "screenshot": null
+    },
+    {
+        "id": "yellow-loot-box-079",
+        "kind": "other",
+        "x": 446.875,
+        "y": 690.09375,
+        "name": "Yellow Loot Box",
+        "type": "Yellow Loot Box",
+        "description": "Random contents (a card, cash, jewelry...). On the roof of the building next to the warehouse.",
+        "screenshot": null
+    },
+    {
+        "id": "weapon-spawn-082",
+        "kind": "weapon",
+        "x": 323.875,
+        "y": 588.34375,
+        "name": "Flare Gun",
+        "type": "Weapon pickup",
+        "description": "In the hangar, up the stairs: a wooden crate on the side with money and the flare gun.",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-088",
+        "kind": "package",
+        "x": 429.90625,
+        "y": 578.6875,
+        "name": "Cash Box ($300)",
+        "type": "Hidden package",
+        "description": "A cash box with about $300 in the garage.",
+        "screenshot": "screenshots/gta6-hidden-package-088.webp"
+    },
+    {
+        "id": "weapon-spawn-083",
+        "kind": "weapon",
+        "x": 373.28125,
+        "y": 650.46875,
+        "name": "Fortune & Son Laird 350",
+        "type": "Weapon pickup",
+        "description": "Against some wooden pallets.",
+        "screenshot": null
+    },
+    {
+        "id": "safehouse-006",
+        "kind": "safehouse",
+        "x": 511.40625,
+        "y": 541.125,
+        "name": "Pegassi Residences",
+        "type": "Safehouse",
+        "description": "The Pegassi Residences safehouse from Chapter 5.",
+        "screenshot": "screenshots/gta6-safehouse-006.webp"
+    },
+    {
+        "id": "unique-weapon-002",
+        "kind": "other",
+        "x": 312.5625,
+        "y": 411.1875,
+        "name": "Gutterball Moreland 850",
+        "type": "Unique Weapon",
+        "description": "Unique pump action shotgun, looted during the Kingpin Bowling Illegal Operation in the abandoned bowling alley in Port Gellhorn.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-003",
+        "kind": "other",
+        "x": 515.9375,
+        "y": 500.78125,
+        "name": "Quarter Mile ES9",
+        "type": "Unique Weapon",
+        "description": "Unique weapon, looted during the Chatfield Storage & Logistics Illegal Operation on Waxman Island.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-004",
+        "kind": "other",
+        "x": 459.4375,
+        "y": 573.5625,
+        "name": "PTT Youngin$ K17",
+        "type": "Unique Weapon",
+        "description": "Unique weapon, looted during the Kamar Devon Community Center Illegal Operation in Southside.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-005",
+        "kind": "other",
+        "x": 499.8125,
+        "y": 451.96875,
+        "name": "San4San K17",
+        "type": "Unique Weapon",
+        "description": "Unique weapon, looted during the Sound4Sound Studio Illegal Operation in Stockyard.",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-089",
+        "kind": "package",
+        "x": 386.125,
+        "y": 428.96875,
+        "name": "$330 cash in box south side of this building",
+        "type": "Hidden package",
+        "description": "$330 cash in box south side of Building",
+        "screenshot": "screenshots/gta6-hidden-package-089.webp"
+    },
+    {
+        "id": "unique-weapon-006",
+        "kind": "other",
+        "x": 360.15625,
+        "y": 352.34375,
+        "name": "Hellspawn Comshot 12",
+        "type": "Unique Weapon",
+        "description": "Unique combat shotgun, reward for the challenge at a campsite off a side road in the mountains of North Kelly County. Sit on the carved wooden throne and eat to start it, survive, then pick up the shotgun leaning against the throne.",
+        "screenshot": null
+    },
+    {
+        "id": "card-liberty-city-swingers-013",
+        "kind": "card",
+        "x": 519.28125,
+        "y": 521.96875,
+        "name": "Ichiro Yamada",
+        "type": "Liberty City Swingers card",
+        "description": "On a table in the luggage building",
+        "screenshot": null
+    },
+    {
+        "id": "hidden-package-090",
+        "kind": "package",
+        "x": 390.4375,
+        "y": 418.125,
+        "name": "Scoop Shipping container",
+        "type": "Hidden package",
+        "description": "Scoop Shipping container Require cutting tool from chapter 3",
+        "screenshot": "screenshots/gta6-hidden-package-090.webp"
+    },
+    {
+        "id": "unique-weapon-007",
+        "kind": "other",
+        "x": 424.3125,
+        "y": 371.03125,
+        "name": "Stoner K17 MCD",
+        "type": "Unique Weapon",
+        "description": "Unique automatic pistol, in room 115 of the Big Day Motel off US-35, just north of Ambrosia. It is on the nightstand to the right of the bed; the people in the room are harmless.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-008",
+        "kind": "other",
+        "x": 420.3125,
+        "y": 305.34375,
+        "name": "The Patriarch DRX",
+        "type": "Unique Weapon",
+        "description": "Unique tactical pistol, underwater next to a sunken car in the south-west part of Kalaga Reservoir. Look for luggage and debris on the bank, then dive past the algae to find the car.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-009",
+        "kind": "other",
+        "x": 386.6875,
+        "y": 252.78125,
+        "name": "Lyle's H&L .38",
+        "type": "Unique Weapon",
+        "description": "Unique revolver, in the trunk of the car inside the old barn at the dead end of a road in Bonanza. Go in through the side door and open the trunk.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-010",
+        "kind": "other",
+        "x": 390.46875,
+        "y": 249.875,
+        "name": "Dirty Drifter",
+        "type": "Unique Weapon",
+        "description": "Unique double barrel shotgun, in the trunk of a blue car stuck in a mudslide just off the coastal road in Bonanza. Climb the bank to reach it.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-011",
+        "kind": "other",
+        "x": 571.84375,
+        "y": 498.96875,
+        "name": "Little Friend W-10",
+        "type": "Unique Weapon",
+        "description": "Unique micro SMG, on the floor of a second-floor room at the Sunlite Motel in Ocean Beach, off Shore Drive. Take the stairs under the red awning: it is in the blood-splattered room on the right.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-012",
+        "kind": "other",
+        "x": 333.9375,
+        "y": 561.125,
+        "name": "Cold War 556",
+        "type": "Unique Weapon",
+        "description": "Unique carbine assault rifle, just inside a bunker in Big Pine, North Mariana County. Enter from the south-west: it leans against a wooden crate at the back left.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-013",
+        "kind": "other",
+        "x": 429.8125,
+        "y": 299.1875,
+        "name": "Twin's Laird 350",
+        "type": "Unique Weapon",
+        "description": "Unique sporting sniper rifle, on the ground below a small hunting platform in the woods just east of Kalaga Reservoir, Lummox County, at the scene of a hunting accident.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-014",
+        "kind": "other",
+        "x": 558.53125,
+        "y": 430.21875,
+        "name": "IAA SMS-01",
+        "type": "Unique Weapon",
+        "description": "Unique advanced sniper rifle, on the very top of the roof of the Aichi Condominiums on Northside Ave, Washington Beach.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-015",
+        "kind": "other",
+        "x": 562.125,
+        "y": 432.65625,
+        "name": "Internal Affairs FF-SR",
+        "type": "Unique Weapon",
+        "description": "Unique sniper rifle, at the north-west edge of the roof of the tallest building on this stretch of Northside Ave, Washington Beach: the skyscraper with the helipad.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-016",
+        "kind": "other",
+        "x": 564.75,
+        "y": 439.6875,
+        "name": "FIB SM-69",
+        "type": "Unique Weapon",
+        "description": "Unique sniper rifle, at the top of a skyscraper in Washington Beach, Vice Beach, between two hospitals.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-017",
+        "kind": "other",
+        "x": 482.375,
+        "y": 541.15625,
+        "name": "Deever Tech GLR40",
+        "type": "Unique Weapon",
+        "description": "Unique weapon, found inside the same garage that holds the Cockroach Xtreme 556.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-018",
+        "kind": "other",
+        "x": 452.875,
+        "y": 292.3125,
+        "name": "Tallaloko Knife",
+        "type": "Unique Weapon",
+        "description": "Unique weapon, found on the upper floor of a cabin on the west shore of Lake Tallaloko, behind a locked door.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-019",
+        "kind": "other",
+        "x": 408.25,
+        "y": 225.375,
+        "name": "Shark Knife",
+        "type": "Unique Weapon",
+        "description": "Unique weapon, found at the bottom of an underwater ravine north of the Saint Attaway Islands, stuck in the seabed next to a shark cage.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-020",
+        "kind": "other",
+        "x": 539.5,
+        "y": 518.875,
+        "name": "Mercenary LMG 6",
+        "type": "Unique Weapon",
+        "description": "Unique weapon, found at the northern tip of the Port Vice City cargo island, next to a yellow shipping container.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-021",
+        "kind": "other",
+        "x": 304.75,
+        "y": 565.75,
+        "name": "Soldier's Combat Knife",
+        "type": "Unique Weapon",
+        "description": "Unique weapon, found next to a half-submerged tank on the western beach between Bobcat Bight and Bobcat Key.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-022",
+        "kind": "other",
+        "x": 449.71875,
+        "y": 388.8125,
+        "name": "Ride Free H&L .38",
+        "type": "Unique Weapon",
+        "description": "Unique weapon, looted during the Biker Hideout Illegal Operation, on the southern shore of Lake Leonida.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-023",
+        "kind": "other",
+        "x": 470.28125,
+        "y": 288.71875,
+        "name": "Marabunta Grande Type 9",
+        "type": "Unique Weapon",
+        "description": "Unique weapon, looted during the Weed Grow Illegal Operation, on the north-east shore of Lake Tallaloko.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-024",
+        "kind": "other",
+        "x": 459.46875,
+        "y": 567.96875,
+        "name": "Eris Fresh DSG",
+        "type": "Unique Weapon",
+        "description": "Unique weapon, looted during the Illegal Goods Store Illegal Operation, in Southside.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-025",
+        "kind": "other",
+        "x": 345.90625,
+        "y": 547.75,
+        "name": "Chronic Vatra",
+        "type": "Unique Weapon",
+        "description": "Unique weapon, looted during the Industrial Weed Grow Illegal Operation, in North Mariana County.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-026",
+        "kind": "other",
+        "x": 471.0625,
+        "y": 489.4375,
+        "name": "San4San Gorse 425",
+        "type": "Unique Weapon",
+        "description": "Unique weapon, looted during the Parlor Apartments Illegal Operation, in Rockridge.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-027",
+        "kind": "other",
+        "x": 426.34375,
+        "y": 384.25,
+        "name": "Final Chapter Shortstraw",
+        "type": "Unique Weapon",
+        "description": "Unique weapon, looted during the Hog Stars Garage Illegal Operation, in Ambrosia.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-028",
+        "kind": "other",
+        "x": 475.375,
+        "y": 394.90625,
+        "name": "Throttler Verro",
+        "type": "Unique Weapon",
+        "description": "Unique weapon, looted during the Farm Fix Meth Lab Illegal Operation.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-029",
+        "kind": "other",
+        "x": 358.1875,
+        "y": 590.8125,
+        "name": "Hostile Super400",
+        "type": "Unique Weapon",
+        "description": "Unique weapon, looted during the Mill Station Radar Base Illegal Operation, in Grassrivers, north of Watson Bay.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-030",
+        "kind": "other",
+        "x": 418.40625,
+        "y": 387.375,
+        "name": "Final Chapter KVGA-12",
+        "type": "Unique Weapon",
+        "description": "Unique weapon, looted during the Irons Building Supply Illegal Operation, in Ambrosia.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-031",
+        "kind": "other",
+        "x": 307.9375,
+        "y": 375.65625,
+        "name": "Clunker 556",
+        "type": "Unique Weapon",
+        "description": "Unique weapon, looted during the Brooks Boatworks Illegal Operation, in Port Gellhorn.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-032",
+        "kind": "other",
+        "x": 439.5625,
+        "y": 489.59375,
+        "name": "GRX 556",
+        "type": "Unique Weapon",
+        "description": "Unique weapon, looted during the Leonida Carrier Warehouse Illegal Operation.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-033",
+        "kind": "other",
+        "x": 435.40625,
+        "y": 617.75,
+        "name": "Marabunta Grande KZ-59",
+        "type": "Unique Weapon",
+        "description": "Unique weapon, looted during the Nova Auto Junkyard Illegal Operation, in Hamlet.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-034",
+        "kind": "other",
+        "x": 473.25,
+        "y": 473.65625,
+        "name": "San4San KZ-59",
+        "type": "Unique Weapon",
+        "description": "Unique weapon, looted during the Janjak's Garage Illegal Operation, in La Perle.",
+        "screenshot": null
+    },
+    {
+        "id": "unique-weapon-035",
+        "kind": "other",
+        "x": 477.53125,
+        "y": 499.0625,
+        "name": "Guardia Brothers FRA",
+        "type": "Unique Weapon",
+        "description": "Unique weapon, looted during the Casa Guardia Illegal Operation, in Little Cuba.",
+        "screenshot": null
     }
 ]
