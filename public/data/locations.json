@@ -43991,16 +43991,6 @@
         "screenshot": "screenshots/gta6-card-ed-comics-009.webp"
     },
     {
-        "id": "vehicle-spawn-020",
-        "kind": "vehicle",
-        "x": 355.65625,
-        "y": 608,
-        "name": "Imponte Soaring Phoenix",
-        "type": "Standout vehicle",
-        "description": "",
-        "screenshot": null
-    },
-    {
         "id": "helipad-002",
         "kind": "other",
         "x": 387.8125,
@@ -49932,7 +49922,7 @@
     },
     {
         "id": "hidden-package-091",
-        "kind": "other",
+        "kind": "package",
         "x": 287.0625,
         "y": 467.21875,
         "name": "Exploding Beached Whale",
@@ -50132,7 +50122,7 @@
     },
     {
         "id": "hidden-package-093",
-        "kind": "other",
+        "kind": "package",
         "x": 442,
         "y": 680.5625,
         "name": "Easter Egg: Sex Dungeon",
@@ -50362,7 +50352,7 @@
     },
     {
         "id": "hidden-package-097",
-        "kind": "other",
+        "kind": "package",
         "x": 304.59375,
         "y": 509.75,
         "name": "Easter Egg: Halloween House",
@@ -50982,7 +50972,7 @@
     },
     {
         "id": "hidden-package-105",
-        "kind": "other",
+        "kind": "package",
         "x": 394.25,
         "y": 380.3125,
         "name": "Easter Egg: Porn Studio Basement",
@@ -51052,7 +51042,7 @@
     },
     {
         "id": "hidden-package-107",
-        "kind": "other",
+        "kind": "package",
         "x": 395.625,
         "y": 469.71875,
         "name": "Lickable Frog",
@@ -53822,7 +53812,7 @@
     },
     {
         "id": "hidden-package-123",
-        "kind": "other",
+        "kind": "package",
         "x": 464.96875,
         "y": 419,
         "name": "Easter Egg: GTA San Andreas Definitive Edition House",
@@ -54312,7 +54302,7 @@
     },
     {
         "id": "hidden-package-128",
-        "kind": "other",
+        "kind": "package",
         "x": 388.03125,
         "y": 640.125,
         "name": "Mutated Giant Crab (research lab)",
@@ -54382,7 +54372,7 @@
     },
     {
         "id": "hidden-package-129",
-        "kind": "other",
+        "kind": "package",
         "x": 298.28125,
         "y": 513.96875,
         "name": "Fountain of Youth",

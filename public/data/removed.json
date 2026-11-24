@@ -44,6 +44,7 @@
   { "id": "towable-atm-054", "reason": "Duplicate of towable-atm-053, 0.42 map units away" },
   { "id": "towable-atm-080", "reason": "Duplicate of towable-atm-079, 0.98 map units away" },
   { "id": "towable-atm-086", "reason": "Duplicate of towable-atm-085, 0.32 map units away" },
+  { "id": "vehicle-spawn-020", "reason": "Duplicate of standout-vehicle-278 (Imponte Soaring Phoenix), 0.36 map units away" },
   { "id": "L3304", "reason": "Duplicate of L406 (Xero Gas Station), 0.64 map units away; its service is merged into L406" },
   { "id": "L3289", "reason": "Duplicate of L1619 (Xero Gas Station), 0.78 map units away; its service is merged into L1619" },
   { "id": "L3197", "reason": "Duplicate of L679 (Gas Station), 0.63 map units away; its service is merged into L679" },
