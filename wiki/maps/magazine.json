@@ -1450,6 +1450,54 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "90",
+			"position": [
+				945,
+				1477.97
+			],
+			"popup": {
+				"title": "Magazine: 11:59: Survivalist Culture",
+				"description": "Location: [[Capri]]<br/>On the rack to the right of the door.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "91",
+			"position": [
+				1254.38,
+				1903.28
+			],
+			"popup": {
+				"title": "Law & Litigation in Leonida",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "92",
+			"position": [
+				1881.72,
+				1941.09
+			],
+			"popup": {
+				"title": "Styling Magazine: Van Dyke",
+				"description": "Location: [[Vice City]]<br/>In the middle of the shopping center, by the big round structure with stairs.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

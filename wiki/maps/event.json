@@ -3530,6 +3530,1014 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "220",
+			"position": [
+				931.72,
+				2026.56
+			],
+			"popup": {
+				"title": "ATM Scam",
+				"description": "Location: [[Port Gellhorn]]<br/>After you take money out of the ATM, a woman asks you for $500.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "221",
+			"position": [
+				1601.56,
+				717.5
+			],
+			"popup": {
+				"title": "Old Lady Robber",
+				"description": "Location: [[Key Lento]]<br/>An old lady on a mobility scooter robs people outside Jeb's Snack Bar.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "222",
+			"position": [
+				932.03,
+				578.28
+			],
+			"popup": {
+				"title": "Jimmy the Drunk Sea Captain",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Jimmy wanders around the bar rambling at customers with his speargun.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "223",
+			"position": [
+				1682.19,
+				2296.41
+			],
+			"popup": {
+				"title": "Jimmy Figg Robbery",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the final chapter, Jimmy Figg can be robbed here.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "224",
+			"position": [
+				1813.75,
+				1588.75
+			],
+			"popup": {
+				"title": "Thieves Crash Their Car",
+				"description": "Location: [[Vice City]]<br/>Thieves crash their car and run, leaving a bag and a weapon behind.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "225",
+			"position": [
+				2220.47,
+				1674.38
+			],
+			"popup": {
+				"title": "Drag Queen Sobriety Test",
+				"description": "Location: [[Vice Beach]]<br/>Police give a drag queen a sobriety test.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "226",
+			"position": [
+				1671.25,
+				1221.09
+			],
+			"popup": {
+				"title": "Animal Services Protest",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Protesters stop a Leonida Animal Services truck to free a bear inside.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "227",
+			"position": [
+				1796.72,
+				1843.28
+			],
+			"popup": {
+				"title": "Couch Trap",
+				"description": "Location: [[Vice City]]<br/>Two women ask for help moving a sofa. If you help, you're drugged and wake up in a death trap.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "228",
+			"position": [
+				1184.38,
+				2526.09
+			],
+			"popup": {
+				"title": "UFO Van Abduction",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A van hangs in mid-air under a UFO, then drops back to the ground after a burst of light.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "229",
+			"position": [
+				1233.59,
+				2413.59
+			],
+			"popup": {
+				"title": "Helping Hunters",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A man shot his friend, who wears antlers on his head, and asks for a ride to the hospital.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "230",
+			"position": [
+				1098.13,
+				2472.03
+			],
+			"popup": {
+				"title": "Helping Hunters",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A hunter in a deer costume got shot and needs a lift to the hospital. Reward: the Laird 350 \"Hunter\" rifle.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "231",
+			"position": [
+				1330,
+				2838.13
+			],
+			"popup": {
+				"title": "Zeke & Pimple: Target Practice (2nd spot)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Another spot where Zeke and Pimple practise shooting. Talk to them to try it.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "232",
+			"position": [
+				960.47,
+				1792.03
+			],
+			"popup": {
+				"title": "Ghost Encounter",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Beat up the car to get the trophy The Truth Is Out There.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "233",
+			"position": [
+				923.91,
+				2275.47
+			],
+			"popup": {
+				"title": "Police Bust (Kolt Associates)",
+				"description": "Location: [[Port Gellhorn]]<br/>Police are arresting Kolt Associates and trying to get to the safe. Empty it before they do.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "234",
+			"position": [
+				1520.31,
+				1115.31
+			],
+			"popup": {
+				"title": "Couple Carjacking",
+				"description": "Location: [[Hamlet]]<br/>A couple who look like Jason and Lucia try to steal your car at gunpoint.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "235",
+			"position": [
+				1216.09,
+				2192.81
+			],
+			"popup": {
+				"title": "Apple Shot (ride to the race track)",
+				"description": "Location: [[Ambrosia]]<br/>A man asks for a ride to the race track nearby, where you play a round of Apple Shot.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "236",
+			"position": [
+				2235.16,
+				1357.5
+			],
+			"popup": {
+				"title": "Thieving Dog (watch)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A barking dog with a wallet in its mouth leads you to a valuable watch.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "237",
+			"position": [
+				1756.41,
+				1346.41
+			],
+			"popup": {
+				"title": "Sahara Van Crash (lawsuit)",
+				"description": "Location: [[Vice City]]<br/>A man gets T-boned by a Sahara van and plans to sue. Talk to him to get a cut as a witness.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "238",
+			"position": [
+				1206.72,
+				1648.13
+			],
+			"popup": {
+				"title": "Street Race Challenge",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Someone challenges you to a street race on the highway.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "239",
+			"position": [
+				2174.22,
+				1742.19
+			],
+			"popup": {
+				"title": "Give Two Girls a Ride Home",
+				"description": "Location: [[Vice Beach]]<br/>Two girls ask for a ride home.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "240",
+			"position": [
+				1733.13,
+				1635.47
+			],
+			"popup": {
+				"title": "Bikini Robbery",
+				"description": "Location: [[Vice City]]<br/>Two women in bikinis rob the pawn shop and fall through the ceiling. Help them out and rob the place yourself.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "241",
+			"position": [
+				2172.34,
+				1745.47
+			],
+			"popup": {
+				"title": "Man in the Sewer",
+				"description": "Location: [[Vice Beach]]<br/>Go to the sewer drain between the two trees.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "242",
+			"position": [
+				2226.56,
+				1740.63
+			],
+			"popup": {
+				"title": "Cargo Thieves",
+				"description": "Location: [[Vice Beach]]<br/>Two guys steal from the poolside bar on the shore.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "243",
+			"position": [
+				2197.66,
+				1701.56
+			],
+			"popup": {
+				"title": "Jewelry Store Heist",
+				"description": "Location: [[Vice Beach]]<br/>Four men on bikes rob the store. Follow them to a nearby alley to take their loot.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "244",
+			"position": [
+				1305.31,
+				2382.19
+			],
+			"popup": {
+				"title": "Apple Shot (Beefslap)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>If you give Beefslap a ride, you play a round of Apple Shot.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "245",
+			"position": [
+				1571.41,
+				2778.13
+			],
+			"popup": {
+				"title": "Alien Conspiracy Ranter",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A man on a truck shouts about aliens and Area 69.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "246",
+			"position": [
+				1851.56,
+				1697.81
+			],
+			"popup": {
+				"title": "Caden O (Influencer on the Bridge)",
+				"description": "Location: [[Vice City]]<br/>An influencer chases online clout by walking on the bridge. You can help him.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "247",
+			"position": [
+				1731.72,
+				1623.59
+			],
+			"popup": {
+				"title": "PTT Youngin$ Car Crash",
+				"description": "Location: [[Vice City]]<br/>Gang members crash their car and run from the police, leaving a stash bag and a unique gun.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "248",
+			"position": [
+				929.53,
+				2239.69
+			],
+			"popup": {
+				"title": "Homeless Woman Car Theft",
+				"description": "Location: [[Port Gellhorn]]<br/>A homeless woman tries to steal a car: help her or refuse.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "249",
+			"position": [
+				1800.16,
+				1759.69
+			],
+			"popup": {
+				"title": "Car Crash with Stash Bag",
+				"description": "Location: [[Vice City]]<br/>A car flips in front of you and a stash bag falls out of the boot: about $1,800.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "250",
+			"position": [
+				1845.16,
+				702.19
+			],
+			"popup": {
+				"title": "Drowning Streamer",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A streamer needs help: he is drowning.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "251",
+			"position": [
+				1684.38,
+				1394.69
+			],
+			"popup": {
+				"title": "Quick Mug",
+				"description": "Location: [[Vice City]]<br/>A man is mugged in his car in this alley; there is a small stash in his trunk.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "252",
+			"position": [
+				1323.91,
+				1063.59
+			],
+			"popup": {
+				"title": "Van Stuck in the Mud (tiger)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Another spot for the van stuck in the mud with a tiger in the back.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "253",
+			"position": [
+				1847.03,
+				1790.63
+			],
+			"popup": {
+				"title": "Bayside Apartments Gossip",
+				"description": "Location: [[Vice City]]<br/>Ground-floor neighbours chat about the other residents; stay close to hear their stories.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "254",
+			"position": [
+				1610.94,
+				2469.38
+			],
+			"popup": {
+				"title": "Mines Encounter",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>After connecting the dots between all the bodies in Port Gellhorn, a mysterious encounter waits here.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "255",
+			"position": [
+				1884.84,
+				1886.25
+			],
+			"popup": {
+				"title": "Drug Stop Arrest",
+				"description": "Location: [[Vice City]]<br/>Police arrest a man for drugs \"for personal use\".",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "256",
+			"position": [
+				1131.72,
+				1222.03
+			],
+			"popup": {
+				"title": "Vagrant Informant",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>By the fire pit, a vagrant chases you down with information you can pay for.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "257",
+			"position": [
+				780.47,
+				2117.19
+			],
+			"popup": {
+				"title": "Night Plane Drop",
+				"description": "Location: [[Port Gellhorn]]<br/>At night, a plane lands and trades with the local gang.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "258",
+			"position": [
+				2173.91,
+				1702.34
+			],
+			"popup": {
+				"title": "Sahara Truck Crash",
+				"description": "Location: [[Vice Beach]]<br/>A Sahara work truck hits a car and traps the driver. You can help them get out.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "259",
+			"position": [
+				1836.25,
+				1825.47
+			],
+			"popup": {
+				"title": "Car Theft at Status Auto Imports",
+				"description": "Location: [[Vice City]]<br/>A gang steals cars from Status Auto Imports.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "260",
+			"position": [
+				1571.41,
+				750.94
+			],
+			"popup": {
+				"title": "Rottweiler vs Iguana",
+				"description": "Location: [[Key Lento]]<br/>A Rottweiler on a leash barks at a full-grown green iguana.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "261",
+			"position": [
+				1011.41,
+				2554.53
+			],
+			"popup": {
+				"title": "Ghost Woman (car)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>The headlights flicker, the car stops, and a female ghost runs at you on all fours.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "262",
+			"position": [
+				1739.53,
+				2013.75
+			],
+			"popup": {
+				"title": "Self-Driving Car Security System",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Steal the red Coil Raiden: after a few meters it drives itself and its security system goes off.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "263",
+			"position": [
+				1602.5,
+				718.13
+			],
+			"popup": {
+				"title": "Cigarette Trick",
+				"description": "Location: [[Key Lento]]<br/>A man asks you for a cigarette.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "264",
+			"position": [
+				1100.31,
+				2149.22
+			],
+			"popup": {
+				"title": "Harper Hiding in Your Car",
+				"description": "Location: [[Port Gellhorn]]<br/>Harper hides in your car because she is being followed, and asks for a ride to a garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "265",
+			"position": [
+				1027.66,
+				2656.72
+			],
+			"popup": {
+				"title": "Sunshine the Aura Reader",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A woman named Sunshine does aura readings in the parking lot.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "266",
+			"position": [
+				1062.03,
+				2687.66
+			],
+			"popup": {
+				"title": "Couch Trap",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A woman asks for help putting a couch in her car, then kidnaps you for a deadly game.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "267",
+			"position": [
+				1244.38,
+				2413.13
+			],
+			"popup": {
+				"title": "Helping Hunters",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A hunter accidentally shoots his friend, who wears deer antlers.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "268",
+			"position": [
+				1694.84,
+				1455.31
+			],
+			"popup": {
+				"title": "Delivery Van Crash",
+				"description": "Location: [[Vice City]]<br/>A crashed delivery van by the highway: deliver the three remaining packages and send photos as proof.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "269",
+			"position": [
+				1495.16,
+				1735.16
+			],
+			"popup": {
+				"title": "Sahara Van Crash (car on fire)",
+				"description": "Location: [[Vice City]]<br/>A Sahara van crashes into a car, which catches fire with the driver trapped inside: help him or not.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "270",
+			"position": [
+				1065,
+				1926.88
+			],
+			"popup": {
+				"title": "Tourist Attacked by a Bear",
+				"description": "Location: [[Port Gellhorn]]<br/>A tourist asks you to deal with a black bear.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "271",
+			"position": [
+				1504.53,
+				2247.81
+			],
+			"popup": {
+				"title": "Gasoline Bath",
+				"description": "Location: [[Ambrosia]]<br/>A man fills a bathtub with gasoline at the gas station; it explodes when a car crashes into it.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "272",
+			"position": [
+				1307.5,
+				2765
+			],
+			"popup": {
+				"title": "Haunted Bridge",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Right after midnight, mist rolls in and you hear a woman crying.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "273",
+			"position": [
+				1362.19,
+				2030.16
+			],
+			"popup": {
+				"title": "Woman in Your Car (dog rescue)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A woman waits in your car and asks for a ride, then asks you to rescue her dog.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "274",
+			"position": [
+				1324.38,
+				2632.03
+			],
+			"popup": {
+				"title": "Tourist Attacked by a Bear",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Kill the bear to save the lost tourist from San Fierro.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "275",
+			"position": [
+				1525.31,
+				2863.75
+			],
+			"popup": {
+				"title": "Zeke & Pimple: Target Practice",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Two rednecks by the water hold things over their heads for you to shoot.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "276",
+			"position": [
+				1091.25,
+				2158.44
+			],
+			"popup": {
+				"title": "Two Men Fight",
+				"description": "Location: [[Port Gellhorn]]<br/>Two men fight, jump into a pickup and drive off.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "277",
+			"position": [
+				931.72,
+				2113.75
+			],
+			"popup": {
+				"title": "Homeless Woman Asks for Money",
+				"description": "Location: [[Port Gellhorn]]<br/>A homeless woman asks for money: give or refuse.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "278",
+			"position": [
+				1082.5,
+				2146.72
+			],
+			"popup": {
+				"title": "Peeping Tom",
+				"description": "Location: [[Port Gellhorn]]<br/>Zach peeks through a window at a couple.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "279",
+			"position": [
+				1863.28,
+				1832.81
+			],
+			"popup": {
+				"title": "Gym Junkie",
+				"description": "Location: [[Vice City]]<br/>A homeless man naps in your car when you come back from the gym.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "280",
+			"position": [
+				1747.66,
+				2612.81
+			],
+			"popup": {
+				"title": "Jacob's Tavern Robbery",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Two Final Chapter MC members rob the bar and throw an employee out of the upstairs window.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "281",
+			"position": [
+				1020.16,
+				1882.66
+			],
+			"popup": {
+				"title": "Helping Hunters",
+				"description": "Location: [[Port Gellhorn]]<br/>Reward: the Laird 350.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "282",
+			"position": [
+				1682.81,
+				2300.78
+			],
+			"popup": {
+				"title": "Jimmy Figgs Seaplane Base",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A seaplane lands and Final Chapter MC bikers collect a stash bag.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

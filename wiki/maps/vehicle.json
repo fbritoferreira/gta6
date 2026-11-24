@@ -5818,6 +5818,390 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "363",
+			"position": [
+				855,
+				1558.75
+			],
+			"popup": {
+				"title": "Granforma Zorrusso",
+				"description": "Location: [[Capri]]<br/>A very valuable supercar, in the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "364",
+			"position": [
+				1500,
+				924.38
+			],
+			"popup": {
+				"title": "Nagasaki Sea Sparrow",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the water.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "365",
+			"position": [
+				2012.5,
+				1668.28
+			],
+			"popup": {
+				"title": "Annis Elegy '90",
+				"description": "Location: [[Vice City]]<br/>An Elegy without a tracker, so you can get it early.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "366",
+			"position": [
+				1215.16,
+				539.38
+			],
+			"popup": {
+				"title": "Military Helicopter",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "367",
+			"position": [
+				1312.03,
+				1054.53
+			],
+			"popup": {
+				"title": "HVY Wastelander",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "368",
+			"position": [
+				1440.94,
+				1046.25
+			],
+			"popup": {
+				"title": "Truffade Thrax",
+				"description": "Location: [[Hamlet]]<br/>It doesn't always spawn: save and reload until it does.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "369",
+			"position": [
+				1770.16,
+				1167.81
+			],
+			"popup": {
+				"title": "Lowrider (garage)",
+				"description": "Location: [[Vice City]]<br/>In the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "370",
+			"position": [
+				921.25,
+				602.5
+			],
+			"popup": {
+				"title": "Dinka Enduro",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Hidden in the farthest corner of the small hideout.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "371",
+			"position": [
+				1398.28,
+				1076.09
+			],
+			"popup": {
+				"title": "Sea Sparrow",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "372",
+			"position": [
+				1499.06,
+				932.66
+			],
+			"popup": {
+				"title": "Mammoth Patriot '92",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>At the far end of the abandoned building.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "373",
+			"position": [
+				1286.56,
+				2236.09
+			],
+			"popup": {
+				"title": "HVY Airtug",
+				"description": "Location: [[Ambrosia]]<br/>Parked outside the hangar of Kyle's Mallard.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "374",
+			"position": [
+				1336.56,
+				2365
+			],
+			"popup": {
+				"title": "Vapid Sandking XT",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "375",
+			"position": [
+				1949.84,
+				1970.16
+			],
+			"popup": {
+				"title": "Canis Mesa",
+				"description": "Location: [[Vice City]]<br/>No tracker.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "376",
+			"position": [
+				1551.88,
+				736.09
+			],
+			"popup": {
+				"title": "Dinka Enduro (1972)",
+				"description": "Location: [[Key Lento]]<br/>Under the house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "377",
+			"position": [
+				1551.72,
+				736.41
+			],
+			"popup": {
+				"title": "Del Perro Scorcher",
+				"description": "Location: [[Key Lento]]<br/>Behind the house, leaning on the wall.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "378",
+			"position": [
+				1554.38,
+				738.28
+			],
+			"popup": {
+				"title": "Crest Kayak",
+				"description": "Location: [[Key Lento]]<br/>In the water next to the house, at the boat ramp.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "379",
+			"position": [
+				1555,
+				735.47
+			],
+			"popup": {
+				"title": "Seashark Hydroblast",
+				"description": "Location: [[Key Lento]]<br/>On the trailer in the driveway.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "380",
+			"position": [
+				2069.06,
+				1700
+			],
+			"popup": {
+				"title": "Pegassi Toros",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "381",
+			"position": [
+				1310.31,
+				852.81
+			],
+			"popup": {
+				"title": "Buckingham Maverick",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "382",
+			"position": [
+				1811.09,
+				1818.59
+			],
+			"popup": {
+				"title": "Emperor Sultan",
+				"description": "Location: [[Vice City]]<br/>Licence plate SPD DMN.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "383",
+			"position": [
+				1849.53,
+				1872.5
+			],
+			"popup": {
+				"title": "Albany '77 Manana",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "384",
+			"position": [
+				1399.22,
+				2427.81
+			],
+			"popup": {
+				"title": "Bravado Banshee",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>One or two Banshees are always parked here.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "385",
+			"position": [
+				1488.91,
+				2877.81
+			],
+			"popup": {
+				"title": "Dodo Seaplane",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unlocked at the end of the dock.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "386",
+			"position": [
+				1746.72,
+				1160
+			],
+			"popup": {
+				"title": "Dundreary Chino (1965)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

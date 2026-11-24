@@ -1578,6 +1578,70 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "98",
+			"position": [
+				961.88,
+				2424.06
+			],
+			"popup": {
+				"title": "QR Code: Stop! Don't Flush",
+				"description": "Location: [[Port Gellhorn]]<br/>Scan it with WAiNK.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "99",
+			"position": [
+				2196.56,
+				1702.19
+			],
+			"popup": {
+				"title": "#NoFlushers Tag: Utility Markings",
+				"description": "Location: [[Vice Beach]]<br/>On Grape St., in front of the jewelry store: look at the ground near the street parking.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "100",
+			"position": [
+				1027.66,
+				2660.47
+			],
+			"popup": {
+				"title": "Zombie Deer Tattoo (WAiNK)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the abandoned real estate office (with a ledger you can read): a zombie deer tattoo to scan on the ground.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "101",
+			"position": [
+				932.66,
+				2238.13
+			],
+			"popup": {
+				"title": "#NoFlushers Poster (church)",
+				"description": "Location: [[Port Gellhorn]]<br/>On the church bulletin board outside: a WAiNK code to scan; the No Flushers text you.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

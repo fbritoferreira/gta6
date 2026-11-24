@@ -1418,6 +1418,150 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "88",
+			"position": [
+				1683.44,
+				2301.72
+			],
+			"popup": {
+				"title": "Safe",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the trailer inside the warehouse.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "89",
+			"position": [
+				865.31,
+				1568.91
+			],
+			"popup": {
+				"title": "Safe",
+				"description": "Location: [[Capri]]<br/>In the upstairs bedroom.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "90",
+			"position": [
+				723.28,
+				2332.03
+			],
+			"popup": {
+				"title": "Office Safe",
+				"description": "Location: [[Port Gellhorn]]<br/>Inside the building.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "91",
+			"position": [
+				1725.47,
+				1611.09
+			],
+			"popup": {
+				"title": "Office Safe",
+				"description": "Location: [[Vice City]]<br/>Break in from the back parking lot, near the trash lawyer, and enter on the left. There is also a loot box on the roof.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "92",
+			"position": [
+				1278.28,
+				1230.31
+			],
+			"popup": {
+				"title": "Safe (gas station)",
+				"description": "Location: [[Watson Bay]]<br/>In the back office of the gas station. Cash inside.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "93",
+			"position": [
+				1075.47,
+				2174.22
+			],
+			"popup": {
+				"title": "Safe",
+				"description": "Location: [[Port Gellhorn]]<br/>Downstairs in the construction container.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "94",
+			"position": [
+				965.63,
+				2282.19
+			],
+			"popup": {
+				"title": "Safe (destroyed room)",
+				"description": "Location: [[Port Gellhorn]]<br/>About $95 inside.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "95",
+			"position": [
+				813.91,
+				1671.25
+			],
+			"popup": {
+				"title": "Safe (bedroom closet)",
+				"description": "Location: [[Capri]]<br/>In the closet of the front bedroom.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "96",
+			"position": [
+				1516.41,
+				1124.84
+			],
+			"popup": {
+				"title": "Safe (back office)",
+				"description": "Location: [[Hamlet]]<br/>In the back office, with cash.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

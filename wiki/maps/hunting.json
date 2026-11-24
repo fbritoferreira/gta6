@@ -154,6 +154,22 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "9",
+			"position": [
+				594.06,
+				2347.97
+			],
+			"popup": {
+				"title": "Unique Rabbit (soot-spotted cottontail)",
+				"description": "Location: [[Port Gellhorn]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

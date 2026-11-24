@@ -12,17 +12,17 @@
     {
       "title": "Map:GTA VI: Collectible Cards",
       "path": "maps/card.json",
-      "markers": 416
+      "markers": 446
     },
     {
       "title": "Map:GTA VI: WAiNK Scans",
       "path": "maps/waink.json",
-      "markers": 97
+      "markers": 101
     },
     {
       "title": "Map:GTA VI: Magazines, Books and Comics",
       "path": "maps/magazine.json",
-      "markers": 89
+      "markers": 92
     },
     {
       "title": "Map:GTA VI: Unique Playlists",
@@ -67,7 +67,7 @@
     {
       "title": "Map:GTA VI: Banks and Vaults",
       "path": "maps/bank.json",
-      "markers": 23
+      "markers": 24
     },
     {
       "title": "Map:GTA VI: Smash 'n' Grabs",
@@ -87,17 +87,17 @@
     {
       "title": "Map:GTA VI: Hidden Packages",
       "path": "maps/package.json",
-      "markers": 120
+      "markers": 150
     },
     {
       "title": "Map:GTA VI: Meteorites",
       "path": "maps/meteorite.json",
-      "markers": 71
+      "markers": 78
     },
     {
       "title": "Map:GTA VI: Treasures",
       "path": "maps/treasure.json",
-      "markers": 5
+      "markers": 6
     },
     {
       "title": "Map:GTA VI: Messages in a Bottle",
@@ -107,7 +107,7 @@
     {
       "title": "Map:GTA VI: Book Swaps",
       "path": "maps/bookswap.json",
-      "markers": 7
+      "markers": 8
     },
     {
       "title": "Map:GTA VI: 1010 Murals",
@@ -117,7 +117,7 @@
     {
       "title": "Map:GTA VI: Standout Vehicles",
       "path": "maps/vehicle.json",
-      "markers": 362
+      "markers": 386
     },
     {
       "title": "Map:GTA VI: Under the Bridge Flights",
@@ -142,22 +142,22 @@
     {
       "title": "Map:GTA VI: Hunting Locations",
       "path": "maps/hunting.json",
-      "markers": 8
+      "markers": 9
     },
     {
       "title": "Map:GTA VI: Random Events",
       "path": "maps/event.json",
-      "markers": 219
+      "markers": 282
     },
     {
       "title": "Map:GTA VI: Safes",
       "path": "maps/safe.json",
-      "markers": 87
+      "markers": 96
     },
     {
       "title": "Map:GTA VI: Towable ATMs",
       "path": "maps/towatm.json",
-      "markers": 93
+      "markers": 94
     },
     {
       "title": "Map:GTA VI: Payday Loans",
@@ -167,12 +167,12 @@
     {
       "title": "Map:GTA VI: Weapon Pickups",
       "path": "maps/weapon.json",
-      "markers": 94
+      "markers": 103
     },
     {
       "title": "Map:GTA VI: 100% Completion",
       "path": "maps/completion.json",
-      "markers": 1596
+      "markers": 1644
     }
   ]
 }

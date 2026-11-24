@@ -106,6 +106,22 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "6",
+			"position": [
+				898.28,
+				1226.88
+			],
+			"popup": {
+				"title": "Gold Doubloon",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Underwater, below the cluster of three huts.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

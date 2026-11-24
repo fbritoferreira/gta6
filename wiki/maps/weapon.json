@@ -1530,6 +1530,150 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "95",
+			"position": [
+				1510.16,
+				2664.38
+			],
+			"popup": {
+				"title": "Twin Laird 350 Sniper Rifle",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Below the tree stand (where the magazine is), next to a body.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "96",
+			"position": [
+				921.41,
+				2313.13
+			],
+			"popup": {
+				"title": "H&L .38 Revolver",
+				"description": "Location: [[Port Gellhorn]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "97",
+			"position": [
+				1569.84,
+				757.66
+			],
+			"popup": {
+				"title": "Gun Stash House",
+				"description": "Location: [[Key Lento]]<br/>Grenades, a rocket launcher and more.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "98",
+			"position": [
+				1290.31,
+				2234.06
+			],
+			"popup": {
+				"title": "Shovels (hangar wall)",
+				"description": "Location: [[Ambrosia]]<br/>Five spades and shovels mounted on the wall inside the hangar of Kyle's Mallard.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "99",
+			"position": [
+				1559.22,
+				746.09
+			],
+			"popup": {
+				"title": "W-22 Small Hunting Rifle",
+				"description": "Location: [[Key Lento]]<br/>On the balcony of the house, next to the cage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "100",
+			"position": [
+				1121.56,
+				1220
+			],
+			"popup": {
+				"title": "Laird 350 Sniper Rifle (tower)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On top of the tower: stand on a vehicle to reach the broken ladder.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "101",
+			"position": [
+				1028.28,
+				2133.13
+			],
+			"popup": {
+				"title": "Sniper Rifle (hunter stand)",
+				"description": "Location: [[Port Gellhorn]]<br/>A black panther is near the hunter stand.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "102",
+			"position": [
+				1381.72,
+				916.56
+			],
+			"popup": {
+				"title": "Molotov Cocktails (crate)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In a crate on the ground.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "103",
+			"position": [
+				1377.03,
+				904.38
+			],
+			"popup": {
+				"title": "Sticky Bombs (Wastelander crate)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the crate in the back of the Wastelander.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

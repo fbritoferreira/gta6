@@ -6682,6 +6682,486 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "417",
+			"position": [
+				1233.13,
+				1990.47
+			],
+			"popup": {
+				"title": "Vice City Flamingos card: Elias Delgado",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the bench.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "418",
+			"position": [
+				895,
+				2174.53
+			],
+			"popup": {
+				"title": "Vice City Flamingos card: Jude Flores",
+				"description": "Location: [[Port Gellhorn]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "419",
+			"position": [
+				1867.19,
+				1299.22
+			],
+			"popup": {
+				"title": "Los Santos Panic card: Jackson Belton",
+				"description": "Location: [[Vice City]]<br/>On the rooftop.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "420",
+			"position": [
+				1505.63,
+				656.88
+			],
+			"popup": {
+				"title": "Vice City Manatees card: Jacob Snowman",
+				"description": "Location: [[Key Lento]]<br/>At the tower, in a box next to the sniper rifle. Climb the ladders.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "421",
+			"position": [
+				945.63,
+				2145.63
+			],
+			"popup": {
+				"title": "Vice City Narcos card: Beck R. Heffer (Orange)",
+				"description": "Location: [[Port Gellhorn]]<br/>In the staff area, behind an alarm-secured door, on a notice board.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "422",
+			"position": [
+				752.34,
+				1655.47
+			],
+			"popup": {
+				"title": "Legends of Ratface card: The Vermin Vigilante",
+				"description": "Location: [[Capri]]<br/>In the back garden, on top of the doghouse (a miniature mansion).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "423",
+			"position": [
+				1759.06,
+				1398.75
+			],
+			"popup": {
+				"title": "Vice City Manatees card: Tusi Taufua",
+				"description": "Location: [[Vice City]]<br/>Near the pool table across from the gym.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "424",
+			"position": [
+				1741.09,
+				1634.22
+			],
+			"popup": {
+				"title": "Liberty City Penetrators card: Remy Herbert (Silver)",
+				"description": "Location: [[Vice City]]<br/>On the second floor of the motel, on the dresser in the back room.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "425",
+			"position": [
+				1744.69,
+				2711.25
+			],
+			"popup": {
+				"title": "Los Santos Panic card: Jakob Markic (Yellow)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>At the base of the basketball hoop. Watch out for the Rottweiler!",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "426",
+			"position": [
+				948.75,
+				2126.88
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: President Blunt",
+				"description": "Location: [[Port Gellhorn]]<br/>On top of the billboard.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "427",
+			"position": [
+				1915.63,
+				2165.94
+			],
+			"popup": {
+				"title": "Los Santos Panic card: Nikkander Orlov (Purple)",
+				"description": "Location: [[Waning Sands]]<br/>At the back of the garage, by the workbench.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "428",
+			"position": [
+				1121.41,
+				1219.69
+			],
+			"popup": {
+				"title": "America's Next Top Hooker card: Sapphire (Gold)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On top of the tower: stand on a vehicle to reach the broken ladder.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "429",
+			"position": [
+				2236.72,
+				1522.66
+			],
+			"popup": {
+				"title": "Vice City Manatees card: Maleek Rivers",
+				"description": "Location: [[Vice Beach]]<br/>Move the crates with the pallet jack to get into the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "430",
+			"position": [
+				1722.66,
+				2592.5
+			],
+			"popup": {
+				"title": "Liberty City Swingers card: Mario Rugama",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>At the gas station, north side.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "431",
+			"position": [
+				2191.72,
+				1594.38
+			],
+			"popup": {
+				"title": "America's Next Top Hooker card: Kalvyn (Underdog)",
+				"description": "Location: [[Vice Beach]]<br/>Climb the ladder by the garden gnome; the card is on the platform halfway up.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "432",
+			"position": [
+				1723.59,
+				1603.28
+			],
+			"popup": {
+				"title": "Vice City Flamingos card: Charlie Spears",
+				"description": "Location: [[Vice City]]<br/>In the blue house, on the front of the fridge in the kitchen.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "433",
+			"position": [
+				1742.66,
+				2025.16
+			],
+			"popup": {
+				"title": "Vice City Flamingos card: Thunder Lee",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the edge of the bench in a dugout on the baseball field.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "434",
+			"position": [
+				787.03,
+				2134.06
+			],
+			"popup": {
+				"title": "Nine1Nine card: Julia (Premium)",
+				"description": "Location: [[Port Gellhorn]]<br/>Inside the small transformer station on the ground, opposite the yellow box.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "435",
+			"position": [
+				1365,
+				1729.84
+			],
+			"popup": {
+				"title": "Vice City Flamingos card: Angel Cienfuegos (Blue)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>At the back of the gas station, on top of the microwave in the staff break room.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "436",
+			"position": [
+				2149.22,
+				1694.38
+			],
+			"popup": {
+				"title": "Vice City Flamingos card: Elias Delgado (Pink)",
+				"description": "Location: [[Vice Beach]]<br/>On the ground next to a couch under an awning, on the side of a yellow condo building at the back of the complex.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "437",
+			"position": [
+				1613.28,
+				1278.13
+			],
+			"popup": {
+				"title": "Vice City Flamingos card: Bill Norton",
+				"description": "Location: [[Vice City]]<br/>On a ledge of the arched opening at the end of the second-floor balcony above the E-Z Kwik.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "438",
+			"position": [
+				1726.88,
+				1308.75
+			],
+			"popup": {
+				"title": "Vice City Flamingos card: Harold Toye (Blue)",
+				"description": "Location: [[Vice City]]<br/>On the ground under a folding chair, behind the Open Door Immigration Services building.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "439",
+			"position": [
+				1161.09,
+				1064.69
+			],
+			"popup": {
+				"title": "Vice City Flamingos card: Julian Cruz (Silver)",
+				"description": "Location: [[Watson Bay]]<br/>On the top-level left balcony of an apartment at the back of the large building full of stores.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "440",
+			"position": [
+				1152.5,
+				1093.59
+			],
+			"popup": {
+				"title": "Vice City Flamingos card: Mateo Caballero (Gold)",
+				"description": "Location: [[Watson Bay]]<br/>Inside a large bird's nest on top of the Watson Bay water tower.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "441",
+			"position": [
+				1564.84,
+				1262.03
+			],
+			"popup": {
+				"title": "Delights card: Harley",
+				"description": "Location: [[Vice City]]<br/>On the roof of the funeral home.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "442",
+			"position": [
+				1805.63,
+				1401.56
+			],
+			"popup": {
+				"title": "Vice City Flamingos card: Ulysses Whitlock (Silver)",
+				"description": "Location: [[Vice City]]<br/>Under a chair on a ledge at the top of the spiral staircase on the roof of the Penny Haus building.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "443",
+			"position": [
+				1741.25,
+				1835.31
+			],
+			"popup": {
+				"title": "Liberty City Swingers card: Garth Buxton",
+				"description": "Location: [[Vice City]]<br/>In the portable toilet.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "444",
+			"position": [
+				1787.97,
+				1817.66
+			],
+			"popup": {
+				"title": "Liberty City Penetrators card: Lev Volkov",
+				"description": "Location: [[Vice City]]<br/>Second floor, next to the TV.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "445",
+			"position": [
+				1629.22,
+				2802.97
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: President Quinn",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On top of the billboard by the road.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "446",
+			"position": [
+				700.31,
+				2487.66
+			],
+			"popup": {
+				"title": "Vice City Manatees card: Reggie Pierce",
+				"description": "Location: [[Port Gellhorn]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

@@ -138,6 +138,22 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "8",
+			"position": [
+				1616.56,
+				743.13
+			],
+			"popup": {
+				"title": "Book: Killer Prom",
+				"description": "Location: [[Key Lento]]<br/>In a turtle bookcase by the road, in front of a house. Killer Prom by H.C. Griggs.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

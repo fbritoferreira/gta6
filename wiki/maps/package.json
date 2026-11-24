@@ -1946,6 +1946,486 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "121",
+			"position": [
+				922.81,
+				550.47
+			],
+			"popup": {
+				"title": "Donnie's Stash",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the back of the SBW hangar: go up the stairs and climb the wooden boxes next to the American flag onto the office roof. A bag next to the bed holds about $4,290.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "122",
+			"position": [
+				1162.81,
+				2608.91
+			],
+			"popup": {
+				"title": "Shrooms (under the logs)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In front of the truck crash site, under the logs.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "123",
+			"position": [
+				1130.47,
+				2990.94
+			],
+			"popup": {
+				"title": "Shrooms Stash ($300)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Next to the tent.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "124",
+			"position": [
+				1071.41,
+				2883.28
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A short distance from the yellow loot box.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "125",
+			"position": [
+				1563.28,
+				681.56
+			],
+			"popup": {
+				"title": "Dolphin Mailbox",
+				"description": "Location: [[Key Lento]]<br/>Kick it for cash, drugs or a random card.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "126",
+			"position": [
+				1907.03,
+				2494.22
+			],
+			"popup": {
+				"title": "Cocaine Flamingos (2)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "127",
+			"position": [
+				1094.53,
+				2869.38
+			],
+			"popup": {
+				"title": "Cocaine Flamingo (shipwreck container)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On top of a container that fell off the shipwreck. Destroy the flamingo that is still standing.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "128",
+			"position": [
+				1501.25,
+				661.72
+			],
+			"popup": {
+				"title": "Dolphin Mailbox",
+				"description": "Location: [[Key Lento]]<br/>Kick it for cash, drugs or a random card.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "129",
+			"position": [
+				1259.38,
+				3069.84
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>At the very top of the island. Just the one flamingo.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "130",
+			"position": [
+				1738.13,
+				1450.16
+			],
+			"popup": {
+				"title": "Weed (2 bags)",
+				"description": "Location: [[Vice City]]<br/>Next to the card.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "131",
+			"position": [
+				1686.56,
+				1499.53
+			],
+			"popup": {
+				"title": "Purple Drank and Weed",
+				"description": "Location: [[Vice City]]<br/>Next to the card and in the other room.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "132",
+			"position": [
+				777.34,
+				1712.34
+			],
+			"popup": {
+				"title": "Purple Drank",
+				"description": "Location: [[Capri]]<br/>Narco pills.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "133",
+			"position": [
+				1745.31,
+				1565.31
+			],
+			"popup": {
+				"title": "Weed (2) and Cash",
+				"description": "Location: [[Vice City]]<br/>Next to the card and in the paddling pool.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "134",
+			"position": [
+				667.97,
+				2341.56
+			],
+			"popup": {
+				"title": "Scuba Gear",
+				"description": "Location: [[Port Gellhorn]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "135",
+			"position": [
+				1920.78,
+				1608.91
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[Vice City]]<br/>Right in front of the cabana, on the boardwalk.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "136",
+			"position": [
+				1714.69,
+				2067.03
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In front of the house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "137",
+			"position": [
+				1862.19,
+				1186.25
+			],
+			"popup": {
+				"title": "Pills",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Upstairs: through the first door, then the first door on the left.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "138",
+			"position": [
+				1861.41,
+				1187.97
+			],
+			"popup": {
+				"title": "Crystal",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Downstairs, between the two hospital beds.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "139",
+			"position": [
+				1121.72,
+				1220.31
+			],
+			"popup": {
+				"title": "Cocaine Bags (tower)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>You need a vehicle to stand on to reach the broken ladder on the side of the tower.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "140",
+			"position": [
+				589.53,
+				2345.78
+			],
+			"popup": {
+				"title": "Crate",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Next to the little cabin.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "141",
+			"position": [
+				1065,
+				2883.44
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Near the washed-up plastic flamingos.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "142",
+			"position": [
+				1069.38,
+				2900.47
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Lying on the beach.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "143",
+			"position": [
+				1324.38,
+				2762.81
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Lying flat on a rock next to the river.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "144",
+			"position": [
+				904.69,
+				2209.69
+			],
+			"popup": {
+				"title": "Wallet (phone box)",
+				"description": "Location: [[Port Gellhorn]]<br/>Up on the station, in the phone box.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "145",
+			"position": [
+				742.19,
+				1915.16
+			],
+			"popup": {
+				"title": "Pills (crate)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Inside a wooden crate. One guard inside.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "146",
+			"position": [
+				743.13,
+				1913.75
+			],
+			"popup": {
+				"title": "Macizo Cigars",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Inside a green container. One guard; you get a trespassing call.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "147",
+			"position": [
+				1297.19,
+				1932.5
+			],
+			"popup": {
+				"title": "Pills (toilet)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the men's bathroom behind the gas station: open the toilet.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "148",
+			"position": [
+				1556.88,
+				2195.63
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[Ambrosia]]<br/>Next to the woman vendor.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "149",
+			"position": [
+				2023.59,
+				1764.06
+			],
+			"popup": {
+				"title": "Cocaine Flamingos",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Just below the For Sale / For Lease sign.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "150",
+			"position": [
+				1060.31,
+				2690
+			],
+			"popup": {
+				"title": "Cocaine Flamingo",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In front of the house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

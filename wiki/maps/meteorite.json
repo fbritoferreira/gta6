@@ -1162,6 +1162,118 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "72",
+			"position": [
+				1167.97,
+				2615.16
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Look for the red glow behind the truck crash site.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "73",
+			"position": [
+				1442.03,
+				2970.94
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "74",
+			"position": [
+				592.66,
+				2371.56
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "75",
+			"position": [
+				1096.56,
+				2641.56
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Under the train bridge.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "76",
+			"position": [
+				727.34,
+				845.94
+			],
+			"popup": {
+				"title": "Meteorite Fragment (underwater station)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Under the buoy: the underwater station is right below it.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "77",
+			"position": [
+				1253.91,
+				2591.25
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the water, to the right of the WAiNK scannable.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "78",
+			"position": [
+				1817.81,
+				2674.53
+			],
+			"popup": {
+				"title": "Meteorite Fragment",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

@@ -394,6 +394,22 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "24",
+			"position": [
+				812.81,
+				1649.53
+			],
+			"popup": {
+				"title": "ATM (Bank of Liberty)",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

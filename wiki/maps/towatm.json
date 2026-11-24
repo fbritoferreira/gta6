@@ -1514,6 +1514,22 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "94",
+			"position": [
+				1693.59,
+				2035.16
+			],
+			"popup": {
+				"title": "Towable ATM",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true
