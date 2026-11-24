@@ -1,0 +1,3264 @@
+{
+	"mapImage": "Leonida-GTAVI-Map.jpg",
+	"pageCategories": [],
+	"defaultSort": "",
+	"description": "Marker data from [https://github.com/fbritoferreira/gta6 Open GTA 6 Map] (CC BY 4.0).",
+	"coordinateOrder": "xy",
+	"mapBounds": [
+		[
+			0,
+			0
+		],
+		[
+			3520,
+			3520
+		]
+	],
+	"origin": "bottom-left",
+	"useMarkerClustering": true,
+	"categories": [
+		{
+			"id": "1",
+			"listId": 1,
+			"name": "Under the Bridge Flight",
+			"color": "#4361ee",
+			"symbol": "",
+			"symbolColor": ""
+		}
+	],
+	"markers": [
+		{
+			"categoryId": "1",
+			"id": "1",
+			"position": [
+				1605,
+				2805
+			],
+			"popup": {
+				"title": "Under the Bridge: Macalister River North",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "2",
+			"position": [
+				1670,
+				2772.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Interstate 297 Overpass",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "3",
+			"position": [
+				1305.5,
+				2771.5
+			],
+			"popup": {
+				"title": "Under the Bridge: West Moreau Overpass",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "4",
+			"position": [
+				1534.5,
+				2770
+			],
+			"popup": {
+				"title": "Under the Bridge: Macalister River Central",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "5",
+			"position": [
+				1226,
+				2760
+			],
+			"popup": {
+				"title": "Under the Bridge: West Moreau Railroad North",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "6",
+			"position": [
+				1381.5,
+				2758.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Macalister Gold Mine",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "7",
+			"position": [
+				1507,
+				2758
+			],
+			"popup": {
+				"title": "North Kalaga Bridge",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "8",
+			"position": [
+				1727,
+				2746
+			],
+			"popup": {
+				"title": "Under the Bridge: East Lummox County Overpass",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "9",
+			"position": [
+				1233.5,
+				2731.5
+			],
+			"popup": {
+				"title": "Under the Bridge: West Moreau Railroad South",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "10",
+			"position": [
+				1235,
+				2723
+			],
+			"popup": {
+				"title": "Under the Bridge: West Kalaga Overpass North",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "11",
+			"position": [
+				1238,
+				2714.5
+			],
+			"popup": {
+				"title": "Under the Bridge: West Kalaga Overpass South",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "12",
+			"position": [
+				1490,
+				2698
+			],
+			"popup": {
+				"title": "Under the Bridge: Kalaga River South",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "13",
+			"position": [
+				1726,
+				2679.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Tallaloko River",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "14",
+			"position": [
+				1468,
+				2664
+			],
+			"popup": {
+				"title": "Under the Bridge: Kalaga Reservoir",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "15",
+			"position": [
+				1754.5,
+				2661
+			],
+			"popup": {
+				"title": "Under the Bridge: Millport Overpass",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "16",
+			"position": [
+				1524,
+				2641
+			],
+			"popup": {
+				"title": "Under the Bridge: South Kalaga Overpass",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "17",
+			"position": [
+				1704,
+				2567
+			],
+			"popup": {
+				"title": "Under the Bridge: North Leonard County Overpass",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "18",
+			"position": [
+				1647.5,
+				2558
+			],
+			"popup": {
+				"title": "Under the Bridge: North Leonard County Railway",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "19",
+			"position": [
+				1119.5,
+				2545
+			],
+			"popup": {
+				"title": "Under the Bridge: West Kalaga Overpass West",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "20",
+			"position": [
+				1294.5,
+				2518.5
+			],
+			"popup": {
+				"title": "Under the Bridge: North Kelly County Overpass West",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "21",
+			"position": [
+				1848,
+				2498
+			],
+			"popup": {
+				"title": "Under the Bridge: Richard Barebone Overpass East",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "22",
+			"position": [
+				1843.5,
+				2492.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Richard Barebone Overpass West",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "23",
+			"position": [
+				1489.5,
+				2486.5
+			],
+			"popup": {
+				"title": "Under the Bridge: North Leonard County Overpass North",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "24",
+			"position": [
+				1494,
+				2479
+			],
+			"popup": {
+				"title": "Under the Bridge: Kalaga River",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "25",
+			"position": [
+				911,
+				2436.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Draper Island East",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "26",
+			"position": [
+				1512.5,
+				2435
+			],
+			"popup": {
+				"title": "Under the Bridge: Kalaga River Railroad",
+				"description": "Location: [[Ambrosia]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "27",
+			"position": [
+				1524.5,
+				2425.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Kalaga River Mouth",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "28",
+			"position": [
+				1494,
+				2409.5
+			],
+			"popup": {
+				"title": "Under the Bridge: North Kelly County Overpass East",
+				"description": "Location: [[Ambrosia]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "29",
+			"position": [
+				1347.5,
+				2399.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Saputka River Railroad East",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "30",
+			"position": [
+				1882,
+				2397
+			],
+			"popup": {
+				"title": "Under the Bridge: Waning Sands Railroad",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "31",
+			"position": [
+				1130,
+				2396
+			],
+			"popup": {
+				"title": "Under the Bridge: Providence Canyon Railroad",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "32",
+			"position": [
+				1893,
+				2395
+			],
+			"popup": {
+				"title": "Under the Bridge: Waning Sands Overpass",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "33",
+			"position": [
+				1923,
+				2394.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Leith River North",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "34",
+			"position": [
+				931.5,
+				2380.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Saputka River Railroad North",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "35",
+			"position": [
+				899.5,
+				2375.5
+			],
+			"popup": {
+				"title": "Draper Island Bridge",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "36",
+			"position": [
+				1377,
+				2370
+			],
+			"popup": {
+				"title": "Under the Bridge: North Frogswater Railroad",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "37",
+			"position": [
+				966.5,
+				2362
+			],
+			"popup": {
+				"title": "Under the Bridge: Saputka River West",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "38",
+			"position": [
+				999,
+				2361
+			],
+			"popup": {
+				"title": "Under the Bridge: Saputka River",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "39",
+			"position": [
+				942.5,
+				2361
+			],
+			"popup": {
+				"title": "Under the Bridge: Saputka River Railroad West",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "40",
+			"position": [
+				1490,
+				2358.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Saputka River Mouth",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "41",
+			"position": [
+				1721.5,
+				2321.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Tybee Channel North",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "42",
+			"position": [
+				1727.5,
+				2320
+			],
+			"popup": {
+				"title": "Under the Bridge: Tybee Channel Railroad North",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "43",
+			"position": [
+				868,
+				2312.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Draper Island South",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "44",
+			"position": [
+				1085.5,
+				2310
+			],
+			"popup": {
+				"title": "Under the Bridge: Saputka River Railroad",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "45",
+			"position": [
+				1132.5,
+				2310
+			],
+			"popup": {
+				"title": "Under the Bridge: Saputka River East",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "46",
+			"position": [
+				810,
+				2276
+			],
+			"popup": {
+				"title": "Gowing Railroad Bridge",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "47",
+			"position": [
+				1100,
+				2273
+			],
+			"popup": {
+				"title": "Under the Bridge: Kelly River North",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "48",
+			"position": [
+				1955,
+				2262.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Leith River Central",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "49",
+			"position": [
+				1968,
+				2234.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Leith River South",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "50",
+			"position": [
+				1816,
+				2233.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Tybee Channel Central",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "51",
+			"position": [
+				1942.5,
+				2222.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Waning Sands Central",
+				"description": "Location: [[Waning Sands]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "52",
+			"position": [
+				1129.5,
+				2213
+			],
+			"popup": {
+				"title": "Graffiti Bridge",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "53",
+			"position": [
+				1535.5,
+				2204
+			],
+			"popup": {
+				"title": "Under the Bridge: Allied Crystal Pipeline",
+				"description": "Location: [[Ambrosia]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "54",
+			"position": [
+				1581,
+				2198
+			],
+			"popup": {
+				"title": "Under the Bridge: Belville Canal North",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "55",
+			"position": [
+				1844.5,
+				2194
+			],
+			"popup": {
+				"title": "Under the Bridge: West Mall Drive",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "56",
+			"position": [
+				1580.5,
+				2184
+			],
+			"popup": {
+				"title": "Under the Bridge: Belville Canal Railroad",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "57",
+			"position": [
+				1540.5,
+				2183
+			],
+			"popup": {
+				"title": "Under the Bridge: Ambrosia East Railroad North",
+				"description": "Location: [[Ambrosia]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "58",
+			"position": [
+				1213.5,
+				2175.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Kelly River South",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "59",
+			"position": [
+				1882,
+				2148
+			],
+			"popup": {
+				"title": "Under the Bridge: Tybee Channel Railroad South",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "60",
+			"position": [
+				1892,
+				2139.5
+			],
+			"popup": {
+				"title": "Evergreen Mall Bridge",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "61",
+			"position": [
+				1102,
+				2125.5
+			],
+			"popup": {
+				"title": "Under the Bridge: North Gellhorn Overpass",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "62",
+			"position": [
+				2061.5,
+				2108
+			],
+			"popup": {
+				"title": "Under the Bridge: Flamingo Parkway North",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "63",
+			"position": [
+				1864.5,
+				2099
+			],
+			"popup": {
+				"title": "Under the Bridge: Belville North Railroad",
+				"description": "Location: [[Waning Sands]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "64",
+			"position": [
+				1942.5,
+				2092
+			],
+			"popup": {
+				"title": "Under the Bridge: Tybee Channel South",
+				"description": "Location: [[Waning Sands]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "65",
+			"position": [
+				1951.5,
+				2084
+			],
+			"popup": {
+				"title": "Under the Bridge: Tybee Channel Mouth East",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "66",
+			"position": [
+				1978.5,
+				2068
+			],
+			"popup": {
+				"title": "Under the Bridge: Atlantic Causeway",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "67",
+			"position": [
+				1434.5,
+				2064
+			],
+			"popup": {
+				"title": "Under the Bridge: Kelly River Railroad West",
+				"description": "Location: [[Ambrosia]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "68",
+			"position": [
+				1488,
+				2062
+			],
+			"popup": {
+				"title": "Under the Bridge: Leonida Canal North",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "69",
+			"position": [
+				1448,
+				2060.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Kelly River Railroad East",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "70",
+			"position": [
+				1583.5,
+				2056.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Belville Canal South",
+				"description": "Location: [[Ambrosia]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "71",
+			"position": [
+				2029,
+				2054.5
+			],
+			"popup": {
+				"title": "Delamore Bridge",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "72",
+			"position": [
+				1864.5,
+				2049
+			],
+			"popup": {
+				"title": "Under the Bridge: Belville East Railroad",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "73",
+			"position": [
+				2087,
+				2047
+			],
+			"popup": {
+				"title": "Under the Bridge: Tidal Avenue",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "74",
+			"position": [
+				2110,
+				2044
+			],
+			"popup": {
+				"title": "Under the Bridge: Flamingo Parkway South",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "75",
+			"position": [
+				1488,
+				2034.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Leonida Canal",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "76",
+			"position": [
+				1919.5,
+				2034
+			],
+			"popup": {
+				"title": "Under the Bridge: Belville East Overpass",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "77",
+			"position": [
+				1507.5,
+				2033
+			],
+			"popup": {
+				"title": "Under the Bridge: Ambrosia East Railroad South",
+				"description": "Location: [[Ambrosia]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "78",
+			"position": [
+				1593,
+				2032
+			],
+			"popup": {
+				"title": "Under the Bridge: County Route 62",
+				"description": "Location: [[Ambrosia]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "79",
+			"position": [
+				1011,
+				2028
+			],
+			"popup": {
+				"title": "Under the Bridge: Raceway Overpass East",
+				"description": "Location: [[Port Gellhorn]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "80",
+			"position": [
+				2093.5,
+				2022
+			],
+			"popup": {
+				"title": "Under the Bridge: Atlantic Avenue",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "81",
+			"position": [
+				936.5,
+				1997
+			],
+			"popup": {
+				"title": "Under the Bridge: Gellhorn International Raceway",
+				"description": "Location: [[Port Gellhorn]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "82",
+			"position": [
+				892.5,
+				1991.5
+			],
+			"popup": {
+				"title": "Raceway Paddock Bridge",
+				"description": "Location: [[Port Gellhorn]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "83",
+			"position": [
+				2087,
+				1981.5
+			],
+			"popup": {
+				"title": "Oleander Bridge",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "84",
+			"position": [
+				1908.5,
+				1977
+			],
+			"popup": {
+				"title": "Under the Bridge: Catalan Boulevard",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "85",
+			"position": [
+				2120,
+				1976.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Mariposa Avenue",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "86",
+			"position": [
+				1804,
+				1976
+			],
+			"popup": {
+				"title": "Under the Bridge: Belville Town Overpass",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "87",
+			"position": [
+				1851.5,
+				1966.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Del Rio Boulevard",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "88",
+			"position": [
+				1724.5,
+				1960.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Caledonia Boulevard",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "89",
+			"position": [
+				1507.5,
+				1951
+			],
+			"popup": {
+				"title": "Under the Bridge: South Leonard County Railroad North",
+				"description": "Location: [[Ambrosia]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "90",
+			"position": [
+				1487.5,
+				1950
+			],
+			"popup": {
+				"title": "Under the Bridge: Leonida Canal South",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "91",
+			"position": [
+				1816,
+				1944.5
+			],
+			"popup": {
+				"title": "S-17 Canal Drawbridge North",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "92",
+			"position": [
+				2171.5,
+				1936
+			],
+			"popup": {
+				"title": "Under the Bridge: Vineyard Drive East",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "93",
+			"position": [
+				1792.5,
+				1931.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Belville Canal East",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "94",
+			"position": [
+				930,
+				1928
+			],
+			"popup": {
+				"title": "Under the Bridge: Raceway Overpass North",
+				"description": "Location: [[Port Gellhorn]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "95",
+			"position": [
+				897,
+				1926
+			],
+			"popup": {
+				"title": "Under the Bridge: Raceway Parking",
+				"description": "Location: [[Port Gellhorn]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "96",
+			"position": [
+				2135.5,
+				1918.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Vineyard Drive West",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "97",
+			"position": [
+				2189,
+				1916.5
+			],
+			"popup": {
+				"title": "Bonita Court Footbridge",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "98",
+			"position": [
+				2007,
+				1908.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Washington Beach West",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "99",
+			"position": [
+				1508.5,
+				1907
+			],
+			"popup": {
+				"title": "Under the Bridge: South Leonard County Railroad South",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "100",
+			"position": [
+				2169,
+				1901.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Oleander Boulevard",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "101",
+			"position": [
+				809,
+				1893.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Gellhorn Rally X",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "102",
+			"position": [
+				2136,
+				1880
+			],
+			"popup": {
+				"title": "Under the Bridge: Ajax Gym / Lawton Theater",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "103",
+			"position": [
+				1774.5,
+				1879
+			],
+			"popup": {
+				"title": "S-17 Canal Drawbridge Central",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "104",
+			"position": [
+				1223.5,
+				1866
+			],
+			"popup": {
+				"title": "Under the Bridge: Buckskin Swamp Channels",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "105",
+			"position": [
+				1487,
+				1865.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Leonida Canal Railroad",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "106",
+			"position": [
+				2198.5,
+				1862
+			],
+			"popup": {
+				"title": "Washington Beach Footbridge",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "107",
+			"position": [
+				824,
+				1853.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Raceway Stands",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "108",
+			"position": [
+				1731.5,
+				1849.5
+			],
+			"popup": {
+				"title": "S-17 Canal Drawbridge South",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "109",
+			"position": [
+				877.5,
+				1845.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Xero Billboard",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "110",
+			"position": [
+				923.5,
+				1845
+			],
+			"popup": {
+				"title": "Under the Bridge: Raceway Overpass Central",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "111",
+			"position": [
+				946,
+				1844.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Chepalle Billboard",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "112",
+			"position": [
+				1487.5,
+				1832.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Leonida Canal Southwest",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "113",
+			"position": [
+				2116,
+				1828
+			],
+			"popup": {
+				"title": "Casanova Island Bridge",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "114",
+			"position": [
+				1493.5,
+				1804.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Leonida Canal Southeast",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "115",
+			"position": [
+				1602.5,
+				1798
+			],
+			"popup": {
+				"title": "Under the Bridge: Balsero Overpass East",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "116",
+			"position": [
+				926,
+				1793
+			],
+			"popup": {
+				"title": "Under the Bridge: Raceway Overpass South",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "117",
+			"position": [
+				1527.5,
+				1770.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Leonida Power and Light",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "118",
+			"position": [
+				1609.5,
+				1770
+			],
+			"popup": {
+				"title": "Under the Bridge: RON Gas - Balsero",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "119",
+			"position": [
+				1907,
+				1769
+			],
+			"popup": {
+				"title": "Rivo Bridge",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "120",
+			"position": [
+				1625,
+				1758
+			],
+			"popup": {
+				"title": "Under the Bridge: Fleeca Field Stadium",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "121",
+			"position": [
+				1455.5,
+				1755.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Balsero Overpass North",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "122",
+			"position": [
+				1552.5,
+				1755
+			],
+			"popup": {
+				"title": "S-17 Canal Swing Bridge",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "123",
+			"position": [
+				1401,
+				1743.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Buckskin Swamp Southeast",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "124",
+			"position": [
+				1162,
+				1740.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Buckskin Swamp Southwest",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "125",
+			"position": [
+				1532,
+				1740
+			],
+			"popup": {
+				"title": "Under the Bridge: Omega Parkway",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "126",
+			"position": [
+				1465.5,
+				1732.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Tisha-Wocka Flea Market East",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "127",
+			"position": [
+				1459.5,
+				1732
+			],
+			"popup": {
+				"title": "Under the Bridge: Tisha-Wocka Flea Market Central",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "128",
+			"position": [
+				1455,
+				1731
+			],
+			"popup": {
+				"title": "Under the Bridge: Tish-Wocka Flea Market West",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "129",
+			"position": [
+				1442.5,
+				1730
+			],
+			"popup": {
+				"title": "Under the Bridge: Balsero Overpass Central",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "130",
+			"position": [
+				1436.5,
+				1728.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Balsero Overpass West",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "131",
+			"position": [
+				853,
+				1716.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Capri Bay Railroad",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "132",
+			"position": [
+				1511,
+				1715.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Leonida Auto World",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "133",
+			"position": [
+				999,
+				1695.5
+			],
+			"popup": {
+				"title": "Under the Bridge: South Kelly County Overpass",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "134",
+			"position": [
+				806,
+				1690.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Capri Island",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "135",
+			"position": [
+				1916.5,
+				1683
+			],
+			"popup": {
+				"title": "Under the Bridge: Macalister Causeway",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "136",
+			"position": [
+				1690.5,
+				1677.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Vice River North",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "137",
+			"position": [
+				1475.5,
+				1677.5
+			],
+			"popup": {
+				"title": "Tisha-Wocka Flea Market Bridge",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "138",
+			"position": [
+				1342.5,
+				1673.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Muspachee River East",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "139",
+			"position": [
+				965,
+				1660.5
+			],
+			"popup": {
+				"title": "Emerald Bridge",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "140",
+			"position": [
+				1164,
+				1650
+			],
+			"popup": {
+				"title": "Under the Bridge: Muspachee River West",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "141",
+			"position": [
+				1340.5,
+				1650
+			],
+			"popup": {
+				"title": "Under the Bridge: Cargo Road",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "142",
+			"position": [
+				1498.5,
+				1635
+			],
+			"popup": {
+				"title": "Under the Bridge: Salton Overpass",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "143",
+			"position": [
+				1460.5,
+				1631.5
+			],
+			"popup": {
+				"title": "Under the Bridge: West Vice-Dale County North",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "144",
+			"position": [
+				1440.5,
+				1631
+			],
+			"popup": {
+				"title": "Under the Bridge: West Vice-Dale County Northeast",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "145",
+			"position": [
+				2025.5,
+				1630
+			],
+			"popup": {
+				"title": "Under the Bridge: Starfish Island",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "146",
+			"position": [
+				1459.5,
+				1623.5
+			],
+			"popup": {
+				"title": "Under the Bridge: West Vice-Dale County South",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "147",
+			"position": [
+				2109.5,
+				1615.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Waxman Island East",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "148",
+			"position": [
+				1699.5,
+				1609.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Vice River South",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "149",
+			"position": [
+				1135,
+				1603.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Terrapin Road",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "150",
+			"position": [
+				1727,
+				1556
+			],
+			"popup": {
+				"title": "Under the Bridge: West Royale Street",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "151",
+			"position": [
+				937.5,
+				1538.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Nehrling River Railroad",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "152",
+			"position": [
+				920,
+				1530.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Nehrling River West",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "153",
+			"position": [
+				1919.5,
+				1522.5
+			],
+			"popup": {
+				"title": "Port VC Bridge",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "154",
+			"position": [
+				972,
+				1519
+			],
+			"popup": {
+				"title": "Under the Bridge: Nehrling River East",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "155",
+			"position": [
+				1263,
+				1512
+			],
+			"popup": {
+				"title": "Under the Bridge: Caprice City Canal",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "156",
+			"position": [
+				1841.5,
+				1494.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Downtown Southeast",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "157",
+			"position": [
+				1803.5,
+				1490.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Downtown Southwest",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "158",
+			"position": [
+				914,
+				1469
+			],
+			"popup": {
+				"title": "Under the Bridge: Bobcat Key North",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "159",
+			"position": [
+				2049.5,
+				1447
+			],
+			"popup": {
+				"title": "Under the Bridge: Gloriana Key North",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "160",
+			"position": [
+				1220.5,
+				1443.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Breakwater Quarry",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "161",
+			"position": [
+				1846.5,
+				1430
+			],
+			"popup": {
+				"title": "Tequesta Bridge",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "162",
+			"position": [
+				1403,
+				1415
+			],
+			"popup": {
+				"title": "Under the Bridge: Seabell Avenue",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "163",
+			"position": [
+				1053.5,
+				1396
+			],
+			"popup": {
+				"title": "Under the Bridge: North Mariana County Railroad West",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "164",
+			"position": [
+				1960.5,
+				1363
+			],
+			"popup": {
+				"title": "Under the Bridge: Catalan Key East",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "165",
+			"position": [
+				1287,
+				1342
+			],
+			"popup": {
+				"title": "Under the Bridge: Goliath Global Quarry",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "166",
+			"position": [
+				1813,
+				1334
+			],
+			"popup": {
+				"title": "Under the Bridge: Catalan Key West",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "167",
+			"position": [
+				1567.5,
+				1305.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Fuzzard Drain Canal Railroad East",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "168",
+			"position": [
+				1430.5,
+				1299.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Bluegrass North",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "169",
+			"position": [
+				1236.5,
+				1296.5
+			],
+			"popup": {
+				"title": "SND Station Footbridge",
+				"description": "Location: [[Watson Bay]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "170",
+			"position": [
+				1581,
+				1292
+			],
+			"popup": {
+				"title": "Under the Bridge: Southside West",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "171",
+			"position": [
+				1483,
+				1284
+			],
+			"popup": {
+				"title": "Bluegrass Railroad Bridge",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "172",
+			"position": [
+				1950,
+				1281
+			],
+			"popup": {
+				"title": "Under the Bridge: Gloriana Key West",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "173",
+			"position": [
+				1484.5,
+				1277
+			],
+			"popup": {
+				"title": "Under the Bridge: Fuzzard Drain Canal",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "174",
+			"position": [
+				1411,
+				1266
+			],
+			"popup": {
+				"title": "Under the Bridge: Fuzzard Drain Canal Railroad West",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "175",
+			"position": [
+				1331,
+				1251
+			],
+			"popup": {
+				"title": "Under the Bridge: North Mariana County Railroad Southeast",
+				"description": "Location: [[Watson Bay]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "176",
+			"position": [
+				1302.5,
+				1249.5
+			],
+			"popup": {
+				"title": "Under the Bridge: North Mariana County Railroad Southwest",
+				"description": "Location: [[Watson Bay]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "177",
+			"position": [
+				975.5,
+				1238.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Bobcat Key Central",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "178",
+			"position": [
+				1293.5,
+				1236.5
+			],
+			"popup": {
+				"title": "Under the Bridge: North Mariana County Overpass",
+				"description": "Location: [[Watson Bay]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "179",
+			"position": [
+				1424.5,
+				1227
+			],
+			"popup": {
+				"title": "Under the Bridge: Bluegrass South",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "180",
+			"position": [
+				1614.5,
+				1183
+			],
+			"popup": {
+				"title": "Under the Bridge: South Vice-Dale County Overpass",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "181",
+			"position": [
+				1144,
+				1170
+			],
+			"popup": {
+				"title": "Under the Bridge: North Watson Bay",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "182",
+			"position": [
+				1304.5,
+				1161.5
+			],
+			"popup": {
+				"title": "Under the Bridge: East Big Pine",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "183",
+			"position": [
+				1406.5,
+				1158.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Pelican River",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "184",
+			"position": [
+				1854.5,
+				1148
+			],
+			"popup": {
+				"title": "Under the Bridge: Catalan Key South",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "185",
+			"position": [
+				1131.5,
+				1140.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Gavin's Creek West",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "186",
+			"position": [
+				1082,
+				1127
+			],
+			"popup": {
+				"title": "Under the Bridge: Bobcat Key South",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "187",
+			"position": [
+				1383.5,
+				1115.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Atlee River",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "188",
+			"position": [
+				1594.5,
+				1110.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Emory Avenue",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "189",
+			"position": [
+				1211,
+				1104
+			],
+			"popup": {
+				"title": "Under the Bridge: Gavin's Creek East",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "190",
+			"position": [
+				1303,
+				1103.5
+			],
+			"popup": {
+				"title": "Under the Bridge: East Watson Bay",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "191",
+			"position": [
+				1818.5,
+				1091.5
+			],
+			"popup": {
+				"title": "Under the Bridge: North Isla Maldia",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "192",
+			"position": [
+				1267,
+				1088.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Watson Bay",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "193",
+			"position": [
+				1536.5,
+				1050
+			],
+			"popup": {
+				"title": "Under the Bridge: Hamlet Overpass",
+				"description": "Location: [[Hamlet]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "194",
+			"position": [
+				1588.5,
+				1049.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Bright Maw Pass",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "195",
+			"position": [
+				1782.5,
+				1002.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Isla Maldia",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "196",
+			"position": [
+				1689.5,
+				892
+			],
+			"popup": {
+				"title": "Under the Bridge: South Isla Maldia",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "197",
+			"position": [
+				1560,
+				859
+			],
+			"popup": {
+				"title": "Under the Bridge: Lento Causeway",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "198",
+			"position": [
+				1443,
+				804.5
+			],
+			"popup": {
+				"title": "Old Fort Road Bridge",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "199",
+			"position": [
+				1641.5,
+				796
+			],
+			"popup": {
+				"title": "Under the Bridge: North Key Lento",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "200",
+			"position": [
+				1031,
+				510.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Permit Causeway",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "201",
+			"position": [
+				1329,
+				505.5
+			],
+			"popup": {
+				"title": "Under the Bridge: Keylime Causeway",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "202",
+			"position": [
+				1015.5,
+				488
+			],
+			"popup": {
+				"title": "Saltrock Bridge",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		}
+	],
+	"markerProgress": true
+}

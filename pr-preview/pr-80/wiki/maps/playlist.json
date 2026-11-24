@@ -1,0 +1,144 @@
+{
+	"mapImage": "Leonida-GTAVI-Map.jpg",
+	"pageCategories": [],
+	"defaultSort": "",
+	"description": "Marker data from [https://github.com/fbritoferreira/gta6 Open GTA 6 Map] (CC BY 4.0).",
+	"coordinateOrder": "xy",
+	"mapBounds": [
+		[
+			0,
+			0
+		],
+		[
+			3520,
+			3520
+		]
+	],
+	"origin": "bottom-left",
+	"useMarkerClustering": true,
+	"categories": [
+		{
+			"id": "1",
+			"listId": 1,
+			"name": "Unique Playlist",
+			"color": "#e76f51",
+			"symbol": "",
+			"symbolColor": ""
+		}
+	],
+	"markers": [
+		{
+			"categoryId": "1",
+			"id": "1",
+			"position": [
+				1763,
+				1833.5
+			],
+			"popup": {
+				"title": "The Sniper of La Perle 4",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "2",
+			"position": [
+				1756,
+				1817.5
+			],
+			"popup": {
+				"title": "The Sniper of La Perle 3",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "3",
+			"position": [
+				1774,
+				1804.5
+			],
+			"popup": {
+				"title": "The Sniper of La Perle 2",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "4",
+			"position": [
+				1814,
+				1787.5
+			],
+			"popup": {
+				"title": "The Sniper of La Perle 1",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "5",
+			"position": [
+				1796.5,
+				1675.5
+			],
+			"popup": {
+				"title": "The Vault Radio 2",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "6",
+			"position": [
+				1803,
+				1675.5
+			],
+			"popup": {
+				"title": "The Vault Radio 3",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "7",
+			"position": [
+				1797.5,
+				1674
+			],
+			"popup": {
+				"title": "The Vault Radio 1",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		}
+	],
+	"markerProgress": true
+}

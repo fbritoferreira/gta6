@@ -1,0 +1,128 @@
+{
+	"mapImage": "Leonida-GTAVI-Map.jpg",
+	"pageCategories": [],
+	"defaultSort": "",
+	"description": "Marker data from [https://github.com/fbritoferreira/gta6 Open GTA 6 Map] (CC BY 4.0).",
+	"coordinateOrder": "xy",
+	"mapBounds": [
+		[
+			0,
+			0
+		],
+		[
+			3520,
+			3520
+		]
+	],
+	"origin": "bottom-left",
+	"useMarkerClustering": true,
+	"categories": [
+		{
+			"id": "1",
+			"listId": 1,
+			"name": "Treasure",
+			"color": "#e0a100",
+			"symbol": "",
+			"symbolColor": ""
+		}
+	],
+	"markers": [
+		{
+			"categoryId": "1",
+			"id": "1",
+			"position": [
+				1492,
+				442
+			],
+			"popup": {
+				"title": "Nuestra Señora de la Noche Treasure 1/7",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>treasures 1 of 7",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "2",
+			"position": [
+				1406,
+				442.5
+			],
+			"popup": {
+				"title": "Nuestra Señora de la Ética Laxa Treasure",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "3",
+			"position": [
+				1625,
+				504.5
+			],
+			"popup": {
+				"title": "Urca de Santa Sierra Treasure",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Contains 6 artifacts. Unlocked after completing Kenton's first three requests and checking in with him.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "4",
+			"position": [
+				1514,
+				537
+			],
+			"popup": {
+				"title": "Urca de Cinco Torres Treasure",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Contains 6 artifacts. Unlocked after completing Kenton's first three requests and checking in with him. In shallow water: you can see the wreck from above.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "5",
+			"position": [
+				1483.5,
+				515.5
+			],
+			"popup": {
+				"title": "Nuestra Señora Lujuriosa Treasure",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Contains 6 artifacts. Unlocked after completing Kenton's first three requests and checking in with him. In shallow water: you can see the wreck from above.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "6",
+			"position": [
+				898.28,
+				1226.88
+			],
+			"popup": {
+				"title": "Gold Doubloon",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Underwater, below the cluster of three huts.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		}
+	],
+	"markerProgress": true
+}
