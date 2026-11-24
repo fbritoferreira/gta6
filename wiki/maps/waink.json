@@ -1546,6 +1546,38 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "96",
+			"position": [
+				1281.72,
+				1127.66
+			],
+			"popup": {
+				"title": "QR Code: Truth Seeker",
+				"description": "Location: [[Watson Bay]]<br/>Scan the barcode hanging up in the building.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "97",
+			"position": [
+				1078.91,
+				1640.31
+			],
+			"popup": {
+				"title": "#NoFlushers QR Code",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the women's bathroom: a QR code to scan with WAiNK.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

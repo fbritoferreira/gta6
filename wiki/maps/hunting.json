@@ -138,6 +138,22 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "8",
+			"position": [
+				1174.38,
+				2764.38
+			],
+			"popup": {
+				"title": "Legendary Deer",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

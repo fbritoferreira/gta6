@@ -1210,6 +1210,246 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "75",
+			"position": [
+				1693.91,
+				2067.5
+			],
+			"popup": {
+				"title": "Help Me Help You: The Pyramid of Success",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the table in Andy's garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "76",
+			"position": [
+				1092.81,
+				2863.44
+			],
+			"popup": {
+				"title": "Tattoo Magazine: Beached Cargo",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the ground inside the container.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "77",
+			"position": [
+				1481.88,
+				1080.94
+			],
+			"popup": {
+				"title": "Styling Magazine: Lucia Buzz Cut",
+				"description": "Location: [[Hamlet]]<br/>On the coffee table.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "78",
+			"position": [
+				1089.53,
+				1769.06
+			],
+			"popup": {
+				"title": "Ashes of Glory",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the office at the back of the station.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "79",
+			"position": [
+				1622.5,
+				2703.13
+			],
+			"popup": {
+				"title": "Remote Strike (Book)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the lamp shelf beside the bed in the bedroom.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "80",
+			"position": [
+				1094.38,
+				2160
+			],
+			"popup": {
+				"title": "Foiled #329",
+				"description": "Location: [[Port Gellhorn]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "81",
+			"position": [
+				1125,
+				2207.66
+			],
+			"popup": {
+				"title": "Tattoo Magazine: The Bridge to Enlightenment",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In front of the yellow tent.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "82",
+			"position": [
+				1863.91,
+				1188.91
+			],
+			"popup": {
+				"title": "Lights, Camera, Affirmative Action",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Break in: on a table.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "83",
+			"position": [
+				1867.19,
+				1195.63
+			],
+			"popup": {
+				"title": "Styling Magazine: Light Blonde Wavy Spikes",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On a bed next to the pool. Jason's magazine.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "84",
+			"position": [
+				1782.5,
+				1844.06
+			],
+			"popup": {
+				"title": "Ashes of Glory",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "85",
+			"position": [
+				1509.38,
+				1057.97
+			],
+			"popup": {
+				"title": "Styling Magazine: Gothic Garnet",
+				"description": "Location: [[Hamlet]]<br/>Unlocks the Gothic make-up style for Lucia. The entrance is right across the street from the police station.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "86",
+			"position": [
+				1090,
+				2140.94
+			],
+			"popup": {
+				"title": "Dazzle",
+				"description": "Location: [[Port Gellhorn]]<br/>On the ground around the pool. Scan it for a Lucia hairstyle.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "87",
+			"position": [
+				1699.06,
+				1993.44
+			],
+			"popup": {
+				"title": "Pêche #69",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "88",
+			"position": [
+				1883.28,
+				1917.03
+			],
+			"popup": {
+				"title": "Styling Magazine: Floral Bun with Wavy Framing",
+				"description": "Location: [[Vice City]]<br/>Unlocks a Lucia hairstyle.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "89",
+			"position": [
+				1228.75,
+				2437.03
+			],
+			"popup": {
+				"title": "Tattoos - Tarot card",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>WAiNK scan on the mattress to unlock",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

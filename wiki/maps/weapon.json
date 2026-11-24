@@ -1338,6 +1338,198 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "83",
+			"position": [
+				1882.34,
+				1955.47
+			],
+			"popup": {
+				"title": "Sticky Bombs (crate)",
+				"description": "Location: [[Vice City]]<br/>In a crate in the construction area.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "84",
+			"position": [
+				846.88,
+				2219.53
+			],
+			"popup": {
+				"title": "LMG 6",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the top floor, in the middle of the building.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "85",
+			"position": [
+				1557.34,
+				706.25
+			],
+			"popup": {
+				"title": "Baseball Bat",
+				"description": "Location: [[Key Lento]]<br/>Behind the boat shop.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "86",
+			"position": [
+				862.97,
+				2190.47
+			],
+			"popup": {
+				"title": "Duke Mustang .357 (trailer)",
+				"description": "Location: [[Port Gellhorn]]<br/>In the trailer: a Duke Mustang .357 revolver and $150 of weed on the bed.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "87",
+			"position": [
+				1574.69,
+				784.69
+			],
+			"popup": {
+				"title": "Hammer",
+				"description": "Location: [[Key Lento]]<br/>On the counter in the trailer.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "88",
+			"position": [
+				1499.06,
+				1102.19
+			],
+			"popup": {
+				"title": "Weapons in Two Parked Cars",
+				"description": "Location: [[Hamlet]]<br/>Two cars parked side by side contain various weapons.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "89",
+			"position": [
+				1618.44,
+				784.84
+			],
+			"popup": {
+				"title": "Wrench",
+				"description": "Location: [[Key Lento]]<br/>At the bottom of the tower.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "90",
+			"position": [
+				946.88,
+				2175.31
+			],
+			"popup": {
+				"title": "Molotov Cocktails (box)",
+				"description": "Location: [[Port Gellhorn]]<br/>At the side of the building: break the box for a few Molotov cocktails.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "91",
+			"position": [
+				922.66,
+				624.06
+			],
+			"popup": {
+				"title": "Molotov Cocktails (crate)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>6 Molotov cocktails in a wooden crate.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "92",
+			"position": [
+				1827.19,
+				1704.22
+			],
+			"popup": {
+				"title": "Sniper Rifle & Cleaver (butcher's workshop)",
+				"description": "Location: [[Vice City]]<br/>In the butcher's workshop: a sniper rifle and a cleaver.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "93",
+			"position": [
+				848.75,
+				2221.09
+			],
+			"popup": {
+				"title": "Grenade Launcher & Body Armor",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the top floor, where the drugs are.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "94",
+			"position": [
+				1482.34,
+				1378.44
+			],
+			"popup": {
+				"title": "Hauners H-AT",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the rooftop, lying on an A/C unit.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

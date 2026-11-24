@@ -5994,6 +5994,694 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "374",
+			"position": [
+				1745.94,
+				1445
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: Capsule (Light Blue)",
+				"description": "Location: [[Vice City]]<br/>On the chess table between the buildings.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "375",
+			"position": [
+				758.75,
+				1942.03
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: The Fornicator",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Next to the couch.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "376",
+			"position": [
+				854.53,
+				1558.28
+			],
+			"popup": {
+				"title": "Liberty City Swingers card: Lalo Velasco (Gold)",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "377",
+			"position": [
+				1790.31,
+				1511.72
+			],
+			"popup": {
+				"title": "Vice City Club De Fútbol card: Anne Florence (Teal)",
+				"description": "Location: [[Vice City]]<br/>On the bench in the Zenith gym changing room.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "378",
+			"position": [
+				2046.72,
+				1820.47
+			],
+			"popup": {
+				"title": "Los Santos Pounders card: Laki Maivia",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the upstairs bedroom.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "379",
+			"position": [
+				1911.25,
+				1900.78
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: Dr. Placebo",
+				"description": "Location: [[Vice City]]<br/>On the shelf unit inside the gas station office.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "380",
+			"position": [
+				1947.03,
+				1978.91
+			],
+			"popup": {
+				"title": "Vice City Club De Fútbol card: Ian Harris (Gold)",
+				"description": "Location: [[Vice City]]<br/>In the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "381",
+			"position": [
+				1293.75,
+				1932.03
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: Red White Boom",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the men's toilet.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "382",
+			"position": [
+				1419.84,
+				2236.56
+			],
+			"popup": {
+				"title": "Legends of Ratface card: Disastrous Duo",
+				"description": "Location: [[Ambrosia]]<br/>At the top of the spaceship house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "383",
+			"position": [
+				1505.47,
+				607.81
+			],
+			"popup": {
+				"title": "America's Next Top Hooker card: Chastity",
+				"description": "Location: [[Key Lento]]<br/>In the mailbox.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "384",
+			"position": [
+				1426.25,
+				2228.91
+			],
+			"popup": {
+				"title": "Liberty City Swingers card: Lalo Velasco",
+				"description": "Location: [[Ambrosia]]<br/>By the TV.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "385",
+			"position": [
+				2098.44,
+				1962.03
+			],
+			"popup": {
+				"title": "Vice City Club De Fútbol card: Leon Correo",
+				"description": "Location: [[Vice Beach]]<br/>In the 1st floor apartment, in front of the living room TV.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "386",
+			"position": [
+				1857.97,
+				1636.88
+			],
+			"popup": {
+				"title": "Vice City Narcos card: Christoph Schulz",
+				"description": "Location: [[Vice City]]<br/>In the clothing store, on a shelf in the staff area.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "387",
+			"position": [
+				1524.53,
+				1234.06
+			],
+			"popup": {
+				"title": "Liberty City Swingers card: Steven Kendricks",
+				"description": "Location: [[Hamlet]]<br/>Almost at the very top of the tower.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "388",
+			"position": [
+				1790.78,
+				1867.34
+			],
+			"popup": {
+				"title": "Legends of Ratface card: Wokester (Purple)",
+				"description": "Location: [[Vice City]]<br/>Inside the garage (open it), on the middle storage shelf.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "389",
+			"position": [
+				798.59,
+				1670
+			],
+			"popup": {
+				"title": "Delights card: Cleo",
+				"description": "Location: [[Capri]]<br/>On a shelf in the garage of the 4th house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "390",
+			"position": [
+				1910.31,
+				2172.34
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: Burning Desire",
+				"description": "Location: [[Waning Sands]]<br/>In the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "391",
+			"position": [
+				1677.97,
+				1778.44
+			],
+			"popup": {
+				"title": "Vice City Manatees card: Reggie Pierce",
+				"description": "Location: [[Vice City]]<br/>On a bench in the glass walkway.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "392",
+			"position": [
+				1258.59,
+				1585.16
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: Dr. Placebo",
+				"description": "Location: [[Vice City]]<br/>On a shelf in the buildings.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "393",
+			"position": [
+				1901.25,
+				2422.5
+			],
+			"popup": {
+				"title": "Legends of Ratface card: Todd Lang",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the bench at the top of the wooden structure with the beach view.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "394",
+			"position": [
+				1943.28,
+				2156.41
+			],
+			"popup": {
+				"title": "Vice City Club De Fútbol card: Emma Croydon",
+				"description": "Location: [[Waning Sands]]<br/>In the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "395",
+			"position": [
+				930.16,
+				2222.5
+			],
+			"popup": {
+				"title": "Liberty City Swingers card: Christian Freeman",
+				"description": "Location: [[Port Gellhorn]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "396",
+			"position": [
+				1959.53,
+				2211.09
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Franklin Turner",
+				"description": "Location: [[Waning Sands]]<br/>In the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "397",
+			"position": [
+				1658.59,
+				2049.06
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Franklin Turner",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the garage, on the desk to the right, next to a bat.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "398",
+			"position": [
+				860.94,
+				1436.09
+			],
+			"popup": {
+				"title": "Legends of Ratface card: Silver Age Betrayal",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the toilet in the women's restroom.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "399",
+			"position": [
+				880.94,
+				1560.63
+			],
+			"popup": {
+				"title": "Vice City Club De Fútbol card: Leon Correo (Gold)",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "400",
+			"position": [
+				1320.47,
+				1710.78
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: The Fornicator",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the tower by hole 17 (the snake pit): take the walkway.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "401",
+			"position": [
+				2000,
+				1780.47
+			],
+			"popup": {
+				"title": "Vice City Manatees card: Anthony Ross (Dusty Pink)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the garage, behind the cars.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "402",
+			"position": [
+				1216.56,
+				1077.34
+			],
+			"popup": {
+				"title": "Vice City Narcos card: Nicky McVee",
+				"description": "Location: [[Watson Bay]]<br/>Inside the house, on the refrigerator.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "403",
+			"position": [
+				1731.88,
+				2063.28
+			],
+			"popup": {
+				"title": "Vice City Flamingos card: Angel Cienfuegos",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Inside the garage (the house has no interior): on the edge of the white desk, next to a black filing cabinet.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "404",
+			"position": [
+				1949.06,
+				2049.84
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: Capsule",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the parking lot with a bucket and a shovel.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "405",
+			"position": [
+				1506.09,
+				2249.06
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: Burning Desire",
+				"description": "Location: [[Ambrosia]]<br/>Inside the gas station: in the break room at the end of the hallway, through the staff door to the right of the register.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "406",
+			"position": [
+				1880.16,
+				1202.5
+			],
+			"popup": {
+				"title": "Liberty City Wrath card: Robbie Stine",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Break in through the garage door: it is on the table.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "407",
+			"position": [
+				1606.72,
+				722.19
+			],
+			"popup": {
+				"title": "Delights card: Daisy",
+				"description": "Location: [[Key Lento]]<br/>Kick the dolphin mailbox to get the card.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "408",
+			"position": [
+				1747.81,
+				1550.47
+			],
+			"popup": {
+				"title": "Delights card: Lucky",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "409",
+			"position": [
+				1741.25,
+				1835.78
+			],
+			"popup": {
+				"title": "Backyard Wrestling card: L. Heavy",
+				"description": "Location: [[Vice City]]<br/>In the blue portable toilet.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "410",
+			"position": [
+				2106.25,
+				1363.59
+			],
+			"popup": {
+				"title": "Vice City Club De Fútbol card: Anne Florence",
+				"description": "Location: [[Gloriana Key]]<br/>Inside the lifeguard tower.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "411",
+			"position": [
+				1294.69,
+				1222.34
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Samuel Buono",
+				"description": "Location: [[Watson Bay]]<br/>At the top of the tall radio tower.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "412",
+			"position": [
+				1886.88,
+				1662.81
+			],
+			"popup": {
+				"title": "Vice City Narcos card: Christoph Schulz",
+				"description": "Location: [[Vice City]]<br/>Inside the staff room, across from the entrance.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "413",
+			"position": [
+				1584.22,
+				1669.84
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Carlos Larios",
+				"description": "Location: [[Vice City]]<br/>On the wall in the warehouse.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "414",
+			"position": [
+				1735.16,
+				2790.31
+			],
+			"popup": {
+				"title": "Tusi Taufua (Silver)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On corkboard at the entrance to the boatyard",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "415",
+			"position": [
+				1287.97,
+				2679.38
+			],
+			"popup": {
+				"title": "Robbie Stine (Silver)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Up the ladder and in an office",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "416",
+			"position": [
+				1336.56,
+				2475.94
+			],
+			"popup": {
+				"title": "Crystal",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the bathroom next to toilet",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

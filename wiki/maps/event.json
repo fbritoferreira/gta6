@@ -2954,6 +2954,582 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "184",
+			"position": [
+				1829.06,
+				1522.97
+			],
+			"popup": {
+				"title": "Strange Voice in the Sewer",
+				"description": "Location: [[Vice City]]<br/>At the corner of SE 2nd Ave, by the sewer grate next to the street-name pole.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "185",
+			"position": [
+				2114.84,
+				1689.06
+			],
+			"popup": {
+				"title": "Killer Clown (elevator)",
+				"description": "Location: [[Vice Beach]]<br/>Take the second elevator: a killer clown jumps out, then disappears, leaving a coupon for a free pair of underpants.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "186",
+			"position": [
+				1568.28,
+				1338.28
+			],
+			"popup": {
+				"title": "Anti-Chimpanzee Sanctuary Protesters",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "187",
+			"position": [
+				1795.47,
+				1865.63
+			],
+			"popup": {
+				"title": "Junkie Kicked Out of a Trap House",
+				"description": "Location: [[Vice City]]<br/>A junkie gets thrown out of a trap house over unpaid debts, which opens up a chance to rob the place.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "188",
+			"position": [
+				1512.66,
+				1106.09
+			],
+			"popup": {
+				"title": "M7 Gang Initiation",
+				"description": "Location: [[Hamlet]]<br/>A gang initiation: a victim lies on the ground and is being beaten.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "189",
+			"position": [
+				1119.38,
+				1669.38
+			],
+			"popup": {
+				"title": "Biker Gang Execution",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Two biker gang members take the vest (cut) from a former member who wants to leave the gang, then shoot him dead.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "190",
+			"position": [
+				1332.97,
+				2060.16
+			],
+			"popup": {
+				"title": "Banana Robbery",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A guy holds up this farm market with a banana: defuse the situation or cheer him on.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "191",
+			"position": [
+				1152.34,
+				2420.94
+			],
+			"popup": {
+				"title": "Rich Man Attacked by a Bear",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Up on the hill. Drive slowly along the road until he screams, then use focus mode to find where the sound comes from.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "192",
+			"position": [
+				915.63,
+				2186.88
+			],
+			"popup": {
+				"title": "Corrupt Cops Rob a Dealer",
+				"description": "Location: [[Port Gellhorn]]<br/>Corrupt cops confiscate drugs from a dealer.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "193",
+			"position": [
+				1784.22,
+				1828.75
+			],
+			"popup": {
+				"title": "Police Drug Bust",
+				"description": "Location: [[Vice City]]<br/>The police arrest a man carrying drugs and put him in the police car. Steal the car and let him go once you lose the heat.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "194",
+			"position": [
+				851.56,
+				1631.56
+			],
+			"popup": {
+				"title": "Street Percussionist",
+				"description": "Location: [[Capri]]<br/>A percussionist plays to liven up the locals, but not everyone around here likes it.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "195",
+			"position": [
+				548.44,
+				1679.22
+			],
+			"popup": {
+				"title": "Peak Productivity Brother",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A crazy guy rants about maximum productivity from inside his house, hiding by the window.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "196",
+			"position": [
+				1542.81,
+				1783.13
+			],
+			"popup": {
+				"title": "Dumpster Lawyer",
+				"description": "Location: [[Vice City]]<br/>A voice calls from behind the trailer: a lawyer inside the dumpster asks for any kind of pills.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "197",
+			"position": [
+				899.53,
+				1600.78
+			],
+			"popup": {
+				"title": "VR Gamer",
+				"description": "Location: [[Capri]]<br/>A man thinks he is alone with his VR headset on.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "198",
+			"position": [
+				1259.06,
+				1584.84
+			],
+			"popup": {
+				"title": "Handcuffed Cop",
+				"description": "Location: [[Vice City]]<br/>A handcuffed cop: free him.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "199",
+			"position": [
+				1084.22,
+				2140
+			],
+			"popup": {
+				"title": "Vicki's Phone Call with Mom",
+				"description": "Location: [[Port Gellhorn]]<br/>Overhear Vicki complaining to her mom about how creepy her boss Frankie acts around her; Lucia talks with her about him.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "200",
+			"position": [
+				1393.59,
+				2900
+			],
+			"popup": {
+				"title": "Paleo Bro",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A gym bro on the paleo diet taunts a panther, then scares it off with his urine.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "201",
+			"position": [
+				1659.53,
+				3027.03
+			],
+			"popup": {
+				"title": "Blow Dart Kidnapping (side mission)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Only as Jason: approach the wooden box on the beach, get hit by a blow dart and kidnapped, then survive.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "202",
+			"position": [
+				948.13,
+				2379.53
+			],
+			"popup": {
+				"title": "Zeke Pimple: Target Practice",
+				"description": "Location: [[Port Gellhorn]]<br/>Join Pimple and his friend for target practice.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "203",
+			"position": [
+				1069.38,
+				2214.38
+			],
+			"popup": {
+				"title": "Carjackers at Gunpoint",
+				"description": "Location: [[Port Gellhorn]]<br/>A couple stops in front of you and threatens you with guns to hand over the car.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "204",
+			"position": [
+				1412.5,
+				554.38
+			],
+			"popup": {
+				"title": "Police Car Theft",
+				"description": "Location: [[Key Lento]]<br/>Someone steals a police car, leaving behind a Mustang-style car with the keys in it.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "205",
+			"position": [
+				1092.34,
+				2159.06
+			],
+			"popup": {
+				"title": "Gas Station Drug Stop",
+				"description": "Location: [[Port Gellhorn]]<br/>The cops pull a man over, find a bag of cocaine and start interrogating him.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "206",
+			"position": [
+				1991.72,
+				1267.19
+			],
+			"popup": {
+				"title": "Thieving Dog",
+				"description": "Location: [[Gloriana Key]]<br/>A dog starts barking on the coast: follow it to a stash with a watch, then it follows you for a while.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "207",
+			"position": [
+				1176.56,
+				2447.34
+			],
+			"popup": {
+				"title": "Overpass Tyre Throwers",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Three kids on the bridge throw a tyre at cars passing on the highway.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "208",
+			"position": [
+				1084.53,
+				2147.97
+			],
+			"popup": {
+				"title": "Linda's Night Warning",
+				"description": "Location: [[Port Gellhorn]]<br/>At night, Linda pounds on the door to give Chester and Shanese a final warning about their loud music.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "209",
+			"position": [
+				1014.84,
+				2172.5
+			],
+			"popup": {
+				"title": "Man Stuck on a Dirt Road",
+				"description": "Location: [[Port Gellhorn]]<br/>A man stuck on the dirt road asks for help.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "210",
+			"position": [
+				1559.53,
+				1064.84
+			],
+			"popup": {
+				"title": "Snake in the Trunk",
+				"description": "Location: [[Hamlet]]<br/>A snake comes out of the trunk of the car.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "211",
+			"position": [
+				1899.38,
+				1660
+			],
+			"popup": {
+				"title": "Gym Bro Choke Challenge",
+				"description": "Location: [[Vice City]]<br/>A guy bets you $1,000 that you can't choke him out. Choke him fully and you can loot the money, or stop early for more interaction.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "212",
+			"position": [
+				1501.41,
+				635.16
+			],
+			"popup": {
+				"title": "Broken-Down Mobster",
+				"description": "Location: [[Key Lento]]<br/>An old-school Liberty City mobster with a broken-down '85 Albany Emperor. A member found cash and a Wortham W-10 in the trunk.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "213",
+			"position": [
+				1170.78,
+				1080.94
+			],
+			"popup": {
+				"title": "Police Raid (garage)",
+				"description": "Location: [[Watson Bay]]<br/>Let it play out, then search the garage for a lockbox with $500+ inside.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "214",
+			"position": [
+				1524.22,
+				1231.88
+			],
+			"popup": {
+				"title": "Ghost of Rockledge Rd (car)",
+				"description": "Location: [[Hamlet]]<br/>At night, as you get into your vehicle, the Rockledge Rd ghost lunges at you from the back seat.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "215",
+			"position": [
+				1485.63,
+				1085
+			],
+			"popup": {
+				"title": "Drive-By Shooting",
+				"description": "Location: [[Hamlet]]<br/>Gang members gun down two people in a drive-by.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "216",
+			"position": [
+				1098.75,
+				2151.41
+			],
+			"popup": {
+				"title": "Drive-Thru Drama",
+				"description": "Location: [[Port Gellhorn]]<br/>A woman at the drive-thru starts a fight because she wants extra cheese: provoke or calm the situation.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "217",
+			"position": [
+				1525.31,
+				1055
+			],
+			"popup": {
+				"title": "Corrupt Cops Shake Down a Driver",
+				"description": "Location: [[Hamlet]]<br/>The cops pull a man over and take an envelope full of his cash.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "218",
+			"position": [
+				1864.38,
+				1838.75
+			],
+			"popup": {
+				"title": "Car Thief at the Gym",
+				"description": "Location: [[Vice City]]<br/>When you leave the gym, a thief tries to start your car.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "219",
+			"position": [
+				1241.41,
+				471.41
+			],
+			"popup": {
+				"title": "Abandoned Vehicle Fire",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A car about to burst into flames and a truck next to it; the black trunk in the truck bed holds a half-brick of cocaine and a weapon.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true
