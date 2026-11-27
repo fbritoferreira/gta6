@@ -70029,5 +70029,2185 @@
         "type": "Garage",
         "description": "The GTA+ garage: GTA+ members claim it together with the Annis Venturas BLVD Elegy, which is parked here.",
         "screenshot": "screenshots/gta6-garage-019.webp"
+    },
+    {
+        "id": "ahol-street-art-086",
+        "kind": "streetart",
+        "x": 477.90625,
+        "y": 508.65625,
+        "name": "Ahol Street Art: Container 415",
+        "type": "Ahol Street Art",
+        "description": "A piece of Ahol street art showing a container, in Little Cuba.",
+        "screenshot": "screenshots/gta6-ahol-street-art-086.webp"
+    },
+    {
+        "id": "ahol-street-art-087",
+        "kind": "streetart",
+        "x": 482.25,
+        "y": 556.6875,
+        "name": "Ahol Street Art: Cone 293",
+        "type": "Ahol Street Art",
+        "description": "A piece of Ahol street art showing a traffic cone, in Starfish Island. Near the road, on the plot.",
+        "screenshot": "screenshots/gta6-ahol-street-art-087.webp"
+    },
+    {
+        "id": "ahol-street-art-088",
+        "kind": "streetart",
+        "x": 469.53125,
+        "y": 570.46875,
+        "name": "Ahol Street Art: Buckets 129",
+        "type": "Ahol Street Art",
+        "description": "A piece of Ahol street art showing buckets, in Peacock Bay. Near the banana tree.",
+        "screenshot": "screenshots/gta6-ahol-street-art-088.webp"
+    },
+    {
+        "id": "cocaine-flamingo-031",
+        "kind": "other",
+        "x": 425.4375,
+        "y": 493.25,
+        "name": "Cocaine Flamingo: Balsero",
+        "type": "Cocaine Flamingo",
+        "description": "In the back of the plant nursery.",
+        "screenshot": "screenshots/gta6-cocaine-flamingo-031.webp"
+    },
+    {
+        "id": "ahol-street-art-089",
+        "kind": "streetart",
+        "x": 456.6875,
+        "y": 580.09375,
+        "name": "Ahol Street Art: Pallet 50",
+        "type": "Ahol Street Art",
+        "description": "A wooden pallet painted with what look like eyes, in Southside.",
+        "screenshot": "screenshots/gta6-ahol-street-art-089.webp"
+    },
+    {
+        "id": "cocaine-flamingo-032",
+        "kind": "other",
+        "x": 561.9375,
+        "y": 448.8125,
+        "name": "Cocaine Flamingo: Washington Beach",
+        "type": "Cocaine Flamingo",
+        "description": "On Bonita Court, behind the bush.",
+        "screenshot": "screenshots/gta6-cocaine-flamingo-032.webp"
+    },
+    {
+        "id": "ahol-street-art-090",
+        "kind": "streetart",
+        "x": 497.625,
+        "y": 479.6875,
+        "name": "Ahol Street Art: TV 355",
+        "type": "Ahol Street Art",
+        "description": "A piece of Ahol street art showing a TV, in Bayside.",
+        "screenshot": "screenshots/gta6-ahol-street-art-090.webp"
+    },
+    {
+        "id": "cocaine-flamingo-033",
+        "kind": "other",
+        "x": 539.40625,
+        "y": 401.5,
+        "name": "Cocaine Flamingo: Leonard County",
+        "type": "Cocaine Flamingo",
+        "description": "In the maze.",
+        "screenshot": "screenshots/gta6-cocaine-flamingo-033.webp"
+    },
+    {
+        "id": "style-magazine-008",
+        "kind": "other",
+        "x": 387.625,
+        "y": 247.84375,
+        "name": "Tattoo Magazine: Wandering Cowboy / Wandering Cowgirl",
+        "type": "Style Magazine",
+        "description": "A tattoo design from a style magazine, in Lummox County.",
+        "screenshot": "screenshots/gta6-style-magazine-008.webp"
+    },
+    {
+        "id": "cocaine-flamingo-034",
+        "kind": "other",
+        "x": 475.9375,
+        "y": 530.375,
+        "name": "Cocaine Flamingo: Salton",
+        "type": "Cocaine Flamingo",
+        "description": "",
+        "screenshot": "screenshots/gta6-cocaine-flamingo-034.webp"
+    },
+    {
+        "id": "style-magazine-009",
+        "kind": "other",
+        "x": 502.96875,
+        "y": 477.34375,
+        "name": "Styling Magazine: Rainbow Leopard Buzz Cut",
+        "type": "Style Magazine",
+        "description": "A hairstyle from a style magazine (Jason), in Bayside.",
+        "screenshot": "screenshots/gta6-style-magazine-009.webp"
+    },
+    {
+        "id": "ahol-street-art-091",
+        "kind": "streetart",
+        "x": 490.6875,
+        "y": 459.40625,
+        "name": "Ahol Street Art: Container 97",
+        "type": "Ahol Street Art",
+        "description": "A piece of Ahol street art showing a container, in La Perle.",
+        "screenshot": "screenshots/gta6-ahol-street-art-091.webp"
+    },
+    {
+        "id": "atm-197",
+        "kind": "bank",
+        "x": 413.34375,
+        "y": 293.96875,
+        "name": "ATM: Lummox County",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-198",
+        "kind": "bank",
+        "x": 371.6875,
+        "y": 505,
+        "name": "ATM: Vice-Dale County #8",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-199",
+        "kind": "bank",
+        "x": 467.90625,
+        "y": 433.1875,
+        "name": "ATM: Belville #2",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-200",
+        "kind": "bank",
+        "x": 467.46875,
+        "y": 312.96875,
+        "name": "ATM: Millport",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-201",
+        "kind": "bank",
+        "x": 358.03125,
+        "y": 619.09375,
+        "name": "ATM: Watson Bay",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-202",
+        "kind": "bank",
+        "x": 477.0625,
+        "y": 309.40625,
+        "name": "ATM: Millport #2",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-203",
+        "kind": "bank",
+        "x": 298.0625,
+        "y": 495.28125,
+        "name": "ATM: Capri #3",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-204",
+        "kind": "bank",
+        "x": 429.125,
+        "y": 382.25,
+        "name": "ATM: Ambrosia",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-205",
+        "kind": "bank",
+        "x": 351.28125,
+        "y": 611.8125,
+        "name": "ATM: Watson Bay #2",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-206",
+        "kind": "bank",
+        "x": 575.15625,
+        "y": 474.9375,
+        "name": "ATM: Ocean Beach #8",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-207",
+        "kind": "bank",
+        "x": 385.5625,
+        "y": 287.78125,
+        "name": "ATM: Lummox County #2",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-208",
+        "kind": "bank",
+        "x": 332.03125,
+        "y": 305.25,
+        "name": "ATM: Lummox County #3",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-209",
+        "kind": "bank",
+        "x": 463.53125,
+        "y": 422.90625,
+        "name": "ATM: Belville #3",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-210",
+        "kind": "bank",
+        "x": 354.15625,
+        "y": 614.5,
+        "name": "ATM: Watson Bay #3",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-211",
+        "kind": "bank",
+        "x": 295.6875,
+        "y": 510.8125,
+        "name": "ATM: Capri #4",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-212",
+        "kind": "bank",
+        "x": 501.28125,
+        "y": 388.96875,
+        "name": "ATM: Waning Sands #8",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-213",
+        "kind": "bank",
+        "x": 575.375,
+        "y": 475.8125,
+        "name": "ATM: Ocean Beach #9",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-214",
+        "kind": "bank",
+        "x": 574.25,
+        "y": 475.5,
+        "name": "ATM: Ocean Beach #10",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-215",
+        "kind": "bank",
+        "x": 477.53125,
+        "y": 309.1875,
+        "name": "ATM: Millport #3",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-216",
+        "kind": "bank",
+        "x": 425.5,
+        "y": 376.5625,
+        "name": "ATM: Ambrosia #2",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-217",
+        "kind": "bank",
+        "x": 517.3125,
+        "y": 385.8125,
+        "name": "ATM: Waning Sands #9",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-218",
+        "kind": "bank",
+        "x": 344.96875,
+        "y": 402.34375,
+        "name": "ATM: Kelly County #6",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-219",
+        "kind": "bank",
+        "x": 425.6875,
+        "y": 375.21875,
+        "name": "ATM: Ambrosia #3",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-220",
+        "kind": "bank",
+        "x": 360.5625,
+        "y": 617.53125,
+        "name": "ATM: Watson Bay #4",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-221",
+        "kind": "bank",
+        "x": 468.5625,
+        "y": 424.40625,
+        "name": "ATM: Belville #4",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-222",
+        "kind": "bank",
+        "x": 307.875,
+        "y": 517.6875,
+        "name": "ATM: Capri #5",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-223",
+        "kind": "bank",
+        "x": 505.875,
+        "y": 386.375,
+        "name": "ATM: Waning Sands #10",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-224",
+        "kind": "bank",
+        "x": 506.03125,
+        "y": 387.8125,
+        "name": "ATM: Waning Sands #11",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "underwater-001",
+        "kind": "underwater",
+        "x": 493.71875,
+        "y": 682.40625,
+        "name": "Sailboat Wreck",
+        "type": "Underwater discovery",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "underwater-002",
+        "kind": "underwater",
+        "x": 431.28125,
+        "y": 724.875,
+        "name": "Urca de Cinco Torres",
+        "type": "Underwater discovery",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "underwater-003",
+        "kind": "underwater",
+        "x": 375.40625,
+        "y": 765.65625,
+        "name": "Wrecked Galleon",
+        "type": "Underwater discovery",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "underwater-004",
+        "kind": "underwater",
+        "x": 496.75,
+        "y": 677.6875,
+        "name": "Nuestra Señora del Ocio",
+        "type": "Underwater discovery",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "underwater-005",
+        "kind": "underwater",
+        "x": 483.8125,
+        "y": 706.6875,
+        "name": "Submerged Fishing Boat",
+        "type": "Underwater discovery",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "underwater-006",
+        "kind": "underwater",
+        "x": 408.65625,
+        "y": 761.3125,
+        "name": "Downed Private Jet",
+        "type": "Underwater discovery",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "underwater-007",
+        "kind": "underwater",
+        "x": 332.65625,
+        "y": 604.875,
+        "name": "Bobcat Key Carcass",
+        "type": "Underwater discovery",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "underwater-008",
+        "kind": "underwater",
+        "x": 453.46875,
+        "y": 732.21875,
+        "name": "Urca de Santa Sierra",
+        "type": "Underwater discovery",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "underwater-009",
+        "kind": "underwater",
+        "x": 328.4375,
+        "y": 629.4375,
+        "name": "Leonida Bay Carcass",
+        "type": "Underwater discovery",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "underwater-010",
+        "kind": "underwater",
+        "x": 418.375,
+        "y": 708.625,
+        "name": "Underwater Hotel",
+        "type": "Underwater discovery",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "underwater-011",
+        "kind": "underwater",
+        "x": 429.9375,
+        "y": 735.71875,
+        "name": "Nuestra Señora de la Noche",
+        "type": "Underwater discovery",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "underwater-012",
+        "kind": "underwater",
+        "x": 588.34375,
+        "y": 566.6875,
+        "name": "Kraken Sculpture",
+        "type": "Underwater discovery",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "underwater-013",
+        "kind": "underwater",
+        "x": 377.9375,
+        "y": 694.28125,
+        "name": "Trolley Car Reefs",
+        "type": "Underwater discovery",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "underwater-014",
+        "kind": "underwater",
+        "x": 480.46875,
+        "y": 691.3125,
+        "name": "Wrecked Sailing Ship",
+        "type": "Underwater discovery",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "underwater-015",
+        "kind": "underwater",
+        "x": 424.71875,
+        "y": 728.0625,
+        "name": "Nuestra Señora Lujuriosa",
+        "type": "Underwater discovery",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "underwater-016",
+        "kind": "underwater",
+        "x": 269.125,
+        "y": 528.25,
+        "name": "Capri Sound Carcass",
+        "type": "Underwater discovery",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "underwater-017",
+        "kind": "underwater",
+        "x": 466.28125,
+        "y": 699.0625,
+        "name": "Sunken Helicopter",
+        "type": "Underwater discovery",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "underwater-018",
+        "kind": "underwater",
+        "x": 436.21875,
+        "y": 732.0625,
+        "name": "Sunken Fishing Vessel",
+        "type": "Underwater discovery",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "underwater-019",
+        "kind": "underwater",
+        "x": 261.90625,
+        "y": 451.25,
+        "name": "Selfie Circle",
+        "type": "Underwater discovery",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "underwater-020",
+        "kind": "underwater",
+        "x": 477.71875,
+        "y": 682.96875,
+        "name": "Sunken Fighter Plane",
+        "type": "Underwater discovery",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "underwater-021",
+        "kind": "underwater",
+        "x": 487,
+        "y": 710.46875,
+        "name": "Old Shipwreck",
+        "type": "Underwater discovery",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "underwater-022",
+        "kind": "underwater",
+        "x": 390.71875,
+        "y": 748.90625,
+        "name": "Coral Farm",
+        "type": "Underwater discovery",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "underwater-023",
+        "kind": "underwater",
+        "x": 411.0625,
+        "y": 746.5625,
+        "name": "Nuestra Señora de la Ética Laxa",
+        "type": "Underwater discovery",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "underwater-024",
+        "kind": "underwater",
+        "x": 468.21875,
+        "y": 689.15625,
+        "name": "Sunken Yacht",
+        "type": "Underwater discovery",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "underwater-025",
+        "kind": "underwater",
+        "x": 488.25,
+        "y": 718.28125,
+        "name": "Sunken Passenger Jet",
+        "type": "Underwater discovery",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "shipwreck-001",
+        "kind": "other",
+        "x": 410.96875,
+        "y": 745.90625,
+        "name": "Nuestra Señora de la Ética Laxa",
+        "type": "Shipwreck",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "shipwreck-002",
+        "kind": "other",
+        "x": 430.3125,
+        "y": 735.78125,
+        "name": "Nuestra Señora de la Noche",
+        "type": "Shipwreck",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "shipwreck-003",
+        "kind": "other",
+        "x": 288.625,
+        "y": 592.09375,
+        "name": "Bobcat Dive Site",
+        "type": "Shipwreck",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "shipwreck-004",
+        "kind": "other",
+        "x": 431.5625,
+        "y": 724.78125,
+        "name": "Urca de Cinco Torres",
+        "type": "Shipwreck",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "shipwreck-005",
+        "kind": "other",
+        "x": 424.59375,
+        "y": 728.46875,
+        "name": "Nuestra Señora Lujuriosa",
+        "type": "Shipwreck",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "shipwreck-006",
+        "kind": "other",
+        "x": 453.9375,
+        "y": 731.78125,
+        "name": "Urca de Santa Sierra",
+        "type": "Shipwreck",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "shipwreck-007",
+        "kind": "other",
+        "x": 272.5,
+        "y": 540.03125,
+        "name": "Belpoint Strait",
+        "type": "Shipwreck",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "treasure-051",
+        "kind": "treasure",
+        "x": 497.34375,
+        "y": 676.6875,
+        "name": "Gold Doubloons (Nuestra Señora del Ocio)",
+        "type": "Treasure",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "treasure-052",
+        "kind": "treasure",
+        "x": 497.6875,
+        "y": 676.46875,
+        "name": "Gold Doubloon (Nuestra Señora del Ocio)",
+        "type": "Treasure",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "treasure-053",
+        "kind": "treasure",
+        "x": 497.34375,
+        "y": 676.875,
+        "name": "Gold Doubloon (Nuestra Señora del Ocio) #2",
+        "type": "Treasure",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "treasure-054",
+        "kind": "treasure",
+        "x": 497.78125,
+        "y": 676.5625,
+        "name": "Gold Doubloon (Nuestra Señora del Ocio) #3",
+        "type": "Treasure",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "towable-atm-103",
+        "kind": "towatm",
+        "x": 467.15625,
+        "y": 313.40625,
+        "name": "Towable ATM: Lummox County",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "towable-atm-104",
+        "kind": "towatm",
+        "x": 384.46875,
+        "y": 288.3125,
+        "name": "Towable ATM: Lummox County #2",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "towable-atm-105",
+        "kind": "towatm",
+        "x": 506.03125,
+        "y": 389.09375,
+        "name": "Towable ATM: Waning Sands",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "towable-atm-106",
+        "kind": "towatm",
+        "x": 295.34375,
+        "y": 502.9375,
+        "name": "Towable ATM: Capri",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "towable-atm-107",
+        "kind": "towatm",
+        "x": 358.3125,
+        "y": 617.0625,
+        "name": "Towable ATM: Watson Bay",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "towable-atm-108",
+        "kind": "towatm",
+        "x": 455.9375,
+        "y": 427.15625,
+        "name": "Towable ATM: Belville #3",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "towable-atm-109",
+        "kind": "towatm",
+        "x": 413.78125,
+        "y": 378.625,
+        "name": "Towable ATM: Ambrosia",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "towable-atm-110",
+        "kind": "towatm",
+        "x": 512.875,
+        "y": 386.625,
+        "name": "Towable ATM: Waning Sands #2",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "towable-atm-111",
+        "kind": "towatm",
+        "x": 353.65625,
+        "y": 614.46875,
+        "name": "Towable ATM: Watson Bay #2",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "towable-atm-112",
+        "kind": "towatm",
+        "x": 506.5625,
+        "y": 385.28125,
+        "name": "Towable ATM: Waning Sands #3",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "towable-atm-113",
+        "kind": "towatm",
+        "x": 497.6875,
+        "y": 362.53125,
+        "name": "Towable ATM: Leonard County #2",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "towable-atm-114",
+        "kind": "towatm",
+        "x": 502.40625,
+        "y": 379.625,
+        "name": "Towable ATM: Waning Sands #4",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "towable-atm-115",
+        "kind": "towatm",
+        "x": 425.6875,
+        "y": 375.34375,
+        "name": "Towable ATM: Ambrosia #2",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "towable-atm-116",
+        "kind": "towatm",
+        "x": 360.875,
+        "y": 617.53125,
+        "name": "Towable ATM: Watson Bay #3",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "towable-atm-117",
+        "kind": "towatm",
+        "x": 522.40625,
+        "y": 382.03125,
+        "name": "Towable ATM: Waning Sands #5",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "towable-atm-118",
+        "kind": "towatm",
+        "x": 296.25,
+        "y": 510.5,
+        "name": "Towable ATM: Capri #2",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "towable-atm-119",
+        "kind": "towatm",
+        "x": 472.1875,
+        "y": 421.96875,
+        "name": "Towable ATM: Belville #4",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "towable-atm-120",
+        "kind": "towatm",
+        "x": 509.875,
+        "y": 386.09375,
+        "name": "Towable ATM: Waning Sands #6",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "towable-atm-121",
+        "kind": "towatm",
+        "x": 299.28125,
+        "y": 504.21875,
+        "name": "Towable ATM: Capri #3",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "towable-atm-122",
+        "kind": "towatm",
+        "x": 384.46875,
+        "y": 287.1875,
+        "name": "Towable ATM: Lummox County #3",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "towable-atm-123",
+        "kind": "towatm",
+        "x": 290.5625,
+        "y": 502.09375,
+        "name": "Towable ATM: Capri #4",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "towable-atm-124",
+        "kind": "towatm",
+        "x": 294.28125,
+        "y": 501.96875,
+        "name": "Towable ATM: Capri #5",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "towable-atm-125",
+        "kind": "towatm",
+        "x": 357.96875,
+        "y": 617.71875,
+        "name": "Towable ATM: Watson Bay #4",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "towable-atm-126",
+        "kind": "towatm",
+        "x": 472.3125,
+        "y": 314.1875,
+        "name": "Towable ATM: Millport",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "towable-atm-127",
+        "kind": "towatm",
+        "x": 351.46875,
+        "y": 622.125,
+        "name": "Towable ATM: Watson Bay #5",
+        "type": "Towable ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "bus-stop-277",
+        "kind": "other",
+        "x": 498.1875,
+        "y": 390.1875,
+        "name": "Valentine Dr - B",
+        "type": "Bus Stop",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "bus-stop-278",
+        "kind": "other",
+        "x": 467.78125,
+        "y": 423.0625,
+        "name": "Discovery St - A",
+        "type": "Bus Stop",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "bus-stop-279",
+        "kind": "other",
+        "x": 498.1875,
+        "y": 390.78125,
+        "name": "Valentine Dr - A",
+        "type": "Bus Stop",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "bus-stop-280",
+        "kind": "other",
+        "x": 352.0625,
+        "y": 616.0625,
+        "name": "Seabell Ave - A",
+        "type": "Bus Stop",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "bus-stop-281",
+        "kind": "other",
+        "x": 381.125,
+        "y": 286.78125,
+        "name": "US-628 - A",
+        "type": "Bus Stop",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "bus-stop-282",
+        "kind": "other",
+        "x": 308.875,
+        "y": 495.90625,
+        "name": "East Buckley Dr",
+        "type": "Bus Stop",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "bus-stop-283",
+        "kind": "other",
+        "x": 498.21875,
+        "y": 389.59375,
+        "name": "Valentine Dr - C",
+        "type": "Bus Stop",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "bus-stop-284",
+        "kind": "other",
+        "x": 425.1875,
+        "y": 381.9375,
+        "name": "US-35",
+        "type": "Bus Stop",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "bus-stop-285",
+        "kind": "other",
+        "x": 466.3125,
+        "y": 313.21875,
+        "name": "US-628 - C",
+        "type": "Bus Stop",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "bus-stop-286",
+        "kind": "other",
+        "x": 341.375,
+        "y": 298.84375,
+        "name": "SR-45",
+        "type": "Bus Stop",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "bus-stop-287",
+        "kind": "other",
+        "x": 381.9375,
+        "y": 288.71875,
+        "name": "US-628 - B",
+        "type": "Bus Stop",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-092",
+        "kind": "shop",
+        "x": 478.21875,
+        "y": 345.59375,
+        "name": "EV Charger: Leonard County",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-093",
+        "kind": "shop",
+        "x": 298.40625,
+        "y": 498.625,
+        "name": "EV Charger: Capri",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-094",
+        "kind": "shop",
+        "x": 306.96875,
+        "y": 517.40625,
+        "name": "EV Charger: Capri #2",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-095",
+        "kind": "shop",
+        "x": 387.0625,
+        "y": 489.75,
+        "name": "EV Charger: Kelly County #5",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-096",
+        "kind": "shop",
+        "x": 425.0625,
+        "y": 368.0625,
+        "name": "EV Charger: Ambrosia",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-097",
+        "kind": "shop",
+        "x": 292.625,
+        "y": 511,
+        "name": "EV Charger: Capri #3",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-098",
+        "kind": "shop",
+        "x": 447.03125,
+        "y": 282.9375,
+        "name": "EV Charger: Lummox County",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-099",
+        "kind": "shop",
+        "x": 287.875,
+        "y": 505.125,
+        "name": "EV Charger: Capri #4",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-100",
+        "kind": "shop",
+        "x": 494.09375,
+        "y": 357.9375,
+        "name": "EV Charger: Leonard County #2",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-101",
+        "kind": "shop",
+        "x": 428.90625,
+        "y": 381.65625,
+        "name": "EV Charger: Ambrosia #2",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-102",
+        "kind": "shop",
+        "x": 472,
+        "y": 315.15625,
+        "name": "EV Charger: Millport",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-103",
+        "kind": "shop",
+        "x": 420.71875,
+        "y": 376.5,
+        "name": "EV Charger: Ambrosia #3",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-104",
+        "kind": "shop",
+        "x": 328.84375,
+        "y": 346.25,
+        "name": "EV Charger: Kelly County #6",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-105",
+        "kind": "shop",
+        "x": 419.9375,
+        "y": 375,
+        "name": "EV Charger: Ambrosia #4",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-106",
+        "kind": "shop",
+        "x": 442.4375,
+        "y": 394.25,
+        "name": "EV Charger: Kelly County #7",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-107",
+        "kind": "shop",
+        "x": 313.90625,
+        "y": 503.71875,
+        "name": "EV Charger: Capri #5",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-108",
+        "kind": "shop",
+        "x": 467.03125,
+        "y": 433.15625,
+        "name": "EV Charger: Belville #3",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-109",
+        "kind": "shop",
+        "x": 471.8125,
+        "y": 430.5625,
+        "name": "EV Charger: Belville #4",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-110",
+        "kind": "shop",
+        "x": 355.09375,
+        "y": 619.625,
+        "name": "EV Charger: Watson Bay",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-111",
+        "kind": "shop",
+        "x": 430.0625,
+        "y": 322.28125,
+        "name": "EV Charger: Lummox County #2",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-112",
+        "kind": "shop",
+        "x": 292.96875,
+        "y": 512.8125,
+        "name": "EV Charger: Capri #6",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-113",
+        "kind": "shop",
+        "x": 301.40625,
+        "y": 506.375,
+        "name": "EV Charger: Capri #7",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-114",
+        "kind": "shop",
+        "x": 496.34375,
+        "y": 362.3125,
+        "name": "EV Charger: Leonard County #3",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-115",
+        "kind": "shop",
+        "x": 421.9375,
+        "y": 369.75,
+        "name": "EV Charger: Ambrosia #5",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-116",
+        "kind": "shop",
+        "x": 287.625,
+        "y": 509.46875,
+        "name": "EV Charger: Capri #8",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-117",
+        "kind": "shop",
+        "x": 456.21875,
+        "y": 427.03125,
+        "name": "EV Charger: Belville #5",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-118",
+        "kind": "shop",
+        "x": 380.90625,
+        "y": 288.15625,
+        "name": "EV Charger: Lummox County #3",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-119",
+        "kind": "shop",
+        "x": 487.625,
+        "y": 317.375,
+        "name": "EV Charger: Millport #2",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-120",
+        "kind": "shop",
+        "x": 413.21875,
+        "y": 377.96875,
+        "name": "EV Charger: Ambrosia #6",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-121",
+        "kind": "shop",
+        "x": 290,
+        "y": 506.71875,
+        "name": "EV Charger: Capri #9",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-122",
+        "kind": "shop",
+        "x": 471.375,
+        "y": 421.90625,
+        "name": "EV Charger: Belville #6",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-123",
+        "kind": "shop",
+        "x": 507.53125,
+        "y": 382.71875,
+        "name": "EV Charger: Waning Sands #2",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-124",
+        "kind": "shop",
+        "x": 418.4375,
+        "y": 373.25,
+        "name": "EV Charger: Ambrosia #7",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-125",
+        "kind": "shop",
+        "x": 521.75,
+        "y": 400.96875,
+        "name": "EV Charger: Waning Sands #3",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ev-charger-126",
+        "kind": "shop",
+        "x": 308.71875,
+        "y": 507.0625,
+        "name": "EV Charger: Capri #10",
+        "type": "EV charger",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-092",
+        "kind": "streetart",
+        "x": 471.0625,
+        "y": 542.25,
+        "name": "Ahol Street Art: Buckets 171",
+        "type": "Ahol Street Art",
+        "description": "A piece of Ahol street art showing buckets, in Salton.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-093",
+        "kind": "streetart",
+        "x": 562.15625,
+        "y": 512.96875,
+        "name": "Ahol Street Art: Buckets 195",
+        "type": "Ahol Street Art",
+        "description": "A piece of Ahol street art showing buckets, in Ocean Beach.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-094",
+        "kind": "streetart",
+        "x": 554.78125,
+        "y": 473.09375,
+        "name": "Ahol Street Art: Armchair 205",
+        "type": "Ahol Street Art",
+        "description": "A piece of Ahol street art showing an armchair, in Ocean Beach.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-095",
+        "kind": "streetart",
+        "x": 490.125,
+        "y": 528.9375,
+        "name": "Ahol Street Art: Cone 29",
+        "type": "Ahol Street Art",
+        "description": "A piece of Ahol street art showing a traffic cone, in Downtown.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-096",
+        "kind": "streetart",
+        "x": 501.34375,
+        "y": 469.21875,
+        "name": "Ahol Street Art: Armchair 489",
+        "type": "Ahol Street Art",
+        "description": "A piece of Ahol street art showing an armchair, in Bayside.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-097",
+        "kind": "streetart",
+        "x": 558.90625,
+        "y": 443.8125,
+        "name": "Ahol Street Art: Container 241",
+        "type": "Ahol Street Art",
+        "description": "A piece of Ahol street art showing a container, in Washington Beach.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-098",
+        "kind": "streetart",
+        "x": 577.09375,
+        "y": 466.0625,
+        "name": "Ahol Street Art: Container 474",
+        "type": "Ahol Street Art",
+        "description": "A piece of Ahol street art showing a container, in Washington Beach.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-099",
+        "kind": "streetart",
+        "x": 473.9375,
+        "y": 499.125,
+        "name": "Ahol Street Art: Armchair 215",
+        "type": "Ahol Street Art",
+        "description": "A piece of Ahol street art showing an armchair, in Little Cuba.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-100",
+        "kind": "streetart",
+        "x": 477.40625,
+        "y": 582.09375,
+        "name": "Ahol Street Art: Chair 370",
+        "type": "Ahol Street Art",
+        "description": "A piece of Ahol street art showing a chair, in Peacock Bay.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-101",
+        "kind": "streetart",
+        "x": 485.0625,
+        "y": 542.8125,
+        "name": "Ahol Street Art: Chair 286",
+        "type": "Ahol Street Art",
+        "description": "A piece of Ahol street art showing a chair, in Tequesta.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-102",
+        "kind": "streetart",
+        "x": 568.5,
+        "y": 493.90625,
+        "name": "Ahol Street Art: Buckets 310",
+        "type": "Ahol Street Art",
+        "description": "A piece of Ahol street art showing buckets, in Ocean Beach.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-103",
+        "kind": "streetart",
+        "x": 572.0625,
+        "y": 458.78125,
+        "name": "Ahol Street Art: Buckets 437",
+        "type": "Ahol Street Art",
+        "description": "A piece of Ahol street art showing buckets, in Washington Beach.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-104",
+        "kind": "streetart",
+        "x": 485.53125,
+        "y": 503.9375,
+        "name": "Ahol Street Art: Cone 492",
+        "type": "Ahol Street Art",
+        "description": "A piece of Ahol street art showing a traffic cone, in Downtown.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-105",
+        "kind": "streetart",
+        "x": 563.75,
+        "y": 509.28125,
+        "name": "Ahol Street Art: Cone 344",
+        "type": "Ahol Street Art",
+        "description": "A piece of Ahol street art showing a traffic cone, in Ocean Beach.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-106",
+        "kind": "streetart",
+        "x": 479.96875,
+        "y": 523.46875,
+        "name": "Ahol Street Art: Cone 12",
+        "type": "Ahol Street Art",
+        "description": "A piece of Ahol street art showing a traffic cone, in Downtown.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-107",
+        "kind": "streetart",
+        "x": 494.71875,
+        "y": 500.3125,
+        "name": "Ahol Street Art: Cone 200",
+        "type": "Ahol Street Art",
+        "description": "A piece of Ahol street art showing a traffic cone, in Downtown.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-108",
+        "kind": "streetart",
+        "x": 491.15625,
+        "y": 502.53125,
+        "name": "Ahol Street Art: Container 451",
+        "type": "Ahol Street Art",
+        "description": "A piece of Ahol street art showing a container, in Downtown.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-109",
+        "kind": "streetart",
+        "x": 558.09375,
+        "y": 502,
+        "name": "Ahol Street Art: Pallet 113",
+        "type": "Ahol Street Art",
+        "description": "A piece of Ahol street art showing a pallet, in Ocean Beach.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-110",
+        "kind": "streetart",
+        "x": 474.4375,
+        "y": 552.28125,
+        "name": "Ahol Street Art: TV 422",
+        "type": "Ahol Street Art",
+        "description": "A piece of Ahol street art showing a TV, in Tequesta.",
+        "screenshot": null
+    },
+    {
+        "id": "ahol-street-art-111",
+        "kind": "streetart",
+        "x": 497.71875,
+        "y": 523.90625,
+        "name": "Ahol Street Art: Pallet 307",
+        "type": "Ahol Street Art",
+        "description": "A piece of Ahol street art showing a pallet, in Downtown.",
+        "screenshot": null
+    },
+    {
+        "id": "cocaine-flamingo-035",
+        "kind": "other",
+        "x": 451.53125,
+        "y": 631.65625,
+        "name": "Cocaine Flamingo: Hamlet #3",
+        "type": "Cocaine Flamingo",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "cocaine-flamingo-036",
+        "kind": "other",
+        "x": 362.9375,
+        "y": 618.875,
+        "name": "Cocaine Flamingo: Watson Bay #2",
+        "type": "Cocaine Flamingo",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "cocaine-flamingo-037",
+        "kind": "other",
+        "x": 401.8125,
+        "y": 617.65625,
+        "name": "Cocaine Flamingo: Mariana County #12",
+        "type": "Cocaine Flamingo",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "cocaine-flamingo-038",
+        "kind": "other",
+        "x": 402.59375,
+        "y": 617.375,
+        "name": "Cocaine Flamingo: Mariana County #13",
+        "type": "Cocaine Flamingo",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "cocaine-flamingo-039",
+        "kind": "other",
+        "x": 442.59375,
+        "y": 587.59375,
+        "name": "Cocaine Flamingo: Southside #2",
+        "type": "Cocaine Flamingo",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "cocaine-flamingo-040",
+        "kind": "other",
+        "x": 451.09375,
+        "y": 573.3125,
+        "name": "Cocaine Flamingo: Southside #3",
+        "type": "Cocaine Flamingo",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "cocaine-flamingo-041",
+        "kind": "other",
+        "x": 476.71875,
+        "y": 571.5,
+        "name": "Cocaine Flamingo: Peacock Bay",
+        "type": "Cocaine Flamingo",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "cocaine-flamingo-042",
+        "kind": "other",
+        "x": 537.5625,
+        "y": 558.84375,
+        "name": "Cocaine Flamingo: Gloriana Key",
+        "type": "Cocaine Flamingo",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "cocaine-flamingo-043",
+        "kind": "other",
+        "x": 489.40625,
+        "y": 548.53125,
+        "name": "Cocaine Flamingo: Tequesta",
+        "type": "Cocaine Flamingo",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "cocaine-flamingo-044",
+        "kind": "other",
+        "x": 469.78125,
+        "y": 536.96875,
+        "name": "Cocaine Flamingo: Salton #2",
+        "type": "Cocaine Flamingo",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "cocaine-flamingo-045",
+        "kind": "other",
+        "x": 394.21875,
+        "y": 511.34375,
+        "name": "Cocaine Flamingo: Vice-Dale County",
+        "type": "Cocaine Flamingo",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "cocaine-flamingo-046",
+        "kind": "other",
+        "x": 564.78125,
+        "y": 508.625,
+        "name": "Cocaine Flamingo: Ocean Beach",
+        "type": "Cocaine Flamingo",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "cocaine-flamingo-047",
+        "kind": "other",
+        "x": 564.375,
+        "y": 491.3125,
+        "name": "Cocaine Flamingo: Vice Beach",
+        "type": "Cocaine Flamingo",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "cocaine-flamingo-048",
+        "kind": "other",
+        "x": 561,
+        "y": 476.96875,
+        "name": "Cocaine Flamingo: Vice Beach #2",
+        "type": "Cocaine Flamingo",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "cocaine-flamingo-049",
+        "kind": "other",
+        "x": 473.75,
+        "y": 462.125,
+        "name": "Cocaine Flamingo: La Perle #2",
+        "type": "Cocaine Flamingo",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "cocaine-flamingo-050",
+        "kind": "other",
+        "x": 490.34375,
+        "y": 454.59375,
+        "name": "Cocaine Flamingo: La Perle #3",
+        "type": "Cocaine Flamingo",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "cocaine-flamingo-051",
+        "kind": "other",
+        "x": 467.9375,
+        "y": 427.375,
+        "name": "Cocaine Flamingo: Belville #2",
+        "type": "Cocaine Flamingo",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "cocaine-flamingo-052",
+        "kind": "other",
+        "x": 515.53125,
+        "y": 409.125,
+        "name": "Cocaine Flamingo: Waning Sands #2",
+        "type": "Cocaine Flamingo",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "cocaine-flamingo-053",
+        "kind": "other",
+        "x": 440.65625,
+        "y": 407.15625,
+        "name": "Cocaine Flamingo: Leonard County #2",
+        "type": "Cocaine Flamingo",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "cocaine-flamingo-054",
+        "kind": "other",
+        "x": 512.59375,
+        "y": 405.03125,
+        "name": "Cocaine Flamingo: Waning Sands #3",
+        "type": "Cocaine Flamingo",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "cocaine-flamingo-055",
+        "kind": "other",
+        "x": 512.375,
+        "y": 405,
+        "name": "Cocaine Flamingo: Waning Sands #4",
+        "type": "Cocaine Flamingo",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "cocaine-flamingo-056",
+        "kind": "other",
+        "x": 515.71875,
+        "y": 392.75,
+        "name": "Cocaine Flamingo: Waning Sands #5",
+        "type": "Cocaine Flamingo",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "cocaine-flamingo-057",
+        "kind": "other",
+        "x": 294.71875,
+        "y": 395.6875,
+        "name": "Cocaine Flamingo: Port Gellhorn #9",
+        "type": "Cocaine Flamingo",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "cocaine-flamingo-058",
+        "kind": "other",
+        "x": 384.75,
+        "y": 245.09375,
+        "name": "Cocaine Flamingo: Lummox County #8",
+        "type": "Cocaine Flamingo",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "style-magazine-010",
+        "kind": "other",
+        "x": 333.625,
+        "y": 299.78125,
+        "name": "Tattoo Magazine: Zombie Deer",
+        "type": "Style Magazine",
+        "description": "A tattoo design from a style magazine, in Lummox County.",
+        "screenshot": null
+    },
+    {
+        "id": "style-magazine-011",
+        "kind": "other",
+        "x": 552.71875,
+        "y": 426.65625,
+        "name": "Tattoo Magazine: Vice City Monster Sculpture",
+        "type": "Style Magazine",
+        "description": "A tattoo design from a style magazine, in Washington Beach.",
+        "screenshot": null
+    },
+    {
+        "id": "style-magazine-012",
+        "kind": "other",
+        "x": 566.875,
+        "y": 518.34375,
+        "name": "Styling Magazine: Spiky Bun & Framing",
+        "type": "Style Magazine",
+        "description": "A style from a style magazine, in Ocean Beach.",
+        "screenshot": null
+    },
+    {
+        "id": "style-magazine-013",
+        "kind": "other",
+        "x": 481.6875,
+        "y": 464.875,
+        "name": "Styling Magazine: Rose High Twin Buns",
+        "type": "Style Magazine",
+        "description": "A style from a style magazine, in La Perle.",
+        "screenshot": null
+    },
+    {
+        "id": "style-magazine-014",
+        "kind": "other",
+        "x": 294.0625,
+        "y": 395.03125,
+        "name": "Styling Magazine: Platinum Undercut Mullet",
+        "type": "Style Magazine",
+        "description": "A style from a style magazine, in Port Gellhorn.",
+        "screenshot": null
+    },
+    {
+        "id": "style-magazine-015",
+        "kind": "other",
+        "x": 412.03125,
+        "y": 384.125,
+        "name": "Tattoo Magazine: Men From Mars / Women From Venus",
+        "type": "Style Magazine",
+        "description": "A tattoo design from a style magazine, in Ambrosia.",
+        "screenshot": null
+    },
+    {
+        "id": "style-magazine-016",
+        "kind": "other",
+        "x": 473.8125,
+        "y": 557.09375,
+        "name": "Styling Magazine: Hipster Mustache",
+        "type": "Style Magazine",
+        "description": "A style from a style magazine, in Tequesta.",
+        "screenshot": null
+    },
+    {
+        "id": "style-magazine-017",
+        "kind": "other",
+        "x": 454.875,
+        "y": 588.40625,
+        "name": "Styling Magazine: Green & Red Shards Buzz Cut",
+        "type": "Style Magazine",
+        "description": "A style from a style magazine, in Southside.",
+        "screenshot": null
+    },
+    {
+        "id": "style-magazine-018",
+        "kind": "other",
+        "x": 342.21875,
+        "y": 308.5,
+        "name": "Tattoo Magazine: Fairyland Forest Gnome",
+        "type": "Style Magazine",
+        "description": "A tattoo design from a style magazine, in Lummox County.",
+        "screenshot": null
+    },
+    {
+        "id": "style-magazine-019",
+        "kind": "other",
+        "x": 565.40625,
+        "y": 479.34375,
+        "name": "Styling Magazine: Blonde-Brown Side Part Curtains",
+        "type": "Style Magazine",
+        "description": "A style from a style magazine, in Vice Beach.",
+        "screenshot": null
+    },
+    {
+        "id": "style-magazine-020",
+        "kind": "other",
+        "x": 461.375,
+        "y": 497.78125,
+        "name": "Styling Magazine: 80s Pop Shimmer",
+        "type": "Style Magazine",
+        "description": "A style from a style magazine, in Little Cuba.",
+        "screenshot": null
+    },
+    {
+        "id": "atm-225",
+        "kind": "bank",
+        "x": 502.3125,
+        "y": 570.1875,
+        "name": "ATM: Catalan Key #3",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "atm-226",
+        "kind": "bank",
+        "x": 464.5625,
+        "y": 505,
+        "name": "ATM: Little Cuba #10",
+        "type": "ATM",
+        "description": "",
+        "screenshot": null
+    },
+    {
+        "id": "strangers-001",
+        "kind": "other",
+        "x": 474.28125,
+        "y": 550.375,
+        "name": "Dr Merle",
+        "type": "Strangers",
+        "description": "Chapter 1. Meet him at Frank's Waffles in Tequesta for The Final Flush.",
+        "screenshot": null
+    },
+    {
+        "id": "strangers-002",
+        "kind": "other",
+        "x": 310.625,
+        "y": 409.375,
+        "name": "Moses",
+        "type": "Strangers",
+        "description": "Chapter 2. Moses runs an auto shop in Port Gellhorn: steal the vehicles on his list (Vehicles for Moses), then collect his gift.",
+        "screenshot": null
+    },
+    {
+        "id": "strangers-003",
+        "kind": "other",
+        "x": 424.8125,
+        "y": 281.53125,
+        "name": "Bret Vogel",
+        "type": "Strangers",
+        "description": "Chapter 2. Bret runs Killtelligence Provisions near Mount Kalaga: Veteran Hunted and Bret's Hunting Decks.",
+        "screenshot": null
+    },
+    {
+        "id": "strangers-004",
+        "kind": "other",
+        "x": 385.75,
+        "y": 384.84375,
+        "name": "Kyle",
+        "type": "Strangers",
+        "description": "Chapter 2. Kyle's jobs start at McKittrick Farm: Check Out McKittrick Farm, Collect Chemicals for Kyle and Buddy?",
+        "screenshot": null
+    },
+    {
+        "id": "strangers-005",
+        "kind": "other",
+        "x": 429.6875,
+        "y": 485.28125,
+        "name": "Randy",
+        "type": "Strangers",
+        "description": "Chapter 3. Randy's Wish List (his vehicle requests), Dale Mamba, Mansion Thrax and Delivery Day. Finishing his list gives you the Tempesta and the Domestic Timbers garage.",
+        "screenshot": null
+    },
+    {
+        "id": "strangers-006",
+        "kind": "other",
+        "x": 474.25,
+        "y": 509.34375,
+        "name": "Yasmani",
+        "type": "Strangers",
+        "description": "Chapter 3. Yasmani's ATM jobs, the Payday Loans jobs and Tail the Security Van.",
+        "screenshot": null
+    },
+    {
+        "id": "strangers-007",
+        "kind": "other",
+        "x": 486.75,
+        "y": 467.625,
+        "name": "Tyrone",
+        "type": "Strangers",
+        "description": "Chapter 3. Take Out Kitty Litter and Spin On This.",
+        "screenshot": null
+    },
+    {
+        "id": "strangers-008",
+        "kind": "other",
+        "x": 310.96875,
+        "y": 396.5,
+        "name": "Dunk",
+        "type": "Strangers",
+        "description": "Chapter 3. Dunk's trailer in Kelly County: Dunk's Robbery Tips.",
+        "screenshot": null
+    },
+    {
+        "id": "strangers-009",
+        "kind": "other",
+        "x": 470.6875,
+        "y": 525.25,
+        "name": "Yago",
+        "type": "Strangers",
+        "description": "Chapter 3. Yago's street races start in Salton: Join a Street Race, Bumper to Bumper and Brother to Brother.",
+        "screenshot": null
+    },
+    {
+        "id": "strangers-010",
+        "kind": "other",
+        "x": 471.71875,
+        "y": 427.625,
+        "name": "Andy",
+        "type": "Strangers",
+        "description": "Chapter 3. Andy's jobs start at the Cellerica campus: Climbing the Cellerichain, Pay the Cellerica Fee, Peach!, Read the Label and Puff Puff Pass.",
+        "screenshot": null
+    },
+    {
+        "id": "strangers-011",
+        "kind": "other",
+        "x": 514.53125,
+        "y": 566.6875,
+        "name": "Rosebud",
+        "type": "Strangers",
+        "description": "Chapter 3 (Dodos Rising). Meet her at the Vice City Oceanarium for Sisters of the Sea.",
+        "screenshot": null
+    },
+    {
+        "id": "strangers-012",
+        "kind": "other",
+        "x": 475.6875,
+        "y": 528.15625,
+        "name": "Jose Bermudez",
+        "type": "Strangers",
+        "description": "Chapter 3. The drunk man by the wall at the IAA's Friends of Freedom memorial: President Russo's Bunkers and Project Rumba.",
+        "screenshot": null
+    },
+    {
+        "id": "strangers-013",
+        "kind": "other",
+        "x": 449.46875,
+        "y": 690.5,
+        "name": "Kenton",
+        "type": "Strangers",
+        "description": "Chapter 3. Kenton's shop in Key Lento: Maritime Disputes and the hunt for Kenton's treasures.",
+        "screenshot": null
+    },
+    {
+        "id": "strangers-014",
+        "kind": "other",
+        "x": 287.15625,
+        "y": 402.53125,
+        "name": "Pilot Pete",
+        "type": "Strangers",
+        "description": "Chapter 4. Pete's jobs: The Last Mile (Passing the Torch, Backseat Pilot) and Pete's Deliveries.",
+        "screenshot": null
     }
 ]
