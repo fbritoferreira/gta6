@@ -1263,6 +1263,22 @@
 			"categoryId": "1",
 			"id": "78",
 			"position": [
+				929.69,
+				2130.63
+			],
+			"popup": {
+				"title": "Basher Gorse 425",
+				"description": "Location: [[Port Gellhorn]]<br/>For sale at Pawn & Gun in Port Gellhorn.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "79",
+			"position": [
 				1477.5,
 				627.97
 			],
@@ -1277,7 +1293,7 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "79",
+			"id": "80",
 			"position": [
 				1906.09,
 				1965.47
@@ -1293,7 +1309,7 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "80",
+			"id": "81",
 			"position": [
 				922.81,
 				2104.06
@@ -1309,7 +1325,7 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "81",
+			"id": "82",
 			"position": [
 				979.38,
 				1218.28
@@ -1325,7 +1341,7 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "82",
+			"id": "83",
 			"position": [
 				1226.41,
 				907.66
@@ -1341,7 +1357,567 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "83",
+			"id": "84",
+			"position": [
+				922.81,
+				2104.06
+			],
+			"popup": {
+				"title": "Gutterball Moreland 850",
+				"description": "Location: [[Port Gellhorn]]<br/>Unique pump action shotgun, looted during the Kingpin Bowling Illegal Operation in the abandoned bowling alley in Port Gellhorn.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "85",
+			"position": [
+				1939.69,
+				1656.09
+			],
+			"popup": {
+				"title": "Quarter Mile ES9",
+				"description": "Location: [[Vice City]]<br/>Unique weapon, looted during the Chatfield Storage & Logistics Illegal Operation on Waxman Island.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "86",
+			"position": [
+				1657.19,
+				1292.19
+			],
+			"popup": {
+				"title": "PTT Youngin$ K17",
+				"description": "Location: [[Vice City]]<br/>Unique weapon, looted during the Kamar Devon Community Center Illegal Operation in Southside.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "87",
+			"position": [
+				1859.06,
+				1900.16
+			],
+			"popup": {
+				"title": "San4San K17",
+				"description": "Location: [[Vice City]]<br/>Unique weapon, looted during the Sound4Sound Studio Illegal Operation in Stockyard.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "88",
+			"position": [
+				1160.78,
+				2398.28
+			],
+			"popup": {
+				"title": "Hellspawn Comshot 12",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unique combat shotgun, reward for the challenge at a campsite off a side road in the mountains of North Kelly County. Sit on the carved wooden throne and eat to start it, survive, then pick up the shotgun leaning against the throne.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "89",
+			"position": [
+				1481.56,
+				2304.84
+			],
+			"popup": {
+				"title": "Stoner K17 MCD",
+				"description": "Location: [[Ambrosia]]<br/>Unique automatic pistol, in room 115 of the Big Day Motel off US-35, just north of Ambrosia. It is on the nightstand to the right of the bed; the people in the room are harmless.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "90",
+			"position": [
+				1461.56,
+				2633.28
+			],
+			"popup": {
+				"title": "The Patriarch DRX",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unique tactical pistol, underwater next to a sunken car in the south-west part of Kalaga Reservoir. Look for luggage and debris on the bank, then dive past the algae to find the car.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "91",
+			"position": [
+				1293.44,
+				2896.09
+			],
+			"popup": {
+				"title": "Lyle's H&L .38",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unique revolver, in the trunk of the car inside the old barn at the dead end of a road in Bonanza. Go in through the side door and open the trunk.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "92",
+			"position": [
+				1312.34,
+				2910.63
+			],
+			"popup": {
+				"title": "Dirty Drifter",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unique double barrel shotgun, in the trunk of a blue car stuck in a mudslide just off the coastal road in Bonanza. Climb the bank to reach it.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "93",
+			"position": [
+				2219.22,
+				1665.16
+			],
+			"popup": {
+				"title": "Little Friend W-10",
+				"description": "Location: [[Vice Beach]]<br/>Unique micro SMG, on the floor of a second-floor room at the Sunlite Motel in Ocean Beach, off Shore Drive. Take the stairs under the red awning: it is in the blood-splattered room on the right.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "94",
+			"position": [
+				1029.69,
+				1354.38
+			],
+			"popup": {
+				"title": "Cold War 556",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unique carbine assault rifle, just inside a bunker in Big Pine, North Mariana County. Enter from the south-west: it leans against a wooden crate at the back left.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "95",
+			"position": [
+				1509.06,
+				2664.06
+			],
+			"popup": {
+				"title": "Twin's Laird 350",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unique sporting sniper rifle, on the ground below a small hunting platform in the woods just east of Kalaga Reservoir, Lummox County, at the scene of a hunting accident.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "96",
+			"position": [
+				2152.66,
+				2008.91
+			],
+			"popup": {
+				"title": "IAA SMS-01",
+				"description": "Location: [[Vice Beach]]<br/>Unique advanced sniper rifle, on the very top of the roof of the Aichi Condominiums on Northside Ave, Washington Beach.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "97",
+			"position": [
+				2170.63,
+				1996.72
+			],
+			"popup": {
+				"title": "Internal Affairs FF-SR",
+				"description": "Location: [[Vice Beach]]<br/>Unique sniper rifle, at the north-west edge of the roof of the tallest building on this stretch of Northside Ave, Washington Beach: the skyscraper with the helipad.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "98",
+			"position": [
+				2183.75,
+				1961.56
+			],
+			"popup": {
+				"title": "FIB SM-69",
+				"description": "Location: [[Vice Beach]]<br/>Unique sniper rifle, at the top of a skyscraper in Washington Beach, Vice Beach, between two hospitals.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "99",
+			"position": [
+				1771.88,
+				1454.22
+			],
+			"popup": {
+				"title": "Deever Tech GLR40",
+				"description": "Location: [[Vice City]]<br/>Unique weapon, found inside the same garage that holds the Cockroach Xtreme 556.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "100",
+			"position": [
+				1624.38,
+				2698.44
+			],
+			"popup": {
+				"title": "Tallaloko Knife",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unique weapon, found on the upper floor of a cabin on the west shore of Lake Tallaloko, behind a locked door.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "101",
+			"position": [
+				1401.25,
+				3033.13
+			],
+			"popup": {
+				"title": "Shark Knife",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unique weapon, found at the bottom of an underwater ravine north of the Saint Attaway Islands, stuck in the seabed next to a shark cage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "102",
+			"position": [
+				2057.5,
+				1565.63
+			],
+			"popup": {
+				"title": "Mercenary LMG 6",
+				"description": "Location: [[Vice Beach]]<br/>Unique weapon, found at the northern tip of the Port Vice City cargo island, next to a yellow shipping container.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "103",
+			"position": [
+				883.75,
+				1331.25
+			],
+			"popup": {
+				"title": "Soldier's Combat Knife",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unique weapon, found next to a half-submerged tank on the western beach between Bobcat Bight and Bobcat Key.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "104",
+			"position": [
+				1608.59,
+				2215.94
+			],
+			"popup": {
+				"title": "Ride Free H&L .38",
+				"description": "Location: [[Ambrosia]]<br/>Unique weapon, looted during the Biker Hideout Illegal Operation, on the southern shore of Lake Leonida.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "105",
+			"position": [
+				1711.41,
+				2716.41
+			],
+			"popup": {
+				"title": "Marabunta Grande Type 9",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unique weapon, looted during the Weed Grow Illegal Operation, on the north-east shore of Lake Tallaloko.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "106",
+			"position": [
+				1657.34,
+				1320.16
+			],
+			"popup": {
+				"title": "Eris Fresh DSG",
+				"description": "Location: [[Vice City]]<br/>Unique weapon, looted during the Illegal Goods Store Illegal Operation, in Southside.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "107",
+			"position": [
+				1089.53,
+				1421.25
+			],
+			"popup": {
+				"title": "Chronic Vatra",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unique weapon, looted during the Industrial Weed Grow Illegal Operation, in North Mariana County.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "108",
+			"position": [
+				1715.31,
+				1712.81
+			],
+			"popup": {
+				"title": "San4San Gorse 425",
+				"description": "Location: [[Vice City]]<br/>Unique weapon, looted during the Parlor Apartments Illegal Operation, in Rockridge.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "109",
+			"position": [
+				1491.72,
+				2238.75
+			],
+			"popup": {
+				"title": "Final Chapter Shortstraw",
+				"description": "Location: [[Ambrosia]]<br/>Unique weapon, looted during the Hog Stars Garage Illegal Operation, in Ambrosia.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "110",
+			"position": [
+				1736.88,
+				2185.47
+			],
+			"popup": {
+				"title": "Throttler Verro",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unique weapon, looted during the Farm Fix Meth Lab Illegal Operation.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "111",
+			"position": [
+				1150.94,
+				1205.94
+			],
+			"popup": {
+				"title": "Hostile Super400",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unique weapon, looted during the Mill Station Radar Base Illegal Operation, in Grassrivers, north of Watson Bay.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "112",
+			"position": [
+				1452.03,
+				2223.13
+			],
+			"popup": {
+				"title": "Final Chapter KVGA-12",
+				"description": "Location: [[Ambrosia]]<br/>Unique weapon, looted during the Irons Building Supply Illegal Operation, in Ambrosia.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "113",
+			"position": [
+				899.69,
+				2281.72
+			],
+			"popup": {
+				"title": "Clunker 556",
+				"description": "Location: [[Port Gellhorn]]<br/>Unique weapon, looted during the Brooks Boatworks Illegal Operation, in Port Gellhorn.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "114",
+			"position": [
+				1557.81,
+				1712.03
+			],
+			"popup": {
+				"title": "GRX 556",
+				"description": "Location: [[Vice City]]<br/>Unique weapon, looted during the Leonida Carrier Warehouse Illegal Operation.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "115",
+			"position": [
+				1537.03,
+				1071.25
+			],
+			"popup": {
+				"title": "Marabunta Grande KZ-59",
+				"description": "Location: [[Hamlet]]<br/>Unique weapon, looted during the Nova Auto Junkyard Illegal Operation, in Hamlet.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "116",
+			"position": [
+				1726.25,
+				1791.72
+			],
+			"popup": {
+				"title": "San4San KZ-59",
+				"description": "Location: [[Vice City]]<br/>Unique weapon, looted during the Janjak's Garage Illegal Operation, in La Perle.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "117",
+			"position": [
+				1747.66,
+				1664.69
+			],
+			"popup": {
+				"title": "Guardia Brothers FRA",
+				"description": "Location: [[Vice City]]<br/>Unique weapon, looted during the Casa Guardia Illegal Operation, in Little Cuba.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "118",
+			"position": [
+				2183.13,
+				1813.91
+			],
+			"popup": {
+				"title": "Vice City Heathen",
+				"description": "Location: [[Vice Beach]]<br/>Unique weapon for sale at this Ammu-Nation.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "119",
 			"position": [
 				1882.34,
 				1955.47
@@ -1357,7 +1933,7 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "84",
+			"id": "120",
 			"position": [
 				846.88,
 				2219.53
@@ -1373,7 +1949,7 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "85",
+			"id": "121",
 			"position": [
 				1557.34,
 				706.25
@@ -1389,7 +1965,7 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "86",
+			"id": "122",
 			"position": [
 				862.97,
 				2190.47
@@ -1405,7 +1981,7 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "87",
+			"id": "123",
 			"position": [
 				1574.69,
 				784.69
@@ -1421,7 +1997,7 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "88",
+			"id": "124",
 			"position": [
 				1499.06,
 				1102.19
@@ -1437,7 +2013,7 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "89",
+			"id": "125",
 			"position": [
 				1618.44,
 				784.84
@@ -1453,7 +2029,7 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "90",
+			"id": "126",
 			"position": [
 				946.88,
 				2175.31
@@ -1469,7 +2045,7 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "91",
+			"id": "127",
 			"position": [
 				922.66,
 				624.06
@@ -1485,7 +2061,23 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "92",
+			"id": "128",
+			"position": [
+				1363.44,
+				962.81
+			],
+			"popup": {
+				"title": "Cruel Huntsman's SM-69",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unique weapon, lying on the boardwalk between the two buildings of a hunter's cabin in the marsh south-west of Hamlet, next to some gator carcasses.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "129",
 			"position": [
 				1827.19,
 				1704.22
@@ -1501,7 +2093,71 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "93",
+			"id": "130",
+			"position": [
+				1486.88,
+				585.31
+			],
+			"popup": {
+				"title": "Gun Nut SMS-01",
+				"description": "Location: [[Key Lento]]<br/>Go up the outside stairs of the house and break down the door. The rifle is in a case on the kitchen counter.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "131",
+			"position": [
+				1500.47,
+				653.75
+			],
+			"popup": {
+				"title": "Donnie's H&L .38",
+				"description": "Location: [[Key Lento]]<br/>Missable: only available while you head to Donnie's trailer.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "132",
+			"position": [
+				1945,
+				2427.5
+			],
+			"popup": {
+				"title": "President Russo's Pistol",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the bunker on Sharktooth Island.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "133",
+			"position": [
+				1578.44,
+				2566.56
+			],
+			"popup": {
+				"title": "Hunter's Sniper Rifle (reward)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A hunter shot by his partner asks for a ride to the hospital; the reward for driving him is a unique sniper rifle.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "134",
 			"position": [
 				848.75,
 				2221.09
@@ -1517,7 +2173,7 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "94",
+			"id": "135",
 			"position": [
 				1482.34,
 				1378.44
@@ -1533,7 +2189,439 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "95",
+			"id": "136",
+			"position": [
+				1116.72,
+				1317.03
+			],
+			"popup": {
+				"title": "Donnie's Knife",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "137",
+			"position": [
+				1404.69,
+				2262.66
+			],
+			"popup": {
+				"title": "Jack Sheepe H&L .38",
+				"description": "Location: [[Ambrosia]]<br/>Unique Weapon only purchasable from this AMMU-NATION",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "138",
+			"position": [
+				864.22,
+				1583.75
+			],
+			"popup": {
+				"title": "Woodhatch Longshot",
+				"description": "Location: [[Capri]]<br/>Unique Weapon purchasable from this AMMU-NATION.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "139",
+			"position": [
+				1585.63,
+				734.84
+			],
+			"popup": {
+				"title": "Mahi Nipper .38",
+				"description": "Location: [[Key Lento]]<br/>Sold only at this Ammo Nation on the left side.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "140",
+			"position": [
+				1209.06,
+				1144.84
+			],
+			"popup": {
+				"title": "La Polilla Negra VF-G1",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unique weapon, looted during the La Polilla Negra Watson Bay Safehouse Illegal Operation, west of Hamlet.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "141",
+			"position": [
+				1702.19,
+				1632.19
+			],
+			"popup": {
+				"title": "The Guardian ES18",
+				"description": "Location: [[Vice City]]<br/>Unique weapon, looted during the Saber Shipping Yard Illegal Operation, in Little Cuba.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "142",
+			"position": [
+				1729.38,
+				1620.78
+			],
+			"popup": {
+				"title": "Little Cuba Hind",
+				"description": "Location: [[Vice City]]<br/>Unique weapon, sold only at Martez Empeños in Little Cuba.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "143",
+			"position": [
+				1555.78,
+				1794.84
+			],
+			"popup": {
+				"title": "Pocketblast DSG",
+				"description": "Location: [[Vice City]]<br/>Unique weapon, sold only at Griffin Shooting Range.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "144",
+			"position": [
+				985.94,
+				2311.09
+			],
+			"popup": {
+				"title": "Nightmare KZ-59",
+				"description": "Location: [[Port Gellhorn]]<br/>Unique weapon, sold only at Rodgers Ranch & Shooting Range.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "145",
+			"position": [
+				1048.28,
+				1374.53
+			],
+			"popup": {
+				"title": "Shack Attack W-14",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unique weapon, sold only at Richardson Hunting Supplies.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "146",
+			"position": [
+				1425.16,
+				2687.81
+			],
+			"popup": {
+				"title": "Firebreak SM-69",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unique weapon, sold only at Rusty Willis Jr. Hunting Supplies.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "147",
+			"position": [
+				1162.34,
+				1072.97
+			],
+			"popup": {
+				"title": "Fincredible Laird 350",
+				"description": "Location: [[Watson Bay]]<br/>Unique weapon, sold only at Guns Aplenty!.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "148",
+			"position": [
+				914.38,
+				607.97
+			],
+			"popup": {
+				"title": "Mossy Mediator",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unique weapon, sold only at Barrage Gun Supply.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "149",
+			"position": [
+				1639.22,
+				1213.28
+			],
+			"popup": {
+				"title": "Star Spangled 556",
+				"description": "Location: [[Vice City]]<br/>Unique weapon, sold only at Phil's Ammu-Nation.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "150",
+			"position": [
+				1722.81,
+				1701.09
+			],
+			"popup": {
+				"title": "Bruiser Super400",
+				"description": "Location: [[Vice City]]<br/>Unique weapon, sold only at Vice City Gun & Pawn.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "151",
+			"position": [
+				1517.34,
+				1815
+			],
+			"popup": {
+				"title": "Nitepower AZ1200",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unique weapon, sold only at Black Eagle.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "152",
+			"position": [
+				1743.28,
+				1806.25
+			],
+			"popup": {
+				"title": "Backdoor Hobo",
+				"description": "Location: [[Vice City]]<br/>Unique weapon, sold only at Zenon’s Pawn Shop.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "153",
+			"position": [
+				1603.59,
+				2039.69
+			],
+			"popup": {
+				"title": "Watcher Pro Moreland 850",
+				"description": "Location: [[Ambrosia]]<br/>Unique weapon, sold only at Tactical Outlet Guns.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "154",
+			"position": [
+				1706.41,
+				1507.19
+			],
+			"popup": {
+				"title": "Neon Sunset Type 9",
+				"description": "Location: [[Vice City]]<br/>Unique weapon, sold only at Vice City Firearms.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "155",
+			"position": [
+				1734.53,
+				1413.13
+			],
+			"popup": {
+				"title": "Moneymaker W-10",
+				"description": "Location: [[Vice City]]<br/>Unique weapon, sold only at Tequesta Guns & Ammo.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "156",
+			"position": [
+				1643.28,
+				1213.28
+			],
+			"popup": {
+				"title": "Honky Tonk Mustang .357",
+				"description": "Location: [[Vice City]]<br/>Unique weapon, sold only at Phil's Ammu-Nation.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "157",
+			"position": [
+				1877.81,
+				1888.44
+			],
+			"popup": {
+				"title": "Iron & Oak WCR-1",
+				"description": "Location: [[Vice City]]<br/>Unique weapon, sold only at Iron & Oak.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "158",
+			"position": [
+				1815.78,
+				1633.91
+			],
+			"popup": {
+				"title": "Rogue Alpha DRX",
+				"description": "Location: [[Vice City]]<br/>Unique weapon, sold only at Quickscope.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "159",
+			"position": [
+				1521.41,
+				1815
+			],
+			"popup": {
+				"title": "Nite Raptor K17",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unique weapon, sold only at Black Eagle.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "160",
+			"position": [
+				1556.72,
+				1068.28
+			],
+			"popup": {
+				"title": "Sand Storm ES9",
+				"description": "Location: [[Hamlet]]<br/>Unique weapon, sold only at Big Shots.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "161",
+			"position": [
+				1560.78,
+				1068.28
+			],
+			"popup": {
+				"title": "The Silver 1922",
+				"description": "Location: [[Hamlet]]<br/>Unique weapon, sold only at Big Shots.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "162",
+			"position": [
+				1881.88,
+				1888.44
+			],
+			"popup": {
+				"title": "Dazzler DW-9",
+				"description": "Location: [[Vice City]]<br/>Unique weapon, sold only at Iron & Oak.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "163",
 			"position": [
 				1510.16,
 				2664.38
@@ -1549,7 +2637,7 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "96",
+			"id": "164",
 			"position": [
 				921.41,
 				2313.13
@@ -1565,7 +2653,23 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "97",
+			"id": "165",
+			"position": [
+				1572.34,
+				757.5
+			],
+			"popup": {
+				"title": "Gun Nut SMS-01",
+				"description": "Location: [[Key Lento]]<br/>In the case at the entrance of the house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "166",
 			"position": [
 				1569.84,
 				757.66
@@ -1581,7 +2685,7 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "98",
+			"id": "167",
 			"position": [
 				1290.31,
 				2234.06
@@ -1597,7 +2701,7 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "99",
+			"id": "168",
 			"position": [
 				1559.22,
 				746.09
@@ -1613,7 +2717,7 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "100",
+			"id": "169",
 			"position": [
 				1121.56,
 				1220
@@ -1629,7 +2733,7 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "101",
+			"id": "170",
 			"position": [
 				1028.28,
 				2133.13
@@ -1645,7 +2749,7 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "102",
+			"id": "171",
 			"position": [
 				1381.72,
 				916.56
@@ -1661,7 +2765,7 @@
 		},
 		{
 			"categoryId": "1",
-			"id": "103",
+			"id": "172",
 			"position": [
 				1377.03,
 				904.38
@@ -1669,6 +2773,646 @@
 			"popup": {
 				"title": "Sticky Bombs (Wastelander crate)",
 				"description": "Location: [[State of Leonida|Leonida]]<br/>In the crate in the back of the Wastelander.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "173",
+			"position": [
+				1491.72,
+				650.63
+			],
+			"popup": {
+				"title": "Comshot",
+				"description": "Location: [[Key Lento]]<br/>Behind the bathroom door in the house of the family moving out (left bedroom).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "174",
+			"position": [
+				1777.81,
+				2679.06
+			],
+			"popup": {
+				"title": "Copperheads W-14",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unique suppressed tactical rifle with an Ambrosia Copperheads wrap, inside a yellow shipping container full of sporting goods at the Millport harbor. You need the tool to cut open containers, which you get during Chapter 3 of the main story.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "175",
+			"position": [
+				1033.44,
+				1356.56
+			],
+			"popup": {
+				"title": "Brainwasher 1922",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the bunker: press the button again to open a door in the facility, find the room with a TV showing a hypnosis pattern, and complete it.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "176",
+			"position": [
+				1099.06,
+				2081.25
+			],
+			"popup": {
+				"title": "Shrewsbury SM-69 Longarm",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A sniper rifle with ammunition.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "177",
+			"position": [
+				1797.81,
+				2286.09
+			],
+			"popup": {
+				"title": "Pete's KZ-59",
+				"description": "Location: [[Waning Sands]]<br/>On the table near the safe, in Pete's mission The Last Mile.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "178",
+			"position": [
+				2015.31,
+				2186.09
+			],
+			"popup": {
+				"title": "Wrench",
+				"description": "Location: [[Waning Sands]]<br/>On the shelves inside this garage. There is a hammer on the back wall of the garage next door.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "179",
+			"position": [
+				1444.84,
+				1287.66
+			],
+			"popup": {
+				"title": "Hillinger M306 TMR",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the barn: move the container with the nearby excavator to reach the door.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "180",
+			"position": [
+				1225.16,
+				2202.66
+			],
+			"popup": {
+				"title": "Golf Clubs (mini golf)",
+				"description": "Location: [[Ambrosia]]<br/>Three different golf clubs can be found around this mini-golf course.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "181",
+			"position": [
+				1533.13,
+				654.84
+			],
+			"popup": {
+				"title": "Ratchet Wrench",
+				"description": "Location: [[Key Lento]]<br/>Near the gazebo behind the Pay 'n' Spray.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "182",
+			"position": [
+				1414.38,
+				1279.38
+			],
+			"popup": {
+				"title": "Rocket Launcher H-AT",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In a crate next to a vehicle: use Focus to see it.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "183",
+			"position": [
+				1485.63,
+				3000.94
+			],
+			"popup": {
+				"title": "Island Poacher FF-50",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unique weapon, looted from the hunter after you survive the hunting game on Hyde Island (you get knocked out by a tranquilizer dart on the shore).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "184",
+			"position": [
+				1561.72,
+				686.41
+			],
+			"popup": {
+				"title": "Wrench",
+				"description": "Location: [[Key Lento]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "185",
+			"position": [
+				1571.41,
+				757.34
+			],
+			"popup": {
+				"title": "Golf Club",
+				"description": "Location: [[Key Lento]]<br/>Under the porch, where you can hit golf balls.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "186",
+			"position": [
+				605.16,
+				2357.81
+			],
+			"popup": {
+				"title": "Hauners H-AT Rocket Launchers",
+				"description": "Location: [[Port Gellhorn]]<br/>In a wooden box near the two blue and red containers.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "187",
+			"position": [
+				1592.5,
+				696.88
+			],
+			"popup": {
+				"title": "W-22 Small Game Rifle",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Approach from the water: standing right next to the yellow loot box.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "188",
+			"position": [
+				1582.81,
+				767.81
+			],
+			"popup": {
+				"title": "Baseball Bat (trailer)",
+				"description": "Location: [[Key Lento]]<br/>Around the side of the trailer, in a yellow crate beside a mattress.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "189",
+			"position": [
+				1189.69,
+				1022.19
+			],
+			"popup": {
+				"title": "Hunter's Laird 350",
+				"description": "Location: [[Watson Bay]]<br/>The hunter gives you the rifle after you drive him to the ER (Costumed Deer Hunter event).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "190",
+			"position": [
+				1404.69,
+				803.13
+			],
+			"popup": {
+				"title": "Mister Mangrove Laird 350",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unique weapon, reward from Kirk's Help Kirk Find Mr. Mangrove mission near Cottonmouth Lake (night only).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "191",
+			"position": [
+				940.16,
+				2207.97
+			],
+			"popup": {
+				"title": "W-10 SMG (roadhouse)",
+				"description": "Location: [[Port Gellhorn]]<br/>On a metal bin on the right-hand side of the roadhouse building.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "192",
+			"position": [
+				1232.66,
+				2468.75
+			],
+			"popup": {
+				"title": "Midlife Crisis VF5",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In a weapon case in the back of a passenger van with rear double doors.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "193",
+			"position": [
+				1426.09,
+				2033.44
+			],
+			"popup": {
+				"title": "Sticky Bombs (highway construction site)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In a box at the highway construction site.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "194",
+			"position": [
+				1762.81,
+				2258.28
+			],
+			"popup": {
+				"title": "Pete's KZ-59 Assault Rifle",
+				"description": "Location: [[Waning Sands]]<br/>On a desk in the office.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "195",
+			"position": [
+				1755.63,
+				1182.19
+			],
+			"popup": {
+				"title": "Candy Suxxx Bat",
+				"description": "Location: [[Vice City]]<br/>In the garage, behind the car.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "196",
+			"position": [
+				605.63,
+				2358.44
+			],
+			"popup": {
+				"title": "2 Crates (Focus)",
+				"description": "Location: [[Port Gellhorn]]<br/>Two crates: use Focus to find them.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "197",
+			"position": [
+				919.06,
+				2150.63
+			],
+			"popup": {
+				"title": "Sticky Bombs (ammo box)",
+				"description": "Location: [[Port Gellhorn]]<br/>An ammo box with sticky bombs.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "198",
+			"position": [
+				1458.28,
+				962.19
+			],
+			"popup": {
+				"title": "Machete",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the broken-down house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "199",
+			"position": [
+				1663.75,
+				1511.88
+			],
+			"popup": {
+				"title": "Nipper .38 Pistol",
+				"description": "Location: [[Vice City]]<br/>Apartment on the lowest floor of the east building: a pistol and a brick of cocaine.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "200",
+			"position": [
+				849.53,
+				2206.25
+			],
+			"popup": {
+				"title": "Fortune & Son Laird 350",
+				"description": "Location: [[Port Gellhorn]]<br/>Inside the house, in the bedroom.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "201",
+			"position": [
+				2020,
+				2579.69
+			],
+			"popup": {
+				"title": "Cursed Knife",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unique weapon, reward for the Ghost Ship Easter egg: in a small sunken boat on the seabed off the eastern point of Little Hardin Island. Read the logbook near the St. Lucia Lighthouse at night, then dive there at 1:30 AM.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "202",
+			"position": [
+				901.88,
+				2230.16
+			],
+			"popup": {
+				"title": "Small Hunting Rifle (rooftop)",
+				"description": "Location: [[Port Gellhorn]]<br/>On top of the building next to the ramp.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "203",
+			"position": [
+				1574.38,
+				2845.16
+			],
+			"popup": {
+				"title": "Deadringer 1922",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Unique pistol, on the floor of a mobile home on the south bank of the Moreau River, in East Lummox County. The Money Bag 1922 is in the same trailer.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "204",
+			"position": [
+				1263.59,
+				1899.69
+			],
+			"popup": {
+				"title": "ADB M350",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "205",
+			"position": [
+				835.94,
+				1630.78
+			],
+			"popup": {
+				"title": "CPD Moreland 850",
+				"description": "Location: [[Capri]]<br/>Unique shotgun from the By Invitation Only secret mission (Capri Cops Kidnap You): get a 1- or 2-star wanted level from the Capri police here and surrender. After breaking out of the hidden cells, grab it from the open trunk of a police car to the right of the exit before you escape, or you may lose it for good.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "206",
+			"position": [
+				1541.88,
+				1785.16
+			],
+			"popup": {
+				"title": "Rocket Launcher (bunker)",
+				"description": "Location: [[Vice City]]<br/>Inside the bunker.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "207",
+			"position": [
+				1723.13,
+				1789.53
+			],
+			"popup": {
+				"title": "San4San KZ-59 Assault Rifle",
+				"description": "Location: [[Vice City]]<br/>In the room on the passenger side of the target car.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "208",
+			"position": [
+				862.19,
+				2208.59
+			],
+			"popup": {
+				"title": "SM-69 Sniper Rifle",
+				"description": "Location: [[Port Gellhorn]]<br/>Inside the house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "209",
+			"position": [
+				1790.47,
+				1770.16
+			],
+			"popup": {
+				"title": "ES9 (Quarter Mile)",
+				"description": "Location: [[Vice City]]<br/>Downstairs: a special weapon and cash.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "210",
+			"position": [
+				1068.59,
+				1118.44
+			],
+			"popup": {
+				"title": "FF-SR Sniper Rifle",
+				"description": "Location: [[Watson Bay]]<br/>Walk around to the hole in the fence.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "211",
+			"position": [
+				1715.16,
+				1669.06
+			],
+			"popup": {
+				"title": "Low Point Nipper .38",
+				"description": "Location: [[Vice City]]<br/>Lucia's gun from the prologue. Opposite the Payday Loans store in Little Cuba, on the roof inside a ventilation shaft.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "212",
+			"position": [
+				1723.28,
+				1785.78
+			],
+			"popup": {
+				"title": "Hawk & Little Mediator",
+				"description": "Location: [[Vice City]]<br/>By the hatch on the roof of Janjak's Garage.",
 				"link": {
 					"url": "",
 					"label": ""

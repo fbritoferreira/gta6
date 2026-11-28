@@ -1498,6 +1498,486 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "93",
+			"position": [
+				1460,
+				579.69
+			],
+			"popup": {
+				"title": "Book: Dicked Down in Deep Space",
+				"description": "Location: [[Key Lento]]<br/>On a table next to the ladder that leads to the yellow box.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "94",
+			"position": [
+				2021.88,
+				1779.22
+			],
+			"popup": {
+				"title": "Book: Passion B.C.",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the bedside table.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "95",
+			"position": [
+				1853.59,
+				1852.81
+			],
+			"popup": {
+				"title": "Drive Shaft",
+				"description": "Location: [[Vice City]]<br/>On the magazine rack inside the 24/7.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "96",
+			"position": [
+				1853.28,
+				1851.41
+			],
+			"popup": {
+				"title": "Bombazo!",
+				"description": "Location: [[Vice City]]<br/>On the magazine rack inside the 24/7.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "97",
+			"position": [
+				759.53,
+				1685.47
+			],
+			"popup": {
+				"title": "Book: Two Pricks in the Bush",
+				"description": "Location: [[Capri]]<br/>Upstairs on the bed.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "98",
+			"position": [
+				1115.31,
+				1111.41
+			],
+			"popup": {
+				"title": "Styling Magazine: Mutton Chops",
+				"description": "Location: [[Watson Bay]]<br/>At the Plaza Island Motel.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "99",
+			"position": [
+				1298.13,
+				2920.47
+			],
+			"popup": {
+				"title": "Tattoo Magazine: Wandering Cowboy & Cowgirl",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Lying on a pew inside the abandoned church: kick down the wooden barriers at the front door to get in. Scan it with WAiNK for the tattoos.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "100",
+			"position": [
+				2148.28,
+				1618.59
+			],
+			"popup": {
+				"title": "Styling Magazine: Cat Eyes (Orange Neon & Purple)",
+				"description": "Location: [[Vice Beach]]<br/>Make-up style. In the penthouse: take the elevator.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "101",
+			"position": [
+				1743.91,
+				1637.81
+			],
+			"popup": {
+				"title": "Book: Passion B.C.",
+				"description": "Location: [[Vice City]]<br/>In the motel, on the 2nd floor.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "102",
+			"position": [
+				962.03,
+				2284.53
+			],
+			"popup": {
+				"title": "Styling Magazine: Smokey Blue Make-up",
+				"description": "Location: [[Port Gellhorn]]<br/>On the floor by the pool.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "103",
+			"position": [
+				1748.91,
+				1713.59
+			],
+			"popup": {
+				"title": "Pêche",
+				"description": "Location: [[Vice City]]<br/>Fishing magazine.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "104",
+			"position": [
+				1928.44,
+				2171.72
+			],
+			"popup": {
+				"title": "Two Pricks in the Bush",
+				"description": "Location: [[Waning Sands]]<br/>In the garden.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "105",
+			"position": [
+				1682.97,
+				1499.22
+			],
+			"popup": {
+				"title": "Book: Dicked Down in Deep Space",
+				"description": "Location: [[Vice City]]<br/>On the bed.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "106",
+			"position": [
+				1392.81,
+				2040.16
+			],
+			"popup": {
+				"title": "Magazines (Emerald Springs 24/7)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Two magazines in the shop.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "107",
+			"position": [
+				2225.47,
+				1883.91
+			],
+			"popup": {
+				"title": "Styling Magazine: Pixie Cut",
+				"description": "Location: [[Vice Beach]]<br/>On the rooftop: drop down to the terrace, next to the small pool.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "108",
+			"position": [
+				1510.63,
+				1702.34
+			],
+			"popup": {
+				"title": "Styling Magazine: Lumberjack",
+				"description": "Location: [[Vice City]]<br/>On the couch in the trailer: scan it to unlock the Lumberjack facial hair style.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "109",
+			"position": [
+				1612.03,
+				1629.69
+			],
+			"popup": {
+				"title": "Legends of Ratface: Vermin Vigilante",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "110",
+			"position": [
+				940.63,
+				1491.25
+			],
+			"popup": {
+				"title": "Book: Dicked Down in Deep Space",
+				"description": "Location: [[Capri]]<br/>On a green crate, next to a beach chair.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "111",
+			"position": [
+				1698.59,
+				1993.44
+			],
+			"popup": {
+				"title": "DriveShaft",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the books aisle of the store.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "112",
+			"position": [
+				1447.66,
+				2205.47
+			],
+			"popup": {
+				"title": "Ashes of Glory",
+				"description": "Location: [[Ambrosia]]<br/>Inside the house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "113",
+			"position": [
+				1101.88,
+				463.59
+			],
+			"popup": {
+				"title": "Styling Magazine: Pop Star Make-up",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Scan the book next to the chair at the back of the house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "114",
+			"position": [
+				1868.44,
+				1861.09
+			],
+			"popup": {
+				"title": "Lethal By Design",
+				"description": "Location: [[Vice City]]<br/>When in the mission \"Credit Check\" you are in this warehouse, the book is laying on the table once you go to Andrea and Karim upstairs.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "115",
+			"position": [
+				1494.22,
+				1674.38
+			],
+			"popup": {
+				"title": "Lights, Camera, Affirmative Action",
+				"description": "Location: [[Vice City]]<br/>On the small yellow shelves in the bedroom.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "116",
+			"position": [
+				1614.53,
+				2700.63
+			],
+			"popup": {
+				"title": "Book: The Cowboy's Prayer",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the living room couch.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "117",
+			"position": [
+				1506.41,
+				1671.88
+			],
+			"popup": {
+				"title": "Styling Magazine: Jason Hair Style",
+				"description": "Location: [[Vice City]]<br/>On the coffee table: scan it.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "118",
+			"position": [
+				944.22,
+				2142.66
+			],
+			"popup": {
+				"title": "Ashes of Glory",
+				"description": "Location: [[Port Gellhorn]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "119",
+			"position": [
+				850,
+				1685.47
+			],
+			"popup": {
+				"title": "High Rollerz Magazine",
+				"description": "Location: [[Capri]]<br/>In the magazine rack of the LTD Food Mart - Capri.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "120",
+			"position": [
+				1973.44,
+				2293.28
+			],
+			"popup": {
+				"title": "Book: Ashes of Glory",
+				"description": "Location: [[Waning Sands]]<br/>On a small table in the library inside the building.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "121",
+			"position": [
+				1295.94,
+				2895
+			],
+			"popup": {
+				"title": "Book: Martha and Lyle's Scrapbook",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Inside the old barn at the dead end of a road in Bonanza (the same shed as Lyle's H&L .38).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "122",
+			"position": [
+				2121.56,
+				2026.72
+			],
+			"popup": {
+				"title": "Magazine (behind Neptune Rises)",
+				"description": "Location: [[Vice Beach]]<br/>Just behind the Neptune Rises sculpture, below the bridge support, next to the small white chair and bag. On the ground.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

@@ -170,6 +170,118 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "10",
+			"position": [
+				1272.19,
+				1504.69
+			],
+			"popup": {
+				"title": "Albino Alligator",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "11",
+			"position": [
+				1618.44,
+				1007.97
+			],
+			"popup": {
+				"title": "Mutant American Crocodile",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Lives in the power plant cooling basin.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "12",
+			"position": [
+				1462.97,
+				1023.91
+			],
+			"popup": {
+				"title": "Unique Bear (tranquilized)",
+				"description": "Location: [[Hamlet]]<br/>A unique bear with a rope around its neck and a tranq dart in its back roams this area. Hunt it and sell it.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "13",
+			"position": [
+				1117.5,
+				1297.97
+			],
+			"popup": {
+				"title": "Albino Gators",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Good for deer, wild boar and albino gators (worth up to $3,650).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "14",
+			"position": [
+				1135.16,
+				2206.41
+			],
+			"popup": {
+				"title": "Albino Alligator",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A spawn point of the albino alligator.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "15",
+			"position": [
+				1876.56,
+				1197.03
+			],
+			"popup": {
+				"title": "Tiger in a Cage",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Shoot the caged tiger in the head and text Bret Vogel to pick it up.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "16",
+			"position": [
+				1307.5,
+				842.5
+			],
+			"popup": {
+				"title": "Unique Crocodile",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A huge unique croc roams here: selling it to Bret Vogel gives an achievement (worth ~$30,000).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

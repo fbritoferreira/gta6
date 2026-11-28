@@ -6202,6 +6202,1110 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "387",
+			"position": [
+				928.13,
+				561.88
+			],
+			"popup": {
+				"title": "Dodo Seaplanes",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Two Dodo planes here.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "388",
+			"position": [
+				1434.69,
+				887.5
+			],
+			"popup": {
+				"title": "Nagasaki Sea Sparrow",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "389",
+			"position": [
+				2047.97,
+				1667.03
+			],
+			"popup": {
+				"title": "Manhole Tags: Reward Car",
+				"description": "Location: [[Vice City]]<br/>The car in the garage at the end of the manhole tags trail.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "390",
+			"position": [
+				1701.41,
+				2076.41
+			],
+			"popup": {
+				"title": "Ocelot Jugular",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "391",
+			"position": [
+				1689.22,
+				1207.97
+			],
+			"popup": {
+				"title": "Garage Tigers",
+				"description": "Location: [[Vice City]]<br/>Four sports cars in the driveway. Open the garage doors and a tiger on each side attacks you.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "392",
+			"position": [
+				1995.78,
+				1804.22
+			],
+			"popup": {
+				"title": "Benefactor Schutzen",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Parked in the driveway behind the gate in front of the mansion, next to the garage with the caged cheetah.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "393",
+			"position": [
+				2173.59,
+				1992.97
+			],
+			"popup": {
+				"title": "Decker Crake (helicopter)",
+				"description": "Location: [[Vice Beach]]<br/>On the roof, unlocked.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "394",
+			"position": [
+				1563.28,
+				719.22
+			],
+			"popup": {
+				"title": "Albany Devanity (1959)",
+				"description": "Location: [[Key Lento]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "395",
+			"position": [
+				727.34,
+				1901.41
+			],
+			"popup": {
+				"title": "Coast Guard Helicopter",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "396",
+			"position": [
+				1379.69,
+				1000.78
+			],
+			"popup": {
+				"title": "Nagasaki Sea Sparrow",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Upstream in the swamp; found after the mission for Donnie to recover the cocaine bricks.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "397",
+			"position": [
+				865.16,
+				1629.53
+			],
+			"popup": {
+				"title": "Sentinel '85 (custom)",
+				"description": "Location: [[Capri]]<br/>Custom Sentinel with white taillights and air ride.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "398",
+			"position": [
+				765.31,
+				1714.38
+			],
+			"popup": {
+				"title": "Pegassi Vitello",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "399",
+			"position": [
+				848.13,
+				1619.84
+			],
+			"popup": {
+				"title": "Invetero '64 Coquette",
+				"description": "Location: [[Capri]]<br/>Spawns in this alleyway (every time for one member).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "400",
+			"position": [
+				2015.31,
+				1662.34
+			],
+			"popup": {
+				"title": "Buckingham Windsor Drop",
+				"description": "Location: [[Vice City]]<br/>In the first garage on the right.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "401",
+			"position": [
+				2012.81,
+				1661.41
+			],
+			"popup": {
+				"title": "Gallivanter Baller ST-D",
+				"description": "Location: [[Vice City]]<br/>In the second garage on the right.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "402",
+			"position": [
+				1930,
+				2181.41
+			],
+			"popup": {
+				"title": "Emperor Vectre",
+				"description": "Location: [[Waning Sands]]<br/>Move the stacks of paper from the side entrance to enter the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "403",
+			"position": [
+				2038.75,
+				1689.06
+			],
+			"popup": {
+				"title": "Piccia Furia",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the garage next to the Albany Cavalcade XL.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "404",
+			"position": [
+				890,
+				2183.28
+			],
+			"popup": {
+				"title": "Canis Kamacho",
+				"description": "Location: [[Port Gellhorn]]<br/>Needs the key cloner; it has a tracker.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "405",
+			"position": [
+				1663.75,
+				2148.44
+			],
+			"popup": {
+				"title": "Enus Jubilee",
+				"description": "Location: [[Ambrosia]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "406",
+			"position": [
+				2097.81,
+				2101.09
+			],
+			"popup": {
+				"title": "Seaplanes and Helicopters (island)",
+				"description": "Location: [[Vice Beach]]<br/>Seaplanes and helicopters.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "407",
+			"position": [
+				2069.69,
+				1698.91
+			],
+			"popup": {
+				"title": "Buckingham Windsor Cabrio",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "408",
+			"position": [
+				2065.63,
+				1699.69
+			],
+			"popup": {
+				"title": "Pegassi Vitello",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "409",
+			"position": [
+				2065.31,
+				1698.91
+			],
+			"popup": {
+				"title": "Grotti Itali RSX",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "410",
+			"position": [
+				2064.84,
+				1698.28
+			],
+			"popup": {
+				"title": "Benefactor Dubsta",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "411",
+			"position": [
+				1569.69,
+				2775.78
+			],
+			"popup": {
+				"title": "Vapid Riata",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "412",
+			"position": [
+				1143.59,
+				1105.16
+			],
+			"popup": {
+				"title": "Dundreary Chino (1965, Cuban flag)",
+				"description": "Location: [[Watson Bay]]<br/>Dundreary Chino (1965) with a Cuban flag livery, hidden in the bushes near the water.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "413",
+			"position": [
+				1697.81,
+				2087.19
+			],
+			"popup": {
+				"title": "Pegassi Toros",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "414",
+			"position": [
+				1000.78,
+				2418.44
+			],
+			"popup": {
+				"title": "Declasse Applesauce Bobcat",
+				"description": "Location: [[Port Gellhorn]]<br/>Set: Retro; Unique Declasse Bobcat with a red and white finish. Found in a garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "415",
+			"position": [
+				1626.09,
+				1714.38
+			],
+			"popup": {
+				"title": "Cargo Ship (drivable)",
+				"description": "Location: [[Vice City]]<br/>A huge drivable cargo ship with two SCOOP containers on it.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "416",
+			"position": [
+				1997.97,
+				1486.41
+			],
+			"popup": {
+				"title": "Vapid Murica Dominator",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Set: Stock Car; Additional spawn of the Murica Dominator, found inside a SCOOP Container.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "417",
+			"position": [
+				1424.22,
+				561.41
+			],
+			"popup": {
+				"title": "Canis Mesa (skull)",
+				"description": "Location: [[Key Lento]]<br/>A yellow Canis Mesa with a skull and crossbones on the side spawns in front of Leroy's.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "418",
+			"position": [
+				1682.19,
+				2306.41
+			],
+			"popup": {
+				"title": "Dodo Seaplane",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "419",
+			"position": [
+				776.72,
+				1640.63
+			],
+			"popup": {
+				"title": "Principe Alvino",
+				"description": "Location: [[Capri]]<br/>On the left side of the house: break into the garage (no alarm).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "420",
+			"position": [
+				1566.72,
+				747.81
+			],
+			"popup": {
+				"title": "Bravado Gauntlet Hellfire",
+				"description": "Location: [[Key Lento]]<br/>Muscle car.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "421",
+			"position": [
+				1072.34,
+				2181.41
+			],
+			"popup": {
+				"title": "Nagasaki Chrome Street Blazer",
+				"description": "Location: [[Port Gellhorn]]<br/>Set: All-Terrain; Found inside the SCOOP Container at the construction site.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "422",
+			"position": [
+				879.38,
+				1682.5
+			],
+			"popup": {
+				"title": "Dundreary Chino (1965, Puerto Rican flag)",
+				"description": "Location: [[Capri]]<br/>1960s muscle car with a Puerto Rican flag livery, near the train tracks.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "423",
+			"position": [
+				2011.88,
+				2217.34
+			],
+			"popup": {
+				"title": "Benefactor Spritz",
+				"description": "Location: [[Waning Sands]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "424",
+			"position": [
+				928.44,
+				2333.91
+			],
+			"popup": {
+				"title": "Jet Ski (trailer)",
+				"description": "Location: [[Port Gellhorn]]<br/>On the left side of the closed-down building, on a trailer.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "425",
+			"position": [
+				880.31,
+				2017.03
+			],
+			"popup": {
+				"title": "Maibatsu Blue Drake Penumbra",
+				"description": "Location: [[Port Gellhorn]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "426",
+			"position": [
+				2229.53,
+				1548.75
+			],
+			"popup": {
+				"title": "Buckingham Swift (rooftop helipad)",
+				"description": "Location: [[Vice Beach]]<br/>On the rooftop helipad.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "427",
+			"position": [
+				906.88,
+				2084.69
+			],
+			"popup": {
+				"title": "Bravado Youga ('74)",
+				"description": "Location: [[Port Gellhorn]]<br/>In the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "428",
+			"position": [
+				1868.91,
+				2292.03
+			],
+			"popup": {
+				"title": "Vapid Caracara 4x4",
+				"description": "Location: [[Waning Sands]]<br/>In the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "429",
+			"position": [
+				1946.25,
+				1979.84
+			],
+			"popup": {
+				"title": "Pfister Comet S2 (orange)",
+				"description": "Location: [[Vice City]]<br/>A fully orange Comet S2 with an advanced tracker, in the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "430",
+			"position": [
+				888.44,
+				1551.25
+			],
+			"popup": {
+				"title": "Stallion (1968)",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "431",
+			"position": [
+				1311.41,
+				1278.44
+			],
+			"popup": {
+				"title": "Maibatsu Royal Sanchez",
+				"description": "Location: [[Watson Bay]]<br/>In a yellow container by the broken house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "432",
+			"position": [
+				1737.19,
+				1209.22
+			],
+			"popup": {
+				"title": "Grotti Dolce Vita RSX",
+				"description": "Location: [[Vice City]]<br/>Set: Ultra-Luxe; Additional spawn of the Dolce Vita RSX, the Grotti Itali RSX with red, white and green racing stripes.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "433",
+			"position": [
+				1931.41,
+				1788.59
+			],
+			"popup": {
+				"title": "Benefactor Schutzen",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Parked beyond the black gate.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "434",
+			"position": [
+				1667.5,
+				2054.84
+			],
+			"popup": {
+				"title": "Obey Animus",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>White with a pink and purple mandala design and a tie-dye hood.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "435",
+			"position": [
+				694.06,
+				2334.84
+			],
+			"popup": {
+				"title": "Albany Cuban Hermes",
+				"description": "Location: [[Port Gellhorn]]<br/>Set: Throwback; Inside a yellow SCOOP Container, requires the cutter tool. Push the red container in front of it out of the way with a vehicle to get in.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "436",
+			"position": [
+				1449.22,
+				570.94
+			],
+			"popup": {
+				"title": "Dinka Blista ('85)",
+				"description": "Location: [[Key Lento]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "437",
+			"position": [
+				917.97,
+				2005.63
+			],
+			"popup": {
+				"title": "Übermacht Cypher (track livery)",
+				"description": "Location: [[Port Gellhorn]]<br/>Übermacht Cypher with a white, blue and red track livery.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "438",
+			"position": [
+				893.44,
+				2213.91
+			],
+			"popup": {
+				"title": "Rumpo (wreck)",
+				"description": "Location: [[Port Gellhorn]]<br/>Spawn point for a poor condition Rumpo with missing parts. Vehicle isn't enterable unless it has one passenger door and a missing driver door.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "439",
+			"position": [
+				902.34,
+				2066.56
+			],
+			"popup": {
+				"title": "Albany Manana ('77)",
+				"description": "Location: [[Port Gellhorn]]<br/>A Manana spawns here consistently.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "440",
+			"position": [
+				932.97,
+				2237.66
+			],
+			"popup": {
+				"title": "Rental Bus (church)",
+				"description": "Location: [[Port Gellhorn]]<br/>A rental bus is always here by the church.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "441",
+			"position": [
+				914.22,
+				2117.81
+			],
+			"popup": {
+				"title": "Albany Emperor ('85)",
+				"description": "Location: [[Port Gellhorn]]<br/>There is always an Emperor here.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "442",
+			"position": [
+				1192.66,
+				2139.53
+			],
+			"popup": {
+				"title": "Declasse Yosemite ('67, dairy farm)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A blue dairy-farm-themed '67 Yosemite spawns here.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "443",
+			"position": [
+				1569.84,
+				1104.84
+			],
+			"popup": {
+				"title": "Declasse Akane (Hamlet)",
+				"description": "Location: [[Hamlet]]<br/>Near the convenience store, by Hamlet Dental Care.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "444",
+			"position": [
+				2110.94,
+				1533.44
+			],
+			"popup": {
+				"title": "Progen Black Widow Emerus",
+				"description": "Location: [[Vice Beach]]<br/>Set: Street Racer; Black Progen Emerus with a custom livery, found inside a SCOOP Container. Requires the cutter tool (Chapter 3).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "445",
+			"position": [
+				1880.47,
+				1204.69
+			],
+			"popup": {
+				"title": "Vapid Dominator GT",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Custom Dominator GT in a garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "446",
+			"position": [
+				1608.44,
+				717.03
+			],
+			"popup": {
+				"title": "Grotti Carbonizzare",
+				"description": "Location: [[Key Lento]]<br/>Needs the key cloner.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "447",
+			"position": [
+				1467.5,
+				577.66
+			],
+			"popup": {
+				"title": "Bravado Gauntlet Hellfire",
+				"description": "Location: [[Key Lento]]<br/>Parked at a decorated house in the evening.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "448",
+			"position": [
+				1993.13,
+				1825.94
+			],
+			"popup": {
+				"title": "Grotti Itali RSX (black & white)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Black and white Itali RSX in the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "449",
+			"position": [
+				1858.44,
+				1950.78
+			],
+			"popup": {
+				"title": "Albany Sunrise Emperor",
+				"description": "Location: [[Vice City]]<br/>Set: Lowriders; Additional spawn of the Sunrise Emperor, an orange flake lowrider built from an '85 Albany Emperor. Parked indoors.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "450",
+			"position": [
+				2071.88,
+				1695
+			],
+			"popup": {
+				"title": "Invetero Coquette '64",
+				"description": "Location: [[Vice Beach]]<br/>Spawns here most of the time.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "451",
+			"position": [
+				1973.59,
+				1793.91
+			],
+			"popup": {
+				"title": "Vapid Hustler (1932)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "452",
+			"position": [
+				881.41,
+				2024.69
+			],
+			"popup": {
+				"title": "Bravado Gauntlet Hellfire (modified)",
+				"description": "Location: [[Port Gellhorn]]<br/>A modified one among the parked cars.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "453",
+			"position": [
+				953.91,
+				1500.94
+			],
+			"popup": {
+				"title": "Declasse Bobcat 500 (1955, Jack Sheepe livery)",
+				"description": "Location: [[Capri]]<br/>Red and white Bobcat with the Jack Sheepe livery.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "454",
+			"position": [
+				1268.75,
+				1140.16
+			],
+			"popup": {
+				"title": "Declasse Bobcat 500 (1955)",
+				"description": "Location: [[Watson Bay]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "455",
+			"position": [
+				2044.06,
+				2150.78
+			],
+			"popup": {
+				"title": "Ascot Paragon",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

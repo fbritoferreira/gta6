@@ -1562,6 +1562,486 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "97",
+			"position": [
+				909.38,
+				2085.31
+			],
+			"popup": {
+				"title": "Strongbox (pills)",
+				"description": "Location: [[Port Gellhorn]]<br/>A small strongbox with pills; no alarm.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "98",
+			"position": [
+				1332.66,
+				2061.88
+			],
+			"popup": {
+				"title": "Deposit Box (Tucker's stand)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the lower middle of Tucker's stand.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "99",
+			"position": [
+				1492.81,
+				1105.16
+			],
+			"popup": {
+				"title": "Safe (2nd-floor apartment)",
+				"description": "Location: [[Hamlet]]<br/>Three apartments on the second floor can be entered; the safe is in the second one.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "100",
+			"position": [
+				2092.34,
+				1594.38
+			],
+			"popup": {
+				"title": "Safe (coast guard building)",
+				"description": "Location: [[Vice Beach]]<br/>Upstairs; the code hangs where you destroy the video evidence downstairs. Crates with narcotics and a grenade launcher too.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "101",
+			"position": [
+				1548.28,
+				682.97
+			],
+			"popup": {
+				"title": "Cash Box (clothing store)",
+				"description": "Location: [[Key Lento]]<br/>At the back of the clothing store.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "102",
+			"position": [
+				1818.28,
+				1705
+			],
+			"popup": {
+				"title": "Safe - Haunted House",
+				"description": "Location: [[Vice City]]<br/>Under the stairs at the stairwell entrance.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "103",
+			"position": [
+				1610.63,
+				2692.34
+			],
+			"popup": {
+				"title": "Safe: Lummox County",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>No code needed.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "104",
+			"position": [
+				1374.06,
+				894.69
+			],
+			"popup": {
+				"title": "Safe (Kingfishers camp)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the shelf.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "105",
+			"position": [
+				1847.97,
+				1886.72
+			],
+			"popup": {
+				"title": "Safe (top-floor office)",
+				"description": "Location: [[Vice City]]<br/>In the office on the top floor. Code: 2217.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "106",
+			"position": [
+				1721.72,
+				1632.5
+			],
+			"popup": {
+				"title": "Safe (Fast Cash pawn shop)",
+				"description": "Location: [[Vice City]]<br/>Code: 3476.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "107",
+			"position": [
+				850.47,
+				1684.22
+			],
+			"popup": {
+				"title": "Safe (LTD office)",
+				"description": "Location: [[Capri]]<br/>In the office, with some cash.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "108",
+			"position": [
+				921.41,
+				2202.19
+			],
+			"popup": {
+				"title": "Safe (Avery Pawn)",
+				"description": "Location: [[Port Gellhorn]]<br/>Code: 5107.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "109",
+			"position": [
+				2236.09,
+				1522.97
+			],
+			"popup": {
+				"title": "Safe (garage)",
+				"description": "Location: [[Vice Beach]]<br/>Move the pallets to get into the garage; the safe needs a code.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "110",
+			"position": [
+				1502.34,
+				1692.66
+			],
+			"popup": {
+				"title": "Safe (house)",
+				"description": "Location: [[Vice City]]<br/>Inside the house, with some cash; the PIN is also in the house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "111",
+			"position": [
+				1810,
+				1584.38
+			],
+			"popup": {
+				"title": "Safe (Richardson Jewelry)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "112",
+			"position": [
+				1740.31,
+				2434.53
+			],
+			"popup": {
+				"title": "Safe ($9,000)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A safe with $9,000 in it.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "113",
+			"position": [
+				1763.59,
+				2059.84
+			],
+			"popup": {
+				"title": "Safe ($1,000)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A safe with $1,000 in it.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "114",
+			"position": [
+				1699.38,
+				1398.75
+			],
+			"popup": {
+				"title": "Safe (back office)",
+				"description": "Location: [[Vice City]]<br/>In the back office.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "115",
+			"position": [
+				848.13,
+				1634.84
+			],
+			"popup": {
+				"title": "Security Box (jeweler)",
+				"description": "Location: [[Capri]]<br/>Code: 1237.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "116",
+			"position": [
+				1886.88,
+				2237.34
+			],
+			"popup": {
+				"title": "Safe (Kowalski)",
+				"description": "Location: [[Waning Sands]]<br/>Code: 9665.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "117",
+			"position": [
+				1205.16,
+				1096.41
+			],
+			"popup": {
+				"title": "Marina Warehouse Safe",
+				"description": "Location: [[Watson Bay]]<br/>In the upstairs office of the warehouse. Code: 0135.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "118",
+			"position": [
+				1499.53,
+				2271.88
+			],
+			"popup": {
+				"title": "Bedroom Safe",
+				"description": "Location: [[Ambrosia]]<br/>On the bedroom drawers, with cash.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "119",
+			"position": [
+				1505.31,
+				2250
+			],
+			"popup": {
+				"title": "Safe (gas station)",
+				"description": "Location: [[Ambrosia]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "120",
+			"position": [
+				1605,
+				2700.78
+			],
+			"popup": {
+				"title": "Safe (no code)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>No code needed.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "121",
+			"position": [
+				1692.97,
+				1506.72
+			],
+			"popup": {
+				"title": "Safe (Pawn City)",
+				"description": "Location: [[Vice City]]<br/>Code: 3562. Jewelry and about $1,000 cash.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "122",
+			"position": [
+				928.59,
+				2125.16
+			],
+			"popup": {
+				"title": "Safe (Pawn & Gun - Port Gellhorn)",
+				"description": "Location: [[Port Gellhorn]]<br/>In the corner behind the left counter. A member reports the code 8668.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "123",
+			"position": [
+				1459.22,
+				1184.84
+			],
+			"popup": {
+				"title": "Safe",
+				"description": "Location: [[Hamlet]]<br/>Inside the building.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "124",
+			"position": [
+				1946.25,
+				1791.88
+			],
+			"popup": {
+				"title": "Safe (garage)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Small safe with jewelry in the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "125",
+			"position": [
+				1977.66,
+				1797.66
+			],
+			"popup": {
+				"title": "Safe (first floor)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Small safe with jewelry on the first floor.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "126",
+			"position": [
+				1816.25,
+				1784.22
+			],
+			"popup": {
+				"title": "Safe (second floor)",
+				"description": "Location: [[Vice City]]<br/>In the room on the second floor of the building, on the shelf.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

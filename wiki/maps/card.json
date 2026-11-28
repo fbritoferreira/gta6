@@ -7162,6 +7162,2406 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "447",
+			"position": [
+				1821.23,
+				1656.92
+			],
+			"popup": {
+				"title": "Vice City Narcos card: Beck R. Heffer (Teal)",
+				"description": "Location: [[Vice City]]<br/>On the edge of a bench up in the train station.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "448",
+			"position": [
+				1778.28,
+				1790.89
+			],
+			"popup": {
+				"title": "Vice City Narcos card: Branko Roncevic (Standard)",
+				"description": "Location: [[Vice City]]<br/>On top of the railing on the front porch of a red house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "449",
+			"position": [
+				1914.42,
+				2226.94
+			],
+			"popup": {
+				"title": "Vice City Narcos card: Andre Stevenson (Standard)",
+				"description": "Location: [[Waning Sands]]<br/>Under the mannequin display in front of Baller World in the outdoor mall.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "450",
+			"position": [
+				1885.94,
+				1667.19
+			],
+			"popup": {
+				"title": "Vice City Narcos card: Dylan Ezequiel Mack Jr. (Bronze)",
+				"description": "Location: [[Vice City]]<br/>On the base of the large basketball hoop sculpture in the centre of the Sahara Arena.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "451",
+			"position": [
+				2213.58,
+				1875.56
+			],
+			"popup": {
+				"title": "Vice City Narcos card: Dylan Ezequiel Mack Jr. (Gold)",
+				"description": "Location: [[Vice Beach]]<br/>Wedged into a book next to an electrical box on the highest roof of the Amphitrite Apartment building.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "452",
+			"position": [
+				837.17,
+				1626.27
+			],
+			"popup": {
+				"title": "Vice City Narcos card: Kyle Lewicki (Orange)",
+				"description": "Location: [[Capri]]<br/>On a table in the back corner between the This Grace Boutique and Antheia buildings.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "453",
+			"position": [
+				1205.38,
+				1094.45
+			],
+			"popup": {
+				"title": "Vice City Narcos card: Leroy Rook (Bronze)",
+				"description": "Location: [[Watson Bay]]<br/>Inside the safe in the second-floor office.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "454",
+			"position": [
+				1478.98,
+				1065.23
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: Funny Bones (Pink)",
+				"description": "Location: [[Hamlet]]<br/>On the toilet floor in the shop.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "455",
+			"position": [
+				2265.78,
+				1790.63
+			],
+			"popup": {
+				"title": "Vice City Narcos card: Bryson Powers (Standard)",
+				"description": "Location: [[Vice Beach]]<br/>In the lifeguard hut (a second spot if the motel is closed to you). Another spot: the Starlet Motel laundry room, on the right washer.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "456",
+			"position": [
+				1716.33,
+				1304.73
+			],
+			"popup": {
+				"title": "Vice City Narcos card: Nicky McVee (Bronze)",
+				"description": "Location: [[Vice City]]<br/>Under a folding chair on the back roof of The Ortega Rooms hotel.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "457",
+			"position": [
+				1661.72,
+				2030.78
+			],
+			"popup": {
+				"title": "Liberty City Wrath card: Atonga Alaalatoa (Standard)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Top row of the stands, next to the backpack.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "458",
+			"position": [
+				2177.81,
+				1919.09
+			],
+			"popup": {
+				"title": "Vice City Narcos card: Otis Adams (Orange)",
+				"description": "Location: [[Vice Beach]]<br/>On the railing of the second-floor balcony of the pink apartment complex.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "459",
+			"position": [
+				1558.58,
+				1482.3
+			],
+			"popup": {
+				"title": "Vice City Narcos card: Otis Adams (Teal)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On a black chair against the wall of the central terminal inside VCIA.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "460",
+			"position": [
+				1098.81,
+				1146.98
+			],
+			"popup": {
+				"title": "Backyard Wrestling card: L.Heavy (Standard)",
+				"description": "Location: [[Watson Bay]]<br/>On a ledge under a crane, near a ladder over the water in north-western Watson Bay.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "461",
+			"position": [
+				1099.39,
+				1073.56
+			],
+			"popup": {
+				"title": "Liberty City Wrath card: Thien Trinh (Gold)",
+				"description": "Location: [[Watson Bay]]<br/>At the top of the tower on the north end of The Bitehouse roof.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "462",
+			"position": [
+				2258.8,
+				1490.03
+			],
+			"popup": {
+				"title": "Vice City Club De Fútbol card: Gerry Northgate (Standard)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the teal lifeguard tower.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "463",
+			"position": [
+				2262.41,
+				1707.02
+			],
+			"popup": {
+				"title": "Vice City Club De Fútbol card: Ian Harris (Silver)",
+				"description": "Location: [[Vice Beach]]<br/>In the orange lifeguard tower.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "464",
+			"position": [
+				2007.41,
+				1512.39
+			],
+			"popup": {
+				"title": "Liberty City Wrath card: Bruce Goosen (Standard)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "465",
+			"position": [
+				1118.13,
+				1048.59
+			],
+			"popup": {
+				"title": "Liberty City Penetrators card: Wenyen Deng (Standard)",
+				"description": "Location: [[Watson Bay]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "466",
+			"position": [
+				1238.7,
+				1302.61
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Terrence Jackson (Navy Blue)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>At the train station.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "467",
+			"position": [
+				1554.59,
+				1090.17
+			],
+			"popup": {
+				"title": "Liberty City Swingers card: Duke King (Navy Blue)",
+				"description": "Location: [[Hamlet]]<br/>On the roof of Pollo Diablo, on the air-conditioning unit by the chairs.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "468",
+			"position": [
+				2230.94,
+				1948.13
+			],
+			"popup": {
+				"title": "Liberty City Wrath card: Anthony Poke II (Silver)",
+				"description": "Location: [[Vice Beach]]<br/>Inside the orange/red lifeguard hut.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "469",
+			"position": [
+				1518.22,
+				616.72
+			],
+			"popup": {
+				"title": "The Legends of Ratface card: Death of Swallow (Blue)",
+				"description": "Location: [[Key Lento]]<br/>On the floor in front of the fallen bookshelf.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "470",
+			"position": [
+				2208.2,
+				1634.08
+			],
+			"popup": {
+				"title": "Liberty City Wrath card: James Bowery (Silver)",
+				"description": "Location: [[Vice Beach]]<br/>Up a few flights of stairs, next to the glass door.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "471",
+			"position": [
+				1628.17,
+				1299.27
+			],
+			"popup": {
+				"title": "The Legends of Ratface card: Death of Swallow (Maroon)",
+				"description": "Location: [[Vice City]]<br/>Break into the house: in the main room.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "472",
+			"position": [
+				1800.2,
+				1703.05
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: The Educated Woman (Blue)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "473",
+			"position": [
+				1227.47,
+				1084.69
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Samuel Buono (Navy Blue)",
+				"description": "Location: [[Watson Bay]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "474",
+			"position": [
+				1708.16,
+				1443.97
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Jonah Clemmons (Deep Red)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "475",
+			"position": [
+				1196.67,
+				1102.92
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Jonah Clemmons (Silver)",
+				"description": "Location: [[Watson Bay]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "476",
+			"position": [
+				1735.95,
+				2698.08
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Terrence Jackson (Silver)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "477",
+			"position": [
+				2187.13,
+				2002.44
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Si-Woo Choo (Standard)",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "478",
+			"position": [
+				1789.73,
+				1473.3
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Samuel Buono (Deep Red)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "479",
+			"position": [
+				1554.28,
+				1475.19
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Anthony Herndon (Silver)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "480",
+			"position": [
+				1829.97,
+				2012.34
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Terrence Jackson (Deep Red)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "481",
+			"position": [
+				2145.77,
+				1885.39
+			],
+			"popup": {
+				"title": "Liberty City Swingers card: Mario Rugama (Deep Red)",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "482",
+			"position": [
+				1791.34,
+				1607.45
+			],
+			"popup": {
+				"title": "Liberty City Swingers card: Christian Freeman (Deep Red)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "483",
+			"position": [
+				1816.02,
+				1573.22
+			],
+			"popup": {
+				"title": "Liberty City Swingers card: Juan Carlos Garcia (Standard)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "484",
+			"position": [
+				2145.91,
+				1757.89
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Carlos Larios (Bronze)",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "485",
+			"position": [
+				1619.08,
+				1221.95
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Jonah Clemmons (Navy Blue)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "486",
+			"position": [
+				1482.14,
+				2852.7
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Miguel Ayala (Standard)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "487",
+			"position": [
+				1118.73,
+				1093
+			],
+			"popup": {
+				"title": "Liberty City Swingers card: Christian Freeman (Navy Blue)",
+				"description": "Location: [[Watson Bay]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "488",
+			"position": [
+				1698.38,
+				1660.25
+			],
+			"popup": {
+				"title": "Los Santos Panic card: Jakob Markic (Silver)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "489",
+			"position": [
+				1655.59,
+				1285.44
+			],
+			"popup": {
+				"title": "Los Santos Panic card: Nikkander Orlov (Yellow)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "490",
+			"position": [
+				1735.41,
+				2714.28
+			],
+			"popup": {
+				"title": "Los Santos Panic card: Jakob Markic (Yellow)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "491",
+			"position": [
+				1961.55,
+				2224.94
+			],
+			"popup": {
+				"title": "Liberty City Penetrators card: D'Angelou Miles (Standard)",
+				"description": "Location: [[Waning Sands]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "492",
+			"position": [
+				2220.34,
+				1661.39
+			],
+			"popup": {
+				"title": "Liberty City Swingers card: Lalo Velasco (Silver)",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "493",
+			"position": [
+				1710.92,
+				1642.48
+			],
+			"popup": {
+				"title": "Liberty City Penetrators card: Lamont Berry (Standard)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "494",
+			"position": [
+				2037.69,
+				2110
+			],
+			"popup": {
+				"title": "Liberty City Penetrators card: Rion Yapa (Bright Orange)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "495",
+			"position": [
+				1458.44,
+				2282.25
+			],
+			"popup": {
+				"title": "Los Santos Panic card: Carl Camp (Standard)",
+				"description": "Location: [[Ambrosia]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "496",
+			"position": [
+				2152.44,
+				1700.03
+			],
+			"popup": {
+				"title": "Los Santos Panic card: Damarion Carter (Purple)",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "497",
+			"position": [
+				2113.13,
+				2016.25
+			],
+			"popup": {
+				"title": "Los Santos Pounders card: Dravy Mease (Silver)",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "498",
+			"position": [
+				1826,
+				1454.73
+			],
+			"popup": {
+				"title": "Los Santos Pounders card: Randolph Topolski (Gold)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "499",
+			"position": [
+				1964.31,
+				2398.59
+			],
+			"popup": {
+				"title": "Los Santos Pounders card: Zander Paton (Standard)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "500",
+			"position": [
+				1252.98,
+				1465.33
+			],
+			"popup": {
+				"title": "Liberty City Swingers card: Duke King (Silver)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "501",
+			"position": [
+				1899.86,
+				2123.53
+			],
+			"popup": {
+				"title": "Liberty City Swingers card: Mario Rugama (Navy Blue)",
+				"description": "Location: [[Waning Sands]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "502",
+			"position": [
+				1714.48,
+				1459.58
+			],
+			"popup": {
+				"title": "Liberty City Penetrators card: Demario Richardson (Bronze)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "503",
+			"position": [
+				1718.41,
+				1670.58
+			],
+			"popup": {
+				"title": "Los Santos Panic card: Chibuike Bello (Silver)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "504",
+			"position": [
+				2127.81,
+				1983.7
+			],
+			"popup": {
+				"title": "Los Santos Panic card: Damarion Carter (Silver)",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "505",
+			"position": [
+				2187.91,
+				1782.84
+			],
+			"popup": {
+				"title": "Liberty City Penetrators card: Demario Richardson (Silver)",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "506",
+			"position": [
+				2136.22,
+				1665.19
+			],
+			"popup": {
+				"title": "Liberty City Penetrators card: Alexander Avain (Bright Orange)",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "507",
+			"position": [
+				2060.22,
+				1801.27
+			],
+			"popup": {
+				"title": "Vice City Manatees card: John Morgan (Green)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "508",
+			"position": [
+				1708.36,
+				1520.77
+			],
+			"popup": {
+				"title": "Los Santos Panic card: Terrance Ericks (Gold)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "509",
+			"position": [
+				1489.05,
+				2289.48
+			],
+			"popup": {
+				"title": "Vice City Manatees card: Maleek Rivers (Silver)",
+				"description": "Location: [[Ambrosia]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "510",
+			"position": [
+				1492.92,
+				1194.05
+			],
+			"popup": {
+				"title": "Los Santos Pounders card: Randolph Topolski (Bronze)",
+				"description": "Location: [[Hamlet]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "511",
+			"position": [
+				1760.47,
+				1446.41
+			],
+			"popup": {
+				"title": "Los Santos Pounders card: Sione Apa (Deep Red)",
+				"description": "Location: [[Vice City]]<br/>In the gym locker room, on a bench next to the lockers.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "512",
+			"position": [
+				1779.06,
+				1409.34
+			],
+			"popup": {
+				"title": "Los Santos Panic card: Jakob Markic (Purple)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "513",
+			"position": [
+				1771.53,
+				1429.48
+			],
+			"popup": {
+				"title": "Liberty City Penetrators card: Asher Rodriguez (Standard)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "514",
+			"position": [
+				2091.03,
+				1942.53
+			],
+			"popup": {
+				"title": "Liberty City Penetrators card: Rion Yapa (Navy Blue)",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "515",
+			"position": [
+				1056.19,
+				1507.22
+			],
+			"popup": {
+				"title": "Vice City Manatees card: Dominic Brizzolato (Silver)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "516",
+			"position": [
+				1945,
+				2233.89
+			],
+			"popup": {
+				"title": "Los Santos Panic card: Damarion Carter (Yellow)",
+				"description": "Location: [[Waning Sands]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "517",
+			"position": [
+				1080.78,
+				2690.34
+			],
+			"popup": {
+				"title": "Vice City Manatees card: Junior Taufua (Green)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "518",
+			"position": [
+				1252.38,
+				1544.38
+			],
+			"popup": {
+				"title": "Vice City Manatees card: Manniken Stills (Standard)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "519",
+			"position": [
+				1803.58,
+				2568.53
+			],
+			"popup": {
+				"title": "Los Santos Pounders card: Rider Butler (Silver)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "520",
+			"position": [
+				1698.22,
+				1763.27
+			],
+			"popup": {
+				"title": "Vice City Manatees card: Jacob Schneeman (Standard)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "521",
+			"position": [
+				1488.86,
+				2322.83
+			],
+			"popup": {
+				"title": "Los Santos Pounders card: Benjamin Quintana (Standard)",
+				"description": "Location: [[Ambrosia]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "522",
+			"position": [
+				1729.06,
+				1736.72
+			],
+			"popup": {
+				"title": "Liberty City Wrath card: B'ryan Barnett (Gold)",
+				"description": "Location: [[Vice City]]<br/>On top of the Alpha Sports sign.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "523",
+			"position": [
+				1828.72,
+				1485.39
+			],
+			"popup": {
+				"title": "Vice City Club De Fútbol card: Badge (Bronze)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "524",
+			"position": [
+				879.72,
+				1693.59
+			],
+			"popup": {
+				"title": "Vice City Club De Fútbol card: Oskar Wolff (Dusty Pink)",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "525",
+			"position": [
+				2060.02,
+				1801.22
+			],
+			"popup": {
+				"title": "Vice City Manatees card: John Morgan (Dusty Pink)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "526",
+			"position": [
+				2150.83,
+				1719.23
+			],
+			"popup": {
+				"title": "Los Santos Pounders card: Rider Butler (Gold)",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "527",
+			"position": [
+				1674.84,
+				1294.22
+			],
+			"popup": {
+				"title": "Liberty City Wrath card: James Bowery (Deep Red)",
+				"description": "Location: [[Vice City]]<br/>On the bench.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "528",
+			"position": [
+				1706.56,
+				1235
+			],
+			"popup": {
+				"title": "Vice City Club De Fútbol card: Leon Correo (Silver)",
+				"description": "Location: [[Vice City]]<br/>On the cork board next to the bench.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "529",
+			"position": [
+				1798.05,
+				1484.08
+			],
+			"popup": {
+				"title": "America's Next Top Hooker card: Diego (Standard)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "530",
+			"position": [
+				1930.73,
+				1329.19
+			],
+			"popup": {
+				"title": "Vice City Manatees card: Dominic Brizzolato (Gold)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "531",
+			"position": [
+				1923.31,
+				2191.67
+			],
+			"popup": {
+				"title": "Vice City Manatees card: John Morgan (Silver)",
+				"description": "Location: [[Waning Sands]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "532",
+			"position": [
+				1034.59,
+				2667.53
+			],
+			"popup": {
+				"title": "Los Santos Pounders card: Sione Apa (Yellow)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "533",
+			"position": [
+				1822.77,
+				1801.66
+			],
+			"popup": {
+				"title": "Liberty City Wrath card: B'ryan Barnett (Bronze)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "534",
+			"position": [
+				1800.13,
+				1664.06
+			],
+			"popup": {
+				"title": "Vice City Club De Fútbol card: Emma Croydon (Gold)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "535",
+			"position": [
+				1697.98,
+				1422.42
+			],
+			"popup": {
+				"title": "Los Santos Pounders card: Maximus Goldbart (Deep Red)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "536",
+			"position": [
+				1765.97,
+				2535.63
+			],
+			"popup": {
+				"title": "Los Santos Pounders card: Tyson Brooks (Standard)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "537",
+			"position": [
+				1627.66,
+				2697.44
+			],
+			"popup": {
+				"title": "Vice City Club De Fútbol card: Badge (Gold)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "538",
+			"position": [
+				1575.94,
+				1238.91
+			],
+			"popup": {
+				"title": "Vice City Club De Fútbol card: Renata Vasquez (Silver)",
+				"description": "Location: [[Vice City]]<br/>On the grave with the soccer ball.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "539",
+			"position": [
+				1176.83,
+				1325.3
+			],
+			"popup": {
+				"title": "America's Next Top Hooker card: Angel (Silver)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "540",
+			"position": [
+				1494.83,
+				1676.16
+			],
+			"popup": {
+				"title": "Los Santos Pounders card: Rider Butler (Bronze)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "541",
+			"position": [
+				1695.31,
+				1245.16
+			],
+			"popup": {
+				"title": "Liberty City Wrath card: Anthony Poke II (Navy Blue)",
+				"description": "Location: [[Vice City]]<br/>On the stairs next to the driveway.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "542",
+			"position": [
+				1924.02,
+				2118.84
+			],
+			"popup": {
+				"title": "Liberty City Wrath card: James Bowery (Navy Blue)",
+				"description": "Location: [[Waning Sands]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "543",
+			"position": [
+				1890.67,
+				1593.55
+			],
+			"popup": {
+				"title": "Vice City Club De Fútbol card: Anne Florence (Dusty Pink)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "544",
+			"position": [
+				928,
+				1569.95
+			],
+			"popup": {
+				"title": "Liberty City Wrath card: Christian Yee (Silver)",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "545",
+			"position": [
+				1601.45,
+				2044.19
+			],
+			"popup": {
+				"title": "Vice City Club De Fútbol card: Ellie Burke (Dusty Pink)",
+				"description": "Location: [[Ambrosia]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "546",
+			"position": [
+				1757.16,
+				2572.38
+			],
+			"popup": {
+				"title": "America's Next Top Hooker card: Boris (Silver)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "547",
+			"position": [
+				2162.59,
+				1850.08
+			],
+			"popup": {
+				"title": "Vice City Club De Fútbol card: Oskar Wolff (Silver)",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "548",
+			"position": [
+				898.77,
+				1415.39
+			],
+			"popup": {
+				"title": "Liberty City Wrath card: B'ryan Barnett (Silver)",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "549",
+			"position": [
+				1505.53,
+				1672.14
+			],
+			"popup": {
+				"title": "Vice City Club De Fútbol card: Badge (Dusty Pink)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "550",
+			"position": [
+				1914.73,
+				2105.08
+			],
+			"popup": {
+				"title": "Vice City Club De Fútbol card: Oskar Wolff (Teal)",
+				"description": "Location: [[Waning Sands]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "551",
+			"position": [
+				1384.27,
+				1229.3
+			],
+			"popup": {
+				"title": "America's Next Top Hooker card: Boris (Gold)",
+				"description": "Location: [[Hamlet]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "552",
+			"position": [
+				2163.09,
+				1688.48
+			],
+			"popup": {
+				"title": "Liberty City Wrath card: Christian Yee (Navy Blue)",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "553",
+			"position": [
+				1709.91,
+				1493.91
+			],
+			"popup": {
+				"title": "Liberty City Wrath card: Tayson Briggs (Standard)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "554",
+			"position": [
+				952.7,
+				1503.11
+			],
+			"popup": {
+				"title": "Vice City Club De Fútbol card: Renata Vasquez (Teal)",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "555",
+			"position": [
+				1459.39,
+				1334.5
+			],
+			"popup": {
+				"title": "America's Next Top Hooker card: Beverly (Silver)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "556",
+			"position": [
+				2067.73,
+				2055.78
+			],
+			"popup": {
+				"title": "America's Next Top Hooker card: Boris (Bronze)",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "557",
+			"position": [
+				1958.94,
+				1795.2
+			],
+			"popup": {
+				"title": "America's Next Top Hooker card: Angel (Gold)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "558",
+			"position": [
+				1222.27,
+				2882.89
+			],
+			"popup": {
+				"title": "America's Next Top Hooker card: Kalisha (Silver)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "559",
+			"position": [
+				1699.38,
+				1293.91
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: They (White)",
+				"description": "Location: [[Vice City]]<br/>First-floor apartment 006, on the fridge.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "560",
+			"position": [
+				1617.53,
+				1187.09
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: Diagnosis (Pink)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "561",
+			"position": [
+				1921.55,
+				1374.56
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: Flamer (Blue)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "562",
+			"position": [
+				1506.88,
+				861.72
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: Diagnosis (Orange)",
+				"description": "Location: [[Key Lento]]<br/>On the roof, in a nest. Use a helicopter, or climb the three barrels to get onto the roof.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "563",
+			"position": [
+				1727.83,
+				2705.42
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: Side Effect (Pink)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "564",
+			"position": [
+				1815.05,
+				1733.14
+			],
+			"popup": {
+				"title": "The Legends of Ratface card: Diddler (Purple)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "565",
+			"position": [
+				1298.89,
+				2379.78
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: Right Wing's Truck (Red)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "566",
+			"position": [
+				1501.17,
+				1665.23
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: Funny Bones (Light Blue)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "567",
+			"position": [
+				2153.02,
+				1664.53
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: Ratface (Gold)",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "568",
+			"position": [
+				2180.11,
+				1871.19
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: Great Uncle Sam (Red)",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "569",
+			"position": [
+				847.23,
+				1696.69
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: President Blunt (White)",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "570",
+			"position": [
+				1473.14,
+				1353.11
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: Right Wing's Truck (White)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "571",
+			"position": [
+				1828.7,
+				1673.73
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: MR.I (Orange)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "572",
+			"position": [
+				1726.22,
+				1327.77
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: Rightwing (Silver)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "573",
+			"position": [
+				998.23,
+				1589.06
+			],
+			"popup": {
+				"title": "The Legends of Ratface card: Diddler (Maroon)",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "574",
+			"position": [
+				1864.83,
+				1885.34
+			],
+			"popup": {
+				"title": "The Legends of Ratface card: Illuminaughty (Maroon)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "575",
+			"position": [
+				1698.75,
+				1405.47
+			],
+			"popup": {
+				"title": "The Legends of Ratface card: Swallow (Blue)",
+				"description": "Location: [[Vice City]]<br/>First floor, on the picnic tables outside.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "576",
+			"position": [
+				1857.3,
+				2269.53
+			],
+			"popup": {
+				"title": "The Legends of Ratface card: Todd (Maroon)",
+				"description": "Location: [[Waning Sands]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "577",
+			"position": [
+				1755,
+				1634.05
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: They (Blue)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "578",
+			"position": [
+				1736.52,
+				1813.81
+			],
+			"popup": {
+				"title": "The Legends of Ratface card: Captain Krueks (Purple)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "579",
+			"position": [
+				1452.59,
+				2326.33
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: Right Wing's Truck (Blue)",
+				"description": "Location: [[Ambrosia]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "580",
+			"position": [
+				1285.52,
+				1760.23
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: MR.I (Light Blue)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "581",
+			"position": [
+				1479.05,
+				1685.56
+			],
+			"popup": {
+				"title": "Right Wing: America's Hero card: They (Red)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "582",
+			"position": [
+				1684.39,
+				1499.75
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: Femi-Nemesis (Silver)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "583",
+			"position": [
+				1660.73,
+				1512.8
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: Rightwing (Gold)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "584",
+			"position": [
+				1506.27,
+				1700.19
+			],
+			"popup": {
+				"title": "The Legends of Ratface card: iFred (Purple)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "585",
+			"position": [
+				845.47,
+				1622.66
+			],
+			"popup": {
+				"title": "Ed Comics Universe card: Vaccerine (Orange)",
+				"description": "Location: [[Capri]]<br/>Take the ladder to the roof: the card is on the edge of the roof directly across.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "586",
+			"position": [
+				1737.52,
+				2723.11
+			],
+			"popup": {
+				"title": "The Legends of Ratface card: Ratface (Purple)",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "587",
+			"position": [
+				2007.17,
+				1312.75
+			],
+			"popup": {
+				"title": "The Legends of Ratface card: Diddler (Blue)",
+				"description": "Location: [[Gloriana Key]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "588",
+			"position": [
+				1041.64,
+				1624.08
+			],
+			"popup": {
+				"title": "The Legends of Ratface card: Disastrous Duo (Purple)",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "589",
+			"position": [
+				1575.63,
+				1623.72
+			],
+			"popup": {
+				"title": "The Legends of Ratface card: Swallow (Maroon)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "590",
+			"position": [
+				1916.5,
+				1614.27
+			],
+			"popup": {
+				"title": "The Legends of Ratface card: iFred (Blue)",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "591",
+			"position": [
+				2172.36,
+				1617.69
+			],
+			"popup": {
+				"title": "The Legends of Ratface card: Silver Age Betrayal (Blue)",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "592",
+			"position": [
+				1162.23,
+				1073.11
+			],
+			"popup": {
+				"title": "The Legends of Ratface card: Wokester (Maroon)",
+				"description": "Location: [[Watson Bay]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "593",
+			"position": [
+				1576.88,
+				781.25
+			],
+			"popup": {
+				"title": "Vice City Flamingos card: Julian Hall (Standard)",
+				"description": "Location: [[Key Lento]]<br/>In the garage. Second spot for this card.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "594",
+			"position": [
+				1889.22,
+				1916.56
+			],
+			"popup": {
+				"title": "America's Next Top Hooker card: Chastity (Standard)",
+				"description": "Location: [[Vice City]]<br/>Inside the warehouse, next to the computer. Second spot for this card.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "595",
+			"position": [
+				1086.41,
+				2137.19
+			],
+			"popup": {
+				"title": "Los Santos Corkers card: Victor Maravilla (Standard)",
+				"description": "Location: [[Port Gellhorn]]<br/>Starlet Motel: on the fridge in the shared kitchen. Second spot for this card.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "596",
+			"position": [
+				1082.03,
+				2142.81
+			],
+			"popup": {
+				"title": "Vice City Narcos card: Bryson Powers (Standard)",
+				"description": "Location: [[Port Gellhorn]]<br/>Starlet Motel. Second spot for this card.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

@@ -1402,6 +1402,22 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "87",
+			"position": [
+				854.38,
+				1638.75
+			],
+			"popup": {
+				"title": "The Lock Box Gift Shoppe",
+				"description": "Location: [[Capri]]<br/>Sells vapes.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

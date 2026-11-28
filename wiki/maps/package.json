@@ -2426,6 +2426,710 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "151",
+			"position": [
+				1790,
+				1823.91
+			],
+			"popup": {
+				"title": "Parachutes (rooftop)",
+				"description": "Location: [[Vice City]]<br/>Free parachutes on top of the building.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "152",
+			"position": [
+				1074.53,
+				2671.09
+			],
+			"popup": {
+				"title": "Cocaine Crate (Hillcroft Pasture)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Jump the fence next to the silo onto the pallets; the crate is in the middle of the yard.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "153",
+			"position": [
+				1466.25,
+				2768.59
+			],
+			"popup": {
+				"title": "Drugs (red shack)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In a green box inside the red shack.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "154",
+			"position": [
+				1865.31,
+				2301.88
+			],
+			"popup": {
+				"title": "Purple Drank (garage)",
+				"description": "Location: [[Waning Sands]]<br/>On the top shelf inside the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "155",
+			"position": [
+				1747.66,
+				1831.41
+			],
+			"popup": {
+				"title": "Parachute Box",
+				"description": "Location: [[Vice City]]<br/>From the rooftop, go down a small ladder: a green box refills your parachute.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "156",
+			"position": [
+				1178.28,
+				1985.94
+			],
+			"popup": {
+				"title": "Crystal (Hollow Earther's camper)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Break into Andrew's caravan: a bag of crystal meth next to his bed.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "157",
+			"position": [
+				1218.91,
+				1124.69
+			],
+			"popup": {
+				"title": "Weed Grow (garage)",
+				"description": "Location: [[Watson Bay]]<br/>A personal weed grow in the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "158",
+			"position": [
+				1800.78,
+				1794.84
+			],
+			"popup": {
+				"title": "Drug Lab",
+				"description": "Location: [[Vice City]]<br/>Kick in the door on the second floor.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "159",
+			"position": [
+				1459.84,
+				1108.75
+			],
+			"popup": {
+				"title": "Purple Drank and Weed",
+				"description": "Location: [[Hamlet]]<br/>Two bottles of purple drank and a bag of weed on the roof.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "160",
+			"position": [
+				1127.34,
+				2208.91
+			],
+			"popup": {
+				"title": "Hanging Sofa ($200)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Shoot down the sofa hanging under the bridge and sit on it to find $200.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "161",
+			"position": [
+				1789.22,
+				1817.97
+			],
+			"popup": {
+				"title": "Cocaine Lab Stash ($1,200)",
+				"description": "Location: [[Vice City]]<br/>$1,200 of cocaine in the lab, in the 2nd-floor apartment.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "162",
+			"position": [
+				1876.41,
+				1197.19
+			],
+			"popup": {
+				"title": "Pills (tiger cage)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Outside, in the square enclosure with the tiger cage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "163",
+			"position": [
+				1105.94,
+				1058.13
+			],
+			"popup": {
+				"title": "Dolphin Mailbox (cash)",
+				"description": "Location: [[Watson Bay]]<br/>Cash in the mailbox.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "164",
+			"position": [
+				1843.28,
+				2298.28
+			],
+			"popup": {
+				"title": "Weed and Purple Drank",
+				"description": "Location: [[Waning Sands]]<br/>At the DJ table and on the shelf.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "165",
+			"position": [
+				676.88,
+				1512.66
+			],
+			"popup": {
+				"title": "Drugs (flamingo pickup)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A brick and a half of drugs in the back of the flamingo pickup truck.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "166",
+			"position": [
+				1491.09,
+				1104.84
+			],
+			"popup": {
+				"title": "Weed Stash (apartment)",
+				"description": "Location: [[Hamlet]]<br/>First floor of the apartment complex: break through the door, the weed is on the coffee table.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "167",
+			"position": [
+				1683.28,
+				2302.97
+			],
+			"popup": {
+				"title": "Cash and Cocaine (office)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the office of the building.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "168",
+			"position": [
+				1497.66,
+				2756.72
+			],
+			"popup": {
+				"title": "Shrooms",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Free shrooms.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "169",
+			"position": [
+				1538.28,
+				2611.72
+			],
+			"popup": {
+				"title": "Weed (2 bags)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Two bags of weed (and a collectible card nearby).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "170",
+			"position": [
+				910,
+				2085
+			],
+			"popup": {
+				"title": "Cash (wall vent)",
+				"description": "Location: [[Port Gellhorn]]<br/>In the vent in the south wall of the garage.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "171",
+			"position": [
+				1482.03,
+				2766.88
+			],
+			"popup": {
+				"title": "Weed (2 bags, porch)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>At the back of the house, next to a bong on the porch.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "172",
+			"position": [
+				1323.28,
+				2765.94
+			],
+			"popup": {
+				"title": "Weed (derailed train)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A single bag of weed in the derailed train.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "173",
+			"position": [
+				863.44,
+				2190.31
+			],
+			"popup": {
+				"title": "Anabolics",
+				"description": "Location: [[Port Gellhorn]]<br/>Inside the pink house.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "174",
+			"position": [
+				980.47,
+				1217.34
+			],
+			"popup": {
+				"title": "Sticky Bombs and Wallet (crate)",
+				"description": "Location: [[Watson Bay]]<br/>In a crate on the first floor.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "175",
+			"position": [
+				1716.88,
+				1500
+			],
+			"popup": {
+				"title": "Cash Box",
+				"description": "Location: [[Vice City]]<br/>Break the door in: a little box with some money.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "176",
+			"position": [
+				1527.81,
+				1032.34
+			],
+			"popup": {
+				"title": "Weed and Cash (M7 store)",
+				"description": "Location: [[Hamlet]]<br/>Weed on the desk in the back room where the M7 hold the store manager; a stack of cash on the table just outside.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "177",
+			"position": [
+				1737.34,
+				1488.44
+			],
+			"popup": {
+				"title": "Cash Box (garage)",
+				"description": "Location: [[Vice City]]<br/>Break in the garage door: a box with money.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "178",
+			"position": [
+				1748.44,
+				1495.31
+			],
+			"popup": {
+				"title": "Cash Box and Scuba Gear (garage)",
+				"description": "Location: [[Vice City]]<br/>Break in the garage door: scuba gear and a little box with money.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "179",
+			"position": [
+				2203.44,
+				1349.69
+			],
+			"popup": {
+				"title": "4 Parachutes (roof)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>In the mechanical space on the roof: an unlocked door, with a crate of 4 parachutes inside.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "180",
+			"position": [
+				1827.19,
+				1769.69
+			],
+			"popup": {
+				"title": "Black Lockbox (3rd-floor bedroom)",
+				"description": "Location: [[Vice City]]<br/>A locked container in the 3rd-floor bedroom.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "181",
+			"position": [
+				1498.91,
+				2272.97
+			],
+			"popup": {
+				"title": "Crystal Meth",
+				"description": "Location: [[Ambrosia]]<br/>Bags of crystal meth in the kitchen and the bedroom.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "182",
+			"position": [
+				1250.47,
+				1909.69
+			],
+			"popup": {
+				"title": "Weed (treehouse)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the bed in the treehouse.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "183",
+			"position": [
+				928.28,
+				592.03
+			],
+			"popup": {
+				"title": "Brick of Cocaine (green light)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Follow the green light.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "184",
+			"position": [
+				761.72,
+				1685.63
+			],
+			"popup": {
+				"title": "Jewelry",
+				"description": "Location: [[Capri]]<br/>In the bedroom next to the book.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "185",
+			"position": [
+				1448.44,
+				600.94
+			],
+			"popup": {
+				"title": "Pink Dolphin Mailbox",
+				"description": "Location: [[Key Lento]]<br/>Kick the pink dolphin mailbox. A member got half a brick of cocaine.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "186",
+			"position": [
+				1470.94,
+				575.78
+			],
+			"popup": {
+				"title": "Dolphin Mailbox",
+				"description": "Location: [[Key Lento]]<br/>Random contents.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "187",
+			"position": [
+				2015.94,
+				1782.66
+			],
+			"popup": {
+				"title": "Weed Bag",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>On the table.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "188",
+			"position": [
+				1440.94,
+				2203.59
+			],
+			"popup": {
+				"title": "Drug Stash (trailer)",
+				"description": "Location: [[Ambrosia]]<br/>Crystal and other drugs all over the trailer.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "189",
+			"position": [
+				1211.41,
+				1227.81
+			],
+			"popup": {
+				"title": "Weed Stash (cabin)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Inside the cabin.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "190",
+			"position": [
+				1310.63,
+				2903.59
+			],
+			"popup": {
+				"title": "Purple Drank and Weed (building)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Purple drank and weed inside the building.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "191",
+			"position": [
+				985.31,
+				2117.34
+			],
+			"popup": {
+				"title": "Weed Stash (box)",
+				"description": "Location: [[Port Gellhorn]]<br/>A box with weed.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "192",
+			"position": [
+				1189.84,
+				2717.19
+			],
+			"popup": {
+				"title": "Cocaine Stash (washing machine)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Hidden in the blue container behind the plank; two packs of drugs in the washing machine.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "193",
+			"position": [
+				1053.13,
+				1120.94
+			],
+			"popup": {
+				"title": "Makeshift Toilet Stash",
+				"description": "Location: [[Watson Bay]]<br/>Kick over the makeshift toilet: cash and drugs.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "194",
+			"position": [
+				900.31,
+				2186.88
+			],
+			"popup": {
+				"title": "Wallet (trailer)",
+				"description": "Location: [[Port Gellhorn]]<br/>Inside the trailer, on the corner of the bed.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

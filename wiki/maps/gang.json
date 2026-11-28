@@ -714,6 +714,22 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "44",
+			"position": [
+				1205.47,
+				1141.72
+			],
+			"popup": {
+				"title": "Gang Compound",
+				"description": "Location: [[Watson Bay]]<br/>Armed guards; can be robbed for a big payout.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

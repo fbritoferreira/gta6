@@ -538,6 +538,70 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "33",
+			"position": [
+				935,
+				1489.69
+			],
+			"popup": {
+				"title": "Parachute (tower)",
+				"description": "Location: [[Capri]]<br/>At the top of the tower.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "34",
+			"position": [
+				1223.59,
+				1013.91
+			],
+			"popup": {
+				"title": "Parachute (climb to the top)",
+				"description": "Location: [[Watson Bay]]<br/>Climb to the very top.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "35",
+			"position": [
+				1842.97,
+				1795.31
+			],
+			"popup": {
+				"title": "Parachute (crane)",
+				"description": "Location: [[Vice City]]<br/>On the way up the crane.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "36",
+			"position": [
+				1706.41,
+				1418.28
+			],
+			"popup": {
+				"title": "Parachute (roof)",
+				"description": "Location: [[Vice City]]<br/>Free parachute on the roof.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

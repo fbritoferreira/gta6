@@ -410,6 +410,22 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "25",
+			"position": [
+				1720.94,
+				2588.91
+			],
+			"popup": {
+				"title": "ATM: Xero Gas Station - Millport",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>At the Xero gas station.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

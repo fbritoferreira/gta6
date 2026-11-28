@@ -1642,6 +1642,406 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "102",
+			"position": [
+				2215.63,
+				1622.66
+			],
+			"popup": {
+				"title": "Manhole Tag 2/10",
+				"description": "Location: [[Vice Beach]]<br/>Scan it with the WAiNK app (a path tag, not a real manhole cover).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "103",
+			"position": [
+				2155.94,
+				1623.28
+			],
+			"popup": {
+				"title": "Manhole Tag 3/10",
+				"description": "Location: [[Vice Beach]]<br/>Scan it with the WAiNK app (a path tag, not a real manhole cover).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "104",
+			"position": [
+				2224.38,
+				1674.06
+			],
+			"popup": {
+				"title": "Manhole Tag 4/10",
+				"description": "Location: [[Vice Beach]]<br/>Scan it with the WAiNK app (a path tag, not a real manhole cover).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "105",
+			"position": [
+				2175.63,
+				1677.5
+			],
+			"popup": {
+				"title": "Manhole Tag 5/10",
+				"description": "Location: [[Vice Beach]]<br/>Scan it with the WAiNK app (a path tag, not a real manhole cover).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "106",
+			"position": [
+				2123.44,
+				1701.25
+			],
+			"popup": {
+				"title": "Manhole Tag 6/10",
+				"description": "Location: [[Vice Beach]]<br/>Scan it with the WAiNK app (a path tag, not a real manhole cover).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "107",
+			"position": [
+				2128.28,
+				1799.69
+			],
+			"popup": {
+				"title": "Manhole Tag 7/10",
+				"description": "Location: [[Vice Beach]]<br/>Scan it with the WAiNK app (a path tag, not a real manhole cover).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "108",
+			"position": [
+				2211.41,
+				1774.53
+			],
+			"popup": {
+				"title": "Manhole Tag 8/10",
+				"description": "Location: [[Vice Beach]]<br/>Scan it with the WAiNK app (a path tag, not a real manhole cover).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "109",
+			"position": [
+				2235.78,
+				1822.66
+			],
+			"popup": {
+				"title": "Manhole Tag 9/10",
+				"description": "Location: [[Vice Beach]]<br/>Scan it with the WAiNK app (a path tag, not a real manhole cover).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "110",
+			"position": [
+				2174.22,
+				1879.38
+			],
+			"popup": {
+				"title": "Manhole Tag 10/10",
+				"description": "Location: [[Vice Beach]]<br/>Scan it with the WAiNK app (a path tag, not a real manhole cover).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "111",
+			"position": [
+				2217.5,
+				1554.38
+			],
+			"popup": {
+				"title": "Manhole Tag 1/10",
+				"description": "Location: [[Vice Beach]]<br/>Scan it with the WAiNK app (a path tag, not a real manhole cover).",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "112",
+			"position": [
+				2129.69,
+				1679.38
+			],
+			"popup": {
+				"title": "Manhole Tags: HQ",
+				"description": "Location: [[Vice Beach]]<br/>The end of the manhole tags trail: enter the pin 85584013, photograph the address on the computer and examine everything. A member reports the code 8554013.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "113",
+			"position": [
+				2180.94,
+				1956.09
+			],
+			"popup": {
+				"title": "#NoFlushers Tag: Utility Markings",
+				"description": "Location: [[Vice Beach]]<br/>On the ground in front of the fountain.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "114",
+			"position": [
+				1177.19,
+				2454.22
+			],
+			"popup": {
+				"title": "Frank's Waffies",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "115",
+			"position": [
+				1473.75,
+				1743.13
+			],
+			"popup": {
+				"title": "Pee Wee's Billboard (Vice-Dale)",
+				"description": "Location: [[Vice City]]<br/>Scan it with WAiNK.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "116",
+			"position": [
+				1194.84,
+				1352.66
+			],
+			"popup": {
+				"title": "Pee Wee's Billboard (Mariana County)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Scan it with WAiNK.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "117",
+			"position": [
+				1134.38,
+				2616.72
+			],
+			"popup": {
+				"title": "Pee Wee's Billboard (Lummox County)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Scan it with WAiNK.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "118",
+			"position": [
+				1675.16,
+				2456.56
+			],
+			"popup": {
+				"title": "Pee Wee's Billboard (Leonard County)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Scan it with WAiNK.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "119",
+			"position": [
+				2235.63,
+				1889.06
+			],
+			"popup": {
+				"title": "#NoFlushers Tag: Utility Markings",
+				"description": "Location: [[Vice Beach]]<br/>Scan it with WAiNK.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "120",
+			"position": [
+				1733.44,
+				2719.22
+			],
+			"popup": {
+				"title": "Painted Cat",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A cat painted in the colors of the United States.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "121",
+			"position": [
+				895.47,
+				2099.69
+			],
+			"popup": {
+				"title": "Ferris Wheel",
+				"description": "Location: [[Port Gellhorn]]<br/>Near Moses' workshop.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "122",
+			"position": [
+				1427.5,
+				2529.38
+			],
+			"popup": {
+				"title": "#NoFlushers QR Code",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Next to the left entrance of the toilet block.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "123",
+			"position": [
+				1226.72,
+				527.34
+			],
+			"popup": {
+				"title": "Thicc Herbie",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "124",
+			"position": [
+				1627.97,
+				765.31
+			],
+			"popup": {
+				"title": "Cartoon Labrador",
+				"description": "Location: [[Key Lento]]<br/>A Labrador doodled on with a marker pen, roaming around the house. Scan it with WAiNK.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "125",
+			"position": [
+				859.38,
+				1437.19
+			],
+			"popup": {
+				"title": "#NoFlushers Flyer (toilet)",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>A paper in the men's toilet gives you a mission.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "126",
+			"position": [
+				1324.06,
+				1184.38
+			],
+			"popup": {
+				"title": "#NoFlushers",
+				"description": "Location: [[Watson Bay]]<br/>Scan it to get a small odd quest line.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true

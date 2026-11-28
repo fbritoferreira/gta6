@@ -1530,6 +1530,38 @@
 					"label": ""
 				}
 			}
+		},
+		{
+			"categoryId": "1",
+			"id": "95",
+			"position": [
+				1568.44,
+				2187.81
+			],
+			"popup": {
+				"title": "Towable ATM",
+				"description": "Location: [[Ambrosia]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "96",
+			"position": [
+				851.56,
+				1686.25
+			],
+			"popup": {
+				"title": "Towable ATM",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
 		}
 	],
 	"markerProgress": true
