@@ -244,7 +244,8 @@ Corrections and new locations are welcome as pull requests.
   `index.json`.
 - `pnpm build` checks that every JSON file parses, every screenshot file is used, every `screenshot` exists and is written as `screenshots/<file>` (no leading `/`), every `kind` is in `categories.json` (and none is `other` where the id type is usually filed elsewhere), no
   `id` repeats and the pin list matches the files. CI runs it, plus lint, format and tests, on every pull request, and
-  checks every commit has a real author (not a placeholder such as a `.local` email).
+  checks every commit has a real author (not a placeholder such as a `.local` email). `main` is protected: the
+  `deploy` and `cla` checks must pass before anything merges, admins included, so auto-merge waits for a green build.
 - Each pull request gets a temporary preview on GitHub Pages under `pr-preview/pr-<number>/`. The link is posted on the
   PR and the preview is deleted when the PR closes. Merges to `main` deploy to the live site.
 
