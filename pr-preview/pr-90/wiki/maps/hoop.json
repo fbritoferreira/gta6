@@ -1,0 +1,1632 @@
+{
+	"mapImage": "Leonida-GTAVI-Map.jpg",
+	"pageCategories": [],
+	"defaultSort": "",
+	"description": "Marker data from [https://github.com/fbritoferreira/gta6 Open GTA 6 Map] (CC BY 4.0).",
+	"coordinateOrder": "xy",
+	"mapBounds": [
+		[
+			0,
+			0
+		],
+		[
+			3520,
+			3520
+		]
+	],
+	"origin": "bottom-left",
+	"useMarkerClustering": true,
+	"categories": [
+		{
+			"id": "1",
+			"listId": 1,
+			"name": "Basketball Hoop",
+			"color": "#fb8500",
+			"symbol": "",
+			"symbolColor": ""
+		}
+	],
+	"markers": [
+		{
+			"categoryId": "1",
+			"id": "1",
+			"position": [
+				1726,
+				2791
+			],
+			"popup": {
+				"title": "Hoop 98 - Lummox County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "2",
+			"position": [
+				1736,
+				2715
+			],
+			"popup": {
+				"title": "Hoop 99 - Lummox County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "3",
+			"position": [
+				1334.5,
+				2705.5
+			],
+			"popup": {
+				"title": "Hoop 97 - Lummox County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "4",
+			"position": [
+				1285.5,
+				2679.5
+			],
+			"popup": {
+				"title": "Hoop 96 - Lummox County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "5",
+			"position": [
+				1770,
+				2574.5
+			],
+			"popup": {
+				"title": "Hoop 100 - Lummox County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "6",
+			"position": [
+				1242,
+				2474.5
+			],
+			"popup": {
+				"title": "Hoop 95 - Kelly County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "7",
+			"position": [
+				1868,
+				2294
+			],
+			"popup": {
+				"title": "Hoop 74 - Leonard County",
+				"description": "Location: [[Waning Sands]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "8",
+			"position": [
+				1460.5,
+				2282
+			],
+			"popup": {
+				"title": "Hoop 85 - Kelly County",
+				"description": "Location: [[Ambrosia]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "9",
+			"position": [
+				1456.5,
+				2280
+			],
+			"popup": {
+				"title": "Hoop 86 - Kelly County",
+				"description": "Location: [[Ambrosia]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "10",
+			"position": [
+				916.5,
+				2263.5
+			],
+			"popup": {
+				"title": "Hoop 92 - Kelly County",
+				"description": "Location: [[Port Gellhorn]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "11",
+			"position": [
+				1852,
+				2261.5
+			],
+			"popup": {
+				"title": "Hoop 73 - Leonard County",
+				"description": "Location: [[Waning Sands]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "12",
+			"position": [
+				1517,
+				2261
+			],
+			"popup": {
+				"title": "Hoop 84 - Kelly County",
+				"description": "Location: [[Ambrosia]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "13",
+			"position": [
+				919.5,
+				2261
+			],
+			"popup": {
+				"title": "Hoop 89 - Kelly County",
+				"description": "Location: [[Port Gellhorn]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "14",
+			"position": [
+				914.5,
+				2260.5
+			],
+			"popup": {
+				"title": "Hoop 91 - Kelly County",
+				"description": "Location: [[Port Gellhorn]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "15",
+			"position": [
+				918,
+				2258.5
+			],
+			"popup": {
+				"title": "Hoop 90 - Kelly County",
+				"description": "Location: [[Port Gellhorn]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "16",
+			"position": [
+				1386.5,
+				2253.5
+			],
+			"popup": {
+				"title": "Hoop 88 - Kelly County",
+				"description": "Location: [[Ambrosia]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "17",
+			"position": [
+				1515.5,
+				2244.5
+			],
+			"popup": {
+				"title": "Hoop 83 - Kelly County",
+				"description": "Location: [[Ambrosia]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "18",
+			"position": [
+				1419.5,
+				2234.5
+			],
+			"popup": {
+				"title": "Hoop 87 - Kelly County",
+				"description": "Location: [[Ambrosia]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "19",
+			"position": [
+				1914,
+				2227
+			],
+			"popup": {
+				"title": "Hoop 72 - Leonard County",
+				"description": "Location: [[Waning Sands]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "20",
+			"position": [
+				1961,
+				2213
+			],
+			"popup": {
+				"title": "Hoop 71 - Leonard County",
+				"description": "Location: [[Waning Sands]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "21",
+			"position": [
+				896,
+				2181
+			],
+			"popup": {
+				"title": "Hoop 93 - Kelly County",
+				"description": "Location: [[Port Gellhorn]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "22",
+			"position": [
+				1926,
+				2179
+			],
+			"popup": {
+				"title": "Hoop 70 - Leonard County",
+				"description": "Location: [[Waning Sands]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "23",
+			"position": [
+				1663.5,
+				2149.5
+			],
+			"popup": {
+				"title": "Hoop 82 - Leonard County",
+				"description": "Location: [[Ambrosia]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "24",
+			"position": [
+				2047.5,
+				2146.5
+			],
+			"popup": {
+				"title": "Hoop 75 - Leonard County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "25",
+			"position": [
+				1938,
+				2141
+			],
+			"popup": {
+				"title": "Hoop 69 - Leonard County",
+				"description": "Location: [[Waning Sands]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "26",
+			"position": [
+				1720,
+				2097.5
+			],
+			"popup": {
+				"title": "Hoop 77 - Leonard County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "27",
+			"position": [
+				1723,
+				2097.5
+			],
+			"popup": {
+				"title": "Hoop 76 - Leonard County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "28",
+			"position": [
+				1720,
+				2093
+			],
+			"popup": {
+				"title": "Hoop 78 - Leonard County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "29",
+			"position": [
+				1723,
+				2093
+			],
+			"popup": {
+				"title": "Hoop 79 - Leonard County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "30",
+			"position": [
+				1714,
+				2061
+			],
+			"popup": {
+				"title": "Hoop 80 - Leonard County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "31",
+			"position": [
+				901.5,
+				2057
+			],
+			"popup": {
+				"title": "Hoop 94 - Kelly County",
+				"description": "Location: [[Port Gellhorn]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "32",
+			"position": [
+				1685.5,
+				2031.5
+			],
+			"popup": {
+				"title": "Hoop 81 - Leonard County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "33",
+			"position": [
+				1973.5,
+				2017.5
+			],
+			"popup": {
+				"title": "Hoop 68 - Vice-Dale County",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "34",
+			"position": [
+				2054.5,
+				1975
+			],
+			"popup": {
+				"title": "Hoop 67 - Vice-Dale County",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "35",
+			"position": [
+				2057,
+				1974
+			],
+			"popup": {
+				"title": "Hoop 66 - Vice-Dale County",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "36",
+			"position": [
+				2242.5,
+				1893.5
+			],
+			"popup": {
+				"title": "Hoop 65 - Vice-Dale County",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "37",
+			"position": [
+				1109,
+				1868
+			],
+			"popup": {
+				"title": "Hoop 48 - Kelly County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "38",
+			"position": [
+				2221.5,
+				1853
+			],
+			"popup": {
+				"title": "Hoop 63 - Vice-Dale County",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "39",
+			"position": [
+				2225,
+				1852.5
+			],
+			"popup": {
+				"title": "Hoop 64 - Vice-Dale County",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "40",
+			"position": [
+				2008.5,
+				1819.5
+			],
+			"popup": {
+				"title": "Hoop 55 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "41",
+			"position": [
+				2001,
+				1810.5
+			],
+			"popup": {
+				"title": "Hoop 54 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "42",
+			"position": [
+				1937.5,
+				1789.5
+			],
+			"popup": {
+				"title": "Hoop 53 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "43",
+			"position": [
+				2116.5,
+				1766
+			],
+			"popup": {
+				"title": "Hoop 56 - Vice-Dale County",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "44",
+			"position": [
+				2120.5,
+				1766
+			],
+			"popup": {
+				"title": "Hoop 57 - Vice-Dale County",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "45",
+			"position": [
+				2123,
+				1766
+			],
+			"popup": {
+				"title": "Hoop 58 - Vice-Dale County",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "46",
+			"position": [
+				2153,
+				1730.5
+			],
+			"popup": {
+				"title": "Hoop 59 - Vice-Dale County",
+				"description": "Location: [[Vice Beach]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "47",
+			"position": [
+				1607.5,
+				1725
+			],
+			"popup": {
+				"title": "Hoop 46 - Vice-Dale County",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "48",
+			"position": [
+				1738.5,
+				1710
+			],
+			"popup": {
+				"title": "Hoop 45 - Vice-Dale County",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "49",
+			"position": [
+				2042.5,
+				1687
+			],
+			"popup": {
+				"title": "Hoop 60 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "50",
+			"position": [
+				773,
+				1682
+			],
+			"popup": {
+				"title": "Hoop 51 - Mariana County",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "51",
+			"position": [
+				2025,
+				1678.5
+			],
+			"popup": {
+				"title": "Hoop 61 - Vice-Dale County",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "52",
+			"position": [
+				1717.5,
+				1677
+			],
+			"popup": {
+				"title": "Hoop 42 - Vice-Dale County",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "53",
+			"position": [
+				814.5,
+				1676
+			],
+			"popup": {
+				"title": "Hoop 50 - Mariana County",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "54",
+			"position": [
+				1713,
+				1675.5
+			],
+			"popup": {
+				"title": "Hoop 43 - Vice-Dale County",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "55",
+			"position": [
+				1719,
+				1674
+			],
+			"popup": {
+				"title": "Hoop 41 - Vice-Dale County",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "56",
+			"position": [
+				1714,
+				1672.5
+			],
+			"popup": {
+				"title": "Hoop 44 - Vice-Dale County",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "57",
+			"position": [
+				1495,
+				1667
+			],
+			"popup": {
+				"title": "Hoop 47 - Vice-Dale County",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "58",
+			"position": [
+				1886.5,
+				1664
+			],
+			"popup": {
+				"title": "Hoop 39 - Vice-Dale County",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "59",
+			"position": [
+				1786.5,
+				1660
+			],
+			"popup": {
+				"title": "Hoop 40 - Vice-Dale County",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "60",
+			"position": [
+				2020.5,
+				1652
+			],
+			"popup": {
+				"title": "Hoop 62 - Vice-Dale County",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "61",
+			"position": [
+				781,
+				1638
+			],
+			"popup": {
+				"title": "Hoop 52 - Mariana County",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "62",
+			"position": [
+				1717,
+				1619.5
+			],
+			"popup": {
+				"title": "Hoop 33 - Vice-Dale County",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "63",
+			"position": [
+				1720,
+				1591.5
+			],
+			"popup": {
+				"title": "Hoop 32 - Vice-Dale County",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "64",
+			"position": [
+				912,
+				1578.5
+			],
+			"popup": {
+				"title": "Hoop 49 - Mariana County",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "65",
+			"position": [
+				1720.5,
+				1524.5
+			],
+			"popup": {
+				"title": "Hoop 31 - Vice-Dale County",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "66",
+			"position": [
+				1997.5,
+				1514
+			],
+			"popup": {
+				"title": "Hoop 35 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "67",
+			"position": [
+				1993.5,
+				1513
+			],
+			"popup": {
+				"title": "Hoop 34 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "68",
+			"position": [
+				2008.5,
+				1512.5
+			],
+			"popup": {
+				"title": "Hoop 36 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "69",
+			"position": [
+				1710,
+				1486.5
+			],
+			"popup": {
+				"title": "Hoop 26 - Vice-Dale County",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "70",
+			"position": [
+				1742,
+				1482
+			],
+			"popup": {
+				"title": "Hoop 28 - Vice-Dale County",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "71",
+			"position": [
+				1745.5,
+				1480.5
+			],
+			"popup": {
+				"title": "Hoop 29 - Vice-Dale County",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "72",
+			"position": [
+				1741,
+				1479
+			],
+			"popup": {
+				"title": "Hoop 27 - Vice-Dale County",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "73",
+			"position": [
+				1744,
+				1477.5
+			],
+			"popup": {
+				"title": "Hoop 30 - Vice-Dale County",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "74",
+			"position": [
+				1697.5,
+				1390
+			],
+			"popup": {
+				"title": "Hoop 25 - Vice-Dale County",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "75",
+			"position": [
+				1724.5,
+				1358.5
+			],
+			"popup": {
+				"title": "Hoop 24 - Vice-Dale County",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "76",
+			"position": [
+				1917.5,
+				1326
+			],
+			"popup": {
+				"title": "Hoop 38 - Vice-Dale County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "77",
+			"position": [
+				2031.5,
+				1314.5
+			],
+			"popup": {
+				"title": "Hoop 37 - Vice-Dale County",
+				"description": "Location: [[Gloriana Key]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "78",
+			"position": [
+				1653.5,
+				1294.5
+			],
+			"popup": {
+				"title": "Hoop 23 - Vice-Dale County",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "79",
+			"position": [
+				1705.5,
+				1212.5
+			],
+			"popup": {
+				"title": "Hoop 20 - Vice-Dale County",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "80",
+			"position": [
+				1734.5,
+				1185.5
+			],
+			"popup": {
+				"title": "Hoop 21 - Vice-Dale County",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "81",
+			"position": [
+				1748.5,
+				1158.5
+			],
+			"popup": {
+				"title": "Hoop 22 - Vice-Dale County",
+				"description": "Location: [[Vice City]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "82",
+			"position": [
+				1451,
+				1158.5
+			],
+			"popup": {
+				"title": "Hoop 16 - Vice-Dale County",
+				"description": "Location: [[Hamlet]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "83",
+			"position": [
+				1449,
+				1154
+			],
+			"popup": {
+				"title": "Hoop 15 - Vice-Dale County",
+				"description": "Location: [[Hamlet]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "84",
+			"position": [
+				1486.5,
+				1149.5
+			],
+			"popup": {
+				"title": "Hoop 17 - Vice-Dale County",
+				"description": "Location: [[Hamlet]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "85",
+			"position": [
+				1490,
+				1149
+			],
+			"popup": {
+				"title": "Hoop 18 - Vice-Dale County",
+				"description": "Location: [[Hamlet]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "86",
+			"position": [
+				1309,
+				1125
+			],
+			"popup": {
+				"title": "Hoop 14 - Mariana County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "87",
+			"position": [
+				1171,
+				1106.5
+			],
+			"popup": {
+				"title": "Hoop 12 - Mariana County",
+				"description": "Location: [[Watson Bay]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "88",
+			"position": [
+				1217.5,
+				1087
+			],
+			"popup": {
+				"title": "Hoop 13 - Mariana County",
+				"description": "Location: [[Watson Bay]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "89",
+			"position": [
+				1499.5,
+				1062
+			],
+			"popup": {
+				"title": "Hoop 19 - Vice-Dale County",
+				"description": "Location: [[Hamlet]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "90",
+			"position": [
+				1626.5,
+				775
+			],
+			"popup": {
+				"title": "Hoop 9 - Mariana County",
+				"description": "Location: [[Key Lento]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "91",
+			"position": [
+				1619,
+				747.5
+			],
+			"popup": {
+				"title": "Hoop 8 - Mariana County",
+				"description": "Location: [[Key Lento]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "92",
+			"position": [
+				1554,
+				736
+			],
+			"popup": {
+				"title": "Hoop 6 - Mariana County",
+				"description": "Location: [[Key Lento]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "93",
+			"position": [
+				1612,
+				725.5
+			],
+			"popup": {
+				"title": "Hoop 7 - Mariana County",
+				"description": "Location: [[Key Lento]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "94",
+			"position": [
+				1547.5,
+				719.5
+			],
+			"popup": {
+				"title": "Hoop 5 - Mariana County",
+				"description": "Location: [[Key Lento]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "95",
+			"position": [
+				1507,
+				677.5
+			],
+			"popup": {
+				"title": "Hoop 3 - Mariana County",
+				"description": "Location: [[Key Lento]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "96",
+			"position": [
+				1557,
+				673
+			],
+			"popup": {
+				"title": "Hoop 4 - Mariana County",
+				"description": "Location: [[Key Lento]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "97",
+			"position": [
+				927,
+				608.5
+			],
+			"popup": {
+				"title": "Hoop 11 - Mariana County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "98",
+			"position": [
+				936,
+				598
+			],
+			"popup": {
+				"title": "Hoop 10 - Mariana County",
+				"description": "Location: [[State of Leonida|Leonida]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "99",
+			"position": [
+				1487.5,
+				592
+			],
+			"popup": {
+				"title": "Hoop 2 - Mariana County",
+				"description": "Location: [[Key Lento]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "100",
+			"position": [
+				1416.5,
+				547
+			],
+			"popup": {
+				"title": "Hoop 1 - Mariana County",
+				"description": "Location: [[Key Lento]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		}
+	],
+	"markerProgress": true
+}

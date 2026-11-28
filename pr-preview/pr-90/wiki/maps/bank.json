@@ -1,0 +1,432 @@
+{
+	"mapImage": "Leonida-GTAVI-Map.jpg",
+	"pageCategories": [],
+	"defaultSort": "",
+	"description": "Marker data from [https://github.com/fbritoferreira/gta6 Open GTA 6 Map] (CC BY 4.0).",
+	"coordinateOrder": "xy",
+	"mapBounds": [
+		[
+			0,
+			0
+		],
+		[
+			3520,
+			3520
+		]
+	],
+	"origin": "bottom-left",
+	"useMarkerClustering": true,
+	"categories": [
+		{
+			"id": "1",
+			"listId": 1,
+			"name": "Bank or Vault",
+			"color": "#e9c46a",
+			"symbol": "",
+			"symbolColor": ""
+		}
+	],
+	"markers": [
+		{
+			"categoryId": "1",
+			"id": "1",
+			"position": [
+				2156,
+				1883.5
+			],
+			"popup": {
+				"title": "Fleeca - Washington Beach",
+				"description": "Location: [[Vice Beach]]<br/>A Fleeca bank on SW 4th Street, Vice Beach. Teller robbery; Take value: $10,000 - $30,000",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "2",
+			"position": [
+				2185,
+				1608
+			],
+			"popup": {
+				"title": "Fleeca - Ocean Beach",
+				"description": "Location: [[Vice Beach]]<br/>Large bank with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Robbery: Vault; Take value: $75,000 - $135,000",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "3",
+			"position": [
+				1500.5,
+				638.5
+			],
+			"popup": {
+				"title": "Fleeca - Key Lento",
+				"description": "Location: [[Key Lento]]<br/>Small bank with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Robbery: Teller; Security: Medium; Take value: $5,000 - $20,000",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "4",
+			"position": [
+				1129.5,
+				1088.5
+			],
+			"popup": {
+				"title": "Shorefront - Watson Bay",
+				"description": "Location: [[Watson Bay]]<br/>Small bank with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Robbery: Teller; Security: Medium; Take value: $5,000 - $20,000",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "5",
+			"position": [
+				836.5,
+				1642.5
+			],
+			"popup": {
+				"title": "Gibson Brothers Bank",
+				"description": "Location: [[Capri]]<br/>Large bank with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Robbery: Teller; Security: High; Take value: $10,000 - $30,000",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "6",
+			"position": [
+				1715,
+				1318.5
+			],
+			"popup": {
+				"title": "Lombank - Peacock Bay",
+				"description": "Location: [[Vice City]]<br/>Small bank with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Robbery: Teller; Security: Medium; Take value: $5,000 - $20,000",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "7",
+			"position": [
+				1723,
+				1334.5
+			],
+			"popup": {
+				"title": "Fleeca - Peacock Bay",
+				"description": "Location: [[Vice City]]<br/>Large bank with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Robbery: Teller; Security: High; Take value: $5,000 - $20,000",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "8",
+			"position": [
+				1802,
+				1564.5
+			],
+			"popup": {
+				"title": "Shorefront - Downtown",
+				"description": "Location: [[Vice City]]<br/>Small bank with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Robbery: Teller; Security: Medium; Take value: $5,000 - $15,000",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "9",
+			"position": [
+				1709,
+				1725.5
+			],
+			"popup": {
+				"title": "Shorefront - Rockridge",
+				"description": "Location: [[Vice City]]<br/>Small bank with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Robbery: Teller; Security: Medium; Take value: $5,000 - $20,000",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "10",
+			"position": [
+				1866,
+				1852.5
+			],
+			"popup": {
+				"title": "Lombank - Bayside",
+				"description": "Location: [[Vice City]]<br/>Large bank with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Robbery: Teller; Security: Medium; Take value: $15,000 - $45,000",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "11",
+			"position": [
+				2195,
+				1806
+			],
+			"popup": {
+				"title": "Lombank - Ocean Beach",
+				"description": "Location: [[Vice Beach]]<br/>Small bank with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Robbery: Teller; Security: High; Take value: $15,000 - $45,000",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "12",
+			"position": [
+				2202.5,
+				1679.5
+			],
+			"popup": {
+				"title": "Fleeca - Ocean Beach",
+				"description": "Location: [[Vice Beach]]<br/>Small bank with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Robbery: Teller; Security: Medium; Take value: $5,000 - $15,000",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "13",
+			"position": [
+				2174,
+				1636.5
+			],
+			"popup": {
+				"title": "Shorefront - Ocean Beach",
+				"description": "Location: [[Vice Beach]]<br/>Small bank with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Robbery: Teller; Security: Low; Take value: $5,000 - $15,000",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "14",
+			"position": [
+				1703,
+				2038.5
+			],
+			"popup": {
+				"title": "Druthers State Bank",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>Large bank with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Robbery: Teller; Security: High; Take value: $15,000 - $45,000",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "15",
+			"position": [
+				1489,
+				2284
+			],
+			"popup": {
+				"title": "Shorefront - Ambrosia",
+				"description": "Location: [[Ambrosia]]<br/>Small bank with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Robbery: Teller; Security: Medium; Take value: $5,000 - $15,000",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "16",
+			"position": [
+				1651,
+				1523.5
+			],
+			"popup": {
+				"title": "Fleeca - VCIA",
+				"description": "Location: [[Vice City]]<br/>Large bank with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Robbery: Vault; Security: High; Take value: $100,000 - $150,000",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "17",
+			"position": [
+				1773.5,
+				1428
+			],
+			"popup": {
+				"title": "Fleeca - Tequesta",
+				"description": "Location: [[Vice City]]<br/>Small bank with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Robbery: Vault; Security: High; Take value: $65,000 - $110,000",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "18",
+			"position": [
+				1829.5,
+				1551
+			],
+			"popup": {
+				"title": "Lombank - Downtown",
+				"description": "Location: [[Vice City]]<br/>Large bank with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Robbery: Vault; Security: High; Take value: $135,000 - $205,000",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "19",
+			"position": [
+				1808,
+				1572.5
+			],
+			"popup": {
+				"title": "Fleeca - Downtown",
+				"description": "Location: [[Vice City]]<br/>Large bank with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Robbery: Vault; Security: High; Take value: $100,000 - $150,000",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "20",
+			"position": [
+				2179.5,
+				1605
+			],
+			"popup": {
+				"title": "Lombank - Ocean Beach",
+				"description": "Location: [[Vice Beach]]<br/>Large bank with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Robbery: Vault; Security: High; Take value: $135,000 - $205,000",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "21",
+			"position": [
+				2141.5,
+				1655.5
+			],
+			"popup": {
+				"title": "Lombank - Ocean Beach",
+				"description": "Location: [[Vice Beach]]<br/>Large bank with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Robbery: Vault; Security: Medium; Take value: $75,000 - $135,000",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "22",
+			"position": [
+				2197.5,
+				1779
+			],
+			"popup": {
+				"title": "Shorefront - Ocean Beach",
+				"description": "Location: [[Vice Beach]]<br/>Large bank with marked bills on site. A viable robbery target now that you have a dye pack jammer.; Robbery: Vault; Security: High; Take value: $95,000 - $140,000",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "23",
+			"position": [
+				900.94,
+				1679.22
+			],
+			"popup": {
+				"title": "ATM",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "24",
+			"position": [
+				812.81,
+				1649.53
+			],
+			"popup": {
+				"title": "ATM (Bank of Liberty)",
+				"description": "Location: [[Capri]]",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		},
+		{
+			"categoryId": "1",
+			"id": "25",
+			"position": [
+				1720.94,
+				2588.91
+			],
+			"popup": {
+				"title": "ATM: Xero Gas Station - Millport",
+				"description": "Location: [[State of Leonida|Leonida]]<br/>At the Xero gas station.",
+				"link": {
+					"url": "",
+					"label": ""
+				}
+			}
+		}
+	],
+	"markerProgress": true
+}
